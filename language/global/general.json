@@ -1,0 +1,210 @@
+{
+    "ERROR.noperms": {
+        "de-DE": "<color:#96a7b2>Dir <color:#ff0000>fehlt</color> die [blue]Berechtigung</color> um das zu tun!</color>",
+        "en-US": "<color:#96a7b2>You <color:#ff0000>don't have</color> the [blue]permission</color> to do that!</color>"
+    },
+    "ERROR.player.offline": {
+        "de-DE": "<color:#96a7b2>Dieser Spieler ist aktuell <color:#ff0000>offline!</color></color>",
+        "en-US": "<color:#96a7b2>This player is currently <color:#ff0000>offline!</color></color>"
+    },
+    "ERROR.player.notfound": {
+        "de-DE": "<color:#96a7b2>Dieser Spieler hat noch <color:#ff0000>nie</color> auf [blue]DaniSMP</color> gespielt!</color>",
+        "en-US": "<color:#96a7b2>This player has <color:#ff0000>never</color> played on [blue]DaniSMP</color> before!</color>"
+    },
+    "ERROR.command.notfound": {
+        "de-DE": "<color:#96a7b2>Der Command [blue]/[command]</color> existiert <color:#ff0000>nicht!</color> </color>",
+        "en-US": "<color:#96a7b2>The command [blue]/[command]</color> does <color:#ff0000>not</color> exist!</color>"
+    },
+    "ERROR.command.self": {
+        "de-DE": "[grey]Du kannst diesen [blue]Command</color> [red]nicht</color> an dir selbst ausführen!</color>",
+        "en-US": "[grey]You can't execute this [blue]command</color> on yourself!</color>"
+    },
+    "GENERAL.you": {
+        "de-DE": "Du",
+        "en-US": "You"
+    },
+    "GENERAL.unknown": {
+        "de-DE": "Unbekannt",
+        "en-US": "Unknown"
+    },
+    "GENERAL.none": {
+        "de-DE": "Keine",
+        "en-US": "None"
+    },
+    "GENERAL.all": {
+        "de-DE": "Alle",
+        "en-US": "All"
+    },
+    "GENERAL.everyone": {
+        "de-DE": "Jeder",
+        "en-US": "Everyone"
+    },
+    "GENERAL.i": {
+        "de-DE": "Ich",
+        "en-US": "I"
+    },
+    "GENERAL.and": {
+        "de-DE": "und",
+        "en-US": "and"
+    },
+    "DATE.relative.minute.less.ago": {
+        "de-DE": "vor weniger als einer Minute",
+        "en-US": "less than a minute ago"
+    },
+    "DATE.relative.minute.less.in": {
+        "de-DE": "in weniger als einer Minute",
+        "en-US": "in less than a minute"
+    },
+    "DATE.relative.minute.ago": {
+        "de-DE": "vor einer Minuten",
+        "en-US": "one minute ago"
+    },
+    "DATE.relative.minute.in": {
+        "de-DE": "in einer Minute",
+        "en-US": "in one minute"
+    },
+    "DATE.relative.minutes.ago": {
+        "de-DE": "vor [amount] Minuten",
+        "en-US": "[amount] minutes ago"
+    },
+    "DATE.relative.minutes.in": {
+        "de-DE": "in [amount] Minuten",
+        "en-US": "in [amount] minutes"
+    },
+    "DATE.relative.hour.ago": {
+        "de-DE": "vor einer Stunde",
+        "en-US": "one hour ago"
+    },
+    "DATE.relative.hour.in": {
+        "de-DE": "in einer Stunde",
+        "en-US": "in one hour"
+    },
+    "DATE.relative.hours.ago": {
+        "de-DE": "vor [amount] Stunden",
+        "en-US": "[amount] hours ago"
+    },
+    "DATE.relative.hours.in": {
+        "de-DE": "in [amount] Stunden",
+        "en-US": "in [amount] hours"
+    },
+    "DATE.relative.day.ago": {
+        "de-DE": "gestern",
+        "en-US": "yesterday"
+    },
+    "DATE.relative.day.in": {
+        "de-DE": "morgen",
+        "en-US": "tomorrow"
+    },
+    "DATE.relative.days.ago": {
+        "de-DE": "vor [amount] Tagen",
+        "en-US": "[amount] days ago"
+    },
+    "DATE.relative.days.in": {
+        "de-DE": "in [amount] Tagen",
+        "en-US": "in [amount] days"
+    },
+    "DATE.relative.month.ago": {
+        "de-DE": "vor einem Monat",
+        "en-US": "one month ago"
+    },
+    "DATE.relative.month.in": {
+        "de-DE": "in einem Monat",
+        "en-US": "in one month"
+    },
+    "DATE.relative.months.ago": {
+        "de-DE": "vor [amount] Monaten",
+        "en-US": "[amount] months ago"
+    },
+    "DATE.relative.months.in": {
+        "de-DE": "in [amount] Monaten",
+        "en-US": "in [amount] months"
+    },
+    "DATE.relative.year.ago": {
+        "de-DE": "vor einem Jahr",
+        "en-US": "one year ago"
+    },
+    "DATE.relative.year.in": {
+        "de-DE": "in einem Jahr",
+        "en-US": "in one year"
+    },
+    "DATE.relative.years.ago": {
+        "de-DE": "vor [amount] Jahren",
+        "en-US": "[amount] years ago"
+    },
+    "DATE.relative.years.in": {
+        "de-DE": "in [amount] Jahren",
+        "en-US": "in [amount] years"
+    },
+    "DATE.relative.second.less": {
+        "de-DE": "[amount] Sekunde",
+        "en-US": "[amount] second"
+    },
+    "DATE.relative.second": {
+        "de-DE": "[amount] Sekunden",
+        "en-US": "[amount] seconds"
+    },
+    "DATE.relative.minute.less": {
+        "de-DE": "[amount] Minute",
+        "en-US": "[amount] minute"
+    },
+    "DATE.relative.minute": {
+        "de-DE": "[amount] Minuten",
+        "en-US": "[amount] minutes"
+    },
+    "DATE.relative.hour.less": {
+        "de-DE": "[amount] Stunde",
+        "en-US": "[amount] hour"
+    },
+    "DATE.relative.hour": {
+        "de-DE": "[amount] Stunden",
+        "en-US": "[amount] hours"
+    },
+    "DATE.relative.day.less": {
+        "de-DE": "[amount] Tag",
+        "en-US": "[amount] day"
+    },
+    "DATE.relative.day": {
+        "de-DE": "[amount] Tage",
+        "en-US": "[amount] days"
+    },
+    "DATE.relative.week.less": {
+        "de-DE": "[amount] Woche",
+        "en-US": "[amount] week"
+    },
+    "DATE.relative.week": {
+        "de-DE": "[amount] Wochen",
+        "en-US": "[amount] weeks"
+    },
+    "DATE.relative.month.less": {
+        "de-DE": "[amount] Monat",
+        "en-US": "[amount] month"
+    },
+    "DATE.relative.month": {
+        "de-DE": "[amount] Monate",
+        "en-US": "[amount] months"
+    },
+    "DATE.relative.year.less": {
+        "de-DE": "[amount] Jahr",
+        "en-US": "[amount] year"
+    },
+    "DATE.relative.year": {
+        "de-DE": "[amount] Jahre",
+        "en-US": "[amount] years"
+    },
+    "ERROR.time.format.invalid": {
+        "de-DE": "<color:#96a7b2>Die Zeit die du angegeben hast ist ungültig! Bitte nutze das Format [blue]2s</color> für 2 Sekunden, [blue]5m</color> für 5 Minuten oder [blue]6h</color> für 6 Stunden, [blue]5d</color> für 5 Tage, [blue]3M</color> für 3 Monate oder [blue]2y</color> für 2 Jahre.</color>",
+        "en-US": "<color:#96a7b2>The time you specified is invalid! Please use the format [blue]2s</color> for 2 seconds, [blue]5m</color> for 5 minutes or [blue]6h</color> for 6 hours, [blue]5d</color> for 5 days, [blue]3M</color> for 3 months or [blue]2y</color> for 2 years.</color>"
+    },
+    "GENERAL.yes": {
+        "de-DE": "Ja",
+        "en-US": "Yes"
+    },
+    "GENERAL.no": {
+        "de-DE": "Nein",
+        "en-US": "No"
+    },
+    "GENERAL.command.discord": {
+        "de-DE": "[grey]Trete unserem [blue]Discord-Server</color> bei:<br>[blue]<click:open_url:'https://discord.gg/DaniSMP'><hover:show_text:'[blue]Klicke hier um den Link in deinem Browser zu öffnen!</color>'>https://discord.gg/DaniSMP</hover></click></color></color>",
+        "en-US": "[grey]Join our [blue]Discord server:</color><br>[blue]<click:open_url:'https://discord.gg/DaniSMP'><hover:show_text:'[blue]Click here to open the link in your browser!</color>'>https://discord.gg/DaniSMP</hover></click></color></color>"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "ERROR.module.null": {
+        "de-DE": "[grey]Die [blue]Modul Instanz</color> ist aktuell [red]NULL!</color> Dies ist ein fehler, bitte kontaktiere sofort einen [red]Administrator!</color></color>",
+        "en-US": "[grey]The [blue]module Instance</color> is currently [red]NULL!</color> This is an error, please contact an [red]Administrator!</color></color>"
+    },
+    "SUCCESS.module.reload": {
+        "de-DE": "[grey]Das Modul [blue][module] [version]</color> wurde [green]erfolgreich</color> neu geladen!</color>",
+        "en-US": "[grey]The module [blue][module] [version]</color> has been [green]successfully</color> reloaded!</color>"
+    },
+    "SUCCESS.module.unload": {
+        "de-DE": "[grey]Das Modul [blue][module] [version]</color> wurde [green]erfolgreich</color> deaktiviert!</color>",
+        "en-US": "[grey]The module [blue][module] [version]</color> has been [green]successfully</color> disabled!</color>"
+    },
+    "ERROR.module.unload.not.loaded": {
+        "de-DE": "[grey]Das Modul [blue][module] [version]</color> ist [red]nicht</color> geladen!</color>",
+        "en-US": "[grey]The module [blue][module] [version]</color> is [red]not</color> loaded!</color>"
+    },
+    "SUCCESS.module.load": {
+        "de-DE": "[grey]Das Modul [blue][module] [version]</color> wurde [green]erfolgreich</color> geladen!</color>",
+        "en-US": "[grey]The module [blue][module] [version]</color> has been loaded [green]successfully!</color></color>"
+    },
+    "ERROR.module.load.already.loaded": {
+        "de-DE": "[grey]Das Modul [blue][module] [version]</color> ist [red]bereits</color> geladen!</color>",
+        "en-US": "[grey]The module [blue][module] [version]</color> is [red]already</color> loaded!</color>"
+    },
+    "INFO.modules.list.all": {
+        "de-DE": "[grey]Liste aller Module <dark_grey>([blue][count]</color>)</dark_grey></color>:<br>[modules]",
+        "en-US": "[grey]List of all modules <dark_grey>([blue][count]</color>)</dark_grey></color>:<br>[modules]"
+    },
+    "INFO.modules.list.loaded": {
+        "de-DE": "[grey]Liste aller geladenen Module <dark_grey>([grey][green][count]</color> / [maxcount]</color>)</dark_grey></color>:<br>[modules]",
+        "en-US": "[grey]List of all loaded modules <dark_grey>([grey][green][count]</color> / [maxcount]</color>)</dark_grey></color>:<br>[modules]"
+    },
+    "INFO.modules.list.unloaded": {
+        "de-DE": "[grey]Liste aller nicht geladenen Module <dark_grey>([grey][red][count]</color> / [maxcount]</color>)</dark_grey></color>:<br>[modules]",
+        "en-US": "[grey]List of all not loaded modules <dark_grey>([grey][red][count]</color> / [maxcount]</color>)</dark_grey></color>:<br>[modules]"
+    },
+    "INFO.modules.list.no.loaded": {
+        "de-DE": "[grey]Es sind [red]keine</color> Module geladen!</color>",
+        "en-US": "[grey]There are [red]no</color> modules loaded!</color>"
+    },
+    "INFO.modules.list.no.unloaded": {
+        "de-DE": "[grey]Es sind [red]keine</color> Module nicht geladen!</color>",
+        "en-US": "[grey]There are [red]no</color> modules not loaded!</color>"
+    },
+    "INFO.modules.list.no.modules": {
+        "de-DE": "[grey]Es sind [red]keine</color> Module vorhanden!</color>",
+        "en-US": "[grey]There are [red]no</color> modules available!</color>"
+    },
+    "INFO.module.loading": {
+        "de-DE": "[grey]Lade Modul [blue][module]...</color></color>",
+        "en-US": "[grey]Loading module [blue][module]...</color></color>"
+    },
+    "ERROR.module.load.timeout": {
+        "de-DE": "[grey]Das Modul [blue][module</color> konnte [red]nicht</color> geladen werden, da es [red]zu lange</color> gedauert hat!</color>",
+        "en-US": "[grey]The module [blue][module]</color> could [red]not</color> be loaded, because it took [red]too long!</color></color>"
+    }
+}

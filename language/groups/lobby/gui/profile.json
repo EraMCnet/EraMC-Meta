@@ -1,0 +1,114 @@
+{
+    "GUI.settings.item.category.name": {
+        "de-DE": "<i:false>[blue]Einstellungen</color>",
+        "en-US": "<i:false>[blue]Settings</color>"
+    },
+    "GUI.settings.item.playerhider.name": {
+        "de-DE": "<i:false>[blue]Spielerhider</color>",
+        "en-US": "<i:false>[blue]Player hider</color>"
+    },
+    "GUI.settings.item.movement.name": {
+        "de-DE": "<i:false>[blue]Bewegungsart</color>",
+        "en-US": "<i:false>[blue]Movement</color>"
+    },
+    "GUI.settings.item.speedeffect.name": {
+        "de-DE": "<i:false>[blue]Speedeffekt</color>",
+        "en-US": "<i:false>[blue]Speedeffect</color>"
+    },
+    "GUI.settings.item.friendrequests.name": {
+        "de-DE": "<i:false>[blue]Freundschaftsanfragen</color>",
+        "en-US": "<i:false>[blue]Friend requests</color>"
+    },
+    "GUI.settings.item.msg.name": {
+        "de-DE": "<i:false>[blue]Privatnachrichten</color>",
+        "en-US": "<i:false>[blue]Private messages</color>"
+    },
+    "GUI.settings.item.hotbarsound.name": {
+        "de-DE": "<i:false>[blue]Hotbar Sound</color>",
+        "en-US": "<i:false>[blue]Hotbar Sound</color>"
+    },
+    "GUI.social.item.friends.name": {
+        "de-DE": "<i:false>[blue]Freunde</color>",
+        "en-US": "<i:false>[blue]Friends</color>"
+    },
+    "GUI.social.archivements.name": {
+        "de-DE": "<i:false>[blue]Erfolge</color>",
+        "en-US": "<i:false>[blue]Archivements</color>"
+    },
+    "GUI.social.item.friends.lore": {
+        "de-DE": "<i:false><color:#96a7b2>Verwalte deine [blue]Freunde</color> und [blue]Freundschaftsanfragen</color></color><br><i:false><color:#96a7b2>und finde neue [blue]Freunde</color> auf dem Netzwerk!<br><br><color:#ff0000>Bald...</color><br><br></color>",
+        "en-US": "<i:false><color:#96a7b2>Manage your [blue]friends</color> and [blue]friend requests</color></color><br><i:false><color:#96a7b2>and find new [blue]friends</color> on the network!<br><br><color:#ff0000>Soon...</color><br><br></color>"
+    },
+    "GUI.social.item.archivements.lore": {
+        "de-DE": "<i:false><br><br><color:#ff0000>Bald...</color><br><br>",
+        "en-US": "<i:false><br><br><color:#ff0000>Coming soon...</color><br><br>"
+    },
+    "SETTING.playerhider.lore.all": {
+        "de-DE": "<i:false><color:#96a7b2>Ändere die [blue]Sichtbarkeit</color> anderer Spieler</color><br><i:false><color:#96a7b2>Teammitglieder, Freunde und Medias werden <color:#ff0000>nicht</color> versteckt!</color><br><br><br><br><i:false><color:#4bfb00>> Alle Spieler</color><br><i:false><color:#96a7b2>Besondere Spieler</color><br><i:false><color:#96a7b2>Keine Spieler</color>",
+        "en-US": "<i:false><color:#96a7b2>Change the [blue]visibility</color> of other players</color><br><i:false><color:#96a7b2>Team members, friends and media are <color:#ff0000>not</color> hidden!</color><br><br><br><br><i:false><color:#4bfb00>> All players</color><br><i:false><color:#96a7b2>Special players</color><br><i:false><color:#96a7b2>No players</color>"
+    },
+    "SETTING.playerhider.lore.special": {
+        "de-DE": "<i:false><color:#96a7b2>Ändere die [blue]Sichtbarkeit</color> anderer Spieler</color><br><i:false><color:#96a7b2>Teammitglieder, Freunde und Medias werden <color:#ff0000>nicht</color> versteckt!</color><br><br><br><br><i:false><color:#96a7b2>Alle Spieler</color><br><i:false><color:#d105ff>> Besondere Spieler</color><br><i:false><color:#96a7b2>Keine Spieler</color>",
+        "en-US": "<i:false><color:#96a7b2>Change the [blue]visibility</color> of other players</color><br><i:false><color:#96a7b2>Team members, friends and media are <color:#ff0000>not</color> hidden!</color><br><br><br><br><i:false><color:#96a7b2>All players</color><br><i:false><color:#d105ff>> Special players</color><br><i:false><color:#96a7b2>No players</color>"
+    },
+    "SETTING.playerhider.lore.none": {
+        "de-DE": "<i:false><color:#96a7b2>Ändere die [blue]Sichtbarkeit</color> anderer Spieler</color><br><i:false><color:#96a7b2>Teammitglieder, Freunde und Medias werden <color:#ff0000>nicht</color> versteckt!</color><br><br><br><br><i:false><color:#96a7b2>Alle Spieler</color><br><i:false><color:#96a7b2>Besondere Spieler</color><br><i:false><color:#ff0000>> Keine Spieler</color>",
+        "en-US": "<i:false><color:#96a7b2>Change the [blue]visibility</color> of other players</color><br><i:false><color:#96a7b2>Team members, friends and media are <color:#ff0000>not</color> hidden!</color><br><br><br><br><i:false><color:#96a7b2>All players</color><br><i:false><color:#96a7b2>Special players</color><br><i:false><color:#ff0000>> No players</color>"
+    },
+    "SETTING.movement.lore.walk": {
+        "de-DE": "<i:false><color:#96a7b2>Ändere deinen [blue]Movement</color> typ</color><br><i:false><color:#96a7b2>Egal ob du gerne laufen oder fliegen möchtest!</color><br><br><br><br><i:false><color:#4bfb00>> Laufen</color><br><i:false><color:#96a7b2>Doppelsprung</color><br><i:false><color:#96a7b2>Fliegen</color>",
+        "en-US": "<i:false><color:#96a7b2>Change your [blue]Movement</color> type</color><br><i:false><color:#96a7b2>Whether you like to walk or fly!</color><br><br><br><br><i:false><color:#4bfb00>> Walk</color><br><i:false><color:#96a7b2>Double jump</color><br><i:false><color:#96a7b2>Fly</color>"
+    },
+    "SETTING.movement.lore.doublejump": {
+        "de-DE": "<i:false><color:#96a7b2>Ändere deinen [blue]Movement</color> typ</color><br><i:false><color:#96a7b2>Egal ob du gerne laufen oder fliegen möchtest!</color><br><br><br><br><i:false><color:#96a7b2>Laufen</color><br><i:false><color:#4bfb00>> Doppelsprung</color><br><i:false><color:#96a7b2>Fliegen</color>",
+        "en-US": "<i:false><color:#96a7b2>Change your [blue]Movement</color> type</color><br><i:false><color:#96a7b2>Whether you like to walk or fly!</color><br><br><br><br><i:false><color:#96a7b2>Walk</color><br><i:false><color:#4bfb00>> Double jump</color><br><i:false><color:#96a7b2>Fly</color>"
+    },
+    "SETTING.movement.lore.fly": {
+        "de-DE": "<i:false><color:#96a7b2>Ändere deinen [blue]Movement</color> typ</color><br><i:false><color:#96a7b2>Egal ob du gerne laufen oder fliegen möchtest!</color><br><br><br><br><i:false><color:#96a7b2>Laufen</color><br><i:false><color:#96a7b2>Doppelsprung</color><br><i:false><color:#4bfb00>> Fliegen</color>",
+        "en-US": "<i:false><color:#96a7b2>Change your [blue]Movement</color> type</color><br><i:false><color:#96a7b2>Whether you like to walk or fly!</color><br><br><br><br><i:false><color:#96a7b2>Walk</color><br><i:false><color:#96a7b2>Double jump</color><br><i:false><color:#4bfb00>> Fly</color>"
+    },
+    "SETTING.movement.lore.walk.fly.noperm": {
+        "de-DE": "<i:false><color:#96a7b2>Ändere deinen [blue]Movement</color> typ</color><br><i:false><color:#96a7b2>Egal ob du gerne laufen oder fliegen möchtest!</color><br><br><br><br><i:false><color:#4bfb00>> Laufen</color><br><i:false><color:#96a7b2>Doppelsprung</color><br><i:false><color:#96a7b2>Fliegen <red>[Benötigt einen höheren Rang]</color>",
+        "en-US": "<i:false><color:#96a7b2>Change your [blue]Movement</color> type</color><br><i:false><color:#96a7b2>Whether you like to walk or fly!</color><br><br><br><br><i:false><color:#4bfb00>> Walk</color><br><i:false><color:#96a7b2>Double jump</color><br><i:false><color:#96a7b2>Fly <red>[Requires a higher rank]</color>"
+    },
+    "SETTING.movement.lore.doublejump.fly.noperm": {
+        "de-DE": "<i:false><color:#96a7b2>Ändere deinen [blue]Movement</color> typ</color><br><i:false><color:#96a7b2>Egal ob du gerne laufen oder fliegen möchtest!</color><br><br><br><br><i:false><color:#96a7b2>Laufen</color><br><i:false><color:#4bfb00>> Doppelsprung</color><br><i:false><color:#96a7b2>Fliegen <red>[Benötigt einen höheren Rang]</color>",
+        "en-US": "<i:false><color:#96a7b2>Change your [blue]Movement</color> type</color><br><i:false><color:#96a7b2>Whether you like to walk or fly!</color><br><br><br><br><i:false><color:#96a7b2>Walk</color><br><i:false><color:#4bfb00>> Double jump</color><br><i:false><color:#96a7b2>Fly <red>[Requires a higher rank]</color>"
+    },
+    "SETTING.speedeffect.lore.enabled": {
+        "de-DE": "<i:false><color:#96a7b2><color:#4bfb00>Aktiviere</color> oder <color:#ff0000>deaktiviere</color> den [blue]Speed Effect</color></color><br><i:false><color:#96a7b2>in der [blue]Lobby,</color> um allen zu zeigen, wie [blue]schnell</color> du bist!</color><br><br><br><br><i:false><color:#4bfb00>> Aktiviert</color><br><i:false><color:#96a7b2>Deaktiviert</color>",
+        "en-US": "<i:false><color:#96a7b2><color:#4bfb00>Enable</color> or <color:#ff0000>disable</color> the [blue]Speed Effect</color></color><br><i:false><color:#96a7b2>in the [blue]lobby,</color> to show everyone how [blue]fast</color> you are!</color><br><br><br><br><i:false><color:#4bfb00>> Enabled</color><br><i:false><color:#96a7b2>Disabled</color>"
+    },
+    "SETTING.speedeffect.lore.disabled": {
+        "de-DE": "<i:false><color:#96a7b2><color:#4bfb00>Aktiviere</color> oder <color:#ff0000>deaktiviere</color> den [blue]Speed Effect</color></color><br><i:false><color:#96a7b2>in der [blue]Lobby,</color> um allen zu zeigen, wie [blue]schnell</color> du bist!</color><br><br><br><br><i:false><color:#96a7b2>Aktiviert</color><br><i:false><color:#ff0000>> Deaktiviert</color>",
+        "en-US": "<i:false><color:#96a7b2><color:#4bfb00>Enable</color> or <color:#ff0000>disable</color> the [blue]Speed Effect</color></color><br><i:false><color:#96a7b2>in the [blue]lobby,</color> to show everyone how [blue]fast</color> you are!</color><br><br><br><br><i:false><color:#96a7b2>Enabled</color><br><i:false><color:#ff0000>> Disabled</color>"
+    },
+    "SETTING.friendrequests.lore.enabled": {
+        "de-DE": "<i:false><color:#96a7b2><color:#4bfb00>Aktiviere</color> oder <color:#ff0000>deaktiviere</color> [blue]Freundschaftsanfragen</color></color><br><i:false><color:#96a7b2>um zu entscheiden, wer dir [blue]Anfragen</color> senden kann!</color><br><br><br><br><i:false><color:#4bfb00>> Aktiviert</color><br><i:false><color:#96a7b2>Deaktiviert</color>",
+        "en-US": "<i:false><color:#96a7b2><color:#4bfb00>Enable</color> or <color:#ff0000>disable</color> [blue]friend requests</color></color><br><i:false><color:#96a7b2>to decide who can send you [blue]requests</color>!</color><br><br><br><br><i:false><color:#4bfb00>> Enabled</color><br><i:false><color:#96a7b2>Disabled</color>"
+    },
+    "SETTING.friendrequests.lore.disabled": {
+        "de-DE": "<i:false><color:#96a7b2><color:#4bfb00>Aktiviere</color> oder <color:#ff0000>deaktiviere</color> [blue]Freundschaftsanfragen</color></color><br><i:false><color:#96a7b2>um zu entscheiden, wer dir [blue]Anfragen</color> senden kann!</color><br><br><br><br><i:false><color:#96a7b2>Aktiviert</color><br><i:false><color:#ff0000>> Deaktiviert</color>",
+        "en-US": "<i:false><color:#96a7b2><color:#4bfb00>Enable</color> or <color:#ff0000>disable</color> [blue]friend requests</color></color><br><i:false><color:#96a7b2>to decide who can send you [blue]requests</color>!</color><br><br><br><br><i:false><color:#96a7b2>Enabled</color><br><i:false><color:#ff0000>> Disabled</color>"
+    },
+    "SETTING.msg.lore.all": {
+        "de-DE": "<i:false><color:#96a7b2>Wähle aus, welche [blue]Spieler</color> dir [blue]Privatnachrichten</color> senden können sollen!</color><br><i:false><color:#96a7b2>Entscheide selber mit wem du [blue]chatten</color> möchtest, egal ob [blue]Freunde</color> oder [blue]Fremde</color>!</color><br><br><br><br><i:false><color:#4bfb00>> Alle Spieler</color><br><i:false><color:#96a7b2>Freunde</color><br><i:false><color:#96a7b2>Keine Spieler</color>",
+        "en-US": "<i:false><color:#96a7b2>Choose which [blue]players</color> should be able to send you [blue]private messages</color>!</color><br><i:false><color:#96a7b2>Decide for yourself who you want to [blue]chat</color> with, whether [blue]friends</color> or [blue]strangers</color>!</color><br><br><br><br><i:false><color:#4bfb00>> All players</color><br><i:false><color:#96a7b2>Friends</color><br><i:false><color:#96a7b2>No players</color>"
+    },
+    "SETTING.msg.lore.friends": {
+        "de-DE": "<i:false><color:#96a7b2>Wähle aus, welche [blue]Spieler</color> dir [blue]Privatnachrichten</color> senden können sollen!</color><br><i:false><color:#96a7b2>Entscheide selber mit wem du [blue]chatten</color> möchtest, egal ob [blue]Freunde</color> oder [blue]Fremde</color>!</color><br><br><br><br><i:false><color:#96a7b2>Alle Spieler</color><br><i:false><color:#d105ff>> Freunde</color><br><i:false><color:#96a7b2>Keine Spieler</color>",
+        "en-US": "<i:false><color:#96a7b2>Choose which [blue]players</color> should be able to send you [blue]private messages</color>!</color><br><i:false><color:#96a7b2>Decide for yourself who you want to [blue]chat</color> with, whether [blue]friends</color> or [blue]strangers</color>!</color><br><br><br><br><i:false><color:#96a7b2>All players</color><br><i:false><color:#d105ff>> Friends</color><br><i:false><color:#96a7b2>No players</color>"
+    },
+    "SETTING.msg.lore.none": {
+        "de-DE": "<i:false><color:#96a7b2>Wähle aus, welche [blue]Spieler</color> dir [blue]Privatnachrichten</color> senden können sollen!</color><br><i:false><color:#96a7b2>Entscheide selber mit wem du [blue]chatten</color> möchtest, egal ob [blue]Freunde</color> oder [blue]Fremde</color>!</color><br><br><br><br><i:false><color:#96a7b2>Alle Spieler</color><br><i:false><color:#96a7b2>Freunde</color><br><i:false><color:#ff0000>> Keine Spieler</color>",
+        "en-US": "<i:false><color:#96a7b2>Choose which [blue]players</color> should be able to send you [blue]private messages</a>!</color><br><i:false><color:#96a7b2>Decide for yourself who you want to [blue]chat</color> with, whether [blue]friends</color> or [blue]strangers</color>!</color><br><br><br><br><i:false><color:#96a7b2>All players</color><br><i:false><color:#96a7b2>Friends</color><br><i:false><color:#ff0000>> No players</color>"
+    },
+    "SETTING.hotbarsound.enabled": {
+        "de-DE": "<i:false><color:#96a7b2><color:#4bfb00>Aktiviere</color> oder <color:#ff0000>deaktiviere</color> den [blue]Hotbar Sound</color></color><br><i:false><color:#96a7b2>um zu entscheiden, ob du [blue]Sound</color> beim Wechseln des Hotbarslots hören möchtest!</color><br><br><br><br><i:false><color:#4bfb00>> Aktiviert</color><br><i:false><color:#96a7b2>Deaktiviert</color>",
+        "en-US": "<i:false><color:#96a7b2><color:#4bfb00>Enable</color> or <color:#ff0000>disable</color> the [blue]Hotbar Sound</color></color><br><i:false><color:#96a7b2>to decide if you want to hear [blue]sound</color> when switching through the hotbar slot!</color><br><br><br><br><i:false><color:#4bfb00>> Enabled</color><br><i:false><color:#96a7b2>Disabled</color>"
+    },
+    "SETTING.hotbarsound.disabled": {
+        "de-DE": "<i:false><color:#96a7b2><color:#4bfb00>Aktiviere</color> oder <color:#ff0000>deaktiviere</color> den [blue]Hotbar Sound</color></color><br><i:false><color:#96a7b2>um zu entscheiden, ob du [blue]Sound</color> beim Wechseln des Hotbarslots hören möchtest!</color><br><br><br><br><i:false><color:#96a7b2>Aktiviert</color><br><i:false><color:#ff0000>> Deaktiviert</color>",
+        "en-US": "<i:false><color:#96a7b2><color:#4bfb00>Enable</color> or <color:#ff0000>disable</color> the [blue]Hotbar Sound</color></color><br><i:false><color:#96a7b2>to decide if you want to hear [blue]sound</color> when switching through the hotbar slot!</color><br><br><br><br><i:false><color:#96a7b2>Enabled</color><br><i:false><color:#ff0000>> Disabled</color>"
+    }
+}

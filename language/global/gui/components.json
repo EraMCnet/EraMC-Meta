@@ -1,0 +1,38 @@
+{
+    "PAGE.next.enabled": {
+        "de-DE": "<i:false>[green]Nächste Seite</color>",
+        "en-US": "<i:false>[green]Next Page</color>"
+    },
+    "PAGE.next.disabled": {
+        "de-DE": "<i:false>[red]Nächste Seite</color>",
+        "en-US": "<i:false>[red]Next Page</color>"
+    },
+    "PAGE.previous.enabled": {
+        "de-DE": "<i:false>[green]Vorherige Seite</color>",
+        "en-US": "<i:false>[green]Previous Page</color>"
+    },
+    "PAGE.previous.disabled": {
+        "de-DE": "<i:false>[red]Vorherige Seite</color>",
+        "en-US": "<i:false>[red]Previous Page</color>"
+    },
+    "PAGE.first.enabled": {
+        "de-DE": "<i:false>[green]Erste Seite</color>",
+        "en-US": "<i:false>[green]First Page</color>"
+    },
+    "PAGE.first.disabled": {
+        "de-DE": "<i:false>[red]Erste Seite</color>",
+        "en-US": "<i:false>[red]First Page</color>"
+    },
+    "PAGE.last.enabled": {
+        "de-DE": "<i:false>[green]Letzte Seite</color>",
+        "en-US": "<i:false>[green]Last Page</color>"
+    },
+    "PAGE.last.disabled": {
+        "de-DE": "<i:false>[red]Letzte Seite</color>",
+        "en-US": "<i:false>[red]Last Page</color>"
+    },
+    "PAGE.info": {
+        "de-DE": "<i:false><color:#96a7b2>Seite [blue][page]</color> von [blue][lastpage]</color></color>",
+        "en-US": "<i:false><color:#96a7b2>Page [blue][page]</color> of [blue][lastpage]</color></color>"
+    }
+}

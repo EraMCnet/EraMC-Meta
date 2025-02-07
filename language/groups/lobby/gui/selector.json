@@ -1,0 +1,26 @@
+{
+    "GUI.title": {
+        "de-DE": "<i:false>[blue]Game-Selector</color>",
+        "en-US": "<i:false>[blue]Game-Selector</color>"
+    },
+    "INFO.gamemode.soon": {
+        "de-DE": "<i:false><color:#96a7b2>Dieser <color:#ff0000>Modus</color> ist <color:#ff0000>noch nicht</color> verfügbar</color><br><br><i:false><color:#96a7b2>Wenn du [blue]Ideen</color> hast, was es noch für [blue]Modi</color> geben könnte</color><br><i:false><color:#96a7b2>nutze gerne unseren <color:#0066CC>Discord Server</color> um uns diese mitzuteilen!</color><br><i:false><color:#96a7b2>Nutze <color:#0066CC>/discord</color> um den <color:#0066CC>Link</color> zu erhalten, oder öffne <color:#0066CC>dc.chromamc.net</color> in deinem Browser!</color>",
+        "en-US": "<i:false><color:#96a7b2>This <color:#ff0000>mode</color> is <color:#ff0000>not yet</color> available</color><br><br><i:false><color:#96a7b2>If you have [blue]ideas</color> what other [blue]modes</color> could be available</color><br><i:false><color:#96a7b2>feel free to join our <color:#0066CC>Discord Server</color> to tell us!</color><br><i:false><color:#96a7b2>Use <color:#0066CC>/discord</color> to get the <color:#0066CC>link</color>, or open <color:#0066CC>dc.chromamc.net</color> in your browser!</color>"
+    },
+    "GAMEMODE.smp.name": {
+        "de-DE": "<i:false>[blue]SMP</color>",
+        "en-US": "<i:false>[blue]SMP</color>"
+    },
+    "GAMEMODE.smp.lore": {
+        "de-DE": "<i:false><color:#96a7b2>Spiele [blue]alleine</color> oder mit [blue]Freunden</color></color><br><i:false><color:#96a7b2>Deiner [blue]Kreativität</color> sind [blue]keine Grenzen</color> gesetzt!</color><br><br><i:false><color:#96a7b2>Aktuell online: [blue][playercount]</color></color>",
+        "en-US": "<i:false><color:#96a7b2>Play [blue]alone</color> or with [blue]friends</color></color><br><i:false><color:#96a7b2>Your [blue]creativity</color> knows [blue]no bounds</color>!</color><br><br><i:false><color:#96a7b2>Currently online: [blue][playercount]</color></color>"
+    },
+    "GAMEMODE.skywars.name": {
+        "de-DE": "<i:false>[blue]Skywars</color>",
+        "en-US": "<i:false>[blue]Skywars</color>"
+    },
+    "GAMEMODE.skywars.lore": {
+        "de-DE": "<i:false><color:#96a7b2>Spiele [blue]alleine</color> oder mit [blue]Freunden</color></color><br><i:false><color:#96a7b2>und [blue]gewinne</color> gegen deine [blue]Gegner!</color></color><br><br><i:false><color:#96a7b2>Aktuell online: [blue][playercount]</color></color>",
+        "en-US": "<i:false><color:#96a7b2>Play [blue]alone</color> or with [blue]friends</color></color><br><i:false><color:#96a7b2>and [blue]win</color> against your [blue]enemies!</color></color><br><br><i:false><color:#96a7b2>Currently online: [blue][playercount]</color></color>"
+    }
+}

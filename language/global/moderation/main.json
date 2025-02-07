@@ -1,0 +1,110 @@
+{
+    "PUNISH.kick": {
+        "en-US": "<br>[grey]You got [red]<b>KICKED</b></color> from the server!<br><br>[blue]Moderator:</color> [executor]<br>[blue]Reason:</color> [reason]<br>[blue]Punishment ID:</color> [id]<br><br>If you think that this [red]<b>Kick</b></color> was a [blue]mistake</color> or [blue]unfair,</color><br> feel free to create a [blue]Ticket</color> on our <color:#454FBF>Discord Server!</color><br><br><color:#454FBF><b>discord.danismp.net</b></color></color>",
+        "de-DE": "<br>[grey]Du wurdest vom Server [red]<b>GEKICKT!</b></color><br><br>[blue]Moderator:</color> [executor]<br>[blue]Grund:</color> [reason]<br>[blue]Punishment ID:</color> [id]<br><br>Wenn du denkst, dass dieser [red]<b>Kick</b></color> ein [blue]Fehler</color> oder [blue]unfair</color> war,<br> kannst du gerne ein [blue]Ticket</color> auf unserem <color:#454FBF>Discord Server</color> erstellen!<br><br><color:#454FBF><b>discord.danismp.net</b></color></color>"
+    },
+    "PUNISH.ban": {
+        "en-US": "<br>[grey]You got [red]<b>BANNED</b></color> from the server!<br><br>[blue]Moderator:</color> [executor]<br>[blue]Reason:</color> [reason]<br>[blue]Duration:</color> [duration] <dark_grey>([blue]German Time</color>)</dark_grey><br>[blue]Servergroup:</color> [servergroup]<br>[blue]Punishment ID:</color> [id]<br><br>If you think that this [red]<b>Ban</b></color> is a [blue]mistake</color> or [blue]unfair,</color><br> feel free to create a [blue]Ticket</color> on our <color:#454FBF>Discord Server!</color><br><br><color:#454FBF><b>discord.danismp.net</b></color></color>",
+        "de-DE": "<br>[grey]DU wurdest vom Server [red]<b>GEBANNT!</b></color><br><br>[blue]Moderator:</color> [executor]<br>[blue]Grund:</color> [reason]<br>[blue]Länge:</color> [duration] <dark_grey>([blue]German Time</color>)</dark_grey><br>[blue]Servergruppe:</color> [servergroup]<br>[blue]Punishment ID:</color> [id]<br><br>Wenn du denkst, dass dieser [red]<b>Ban</b></color> ein [blue]Fehler</color> oder [blue]unfair</color> ist,<br> kannst du gerne ein [blue]Ticket</color> auf unserem <color:#454FBF>Discord Server</color> erstellen!</color><br><br><color:#454FBF><b>discord.danismp.net</b></color>"
+    },
+    "PUNISH.mute": {
+        "en-US": "<br>[prefix] [grey]You got [red]<b>Muted!</b></color><br><br>[prefix] [blue]Moderator:</color> [executor]<br>[prefix] [blue]Reason:</color> [reason]<br>[prefix] [blue]Duration:</color> [duration]<br>[prefix] [blue]Servergroup:</color> [servergroup]<br>[prefix] [blue]Punishment ID:</color> [id]<br><br>[prefix] If you think that this [red]<b>Mute</b></color> is a [blue]mistake</color> or<br>[prefix] [blue]unfair,</color> feel free to create a [blue]Ticket</color> on our <color:#454FBF>Discord Server!</color><br><br>[prefix] <color:#454FBF><b>discord.danismp.net</b></color></color>",
+        "de-DE": "<br>[prefix] [grey]Du wurdest [red]<b>Stummgeschaltet!</b></color><br><br>[prefix] [blue]Moderator:</color> [executor]<br>[prefix] [blue]Grund:</color> [reason]<br>[prefix] [blue]Dauer:</color> [duration]<br>[prefix] [blue]Servergruppe:</color> [servergroup]<br>[prefix] [blue]Punishment ID:</color> [id]<br><br>[prefix] Wenn du denkst, dass dieser [red]<b>Mute</b></color> ein [blue]Fehler</color> oder<br>[prefix] [blue]unfair</color> ist, kannst du gerne ein [blue]Ticket</color> auf unserem <color:#454FBF>Discord Server</color> erstellen!</color><br><br>[prefix] <color:#454FBF><b>discord.danismp.net</b></color>"
+    },
+    "PUNISH.command.general.error.reason.notfound": {
+        "en-US": "[grey]The reason [blue][reason]</color> [red]does not exist</color> in the list of available reasons for punishments.</color>",
+        "de-DE": "[grey]Der Grund [blue][reason]</color> [red]existiert nicht</color> in der Liste der verfügbaren Gründe für Bestrafungen.</color>"
+    },
+    "PUNISH.command.admin.wipe": {
+        "en-US": "[grey][green]Successfully</color> wiped all punishments for the player [blue][player]!</color></color>",
+        "de-DE": "[grey]Alle Bestrafungen für den Spieler [blue][player]</color> wurden [green]erfolgreich</color> gelöscht!</color>"
+    },
+    "PUNISH.command.reason.list": {
+        "en-US": "[grey]Available reasons for punishments:</color><br>[reasons]",
+        "de-DE": "[grey]Verfügbare Gründe für Bestrafungen:</color><br>[reasons]"
+    },
+    "PUNISH.command.kick": {
+        "en-US": "[grey][green]Successfully</color> kicked the player [blue][player]</color> from the server with reason [blue][reason]!</color></color>",
+        "de-DE": "[grey]Der Spieler [blue][player]</color> wurde [green]erfolgreich</color> mit dem Grund [blue][reason]</color> vom Server gekickt!</color>"
+    },
+    "PUNISH.command.mute": {
+        "en-US": "[grey][green]Successfully</color> muted the player [blue][player]</color> for [blue][duration]</color> and with reason [blue][reason]!</color></color>",
+        "de-DE": "[grey]Der Spieler [blue][player]</color> wurde [green]erfolgreich</color> für [blue][duration]</color> und mit dem Grund [blue][reason]</color> stummgeschaltet!</color>"
+    },
+    "PUNISH.command.ban": {
+        "en-US": "[grey][green]Successfully</color> banned the player [blue][player]</color> for [blue][duration]</color> and with reason [blue][reason]!</color></color>",
+        "de-DE": "[grey]Der Spieler [blue][player]</color> wurde [green]erfolgreich</color> für [blue][duration]</color> und mit dem Grund [blue][reason]</color> gebannt!</color>"
+    },
+    "PUNISH.command.unpunish.ban": {
+        "en-US": "[grey]You [green]successfully</color> unbanned the player [blue][player]!</color></color>",
+        "de-DE": "[grey]Der Spieler [blue][player]</color> wurde [green]erfolgreich</color> entbannt!</color>"
+    },
+    "PUNISH.command.unpunish.mute": {
+        "en-US": "[grey]You [green]successfully</color> unmuted the player [blue][player]!</color></color>",
+        "de-DE": "[grey]Der Spieler [blue][player]</color> wurde [green]erfolgreich</color> entstummschaltet!</color>"
+    },
+    "PUNISH.history": {
+        "en-US": "[grey]Punishment history for [blue][player]:</color></color><br>",
+        "de-DE": "[grey]Bestrafungshistorie für [blue][player]:</color></color><br>"
+    },
+    "PUNISH.ban.notify": {
+        "en-US": "[grey][blue][executor]</color> [red]<b>BANNED</b></color> [blue][player]!</color></color>",
+        "de-DE": "[grey][blue][executor]</color> hat [blue][player]</color> [red]<b>GEBANNT!</b></color></color>"
+    },
+    "PUNISH.kick.notify": {
+        "en-US": "[grey][blue][executor]</color> [red]kicked</color> [blue][player]!</color></color>",
+        "de-DE": "[grey][blue][executor]</color> hat [blue][player]</color> [red]gekickt!</color></color>"
+    },
+    "PUNISH.mute.notify": {
+        "en-US": "[grey][blue][executor]</color> [red]MUTED</color> [blue][player]!</color></color>",
+        "de-DE": "[grey][blue][executor]</color> hat [blue][player]</color> [red]gemuted!</color></color>"
+    },
+    "PUNISH.unban.notify": {
+        "en-US": "[grey][blue][executor]</color> [green]unbanned</color> [blue][player]</color> on servergroup [blue][servergroup]!</color></color>",
+        "de-DE": "[grey][blue][executor]</color> hat [blue][player]</color> auf der Servergruppe [blue][servergroup]</color> [green]entbannt!</color></color>"
+    },
+    "PUNISH.unmute.notify": {
+        "en-US": "[grey][blue][executor]</color> [green]unmuted</color> [blue][player]</color> on servergroup [blue][servergroup]!</color></color>",
+        "de-DE": "[grey][blue][executor]</color> hat [blue][player]</color> auf der Servergruppe [blue][servergroup]</color> [green]entstummschaltet!</color></color>"
+    },
+    "ERROR.punish.already.punished": {
+        "en-US": "[grey]The player [blue][player]</color> does [red]already have</color> an active punishment of type [blue][type].</color></color>",
+        "de-DE": "[grey]Der Spieler [blue][player]</color> hat [red]bereits</color> eine aktive Bestrafung des Typs [blue][type].</color></color>"
+    },
+    "ERROR.punish.not.punished": {
+        "en-US": "[grey]The player [blue][player]</color> does [red]not have</color> an active punishment of type [blue][type].</color></color>",
+        "de-DE": "[grey]Der Spieler [blue][player]</color> hat [red]keine</color> aktive Bestrafung des Typs [blue][type].</color></color>"
+    },
+    "ERROR.duration.custom.permission": {
+        "en-US": "[grey]You [red]do not</color> have the permission to use [blue]custom durations</color> for punishments.</color>",
+        "de-DE": "[grey]Du [red]hast nicht</color> die Berechtigung, [blue]benutzerdefinierte Dauern</color> für Bestrafungen zu verwenden.</color>"
+    },
+    "ERROR.reason.custom.permission": {
+        "en-US": "[grey]You [red]do not</color> have the permission to use [blue]custom reasons</color> for punishments.</color>",
+        "de-DE": "[grey]Du [red]hast nicht</color> die Berechtigung, [blue]benutzerdefinierte Gründe</color> für Bestrafungen zu verwenden.</color>"
+    },
+    "ERROR.duration.perma.perms": {
+        "en-US": "[grey]You [red]do not</color> have the permission to use [blue]permanent durations</color> for punishments.</color>",
+        "de-DE": "[grey]Du [red]hast nicht</color> die Berechtigung, [blue]permanente Dauern</color> für Bestrafungen zu verwenden.</color>"
+    },
+    "ERROR.history.empty": {
+        "en-US": "[grey]The player [blue][player]</color> has [red]no</color> punishment history.</color></color>",
+        "de-DE": "[grey]Der Spieler [blue][player]</color> hat [red]keine</color> Bestrafungshistorie.</color>"
+    },
+    "GENERAL.history.timed": {
+        "de-DE": "[grey][prefix] Punishment ID: [blue][id]</color><br>[prefix] Executor: [blue][executor]</color><br>[prefix] Grund: [blue][reason]</color><br>[prefix] Servergroup: [blue][servergroup]</color><br>[prefix] Dauer: [blue][duration]</color><br>[prefix] Aktiv: [blue]<b>[active]</b></color></color>",
+        "en-US": "[grey][prefix] Punishment ID: [blue][id]</color><br>[prefix] Executor: [blue][executor]</color><br>[prefix] Reason: [blue][reason]</color><br>[prefix] Servergroup: [blue][servergroup]</color><br>[prefix] Duration: [blue][duration]</color><br>[prefix] Active: [blue]<b>[active]</b></color></color>"
+    },
+    "GENERAL.history.kicks": {
+        "de-DE": "[grey][prefix] Punishment ID: [blue][id]</color><br>[prefix] Executor: [blue][executor]</color><br>[prefix] Grund: [blue][reason]</color></color>",
+        "en-US": "[grey][prefix] Punishment ID: [blue][id]</color><br>[prefix] Executor: [blue][executor]</color><br>[prefix] Reason: [blue][reason]</color></color>"
+    },
+    "GENERAL.history.timed.gui.lore": {
+        "de-DE": "<i:false>[grey][dot] ID: [blue][id]</color><br><i:false>[grey][dot] Executor: [blue][executor]</color><br><i:false>[grey][dot] Grund: [blue][reason]</color><br><i:false>[grey][dot] Servergruppe: [blue][servergroup]</color><br><i:false>[grey][dot] Dauer: [blue][duration]</color><br><i:false>[grey][dot] Aktiv: <white><b>[active]</b></white></color>",
+        "en-US": "<i:false>[grey][dot] ID: [blue][id]</color><br><i:false>[grey][dot] Executor: [blue][executor]</color><br><i:false>[grey][dot] Reason: [blue][reason]</color><br><i:false>[grey][dot] Servergroup: [blue][servergroup]</color><br><i:false>[grey][dot] Duration: [blue][duration]</color><br><i:false>[grey][dot] Active: <white><b>[active]</b></white></color>"
+    },
+    "GENERAL.history.kicks.gui.lore": {
+        "de-DE": "<i:false>[grey][dot] ID: [blue][id]</color><br><i:false>[grey][dot] Executor: [blue][executor]</color><br><i:false>[grey][dot] Grund: [blue][reason]</color>",
+        "en-US": "<i:false>[grey][dot] ID: [blue][id]</color><br><i:false>[grey][dot] Executor: [blue][executor]</color><br><i:false>[grey][dot] Reason: [blue][reason]</color>"
+    }
+}

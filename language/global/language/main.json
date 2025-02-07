@@ -1,0 +1,6 @@
+{
+    "SUCCESS.lang.select": {
+        "de-DE": "<color:#96a7b2>Deine [blue]Sprache</color> ist jetzt auf [blue][language]</color> gesetzt!</color>",
+        "en-US": "<color:#96a7b2>Your [blue]language</color> is now set to [blue][language]!</color></color>"
+    }
+}

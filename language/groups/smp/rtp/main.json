@@ -1,0 +1,22 @@
+{
+    "RTP.error.cooldown": {
+        "de-DE": "<color:#96a7b2>Du musst noch [blue][duration]</color> warten, um die erneut [blue]teleportieren</color> zu können!</color>",
+        "en-US": "<color:#96a7b2>You have to wait [blue][duration]</color> to be able to [blue]teleport</color> again!</color>"
+    },
+    "RTP.success": {
+        "de-DE": "<color:#96a7b2>Du wurdest <color:#4bfb00>erfolgreich</color> [blue]teleportiert!</color></color>",
+        "en-US": "<color:#96a7b2>You have been <color:#4bfb00>successfully</color> [blue]teleported!</color></color>"
+    },
+    "RTP.searching": {
+        "de-DE": "<color:#96a7b2>Suche nach einem [blue]geeigneten</color> Ort...</color>",
+        "en-US": "<color:#96a7b2>Searching for a [blue]suitable</color> location...</color>"
+    },
+    "RTP.error.noSuitableLocation": {
+        "de-DE": "<color:#96a7b2>Es konnte <color:#ff0000>kein</color> geeigneter Ort gefunden werden!</color>",
+        "en-US": "<color:#96a7b2>There could be <color:#ff0000>no</color> suitable location found!</color>"
+    },
+    "RTP.error.world.only.overworld": {
+        "de-DE": "<color:#96a7b2>Du kannst den [blue]/rtp</color> Command nur in der <dark_green>Overworld</dark_gree> nutzen!</color>",
+        "en-US": "<color:#96a7b2>You can only use the [blue]/rtp</color> command in the <dark_green>Overworld!</dark_green></color>"
+    }
+}

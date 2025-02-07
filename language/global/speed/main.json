@@ -1,0 +1,14 @@
+{
+    "SPEED.set.fly": {
+        "de-DE": "[grey]Du hast deine [blue]Flug-Geschwindigkeit</color> auf [blue][speed]</color> geändert!</color>",
+        "en-US": "[grey]You have changed your [blue]fly speed</color> to [blue][speed]!</color></color>"
+    },
+    "SPEED.set.walk": {
+        "de-DE": "[grey]Du hast deine [blue]Lauf-Geschwindigkeit</color> auf [blue][speed]</color> geändert!</color>",
+        "en-US": "[grey]You have changed your [blue]walk speed</color> to [blue][speed]!</color></color>"
+    },
+    "SPEED.error.invalid": {
+        "de-DE": "[grey]Du hast eine [red]ungültige</color> Geschwindigkeit eingegeben! Bitte gib eine Zahl zwischen [blue]0 und 10</color> ein!</color>",
+        "en-US": "[grey]You have entered an [red]invalid</color> speed! Please enter a number between [blue]0 and 10</color>!</color>"
+    }
+}

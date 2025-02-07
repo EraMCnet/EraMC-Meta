@@ -1,0 +1,32 @@
+{
+    "holo.smp.online": {
+        "de-DE": "<b><gradient:#33FB08:#066B00:#33FB08>SMP SEASON [orange]1</color></gradient></b><br>[grey][blue][players]</color> / [blue]250</color> Spieler</color>",
+        "en-US": "<b><gradient:#33FB08:#066B00:#33FB08>SMP SEASON [orange]1</color></gradient></b><br>[grey][blue][players]</color> / [orange]250</color> players</color>",
+        "location": {
+            "x": -268.500,
+            "y": 58,
+            "z": -105.500,
+            "world": "Vesteria"
+        }
+    },
+    "holo.smp.offline": {
+        "de-DE": "<b><gradient:#33FB08:#066B00:#33FB08>SMP SEASON [orange]1</color></gradient></b><br><b><gradient:#ff0000:#b30000:#ff0000>OFFLINE</gradient></b>",
+        "en-US": "<b><gradient:#33FB08:#066B00:#33FB08>SMP SEASON [orange]1</color></gradient></b><br><b><gradient:#ff0000:#b30000:#ff0000>OFFLINE</gradient></b>",
+        "location": {
+            "x": -268.500,
+            "y": 58,
+            "z": -105.500,
+            "world": "Vesteria"
+        }
+    },
+    "holo.smp.maintenance": {
+        "de-DE": "<b><gradient:#33FB08:#066B00:#33FB08>SMP SEASON [orange]1</color></gradient></b><br><b><gradient:#fede00:#ff7700:#fede00>WARTUNGSARBEITEN</gradient></b>",
+        "en-US": "<b><gradient:#33FB08:#066B00:#33FB08>SMP SEASON [orange]1</color></gradient></b><br><b><gradient:#fede00:#ff7700:#fede00>MAINTENANCE</gradient></b>",
+        "location": {
+            "x": -268.500,
+            "y": 58,
+            "z": -105.500,
+            "world": "Vesteria"
+        }
+    }
+}

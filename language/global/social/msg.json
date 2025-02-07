@@ -1,0 +1,34 @@
+{
+    "ERROR.msg.friends": {
+        "de-DE": "[grey]Du musst mit [blue][player]</color> [blue]befreundet</color> sein, um mit ihm zu chatten!</color>",
+        "en-US": "[grey]You have to be [blue]friends</color> with [blue][player]</color> to chat with him!</color>"
+    },
+    "ERROR.msg.friends.self": {
+        "de-DE": "[grey]Du kannst [red]nur</color> mit deinen [blue]Freunden</color> chatten!</color>",
+        "en-US": "[grey]You can [red]only</color> chat with your [blue]friends!</color></color>"
+    },
+    "ERROR.msg.disabled": {
+        "de-DE": "[grey][blue][player]</color> hat MSGs [red]deaktiviert!</color></color>",
+        "en-US": "[grey][blue][player]</color> has MSGs [red]disabled!</color></color>"
+    },
+    "ERROR.msg.disabled.self": {
+        "de-DE": "[grey]Du hast MSGs [red]deaktiviert!</color></color>",
+        "en-US": "[grey]You have MSGs [red]disabled!</color></color>"
+    },
+    "ERROR.msg.reply": {
+        "de-DE": "[grey]Es gibt [red]keinen</color> Spieler, dem du [blue]antworten</color> könntest!</color>",
+        "en-US": "[grey]There is [red]no</color> player you could [blue]reply</color> to!</color>"
+    },
+    "MSG.setting.set.all": {
+        "de-DE": "[grey][blue]Jeder</color> kann dir nun [blue]MSGs</color> senden!</color>",
+        "en-US": "[grey][blue]Everyone</color> can now send you [blue]MSGs!</color></color>"
+    },
+    "MSG.setting.set.friends": {
+        "de-DE": "[grey]Nur deine [blue]Freunde</color> können dir nun MSGs senden!</color>",
+        "en-US": "[grey]Only your [blue]friends</color> can now send you MSGs!</color>"
+    },
+    "MSG.setting.set.none": {
+        "de-DE": "[grey][red]Niemand</color> kann dir nun [blue]MSGs</color> senden!</color>",
+        "en-US": "[grey][red]No one</color> can now send you [blue]MSGs!</color></color>"
+    }
+}

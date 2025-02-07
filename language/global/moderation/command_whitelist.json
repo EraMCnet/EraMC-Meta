@@ -1,0 +1,18 @@
+{
+    "ERROR.whitelisted": {
+        "de-DE": "<color:#96a7b2>Dieser [blue]Befehl</color> ist bereits auf der [blue]Whitelist!</color></color>",
+        "en-US": "<color:#96a7b2>This [blue]command</color> is already on the [blue]whitelist!</color></color>"
+    },
+    "ERROR.not.whitelisted": {
+        "de-DE": "<color:#96a7b2>Dieser [blue]Befehl</color> ist <color:#ff0000>nicht</color> auf der [blue]Whitelist!</color></color>",
+        "en-US": "<color:#96a7b2>This [blue]command</color> is <color:#ff0000>not</color on the [blue]whitelist!</color></color>"
+    },
+    "SUCCESS.added": {
+        "de-DE": "<color:#96a7b2>Der Befehl [blue][command]</color> wurde <color:#4bfb00>erfolgreich</color> zur [blue]Whitelist</color> mit der Permission [blue][permission]</color> <color:#4bfb00>hinzugefügt!</color></color>",
+        "en-US": "<color:#96a7b2>The command [blue][command]</color> has been <color:#4bfb00>successfully</color> added to the [blue]whitelist</color> with the permission [blue][permission]</color> <color:#4bfb00>added!</color></color>"
+    },
+    "SUCCESS.removed": {
+        "de-DE": "<color:#96a7b2>Der [blue]Befehl [command]</color> wurde <color:#4bfb00>erfolgreich</color> von der [blue]Whitelist</color> <color:#ff0000>entfernt</color></color>",
+        "en-US": "<color:#96a7b2>The [blue]command [command]</color> has been <color:#4bfb00>successfully</color> <color:#ff0000>entfernt</color> from the [blue]whitelist</a></color>"
+    }
+}

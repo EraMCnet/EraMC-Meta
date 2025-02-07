@@ -1,0 +1,6 @@
+{
+    "LOBBYSELECTOR.connected.already": {
+        "de-DE": "<color:#96a7b2>Du bist bereits mit dieser [blue]Lobby</color> <color:#ff0000>verbunden!</color></color>",
+        "en-US": "<color:#96a7b2>You are <color:#ff0000>already connected</color> to this [blue]lobby!</color></color>"
+    }
+}
