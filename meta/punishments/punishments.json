@@ -2,7 +2,7 @@
     "ILLEGAL_CLIENT_MODIFICATIONS": {
         "de-DE": "Illegale Client-Modifikationen",
         "en-US": "Illegal Client Modifications",
-        "permission": "chromamc.punish.ban.illegal_client_modifications",
+        "permission": "danismp.punish.ban.illegal_client_modifications",
         "type": ["ban"],
         "durations": [
             "1w",
@@ -15,7 +15,7 @@
     "OFFENSIVE_LANGUAGE": {
         "de-DE": "Beleidigende Sprache",
         "en-US": "Offensive Language",
-        "permission": "chromamc.punish.mute.offensive_language",
+        "permission": "danismp.punish.mute.offensive_language",
         "type": ["mute", "kick", "ban"],
         "durations": [
             "1h",
@@ -29,7 +29,7 @@
     "SPAMMING": {
         "de-DE": "Spamming",
         "en-US": "Spamming",
-        "permission": "chromamc.punish.mute.spamming",
+        "permission": "danismp.punish.mute.spamming",
         "type": ["mute", "kick"],
         "durations": [
             "1h",
@@ -43,7 +43,7 @@
     "TROLLING": {
         "de-DE": "Trolling",
         "en-US": "Trolling",
-        "permission": "chromamc.punish.mute.trolling",
+        "permission": "danismp.punish.mute.trolling",
         "type": ["ban"],
         "durations": [
             "1d",
@@ -54,7 +54,7 @@
     "TEAMING": {
         "de-DE": "Teaming",
         "en-US": "Teaming",
-        "permission": "chromamc.punish.ban.teaming",
+        "permission": "danismp.punish.ban.teaming",
         "type": ["ban", "kick"],
         "durations": [
             "1h",
@@ -70,7 +70,7 @@
     "UNNECESSARY_OVERLOADING_SERVER": {
         "de-DE": "Unnötiges auslasten des Servers",
         "en-US": "Unnecessary overloading the Server",
-        "permission": "chromamc.punish.ban.unnecessary_overloading_server",
+        "permission": "danismp.punish.ban.unnecessary_overloading_server",
         "type": ["ban"],
         "durations": [
             "1w",
@@ -83,7 +83,7 @@
     "ALT_ACCOUNT_USING": {
         "de-DE": "Nutzen eines Alt-Accounts",
         "en-US": "Using of an Alt-Account",
-        "permission": "chromamc.punish.ban.alt_account_using",
+        "permission": "danismp.punish.ban.alt_account_using",
         "type": ["ban"],
         "durations": [
             "1d",
@@ -96,7 +96,7 @@
     "NOT_ALLOWED_SKIN": {
         "de-DE": "Nicht erlaubter Skin",
         "en-US": "Not allowed Skin",
-        "permission": "chromamc.punish.ban.not_allowed_skin",
+        "permission": "danismp.punish.ban.not_allowed_skin",
         "type": ["ban", "kick"],
         "durations": [
             "1d",
@@ -109,7 +109,7 @@
     "GRIEFING": {
         "de-DE": "Griefing",
         "en-US": "Griefing",
-        "permission": "chromamc.punish.ban.griefing",
+        "permission": "danismp.punish.ban.griefing",
         "type": ["ban"],
         "durations": [
             "1d",
@@ -123,7 +123,7 @@
     "REAL_MONEY_TRADING": {
         "de-DE": "Echtgeldhandel",
         "en-US": "Trading with real money",
-        "permission": "chromamc.punish.ban.real_money_trading",
+        "permission": "danismp.punish.ban.real_money_trading",
         "type": ["ban"],
         "durations": [
             "permanent"
@@ -132,7 +132,7 @@
     "ADVERTISING": {
         "de-DE": "Werbung",
         "en-US": "Advertising",
-        "permission": "chromamc.punish.ban.advertising",
+        "permission": "danismp.punish.ban.advertising",
         "type": ["ban"],
         "durations": [
             "1d",
@@ -145,7 +145,7 @@
     "ACCOUNT_SELLING": {
         "de-DE": "Accountverkauf",
         "en-US": "Account selling",
-        "permission": "chromamc.punish.ban.account_selling",
+        "permission": "danismp.punish.ban.account_selling",
         "type": ["ban"],
         "durations": [
             "permanent"
@@ -154,7 +154,7 @@
     "ACCOUNT_SHARING": {
         "de-DE": "Accountsharing",
         "en-US": "Account sharing",
-        "permission": "chromamc.punish.ban.account_sharing",
+        "permission": "danismp.punish.ban.account_sharing",
         "type": ["ban", "kick"],
         "durations": [
             "1d",
@@ -167,7 +167,7 @@
     "BUG_ABUSE": {
         "de-DE": "Bug-Abuse",
         "en-US": "Bug Abuse",
-        "permission": "chromamc.punish.ban.bug_abuse",
+        "permission": "danismp.punish.ban.bug_abuse",
         "type": ["ban"],
         "durations": [
             "1h",
@@ -183,7 +183,7 @@
     "PERMS_ABUSE": {
         "de-DE": "Rechte-Missbrauch",
         "en-US": "Permissions Abuse",
-        "permission": "chromamc.punish.ban.perms_abuse",
+        "permission": "danismp.punish.ban.perms_abuse",
         "type": ["ban"],
         "durations": [
             "1d",
@@ -196,7 +196,7 @@
     "BEGGING_FOR_RANK_OR_EXTRA_PERMS": {
         "de-DE": "Betteln um Rang oder extra Rechte",
         "en-US": "Begging for rank or extra permissions",
-        "permission": "chromamc.punish.mute.begging_for_rank_or_extra_perms",
+        "permission": "danismp.punish.mute.begging_for_rank_or_extra_perms",
         "type": ["mute", "kick"],
         "durations": [
             "1h",
@@ -210,7 +210,7 @@
     "REPORT_ABUSE": {
         "de-DE": "Report-Abuse",
         "en-US": "Report Abuse",
-        "permission": "chromamc.punish.ban.report_abuse",
+        "permission": "danismp.punish.ban.report_abuse",
         "type": ["ban"],
         "durations": [
             "1d",
@@ -223,7 +223,7 @@
     "BYPASSING_PUNISHMENTS": {
         "de-DE": "Umgehen von Strafen",
         "en-US": "Bypassing punishments",
-        "permission": "chromamc.punish.ban.bypassing_punishments",
+        "permission": "danismp.punish.ban.bypassing_punishments",
         "type": ["ban"],
         "durations": [
             "1d",
@@ -238,7 +238,7 @@
     "SUPPORT_ABUSE": {
         "de-DE": "Support-Missbrauch",
         "en-US": "Support Abuse",
-        "permission": "chromamc.punish.ban.support_abuse",
+        "permission": "danismp.punish.ban.support_abuse",
         "type": ["ban"],
         "durations": [
             "1d",
@@ -251,7 +251,7 @@
     "DOXXING": {
         "de-DE": "Doxxing",
         "en-US": "Doxxing",
-        "permission": "chromamc.punish.ban.doxxing",
+        "permission": "danismp.punish.ban.doxxing",
         "type": ["ban"],
         "durations": [
             "permanent"
@@ -260,7 +260,7 @@
     "HAUSVERBOT": {
         "de-DE": "Hausverbot",
         "en-US": "Excluded from playing",
-        "permission": "chromamc.punish.ban.hausverbot",
+        "permission": "danismp.punish.ban.hausverbot",
         "type": ["ban"],
         "durations": [
             "permanent"

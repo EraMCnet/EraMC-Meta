@@ -1,15 +1,15 @@
 {
     "BOSSBAR.title.network": {
         "en-US": "<gradient:#0079FF:#00FFF5:#0079FF><b>DANISMP</b></gradient> <color:#96a7b2><b>✖</b></color> <b><gradient:#00FFF5:#0079FF:#00FFF5>Next Generation Minecraft SMP</gradient></b>",
-        "de-DE": "<gradient:#0079FF:#00FFF5:#0079FF><b>CHROMAMC</b></gradient> <color:#96a7b2><b>✖</b></color> <b><gradient:#00FFF5:#0079FF:#00FFF5>Next Generation Minecraft SMP</gradient></b>"
+        "de-DE": "<gradient:#0079FF:#00FFF5:#0079FF><b>DANISMP</b></gradient> <color:#96a7b2><b>✖</b></color> <b><gradient:#00FFF5:#0079FF:#00FFF5>Next Generation Minecraft SMP</gradient></b>"
     },
     "BOSSBAR.title.discord": {
         "en-US": "<gradient:#0079FF:#00FFF5:#0079FF><b>DISCORD</b></gradient> <color:#96a7b2><b>◆</b></color> <color:#5865f1><b>discord.gg/danismp</b></color>",
         "de-DE": "<gradient:#0079FF:#00FFF5:#0079FF><b>DISCORD</b></gradient> <color:#96a7b2><b>◆</b></color> <color:#5865f1><b>discord.gg/danismp</b></color>"
     },
     "BOSSBAR.title.release": {
-        "en-US": "<gradient:#0079FF:#00FFF5:#0079FF><b>CHROMAMC</b></gradient> <color:#96a7b2><b>◆</b></color> <gradient:#CB2D3E:#EF473A:#CB2D3E><b>RELEASE</b> 🔥</gradient>",
-        "de-DE": "<gradient:#0079FF:#00FFF5:#0079FF><b>CHROMAMC</b></gradient> <color:#96a7b2><b>◆</b></color> <gradient:#CB2D3E:#EF473A:#CB2D3E><b>RELEASE</b> 🔥</gradient>"
+        "en-US": "<gradient:#0079FF:#00FFF5:#0079FF><b>DANISMP</b></gradient> <color:#96a7b2><b>◆</b></color> <gradient:#CB2D3E:#EF473A:#CB2D3E><b>RELEASE</b> 🔥</gradient>",
+        "de-DE": "<gradient:#0079FF:#00FFF5:#0079FF><b>DANISMP</b></gradient> <color:#96a7b2><b>◆</b></color> <gradient:#CB2D3E:#EF473A:#CB2D3E><b>RELEASE</b> 🔥</gradient>"
     },
     "BOSSBAR.title.smp.factions": {
         "en-US": "<gradient:#0079FF:#00FFF5:#0079FF><b>SMP UPDATE</b></gradient> <color:#96a7b2><b>✖</b></color> <b><gradient:#3494E6:#EC6EAD>TEAM SYSTEM </gradient><gradient:#EC6EAD:#3494E6>NOW AVAILABLE</gradient></b>",
