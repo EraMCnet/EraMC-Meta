@@ -4,31 +4,31 @@
         "en-US": "<i:false>[blue]Game-Selector</color>"
     },
     "ITEM.selector.lore": {
-        "de-DE": "<i:false><color:#96a7b2>Wähle den [blue]Spielmodus</color> aus</color><br><i:false><color:#96a7b2>den du auf [blue]DaniSMP</color> spielen möchtest</color>",
-        "en-US": "<i:false><color:#96a7b2>Choose the [blue]game mode</color> you want to play on [blue]DaniSMP</color></color>"
+        "de-DE": "<i:false>[grey]Wähle den [blue]Spielmodus</color> aus</color><br><i:false>[grey]den du auf [blue]DaniSMP</color> spielen möchtest</color>",
+        "en-US": "<i:false>[grey]Choose the [blue]game mode</color> you want to play on [blue]DaniSMP</color></color>"
     },
     "ITEM.profile.name": {
         "de-DE": "<i:false>[blue]Dein Profil</color>",
         "en-US": "<i:false>[blue]Your Profile</color>"
     },
     "ITEM.profile.lore": {
-        "de-DE": "<i:false><color:#96a7b2>Ändere [blue]einstellungen</color>, greife auf deine [blue]Freunde</color> zu und betrachte deine [blue]Erfolge!</color></color>",
-        "en-US": "<i:false><color:#96a7b2>Change [blue]settings</color>, access your [blue]friends</color> and view your [blue]achievements!</color></color>"
+        "de-DE": "<i:false>[grey]Ändere [blue]einstellungen</color>, greife auf deine [blue]Freunde</color> zu und betrachte deine [blue]Erfolge!</color></color>",
+        "en-US": "<i:false>[grey]Change [blue]settings</color>, access your [blue]friends</color> and view your [blue]achievements!</color></color>"
     },
     "ITEM.cosmetics.name": {
         "de-DE": "<i:false>[blue]Kosmetik</color>",
         "en-US": "<i:false>[blue]Cosmetics</color>"
     },
     "ITEM.cosmetics.lore": {
-        "de-DE": "<i:false><color:#96a7b2>Wähle deine [blue]Cosmetics</color> aus</color><br><i:false><color:#96a7b2>und passe deinen [blue]Charakter</color> an!</color>",
-        "en-US": "<i:false><color:#96a7b2>Choose your [blue]Cosmetics</color></color><br><i:false><color:#96a7b2>and customize your [blue]character</color>!</color>"
+        "de-DE": "<i:false>[grey]Wähle deine [blue]Cosmetics</color> aus</color><br><i:false>[grey]und passe deinen [blue]Charakter</color> an!<br><br><i:false>[red]<b>[BALD VERFÜGBAR]</b></color></color>",
+        "en-US": "<i:false>[grey]Choose your [blue]Cosmetics</color></color><br><i:false>[grey]and customize your [blue]character</color>!<br><br><i:false>[red]<b>[AVAILABLE SOON]</b></color></color>"
     },
     "ITEM.lobbyselector.name": {
         "de-DE": "<i:false>[blue]Lobby-Selector</color>",
         "en-US": "<i:false>[blue]Lobby-Selector</color>"
     },
     "ITEM.lobbyselector.lore": {
-        "de-DE": "<i:false><color:#96a7b2>Wähle die [blue]Lobby</color> in der du dich aufhalten möchtest!</color>",
-        "en-US": "<i:false><color:#96a7b2>Choose the [blue]lobby</color> you want to be in!</color>"
+        "de-DE": "<i:false>[grey]Wähle die [blue]Lobby</color> in der du dich aufhalten möchtest!</color>",
+        "en-US": "<i:false>[grey]Choose the [blue]lobby</color> you want to be in!</color>"
     }
 }

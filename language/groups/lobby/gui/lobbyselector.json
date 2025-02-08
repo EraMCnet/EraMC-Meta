@@ -4,11 +4,11 @@
         "en-US": "<i:false>[blue]Lobby-Selector</color>"
     },
     "ITEM.lobby.lore.here": {
-        "de-DE": "<i:false><color:#96a7b2>Du befindest dich aktuell auf [blue]dieser</color> Lobby!</color>",
-        "en-US": "<i:false><color:#96a7b2>You are currently connectet to [blue]this</color> lobby!</color>"
+        "de-DE": "<i:false>[grey]Du befindest dich aktuell auf [blue]dieser</color> Lobby!</color>",
+        "en-US": "<i:false>[grey]You are currently connectet to [blue]this</color> lobby!</color>"
     },
     "ITEM.lobby.lore.connect": {
-        "de-DE": "<i:false><color:#96a7b2><br><i:false><color:#96a7b2>Aktuell sind [blue][players] Spieler</color> mit [blue][lobby]</color> verbunden<br><br><i:false><color:#96a7b2>[blue][Klicke um dich zu verbinden]</color></color>",
-        "en-US": "<i:false><color:#96a7b2><br><i:false><color:#96a7b2>Currently [blue][players] players</color> are connected to [blue][lobby]</color><br><br><i:false><color:#96a7b2>[blue][Click to connect]</color></color>"
+        "de-DE": "<i:false>[grey]<br><i:false>[grey]Aktuell sind [blue][players] Spieler</color> mit [blue][lobby]</color> verbunden<br><br><i:false>[grey][blue][Klicke um dich zu verbinden]</color></color>",
+        "en-US": "<i:false>[grey]<br><i:false>[grey]Currently [blue][players] players</color> are connected to [blue][lobby]</color><br><br><i:false>[grey][blue][Click to connect]</color></color>"
     }
 }

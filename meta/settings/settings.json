@@ -1,0 +1,60 @@
+{
+    "settings": [
+        "fly",
+        "doublejump",
+        "glow",
+        "size",
+        "speed",
+        "nightvision",
+        "msg",
+        "friends"
+    ],
+    "fly": {
+        "available-servers": [
+            "*"
+        ],
+        "permission": "danismp.command.fly"
+    },
+    "doublejump": {
+        "available-servers": [
+            "Lobby"
+        ],
+        "permission": "none"
+    },
+    "glow": {
+        "available-servers": [
+            "*"
+        ],
+        "permission": "danismp.command.glow"
+    },
+    "size": {
+        "available-servers": [
+            "*"
+        ],
+        "permission": "danismp.command.size"
+    },
+    "speed": {
+        "available-servers": [
+            "*"
+        ],
+        "permission": "danismp.command.speed"
+    },
+    "nightvision": {
+        "available-servers": [
+            "*"
+        ],
+        "permission": "danismp.command.nightvision"
+    },
+    "msg": {
+        "available-servers": [
+            "*"
+        ],
+        "permission": "none"
+    },
+    "friends": {
+        "available-servers": [
+            "*"
+        ],
+        "permission": "none"
+    }
+}
