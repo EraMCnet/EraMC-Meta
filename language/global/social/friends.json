@@ -53,7 +53,7 @@
     },
     "GENERAL.friend.join.server": {
         "de-DE": "[grey]Dein Freund [blue][player]</color> ist jetzt [green]online!</color></color>",
-        "en-US": "[grey]Your friend [blue][player]</color>is now [green]online!</color></color>"
+        "en-US": "[grey]Your friend [blue][player]</color> is now [green]online!</color></color>"
     },
     "GENERAL.friend.leave.server": {
         "de-DE": "[grey]Dein Freund [blue][player]</color> hat den Server [red]verlassen.</color></color>",
