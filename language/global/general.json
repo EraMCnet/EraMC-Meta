@@ -23,6 +23,10 @@
         "de-DE": "Du",
         "en-US": "You"
     },
+    "GENERAL.settings": {
+        "de-DE": "Einstellungen",
+        "en-US": "Settings"
+    },
     "GENERAL.unknown": {
         "de-DE": "Unbekannt",
         "en-US": "Unknown"

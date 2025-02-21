@@ -6,8 +6,7 @@
         "size",
         "speed",
         "nightvision",
-        "msg",
-        "friends"
+        "msg"
     ],
     "fly": {
         "available-servers": [
@@ -46,12 +45,6 @@
         "permission": "danismp.command.nightvision"
     },
     "msg": {
-        "available-servers": [
-            "*"
-        ],
-        "permission": "none"
-    },
-    "friends": {
         "available-servers": [
             "*"
         ],
