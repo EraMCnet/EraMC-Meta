@@ -24,5 +24,17 @@
     "vip": "#0051ff",
     "media+": "#dd00ff",
     "media": "#dd00ff",
-    "default": "#00ff79"
+    "default": "#00ff79",
+    "owner_second": "#ff0000",
+    "manager_second": "#FF00F8",
+    "admin_second": "#b80000",
+    "head-developer_second": "#00EAFF",
+    "developer_second": "#00EAFF",
+    "head-moderator_second": "#FF8600",
+    "moderator_second": "#FF8600",
+    "helper_second": "#FFBA00",
+    "vip_second": "#0051ff",
+    "media+_second": "#FF00BA",
+    "media_second": "#FF00BA",
+    "default_second": "#00ffb7"
 }
