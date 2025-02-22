@@ -8,8 +8,8 @@
         "en-US": "<i:false>[blue]Sent Friend Requests</color>"
     },
     "GUI.title.friends" : {
-        "de-DE": "<i:false><dark_grey>Freunde</dark_grey>",
-        "en-US": "<i:false><dark_grey>Friends</dark_grey>"
+        "de-DE": "<i:false><grey>Freunde</grey>",
+        "en-US": "<i:false><grey>Friends</grey>"
     },
     "FRIENDS.lore.online": {
         "de-DE": "<i:false>[grey][dot] [blue][player]</color> ist aktuell [green]online!</color></color><br><i:false>[grey][dot] Spielt auf [blue][server]</color><br><i:false>[grey][dot] [blue]Befreundet</color> seit: [blue][since]</color></color><br><i:false>[grey][dot] Gemeinsame Freunde: [blue][mutual-friends]</color> <dark_grey>(Zeigt [blue][mutual-shown]</color> von [blue][mutual-friends-count]</color>)</dark_grey></color><br><br><i:false>[yellow]<b>[NACHSPRINGEN (LINKSKLICK)]</b></color>   [red]<b>[FREUND ENTFERNEN (SHIFT + RECHTSKLICK)]</b></color>",
