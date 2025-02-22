@@ -1,6 +1,7 @@
 {
     "ranks": [
         "owner",
+        "manager",
         "admin",
         "head-developer",
         "developer",
@@ -13,6 +14,7 @@
         "default"
     ],
     "owner": "#b80000",
+    "manager": "#8a00ff",
     "admin": "#ff0000",
     "head-developer": "#0083ff",
     "developer": "#0083ff",
