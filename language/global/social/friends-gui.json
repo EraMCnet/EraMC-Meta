@@ -1,11 +1,11 @@
 {
     "GUI.title.friends.requests": {
-        "de-DE": "<i:false>[blue]Freundschaftsanfragen</color>",
-        "en-US": "<i:false>[blue]Friend Requests</color>"
+        "de-DE": "<i:false>[blue]Freundschaftsanfragen",
+        "en-US": "<i:false>[blue]Friend Requests"
     },
     "GUI.title.friends.requests.sent": {
-        "de-DE": "<i:false>[blue]Gesendete Freundschaftsanfragen</color>",
-        "en-US": "<i:false>[blue]Sent Friend Requests</color>"
+        "de-DE": "<i:false>Gesendete Freundschaftsanfragen",
+        "en-US": "<i:false>Sent Friend Requests"
     },
     "GUI.title.friends" : {
         "de-DE": "<i:false>Freunde",
