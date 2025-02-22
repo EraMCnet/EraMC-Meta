@@ -21,7 +21,7 @@
     "head-moderator": "#ff6a00",
     "moderator": "#ff6a00",
     "helper": "#ffff00",
-    "vip": "#0051ff",
+    "vip": "#77eb0a",
     "media+": "#dd00ff",
     "media": "#dd00ff",
     "default": "#00ff79",
@@ -33,7 +33,7 @@
     "head-moderator_second": "#FF8600",
     "moderator_second": "#FF8600",
     "helper_second": "#FFBA00",
-    "vip_second": "#0051ff",
+    "vip_second": "#77eb0a",
     "media+_second": "#FF00BA",
     "media_second": "#FF00BA",
     "default_second": "#00ffb7"
