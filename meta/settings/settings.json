@@ -9,44 +9,56 @@
         "msg"
     ],
     "fly": {
-        "available-servers": [
+        "servergroups": [
             "*"
         ],
-        "permission": "danismp.command.fly"
+        "permission": "danismp.setting.fly"
     },
     "doublejump": {
-        "available-servers": [
+        "servergroups": [
             "Lobby"
         ],
         "permission": "none"
     },
     "glow": {
-        "available-servers": [
+        "servergroups": [
             "*"
         ],
-        "permission": "danismp.command.glow"
+        "permission": "danismp.setting.glow"
     },
     "size": {
-        "available-servers": [
+        "servergroups": [
             "*"
         ],
-        "permission": "danismp.command.size"
+        "permission": "danismp.setting.size"
     },
     "speed": {
-        "available-servers": [
-            "*"
+        "servergroups": [
+            "Lobby"
         ],
-        "permission": "danismp.command.speed"
+        "permission": "danismp.setting.speed"
     },
     "nightvision": {
-        "available-servers": [
+        "servergroups": [
             "*"
         ],
-        "permission": "danismp.command.nightvision"
+        "permission": "danismp.setting.nightvision"
     },
     "msg": {
-        "available-servers": [
+        "servergroups": [
             "*"
+        ],
+        "permission": "none"
+    },
+    "friendrequests": {
+        "servergroups": [
+            "*"
+        ],
+        "permission": "none"
+    },
+    "playerhider": {
+        "servergroups": [
+            "Lobby"
         ],
         "permission": "none"
     }
