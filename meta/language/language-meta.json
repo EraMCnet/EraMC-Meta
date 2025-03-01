@@ -5,7 +5,7 @@
         "country": "United States",
         "country-local": "United States",
         "code": "en-US",
-        "fallback": "en-US"
+        "fallback": "de-DE"
     },
     "en-GB": {
         "name-local": "English",
@@ -21,14 +21,6 @@
         "country": "Germany",
         "country-local": "Deutschland",
         "code": "de-DE",
-        "fallback": "en-US"
-    },
-    "ru-RU": {
-        "name-local": "Русский",
-        "name": "Russian",
-        "country": "Russia",
-        "country-local": "Россия",
-        "code": "ru-RU",
-        "fallback": "en-US"
+        "fallback": "de-DE"
     }
 }
