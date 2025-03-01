@@ -12,8 +12,8 @@
         "en-US": "<i:false>[blue]Your Profile</color>"
     },
     "ITEM.profile.lore": {
-        "de-DE": "<i:false>[grey]Ändere [blue]einstellungen</color>, greife auf deine [blue]Freunde</color> zu und betrachte deine [blue]Erfolge!</color></color>",
-        "en-US": "<i:false>[grey]Change [blue]settings</color>, access your [blue]friends</color> and view your [blue]achievements!</color></color>"
+        "de-DE": "<i:false>[grey]Ändere [blue]einstellungen</color> und greife auf deine [blue]Freunde</color> zu!</color>",
+        "en-US": "<i:false>[grey]Change [blue]settings</color> and access your [blue]friends!</color></color>"
     },
     "ITEM.cosmetics.name": {
         "de-DE": "<i:false>[blue]Kosmetik</color>",
