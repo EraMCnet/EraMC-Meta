@@ -224,7 +224,7 @@
         "en-US": "No"
     },
     "GENERAL.command.discord": {
-        "de-DE": "<br>[grey]Trete unserem [blue]Discord-Server</color> bei:<br><br>[blue]<click:open_url:'https://discord.gg/DaniSMP'><hover:show_text:'[blue]Klicke hier um den Link in deinem Browser zu öffnen!</color>'>discord.gg/DaniSMP</hover></click></color></color><br>",
-        "en-US": "<br>[grey]Join our [blue]Discord server:</color><br><br>[blue]<click:open_url:'https://discord.gg/DaniSMP'><hover:show_text:'[blue]Click here to open the link in your browser!</color>'>discord.gg/DaniSMP</hover></click></color></color><br>"
+        "de-DE": "[grey]Trete unserem [blue]Discord-Server</color> bei:<br><br>[blue]<click:open_url:'https://discord.gg/DaniSMP'><hover:show_text:'[blue]Klicke hier um den Link in deinem Browser zu öffnen!</color>'>discord.gg/DaniSMP</hover></click></color></color><br>",
+        "en-US": "[grey]Join our [blue]Discord server:</color><br><br>[blue]<click:open_url:'https://discord.gg/DaniSMP'><hover:show_text:'[blue]Click here to open the link in your browser!</color>'>discord.gg/DaniSMP</hover></click></color></color><br>"
     }
 }
