@@ -107,6 +107,22 @@
         "de-DE": "in [amount] Tagen",
         "en-US": "in [amount] days"
     },
+    "DATE.relative.week.ago": {
+        "de-DE": "vor einer Woche",
+        "en-US": "one week ago"
+    },
+    "DATE.relative.week.in": {
+        "de-DE": "in einer Woche",
+        "en-US": "in one week"
+    },
+    "DATE.relative.weeks.ago": {
+        "de-DE": "vor [amount] Wochen",
+        "en-US": "[amount] weeks ago"
+    },
+    "DATE.relative.weeks.in": {
+        "de-DE": "in [amount] Wochen",
+        "en-US": "in [amount] weeks"
+    },
     "DATE.relative.month.ago": {
         "de-DE": "vor einem Monat",
         "en-US": "one month ago"
