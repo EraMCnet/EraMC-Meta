@@ -1,10 +1,10 @@
 {
-    "GENERAL.command.normal": {
+    "CI.normal": {
         "de-DE": "[grey]Verbindungsinformationen von [blue][player]:</color><br>[prefix] Proxy: [blue][proxy]</color><br>[prefix] Server: [blue][server]</color><br>[prefix] Name: [blue][name]</color><br>[prefix] UUID: [blue][uuid]</color><br>[prefix] Zuerst gesehen: [blue][first-seen]</color><br>[prefix] Zeitzone: [blue][timezone]</color></color>",
         "en-US": "[grey]Connection information of [blue][player]:</color><br>[prefix] Proxy: [blue][proxy]</color><br>[prefix] Server: [blue][server]</color><br>[prefix] Name: [blue][name]</color><br>[prefix] UUID: [blue][uuid]</color><br>[prefix] First seen: [blue][first-seen]</color><br>[prefix] Timezone: [blue][timezone]</color></color>"
     },
-    "GENERAL.command.advanced": {
+    "CI.advanced": {
         "de-DE": "[grey]Verbindungsinformationen von [blue][player]:</color><br>[prefix] Proxy: [blue][proxy]</color><br>[prefix] Server: [blue][server]</color><br>[prefix] Name: [blue][name]</color><br>[prefix] UUID: [blue][uuid]</color><br>[prefix] IP: [blue][ip]</color><br>[prefix] IP Risk Score: [blue][risk]</color><br>[prefix] ISP: [blue][isp]</color><br>[prefix] ASN: [blue][asn]</color><br>[prefix] ISP Organisation: [blue][org]</color><br>[prefix] Stadt: [blue][city]</color><br>[prefix] Land: [blue][country]</color><br>[prefix] Zeitzone: [blue][timezone]</color><br>[prefix] Zuerst gesehen: [blue][first-seen]</color><br>[prefix] LuckPerms Gruppen: [blue][groups]</color></color>",
         "en-US": "[grey]Connection information of [blue][player]:</color><br>[prefix] Proxy: [blue][proxy]</color><br>[prefix] Server: [blue][server]</color><br>[prefix] Name: [blue][name]</color><br>[prefix] UUID: [blue][uuid]</color><br>[prefix] IP: [blue][ip]</color><br>[prefix] IP Risk Score: [blue][risk]</color><br>[prefix] ISP: [blue][isp]</color><br>[prefix] ASN: [blue][asn]</color><br>[prefix] ISP Organization: [blue][org]</color><br>[prefix] City: [blue][city]</color><br>[prefix] Country: [blue][country]</color><br>[prefix] Timezone: [blue][timezone]</color><br>[prefix] First seen: [blue][first-seen]</color><br>[prefix] LuckPerms Groups: [blue][groups]</color></color>"
     }
-}
+}   
