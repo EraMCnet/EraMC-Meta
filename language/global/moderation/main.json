@@ -51,6 +51,30 @@
         "en-US": "[grey]Punishment history for [blue][player]:</color></color><br>",
         "de-DE": "[grey]Bestrafungshistorie für [blue][player]:</color></color><br>"
     },
+    "PUNISH.alts.user": {
+        "en-US": "[grey]Users with the same [blue]IP-Address</color> as [blue][player]:</color></color><br>",
+        "de-DE": "[grey]Benutzer mit der gleichen [blue]IP-Adresse</color> wie [blue][player]:</color></color><br>"
+    },
+    "PUNISH.alts.ip": {
+        "en-US": "[grey]Users with the same [blue]IP-Address</color> as [blue][ip]:</color></color><br>",
+        "de-DE": "[grey]Benutzer mit der gleichen [blue]IP-Adresse</color> wie [blue][ip]:</color></color><br>"
+    },
+    "PUNISH.alts.general": {
+        "en-US": "[grey]Users with the same [blue]IP-Address:</color></color><br>",
+        "de-DE": "[grey]Benutzer mit der gleichen [blue]IP-Adresse:</color></color><br>"
+    },
+    "PUNISH.alts.none": {
+        "en-US": "[grey]There are [red]no</color> users with the same IP-Address as [blue][player]</color> on this server.</color>",
+        "de-DE": "[grey]Es gibt [red]keine</color> Benutzer mit der gleichen IP-Adresse wie [blue][player]</color> auf diesem Server.</color>"
+    },
+    "PUNISH.alts.none.ip": {
+        "en-US": "[grey]There are [red]no</color> users with the same IP-Address as [blue][ip]</color> on this server.</color>",
+        "de-DE": "[grey]Es gibt [red]keine</color> Benutzer mit der gleichen IP-Adresse wie [blue][ip]</color> auf diesem Server.</color>"
+    },
+    "PUNISH.alts.none.general": {
+        "en-US": "[grey]There are [red]no</color> users with the same IP-Address on this server.</color>",
+        "de-DE": "[grey]Es gibt [red]keine</color> Benutzer mit der gleichen IP-Adresse auf diesem Server.</color>"
+    },
     "PUNISH.ban.notify": {
         "en-US": "[grey][blue][executor]</color> [red]<b>BANNED</b></color> [blue][player]!</color></color>",
         "de-DE": "[grey][blue][executor]</color> hat [blue][player]</color> [red]<b>GEBANNT!</b></color></color>"
