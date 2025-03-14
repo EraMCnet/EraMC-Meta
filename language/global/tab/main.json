@@ -1,0 +1,14 @@
+{
+    "CATEGORY.discord": {
+        "de-DE": "[grey]ᴛʀᴇᴛᴇ ᴜɴѕᴇʀᴇᴍ [blurple]ᴅɪѕᴄᴏʀᴅ ѕᴇʀᴠᴇʀ</color> ᴍɪᴛ [blurple]/ᴅɪѕᴄᴏʀᴅ</color> ʙᴇɪ</color>",
+        "en-US": "[grey]ᴊᴏɪɴ ᴏᴜʀ [blurple]ᴅɪѕᴄᴏʀᴅ ѕᴇʀᴠᴇʀ</color> ᴡɪᴛʜ [blurple]/ᴅɪѕᴄᴏʀᴅ</color>"
+    },
+    "CATEGORY.store": {
+        "de-DE": "[grey][green]ᴜɴᴛᴇʀѕᴛüᴛᴢᴇ</color> ᴜɴѕ ɪɴ ᴅᴇᴍ ᴅᴜ ᴀᴜꜰ [blue]ѕᴛᴏʀᴇ.ᴅᴀɴɪѕᴍᴘ.ᴅᴇ</color> ᴠᴏʀʙᴇɪѕᴄʜᴀᴜѕᴛ</color>",
+        "en-US": "[grey][green]ѕᴜᴘᴘᴏʀᴛ</color> ᴜѕ ʙʏ ᴠɪѕɪᴛɪɴɢ [blue]ѕᴛᴏʀᴇ.ᴅᴀɴɪѕᴍᴘ.ɴᴇᴛ</color></color>"
+    },
+    "CATEGORY.players": {
+        "de-DE": "[grey]ᴇѕ ѕɪɴᴅ ᴀᴋᴛᴜᴇʟʟ [blue][players]</color> ѕᴘɪᴇʟᴇʀ ᴏɴʟɪɴᴇ</color>",
+        "en-US": "[grey]ᴄᴜʀʀᴇɴᴛʟʏ ᴛʜᴇʀᴇ ᴀʀᴇ [blue][players]</color> ᴘʟᴀʏᴇʀѕ ᴏɴʟɪɴᴇ</color>"
+    }
+}
