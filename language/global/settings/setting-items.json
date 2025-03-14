@@ -146,5 +146,13 @@
     "SETTINGS.playerhider.lore.false": {
         "de-DE": "[grey]<i:false>Verstecke [danismp_gradient]Spieler</gradient> um deine [blue]Privatsphäre</color> zu schützen!<br><br> Aktiviert<br>[red]> Deaktiviert</color></color>",
         "en-US": "[grey]<i:false>Hide [danismp_gradient]players</gradient> to protect your [blue]privacy</color>!<br><br> Enabled<br>[red]> Disabled</color></color>"
+    },
+    "SETTINGS.streamermode.lore.true": {
+        "de-DE": "[grey]<i:false>Aktiviere den [danismp_gradient]Streamermodus</gradient> und schütze deine [blue]Privatsphäre</color>!<br><br>[green]> Aktiviert</color><br>Deaktiviert</color>",
+        "en-US": "[grey]<i:false>Enable the [danismp_gradient]Streamer Mode</gradient> and protect your [blue]privacy</color>!<br><br>[green]> Enabled</color><br>Disabled</color>"
+    }, 
+    "SETTINGS.streamermode.lore.false": {
+        "de-DE": "[grey]<i:false>Aktiviere den [danismp_gradient]Streamermodus</gradient> und schütze deine [blue]Privatsphäre</color>!<br><br> Aktiviert<br>[red]> Deaktiviert</color></color>",
+        "en-US": "[grey]<i:false>Enable the [danismp_gradient]Streamer Mode</gradient> and protect your [blue]privacy</color>!<br><br> Enabled<br>[red]> Disabled</color></color>"
     }
 }

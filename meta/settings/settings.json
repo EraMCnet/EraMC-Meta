@@ -61,5 +61,11 @@
             "Lobby"
         ],
         "permission": "none"
-    }
+    },
+    "streamermode": {
+        "servergroups": [
+            "*"
+        ],
+        "permission": "danismp.setting.streamermode"
+    },
 }
