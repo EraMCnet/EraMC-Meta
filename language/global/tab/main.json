@@ -10,5 +10,9 @@
     "CATEGORY.players": {
         "de-DE": "[grey]ᴇѕ ѕɪɴᴅ ᴀᴋᴛᴜᴇʟʟ [blue][players]</color> ѕᴘɪᴇʟᴇʀ ᴏɴʟɪɴᴇ</color>",
         "en-US": "[grey]ᴄᴜʀʀᴇɴᴛʟʏ ᴛʜᴇʀᴇ ᴀʀᴇ [blue][players]</color> ᴘʟᴀʏᴇʀѕ ᴏɴʟɪɴᴇ</color>"
+    },
+    "CATEGORY.tutorial": {
+        "de-DE": "[grey]ɴᴜᴛᴢᴇ [blue]/ᴛᴜᴛᴏʀɪᴀʟ</color> ᴜᴍ ᴇɪɴ ᴡᴇɴɪɢ [yellow]ʜɪʟꜰᴇ</color> ᴢᴜ ᴇʀʜᴀʟᴛᴇɴ</color>",
+        "en-US": "[grey]ᴜѕᴇ [blue]/ᴛᴜᴛᴏʀɪᴀʟ</color> ᴛᴏ ɢᴇᴛ [yellow]ѕᴏᴍᴇ ʜᴇʟᴘ</color> ᴏɴ ʜᴏᴡ ᴛᴏ ᴘʟᴀʏ</color>"
     }
 }
