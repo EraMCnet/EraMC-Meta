@@ -24,8 +24,8 @@
         "de-DE": "[grey]Alle Bestrafungen für den Spieler [blue][player]</color> wurden [green]erfolgreich</color> gelöscht!</color>"
     },
     "PUNISH.command.error.not.punishable": {
-        "en-US": "[grey]You [red]can't</color> punish this player. Maybe he has a [yellow]higher rank</color> than you?</color>",
-        "de-DE": "[grey]Du kannst diesen Spieler [red]nicht</color> bestrafen. Vielleicht hat er einen [yellow]höheren Rang</color> als du?</color>"
+        "en-US": "[grey]You [red]can't</color> punish this player because he has a higher position in the [yellow]punishment hierarchy.</color></color>",
+        "de-DE": "[grey]Du [red]kannst</color> diesen Spieler nicht bestrafen, da er eine höhere Position in der [yellow]Bestrafungshierarchie</color> hat.</color>"
     },
     "PUNISH.command.reason.list": {
         "en-US": "[grey]Available reasons for punishments:</color><br>[reasons]",
