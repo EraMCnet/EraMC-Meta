@@ -23,6 +23,10 @@
         "en-US": "[grey][green]Successfully</color> wiped all punishments for the player [blue][player]!</color></color>",
         "de-DE": "[grey]Alle Bestrafungen für den Spieler [blue][player]</color> wurden [green]erfolgreich</color> gelöscht!</color>"
     },
+    "PUNISH.command.error.not.punishable": {
+        "en-US": "[grey]You [red]can't</color> punish this player. Maybe he has a [yellow]higher rank</color> than you?</color>",
+        "de-DE": "[grey]Du kannst diesen Spieler [red]nicht</color> bestrafen. Vielleicht hat er einen [yellow]höheren Rang</color> als du?</color>"
+    },
     "PUNISH.command.reason.list": {
         "en-US": "[grey]Available reasons for punishments:</color><br>[reasons]",
         "de-DE": "[grey]Verfügbare Gründe für Bestrafungen:</color><br>[reasons]"
