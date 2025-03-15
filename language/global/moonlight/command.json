@@ -19,6 +19,14 @@
         "de-DE": "[grey]Das Modul [blue][module] [version]</color> wurde [green]erfolgreich</color> geladen!</color>",
         "en-US": "[grey]The module [blue][module] [version]</color> has been loaded [green]successfully!</color></color>"
     },
+    "INFO.artifact.downloading": {
+        "de-DE": "[grey]Lade [blue][artifact]</color> herunter...</color>",
+        "en-US": "[grey]Downloading [blue][artifact]...</color></color>"
+    },
+    "SUCCESS.artifact.download": {
+        "de-DE": "[grey]Das Herunterladen von [blue][artifact]</color> war [green]erfolgreich</color>!",
+        "en-US": "[grey]The download of [blue][artifact]</color> was [green]successful</color>!"
+    },
     "ERROR.module.load.already.loaded": {
         "de-DE": "[grey]Das Modul [blue][module] [version]</color> ist [red]bereits</color> geladen!</color>",
         "en-US": "[grey]The module [blue][module] [version]</color> is [red]already</color> loaded!</color>"
@@ -54,5 +62,13 @@
     "ERROR.module.load.timeout": {
         "de-DE": "[grey]Das Modul [blue][module</color> konnte [red]nicht</color> geladen werden, da es [red]zu lange</color> gedauert hat!</color>",
         "en-US": "[grey]The module [blue][module]</color> could [red]not</color> be loaded, because it took [red]too long!</color></color>"
+    },
+    "ERROR.artifact.download.failed": {
+        "de-DE": "[grey]Das Herunterladen von [blue][artifact]</color> ist [red]fehlgeschlagen</color>!",
+        "en-US": "[grey]The download of [blue][artifact]</color> has [red]failed</color>!"
+    },
+    "ERROR.artifact.download.timeout": {
+        "de-DE": "[grey]Das Herunterladen von [blue][artifact]</color> ist [red]fehlgeschlagen</color>, da es [red]zu lange</color> gedauert hat!",
+        "en-US": "[grey]The download of [blue][artifact]</color> has [red]failed</color>, because it took [red]too long!</color>"
     }
 }
