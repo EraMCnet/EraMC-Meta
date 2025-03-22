@@ -12,60 +12,70 @@
         "servergroups": [
             "*"
         ],
+        "material": "feather",
         "permission": "danismp.setting.fly"
     },
     "doublejump": {
         "servergroups": [
             "Lobby"
         ],
+        "material": "rabbit_foot",
         "permission": "none"
     },
     "glow": {
         "servergroups": [
             "*"
         ],
+        "material": "glowstone_dust",
         "permission": "danismp.setting.glow"
     },
     "size": {
         "servergroups": [
             "*"
         ],
+        "material": "heavy_core",
         "permission": "danismp.setting.size"
     },
     "speed": {
         "servergroups": [
             "Lobby"
         ],
+        "material": "sugar",
         "permission": "danismp.setting.speed"
     },
     "nightvision": {
         "servergroups": [
             "*"
         ],
+        "material": "torch",
         "permission": "danismp.setting.nightvision"
     },
     "msg": {
         "servergroups": [
             "*"
         ],
+        "material": "book",
         "permission": "none"
     },
     "friendrequests": {
         "servergroups": [
             "*"
         ],
+        "material": "armor_stand",
         "permission": "none"
     },
     "playerhider": {
         "servergroups": [
             "Lobby"
         ],
+        "material": "ender_eye",
         "permission": "none"
     },
     "streamermode": {
         "servergroups": [
             "*"
         ],
+        "material": "barrier",
         "permission": "danismp.setting.streamermode"
     }
 }
