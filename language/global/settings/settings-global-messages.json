@@ -1,0 +1,10 @@
+{
+    "SETTING.streamermode.true": {
+        "de-DE": "[grey]Du hast den [blue]Streamermode</color> nun [green]aktiviert!</color></color>",
+        "en-US": "[grey]You have now [blue]activated</color> the [green]Streamermode!</color></color>"
+    },
+    "SETTING.streamermode.false": {
+        "de-DE": "[grey]Du hast den [blue]Streamermode</color> nun [red]deaktiviert!</color></color>",
+        "en-US": "[grey]You have now [blue]deactivated</color> the [red]Streamermode!</color></color>"
+    }
+}
