@@ -1,23 +1,23 @@
 {
     "CLOUD.whitelist.add": {
-        "de-DE": "[grey]Der Spieler [blue][player]</color> wurde [green]erfolgreich</color> zur [blue]Whitelist</color> hinzugefügt.</color>",
-        "en-US": "[grey]Player [blue][player]</color> has been [green]successfully</color> added to the [blue]whitelist.</color></color>"
+        "de-DE": "[grey]Der Spieler [blue][player]</color> wurde [green]erfolgreich</color> zur [blue]Whitelist</color> von Proxy Gruppe [blue][proxy]</color> hinzugefügt.</color>",
+        "en-US": "[grey]Player [blue][player]</color> has been [green]successfully</color> added to the [blue]whitelist</color> of proxy group [blue][proxy].</color></color>"
     },
     "CLOUD.whitelist.remove": {
-        "de-DE": "[grey]Der Spieler [blue][player]</color> wurde von der [blue]Whitelist</color> [red]entfernt.</color></color>",
-        "en-US": "[grey]Player [blue][player]</color> has been [red]removed</color> from the [blue]whitelist.</color></color>"
+        "de-DE": "[grey]Der Spieler [blue][player]</color> wurde von der [blue]Whitelist</color> der Proxy Gruppe [blue][proxy]</color> [red]entfernt.</color></color>",
+        "en-US": "[grey]Player [blue][player]</color> has been [red]removed</color> from the [blue]whitelist</color> of proxy group [blue][proxy].</color></color>"
     },
     "CLOUD.whitelist.list": {
-        "de-DE": "[grey]Die Whitelist enthält [blue][count]</color> Spieler.</color>",
-        "en-US": "[grey]The whitelist contains [blue][count]</color> players.</color>"
+        "de-DE": "[grey]Die Whitelist der Proxy Gruppe [blue][proxy]</color> enthält [blue][count]</color> Spieler.<br>[whitelist]</color>",
+        "en-US": "[grey]The whitelist of proxy group [blue][proxy]</color> contains [blue][count]</color> players.<br>[whitelist]</color>"
     },
     "CLOUD.whitelist.already.whitelisted": {
-        "de-DE": "[grey]Der Spieler [blue][player]</color> ist bereits auf der [blue]Whitelist.</color></color>",
-        "en-US": "[grey]Player [blue][player]</color> is already on the [blue]whitelist.</color></color>"
+        "de-DE": "[grey]Der Spieler [blue][player]</color> ist bereits auf der [blue]Whitelist</color> von Proxy Gruppe [blue][proxy].</color></color>",
+        "en-US": "[grey]Player [blue][player]</color> is already on the [blue]whitelist</color> of proxy group [blue][proxy].</color></color>"
     },
     "CLOUD.whitelist.not.whitelisted": {
-        "de-DE": "[grey]Der Spieler [blue][player]</color> ist nicht auf der [blue]Whitelist.</color></color>",
-        "en-US": "[grey]Player [blue][player]</color> is not on the [blue]whitelist.</color></color>"
+        "de-DE": "[grey]Der Spieler [blue][player]</color> ist nicht auf der [blue]Whitelist</color> von Proxy Gruppe [blue][proxy].</color></color>",
+        "en-US": "[grey]Player [blue][player]</color> is not on the [blue]whitelist</color> of proxy group [blue][proxy].</color></color>"
     },
     "CLOUD.task.maintenance.enable": {
         "de-DE": "[grey]Die [blue]Wartungsarbeiten</color> wurden auf dem Task [blue][task]</color> [green]aktiviert.</color></color>",
