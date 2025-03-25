@@ -35,9 +35,9 @@
         "de-DE": "[grey]Die [blue]Wartungsarbeiten</color> sind bereits auf dem Task [blue][task]</color> [red]deaktiviert.</color></color>",
         "en-US": "[grey]The [blue]maintenance</color> is already [red]disabled</color> on the task [blue][task].</color></color>"
     },
-    "CLOUD.task.maintenance.not.found": {
-        "de-DE": "[grey]Der Task [blue][task]</color> wurde nicht gefunden.</color>",
-        "en-US": "[grey]The task [blue][task]</color> was not found.</color>"
+    "CLOUD.task.not.found": {
+        "de-DE": "[grey]Der Task [blue][task]</color> existiert [red]nicht.</color></color>",
+        "en-US": "[grey]The task [blue][task]</color> does [red]not</color> exist.</color>"
     },
     "CLOUD.proxy.maintenance.enable": {
         "de-DE": "[grey]Die [blue]Wartungsarbeiten</color> wurden auf der Proxy Gruppe [blue][proxy]</color> [green]aktiviert.</color></color>",
@@ -62,6 +62,10 @@
     "CLOUD.proxy.maxplayers.set": {
         "de-DE": "[grey]Die maximale Spieleranzahl der Proxy Gruppe [blue][proxy]</color> wurde auf [blue][maxplayers]</color> gesetzt.</color>",
         "en-US": "[grey]The maximum player count on the proxy [blue][proxy]</color> has been set to [blue][maxplayers].</color></color>"
+    },
+    "CLOUD.proxy.not.found": {
+        "de-DE": "[grey]Die Proxy Gruppe [blue][proxy]</color> existiert [red]nicht.</color></color>",
+        "en-US": "[grey]The proxy group [blue][proxy]</color> does [red]not</color> exist.</color>"
     },
     "CLOUD.task.maxplayers.set": {
         "de-DE": "[grey]Die maximale Spieleranzahl auf dem Task [blue][task]</color> wurde auf [blue][maxplayers]</color> gesetzt.</color>",
