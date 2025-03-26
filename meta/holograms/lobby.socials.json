@@ -3,19 +3,9 @@
         "de-DE": "<b>[blurple]TRETE UNSEREM DISCORD SERVER BEI</color></b><br>[danismp_gradient]discord.gg/danismp</gradient>",
         "en-US": "<b>[blurple]JOIN OUR DISCORD SERVER</color></b><br>[danismp_gradient]discord.gg/danismp</gradient>",
         "location": {
-            "x": 327.500,
-            "y": 6,
-            "z": 240.500,
-            "world": "Lobby-Greek"
-        }
-    },
-    "holo.social.youtube": {
-        "de-DE": "<b>[red]ABONNIERE DANI AUF YOUTUBE</color></b><br>[danismp_gradient]youtube.com/@YTDanilol</gradient>",
-        "en-US": "<b>[red]SUBSCRIBE TO DANI ON YOUTUBE</color></b><br>[danismp_gradient]youtube.com/@YTDanilol</gradient>",
-        "location": {
-            "x": 329.500,
-            "y": 6,
-            "z": 237.500,
+            "x": 328.500,
+            "y": 7,
+            "z": 242.500,
             "world": "Lobby-Greek"
         }
     }
