@@ -1,24 +1,4 @@
 {
-    "CLOUD.whitelist.add": {
-        "de-DE": "[grey]Der Spieler [blue][player]</color> wurde [green]erfolgreich</color> zur [blue]Whitelist</color> von Proxy Gruppe [blue][proxy]</color> hinzugefügt.</color>",
-        "en-US": "[grey]Player [blue][player]</color> has been [green]successfully</color> added to the [blue]whitelist</color> of proxy group [blue][proxy].</color></color>"
-    },
-    "CLOUD.whitelist.remove": {
-        "de-DE": "[grey]Der Spieler [blue][player]</color> wurde von der [blue]Whitelist</color> der Proxy Gruppe [blue][proxy]</color> [red]entfernt.</color></color>",
-        "en-US": "[grey]Player [blue][player]</color> has been [red]removed</color> from the [blue]whitelist</color> of proxy group [blue][proxy].</color></color>"
-    },
-    "CLOUD.whitelist.list": {
-        "de-DE": "[grey]Die Whitelist der Proxy Gruppe [blue][proxy]</color> enthält [blue][count]</color> Spieler.<br>[whitelist]</color>",
-        "en-US": "[grey]The whitelist of proxy group [blue][proxy]</color> contains [blue][count]</color> players.<br>[whitelist]</color>"
-    },
-    "CLOUD.whitelist.already.whitelisted": {
-        "de-DE": "[grey]Der Spieler [blue][player]</color> ist bereits auf der [blue]Whitelist</color> von Proxy Gruppe [blue][proxy].</color></color>",
-        "en-US": "[grey]Player [blue][player]</color> is already on the [blue]whitelist</color> of proxy group [blue][proxy].</color></color>"
-    },
-    "CLOUD.whitelist.not.whitelisted": {
-        "de-DE": "[grey]Der Spieler [blue][player]</color> ist nicht auf der [blue]Whitelist</color> von Proxy Gruppe [blue][proxy].</color></color>",
-        "en-US": "[grey]Player [blue][player]</color> is not on the [blue]whitelist</color> of proxy group [blue][proxy].</color></color>"
-    },
     "CLOUD.task.maintenance.enable": {
         "de-DE": "[grey]Die [blue]Wartungsarbeiten</color> wurden auf dem Task [blue][task]</color> [green]aktiviert.</color></color>",
         "en-US": "[grey]The [blue]maintenance</color> has been [green]enabled</color> on the task [blue][task].</color></color>"
@@ -39,36 +19,8 @@
         "de-DE": "[grey]Der Task [blue][task]</color> existiert [red]nicht.</color></color>",
         "en-US": "[grey]The task [blue][task]</color> does [red]not</color> exist.</color>"
     },
-    "CLOUD.proxy.maintenance.enable": {
-        "de-DE": "[grey]Die [blue]Wartungsarbeiten</color> wurden auf der Proxy Gruppe [blue][proxy]</color> [green]aktiviert.</color></color>",
-        "en-US": "[grey]The [blue]maintenance</color> has been [green]enabled</color> on proxy group [blue][proxy].</color></color>"
-    },
-    "CLOUD.proxy.maintenance.disable": {
-        "de-DE": "[grey]Die [blue]Wartungsarbeiten</color> wurden auf der Proxy Gruppe [blue][proxy]</color> [red]deaktiviert.</color></color>",
-        "en-US": "[grey]The [blue]maintenance</color> has been [red]disabled</color> on proxy group [blue][proxy].</color></color>"
-    },
-    "CLOUD.proxy.maintenance.already.enabled": {
-        "de-DE": "[grey]Die [blue]Wartungsarbeiten</color> sind bereits auf dem Proxy [blue][proxy]</color> [green]aktiviert.</color></color>",
-        "en-US": "[grey]The [blue]maintenance</color> is already [green]enabled</color> on the proxy [blue][proxy].</color></color>"
-    },
-    "CLOUD.proxy.maintenance.already.disabled": {
-        "de-DE": "[grey]Die [blue]Wartungsarbeiten</color> sind bereits auf dem Proxy [blue][proxy]</color> [red]deaktiviert.</color></color>",
-        "en-US": "[grey]The [blue]maintenance</color> is already [red]disabled</color> on the proxy [blue][proxy].</color></color>"
-    },
-    "CLOUD.proxy.maintenance.not.found": {
-        "de-DE": "[grey]Der Proxy [blue][proxy]</color> wurde nicht gefunden.</color>",
-        "en-US": "[grey]The proxy [blue][proxy]</color> was not found.</color>"
-    },
-    "CLOUD.proxy.maxplayers.set": {
-        "de-DE": "[grey]Die maximale Spieleranzahl der Proxy Gruppe [blue][proxy]</color> wurde auf [blue][maxplayers]</color> gesetzt.</color>",
-        "en-US": "[grey]The maximum player count on the proxy [blue][proxy]</color> has been set to [blue][maxplayers].</color></color>"
-    },
-    "CLOUD.proxy.not.found": {
-        "de-DE": "[grey]Die Proxy Gruppe [blue][proxy]</color> existiert [red]nicht.</color></color>",
-        "en-US": "[grey]The proxy group [blue][proxy]</color> does [red]not</color> exist.</color>"
-    },
-    "CLOUD.task.maxplayers.set": {
-        "de-DE": "[grey]Die maximale Spieleranzahl auf dem Task [blue][task]</color> wurde auf [blue][maxplayers]</color> gesetzt.</color>",
-        "en-US": "[grey]The maximum player count on the task [blue][task]</color> has been set to [blue][maxplayers].</color></color>"
+    "CLOUD.task.minservicecount.set": {
+        "de-DE": "[grey]Die minimale Service Anzahl auf dem Task [blue][task]</color> wurde auf [blue][minservicecount]</color> gesetzt.</color>",
+        "en-US": "[grey]The minimum service count on the task [blue][task]</color> has been set to [blue][minservicecount].</color></color>"
     }
 }
