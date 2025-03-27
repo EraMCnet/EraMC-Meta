@@ -7,6 +7,15 @@
             "y": 7,
             "z": 242.500,
             "world": "Lobby-Greek"
-        }
+        },
+        "yaw": null,
+        "pitch": null,
+        "alignment": "center",
+        "background": null,
+        "line_width": null,
+        "see_through": null,
+        "shadow": null,
+        "text_opacity": null,
+        "billboard": "center"
     }
 }

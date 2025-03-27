@@ -7,7 +7,16 @@
             "y": 7,
             "z": 238.500,
             "world": "Lobby-Greek"
-        }
+        },
+        "yaw": null,
+        "pitch": null,
+        "alignment": "center",
+        "background": null,
+        "line_width": null,
+        "see_through": null,
+        "shadow": null,
+        "text_opacity": null,
+        "billboard": "fixed"
     },
     "holo.smp.offline": {
         "de-DE": "<b><gradient:#33FB08:#066B00:#33FB08>SMP SEASON [orange]8</color></gradient></b><br><b><gradient:#ff0000:#b30000:#ff0000>OFFLINE</gradient></b>",
@@ -17,7 +26,16 @@
             "y": 7,
             "z": 238.500,
             "world": "Lobby-Greek"
-        }
+        },
+        "yaw": null,
+        "pitch": null,
+        "alignment": "center",
+        "background": null,
+        "line_width": null,
+        "see_through": null,
+        "shadow": null,
+        "text_opacity": null,
+        "billboard": "fixed"
     },
     "holo.smp.maintenance": {
         "de-DE": "<b><gradient:#33FB08:#066B00:#33FB08>SMP SEASON [orange]8</color></gradient></b><br><b><gradient:#fede00:#ff7700:#fede00>WARTUNGSARBEITEN</gradient></b>",
@@ -27,6 +45,15 @@
             "y": 7,
             "z": 238.500,
             "world": "Lobby-Greek"
-        }
+        },
+        "yaw": null,
+        "pitch": null,
+        "alignment": "center",
+        "background": null,
+        "line_width": null,
+        "see_through": null,
+        "shadow": null,
+        "text_opacity": null,
+        "billboard": "fixed"
     }
 }
