@@ -8,14 +8,14 @@
             "z": 238.500,
             "world": "Lobby-Greek"
         },
-        "yaw": null,
-        "pitch": null,
+        "yaw": "",
+        "pitch": "",
         "alignment": "center",
-        "background": null,
-        "line_width": null,
-        "see_through": null,
-        "shadow": null,
-        "text_opacity": null,
+        "background": "",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "",
+        "text_opacity": "",
         "billboard": "fixed"
     },
     "holo.smp.offline": {
@@ -27,14 +27,14 @@
             "z": 238.500,
             "world": "Lobby-Greek"
         },
-        "yaw": null,
-        "pitch": null,
+        "yaw": "",
+        "pitch": "",
         "alignment": "center",
-        "background": null,
-        "line_width": null,
-        "see_through": null,
-        "shadow": null,
-        "text_opacity": null,
+        "background": "",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "",
+        "text_opacity": "",
         "billboard": "fixed"
     },
     "holo.smp.maintenance": {
@@ -46,14 +46,14 @@
             "z": 238.500,
             "world": "Lobby-Greek"
         },
-        "yaw": null,
-        "pitch": null,
+        "yaw": "",
+        "pitch": "",
         "alignment": "center",
-        "background": null,
-        "line_width": null,
-        "see_through": null,
-        "shadow": null,
-        "text_opacity": null,
+        "background": "",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "",
+        "text_opacity": "",
         "billboard": "fixed"
     }
 }
