@@ -16,6 +16,7 @@
         "see_through": "",
         "shadow": "true",
         "text_opacity": "255",
-        "billboard": "vertical"
+        "billboard": "vertical",
+        "default_background": "true"
     }
 }
