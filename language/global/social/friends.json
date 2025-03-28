@@ -155,43 +155,43 @@
         "de-DE": "[grey]Deine Freunde werden nun [red]nicht</color> mehr benachrichtigt, wenn du den Server [blue]wechselst!</color></color>",
         "en-US": "[grey]Your friends will [red]no longer</color> be notified when you switch the [blue]server!</color></color>"
     },
-    "GENERAL.settings.notify.request.get.enable": {
+    "GENERAL.setting.notify.request.get.enable": {
         "de-DE": "[grey]Du wirst nun [blue]benachrichtigt</color>, wenn du eine [blue]Freundschaftsanfrage</color> erhältst!</color></color>",
         "en-US": "[grey]You will now be [blue]notified</color> when you receive a [blue]friend request!</color></color>"
     },
-    "GENERAL.settings.notify.request.get.disable": {
+    "GENERAL.setting.notify.request.get.disable": {
         "de-DE": "[grey]Du wirst nun [red]nicht</color> mehr benachrichtigt, wenn du eine [blue]Freundschaftsanfrage</color> erhältst!</color></color>",
         "en-US": "[grey]You will [red]no longer</color> be notified when you receive a [blue]friend request!</color></color>"
     },
-    "GENERAL.settings.notify.friends.online.enable": {
+    "GENERAL.setting.notify.friends.online.enable": {
         "de-DE": "[grey]Dir wird nun angezeigt, wie viele deiner [blue]Freunde</color> [green]online</color> sind, wenn du den Server betritst!</color>",
         "en-US": "[grey]You will now be shown how many of your [blue]friends</color> are [green]online</color> when you join the server!</color>"
     },
-    "GENERAL.settings.notify.friends.online.disable": {
+    "GENERAL.setting.notify.friends.online.disable": {
         "de-DE": "[grey]Dir wird nun [red]nicht mehr</color> angezeigt, wie viele deiner [blue]Freunde</color> [green]online</color> sind, wenn du den Server betritst!</color>",
         "en-US": "[grey]You will [red]no longer</color> be shown how many of your [blue]friends</color> are [green]online</color> when you join the server!</color>"
     },
-    "GENERAL.settings.notify.requests.open.enable": {
+    "GENERAL.setting.notify.requests.open.enable": {
         "de-DE": "[grey]Dir wird nun wieder angezeigt, wie viele [blue]Freundschaftsanfragen</color> du offen hast, wenn du den Server betritst!</color>",
         "en-US": "[grey]You will now be shown how many [blue]friend requests</color> you have open when you join the server!</color>"
     },
-    "GENERAL.settings.notify.requests.open.disable": {
+    "GENERAL.setting.notify.requests.open.disable": {
         "de-DE": "[grey]Dir wird nun [red]nicht mehr</color> angezeigt, wie viele [blue]Freundschaftsanfragen</color> du offen hast, wenn du den Server betritst!</color>",
         "en-US": "[grey]You will [red]no longer</color> be shown how many [blue]friend requests</color> you have open when you join the server!</color>"
     },
-    "GENERAL.settings.notify.friend.remove.enable": {
+    "GENERAL.setting.notify.friend.remove.enable": {
         "de-DE": "[grey]Du wirst nun [blue]benachrichtigt</color>, wenn dich ein [blue]Freund</color> aus seiner [blue]Freundesliste</color> entfernt!</color></color>",
         "en-US": "[grey]You will now be [blue]notified</color> when a [blue]friend</color> removes you from his [blue]friendlist!</color></color>"
     },
-    "GENERAL.settings.notify.friend.remove.disable": {
+    "GENERAL.setting.notify.friend.remove.disable": {
         "de-DE": "[grey]Du wirst nun [red]nicht</color> mehr benachrichtigt, wenn dich ein [blue]Freund</color> aus seiner [blue]Freundesliste</color> entfernt!</color></color>",
         "en-US": "[grey]You will [red]no longer</color> be notified when a [blue]friend</color> removes you from his [blue]friendlist!</color></color>"
     },
-    "GENERAL.settings.notify.friend.remove.enable.other": {
+    "GENERAL.setting.notify.friend.remove.enable.other": {
         "de-DE": "[grey]Deine Freunde werden nun [blue]benachrichtigt</color>, wenn du sie aus deiner [blue]Freundesliste</color> entfernst!</color></color>",
         "en-US": "[grey]Your friends will now be [blue]notified</color> when you remove them from your [blue]friendlist!</color></color>"
     },
-    "GENERAL.settings.notify.friend.remove.disable.other": {
+    "GENERAL.setting.notify.friend.remove.disable.other": {
         "de-DE": "[grey]Deine Freunde werden nun [red]nicht</color> mehr benachrichtigt, wenn du sie aus deiner [blue]Freundesliste</color> entfernst!</color></color>",
         "en-US": "[grey]Your friends will [red]no longer</color> be notified when you remove them from your [blue]friendlist!</color></color>"
     },
