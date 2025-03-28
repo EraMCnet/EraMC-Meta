@@ -1,7 +1,7 @@
 {
     "holo.social.discord": {
-        "de-DE": "<b>[blurple]TRETE UNSEREM DISCORD SERVER BEI</color></b><br>[danismp_gradient]discord.gg/danismp</gradient>",
-        "en-US": "<b>[blurple]JOIN OUR DISCORD SERVER</color></b><br>[danismp_gradient]discord.gg/danismp</gradient>",
+        "de-DE": "<b>[blue]DISCORD SERVER</color></b><br>[danismp_gradient]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ ʙᴇɪᴛʀᴇᴛᴇɴ</gradient>",
+        "en-US": "<b>[blue]DISCORD SERVER</color></b><br>[danismp_gradient]ᴄʟɪᴄᴋ ᴛᴏ ᴊᴏɪɴ</gradient>",
         "location": {
             "x": 326.500,
             "y": 7,
@@ -14,8 +14,8 @@
         "background": "",
         "line_width": "",
         "see_through": "",
-        "shadow": "",
-        "text_opacity": "",
+        "shadow": "true",
+        "text_opacity": "255",
         "billboard": "vertical"
     }
 }
