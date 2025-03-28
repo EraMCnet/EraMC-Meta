@@ -1,7 +1,7 @@
 {
     "holo.social.discord": {
-        "de-DE": "<b>[blue]DISCORD SERVER</color></b><br>[danismp_gradient_light]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ ʙᴇɪᴛʀᴇᴛᴇɴ</gradient>",
-        "en-US": "<b>[blue]DISCORD SERVER</color></b><br>[danismp_gradient_light]ᴄʟɪᴄᴋ ᴛᴏ ᴊᴏɪɴ</gradient>",
+        "de-DE": "<b>[blue]DISCORD SERVER</color></b><br><white>ᴋʟɪᴄᴋᴇ ᴢᴜᴍ ʙᴇɪᴛʀᴇᴛᴇɴ</white>",
+        "en-US": "<b>[blue]DISCORD SERVER</color></b><br><white>ᴄʟɪᴄᴋ ᴛᴏ ᴊᴏɪɴ</white>",
         "location": {
             "x": 326.500,
             "y": 7,
