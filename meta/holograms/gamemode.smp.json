@@ -3,9 +3,9 @@
         "de-DE": "<b>[danismp_gradient]SMP SEASON 8</gradient></b><br>[grey][blue][players]</color> / [blue]500</color> Spieler</color>",
         "en-US": "<b>[danismp_gradient]SMP SEASON 8</gradient></b><br>[grey][blue][players]</color> / [orange]500</color> players</color>",
         "location": {
-            "x": 329.500,
+            "x": 325.500,
             "y": 7,
-            "z": 238.500,
+            "z": 237.500,
             "world": "Lobby-Greek"
         },
         "yaw": "-90",
@@ -22,9 +22,9 @@
         "de-DE": "<b>[danismp_gradient]SMP SEASON 8</gradient></b><br><b><gradient:#ff0000:#b30000:#ff0000>OFFLINE</gradient></b>",
         "en-US": "<b>[danismp_gradient]SMP SEASON 8</gradient></b><br><b><gradient:#ff0000:#b30000:#ff0000>OFFLINE</gradient></b>",
         "location": {
-            "x": 329.500,
+            "x": 325.500,
             "y": 7,
-            "z": 238.500,
+            "z": 237.500,
             "world": "Lobby-Greek"
         },
         "yaw": "-90",
@@ -41,9 +41,9 @@
         "de-DE": "<b>[danismp_gradient]SMP SEASON 8</gradient></b><br><b><gradient:#fede00:#ff7700:#fede00>WARTUNGSARBEITEN</gradient></b>",
         "en-US": "<b>[danismp_gradient]SMP SEASON 8</gradient></b><br><b><gradient:#fede00:#ff7700:#fede00>MAINTENANCE</gradient></b>",
         "location": {
-            "x": 329.500,
+            "x": 325.500,
             "y": 7,
-            "z": 238.500,
+            "z": 237.500,
             "world": "Lobby-Greek"
         },
         "yaw": "-90",
