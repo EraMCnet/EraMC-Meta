@@ -119,7 +119,7 @@
         "de-DE": "[grey]<i:false>Wähle aus wer dir [danismp_gradient]Privatnachrichten</gradient> schicken kann!<br><br><i:false>[grey]  Jeder<br><i:false>[grey][purple]> Freunde</color><br><i:false>[grey]  Niemand</color>",
         "en-US": "[grey]<i:false>Choose who can send you [danismp_gradient]private messages!</gradient><br><br><i:false>[grey]  Everyone<br><i:false>[grey][purple]> Friends</color><br><i:false>[grey]  Nobody</color>"
     },
-    "SETTINGS.msg.lore.none": {
+    "SETTING.msg.lore.none": {
         "de-DE": "[grey]<i:false>Wähle aus wer dir [danismp_gradient]Privatnachrichten</gradient> schicken kann!<br><br><i:false>[grey]  Jeder<br><i:false>[grey]  Freunde<br><i:false>[grey][red]> Niemand</color></color>",
         "en-US": "[grey]<i:false>Choose who can send you [danismp_gradient]private messages!</gradient><br><br><i:false>[grey]  Everyone<br><i:false>[grey]  Friends<br><i:false>[grey][red]> Nobody</color></color>"
     },
