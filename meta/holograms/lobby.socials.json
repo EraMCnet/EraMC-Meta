@@ -16,6 +16,6 @@
         "see_through": "",
         "shadow": "",
         "text_opacity": "",
-        "billboard": "center"
+        "billboard": "vertical"
     }
 }
