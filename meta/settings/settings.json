@@ -13,7 +13,7 @@
     ],
     "fly": {
         "servergroups": [
-            "*"
+            "Lobby"
         ],
         "material": "feather",
         "permission": "danismp.setting.fly"
@@ -34,7 +34,7 @@
     },
     "size": {
         "servergroups": [
-            "*"
+            "Lobby"
         ],
         "material": "heavy_core",
         "permission": "danismp.setting.size"
