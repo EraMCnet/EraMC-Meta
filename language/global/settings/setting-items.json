@@ -4,12 +4,12 @@
         "en-US": "<i:false>[blue]Fly</color>"
     },
     "SETTING.fly.lore.true": {
-        "de-DE": "[grey]<i:false>[danismp_gradient]Fliege</gradient> durch die [blue]Luft</color> und spare dir so das nervige laufen!<br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey] Deaktiviert",
-        "en-US": "[grey]<i:false>[danismp_gradient]Fly</gradient> through the [blue]air</color> and save yourself the annoying walking!</color><br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey] Disabled"
+        "de-DE": "[grey]<i:false>[danismp_gradient]Fliege</gradient> durch die [blue]Luft</color> und spare dir so das nervige laufen!<br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey]  Deaktiviert",
+        "en-US": "[grey]<i:false>[danismp_gradient]Fly</gradient> through the [blue]air</color> and save yourself the annoying walking!</color><br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey]  Disabled"
     },
     "SETTING.fly.lore.false": {
-        "de-DE": "[grey]<i:false>[danismp_gradient]Fliege</gradient> durch die [blue]Luft</color> und spare dir so das nervige laufen!<br><br><i:false>[grey] Aktiviert<br><i:false>[grey][red]> Deaktiviert</color>",
-        "en-US": "[grey]<i:false>[danismp_gradient]Fly</gradient> through the [blue]air</color> and save yourself the annoying walking!<br><br><i:false>[grey] Enabled<br><i:false>[grey][red]> Disabled</color>"
+        "de-DE": "[grey]<i:false>[danismp_gradient]Fliege</gradient> durch die [blue]Luft</color> und spare dir so das nervige laufen!<br><br><i:false>[grey]  Aktiviert<br><i:false>[grey][red]> Deaktiviert</color>",
+        "en-US": "[grey]<i:false>[danismp_gradient]Fly</gradient> through the [blue]air</color> and save yourself the annoying walking!<br><br><i:false>[grey]  Enabled<br><i:false>[grey][red]> Disabled</color>"
     },
     "SETTINGS.fly.lore.false.no.perms": {
         "de-DE": "[grey]<i:false>[danismp_gradient]Fliege</gradient> durch die [blue]Luft</color> und spare dir so das nervige laufen!<br><br><i:false>[grey]Du benötigst folgenden [blue]Rang</color> um dieses [blue]Feature</color> nutzen zu können: [red][rank]</color>",
@@ -20,12 +20,12 @@
         "en-US": "<i:false>[blue]Doublejump</color>"
     },
     "SETTING.doublejump.lore.true": {
-        "de-DE": "[grey]<i:false>Aktiviere den [danismp_gradient]Doppelsprung</gradient> und Springe [blue]höher</color> und spare dir so einige Schritte!<br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey] Deaktiviert",
-        "en-US": "[grey]<i:false>Enable the [danismp_gradient]Doublejump</gradient> and jump [blue]higher</color> and save yourself some steps!<br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey] Disabled"
+        "de-DE": "[grey]<i:false>Aktiviere den [danismp_gradient]Doppelsprung</gradient> und Springe [blue]höher</color> und spare dir so einige Schritte!<br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey]  Deaktiviert",
+        "en-US": "[grey]<i:false>Enable the [danismp_gradient]Doublejump</gradient> and jump [blue]higher</color> and save yourself some steps!<br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey]  Disabled"
     },
     "SETTING.doublejump.lore.false": {
-        "de-DE": "[grey]<i:false>Aktiviere den [danismp_gradient]Doppelsprung</gradient> und Springe [blue]höher</color> und spare dir so einige Schritte!<br><br><i:false>[grey] Aktiviert<br><i:false>[grey][red]> Deaktiviert</color>",
-        "en-US": "[grey]<i:false>Enable the [danismp_gradient]Doublejump</gradient> and jump [blue]higher</color> and save yourself some steps!<br><br><i:false>[grey] Enabled<br><i:false>[grey][red]> Disabled</color>"
+        "de-DE": "[grey]<i:false>Aktiviere den [danismp_gradient]Doppelsprung</gradient> und Springe [blue]höher</color> und spare dir so einige Schritte!<br><br><i:false>[grey]  Aktiviert<br><i:false>[grey][red]> Deaktiviert</color>",
+        "en-US": "[grey]<i:false>Enable the [danismp_gradient]Doublejump</gradient> and jump [blue]higher</color> and save yourself some steps!<br><br><i:false>[grey]  Enabled<br><i:false>[grey][red]> Disabled</color>"
     },
     "SETTING.doublejump.lore.false.no.perms": {
         "de-DE": "[grey]<i:false>Aktiviere den [danismp_gradient]Doppelsprung</gradient> und Springe [blue]höher</color> und spare dir so einige Schritte!<br><br><i:false>[grey]Du benötigst folgenden [blue]Rang</color> um dieses [blue]Feature</color> nutzen zu können: [red][rank]</color>",
@@ -36,12 +36,12 @@
         "en-US": "<i:false>[blue]Glowing</color>"
     },
     "SETTING.glow.lore.true": {
-        "de-DE": "[grey]<i:false>Aktiviere das [danismp_gradient]Leuchten</gradient> und mache auf dich [blue]Aufmerksam!</color><br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey] Deaktiviert",
-        "en-US": "[grey]<i:false>Enable the [danismp_gradient]Glow</gradient> and make yourself [blue]noticeable!</color><br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey] Disabled"
+        "de-DE": "[grey]<i:false>Aktiviere das [danismp_gradient]Leuchten</gradient> und mache auf dich [blue]Aufmerksam!</color><br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey]  Deaktiviert",
+        "en-US": "[grey]<i:false>Enable the [danismp_gradient]Glow</gradient> and make yourself [blue]noticeable!</color><br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey]  Disabled"
     },
     "SETTING.glow.lore.false": {
-        "de-DE": "[grey]<i:false>Aktiviere das [danismp_gradient]Leuchten</gradient> und mache auf dich [blue]Aufmerksam!</color><br><br><i:false>[grey] Aktiviert<br><i:false>[grey][red]> Deaktiviert</color>",
-        "en-US": "[grey]<i:false>Enable the [danismp_gradient]Glow</gradient> and make yourself [blue]noticeable!</color><br><br><i:false>[grey] Enabled<br><i:false>[grey][red]> Disabled</color>"
+        "de-DE": "[grey]<i:false>Aktiviere das [danismp_gradient]Leuchten</gradient> und mache auf dich [blue]Aufmerksam!</color><br><br><i:false>[grey]  Aktiviert<br><i:false>[grey][red]> Deaktiviert</color>",
+        "en-US": "[grey]<i:false>Enable the [danismp_gradient]Glow</gradient> and make yourself [blue]noticeable!</color><br><br><i:false>[grey]  Enabled<br><i:false>[grey][red]> Disabled</color>"
     },
     "SETTING.glow.lore.false.no.perms": {
         "de-DE": "[grey]<i:false>Aktiviere das [danismp_gradient]Leuchten</gradient> und mache auf dich [blue]Aufmerksam!</color><br><br>D<i:false>[grey]u benötigst folgenden [blue]Rang</color> um dieses [blue]Feature</color> nutzen zu können: [red][rank]</color>",
@@ -52,24 +52,24 @@
         "en-US": "<i:false>[blue]Size</color>"
     },
     "SETTING.size.lore.normal": {
-        "de-DE": "[grey]<i:false>Verändere deine [danismp_gradient]Größe</gradient> nach Belieben!<br><br><i:false>[grey] Winzig<br><i:false>[grey] Klein<br><i:false>[grey][green]> Normal</color><br><i:false>[grey] Groß<br><i:false>[grey] Gigantisch",
-        "en-US": "[grey]<i:false>Change your [danismp_gradient]size</gradient> as you wish!<br><br><i:false>[grey] Tiny<br><i:false>[grey] Small<br><i:false>[grey][green]> Normal</color><br><i:false>[grey] Big<br><i:false>[grey] Giant"
+        "de-DE": "[grey]<i:false>Verändere deine [danismp_gradient]Größe</gradient> nach Belieben!<br><br><i:false>[grey]  Winzig<br><i:false>[grey]  Klein<br><i:false>[grey][green]> Normal</color><br><i:false>[grey]  Groß<br><i:false>[grey]  Gigantisch",
+        "en-US": "[grey]<i:false>Change your [danismp_gradient]size</gradient> as you wish!<br><br><i:false>[grey]  Tiny<br><i:false>[grey]  Small<br><i:false>[grey][green]> Normal</color><br><i:false>[grey]  Big<br><i:false>[grey]  Giant"
     },
     "SETTING.size.lore.big": {
-        "de-DE": "[grey]<i:false>Verändere deine [danismp_gradient]Größe</gradient> nach Belieben!<br><br><i:false>[grey] Winzig<br><i:false>[grey] Klein<br><i:false>[grey] Normal<br><i:false>[grey][green]> Groß</color><br><i:false>[grey] Gigantisch</color>",
-        "en-US": "[grey]<i:false>Change your [danismp_gradient]size</gradient> as you wish!<br><br><i:false>[grey] Tiny<br><i:false>[grey] Small<br><i:false>[grey] Normal<br><i:false>[grey][green]> Big</color><br><i:false>[grey] Giant</color>"
+        "de-DE": "[grey]<i:false>Verändere deine [danismp_gradient]Größe</gradient> nach Belieben!<br><br><i:false>[grey]  Winzig<br><i:false>[grey]  Klein<br><i:false>[grey]  Normal<br><i:false>[grey][green]> Groß</color><br><i:false>[grey]  Gigantisch</color>",
+        "en-US": "[grey]<i:false>Change your [danismp_gradient]size</gradient> as you wish!<br><br><i:false>[grey]  Tiny<br><i:false>[grey]  Small<br><i:false>[grey]  Normal<br><i:false>[grey][green]> Big</color><br><i:false>[grey]  Giant</color>"
     },
     "SETTING.size.lore.giant": {
-        "de-DE": "[grey]<i:false>Verändere deine [danismp_gradient]Größe</gradient> nach Belieben!<br><br><i:false>[grey] Winzig<br><i:false>[grey] Klein<br><i:false>[grey] Normal<br><i:false>[grey] Groß<br><i:false>[grey][green]> Gigantisch</color></color>",
-        "en-US": "[grey]<i:false>Change your [danismp_gradient]size</gradient> as you wish!<br><br><i:false>[grey] Tiny<br><i:false>[grey] Small<br><i:false>[grey] Normal<br><i:false>[grey] Big<br><i:false>[grey][green]> Giant</color></color>"
+        "de-DE": "[grey]<i:false>Verändere deine [danismp_gradient]Größe</gradient> nach Belieben!<br><br><i:false>[grey]  Winzig<br><i:false>[grey]  Klein<br><i:false>[grey]  Normal<br><i:false>[grey]  Groß<br><i:false>[grey][green]> Gigantisch</color></color>",
+        "en-US": "[grey]<i:false>Change your [danismp_gradient]size</gradient> as you wish!<br><br><i:false>[grey]  Tiny<br><i:false>[grey]  Small<br><i:false>[grey]  Normal<br><i:false>[grey]  Big<br><i:false>[grey][green]> Giant</color></color>"
     },
     "SETTING.size.lore.small": {
-        "de-DE": "[grey]<i:false>Verändere deine [danismp_gradient]Größe</gradient> nach Belieben!<br><br><i:false>[grey] Winzig<br><i:false>[grey][green]> Klein</color><br><i:false>[grey] Normal<br><i:false>[grey] Groß<br><i:false>[grey] Gigantisch</color>",
-        "en-US": "[grey]<i:false>Change your [danismp_gradient]size</gradient> as you wish!<br><br><i:false>[grey] Tiny<br><i:false>[grey][green]> Small</color><br><i:false>[grey] Normal<br><i:false>[grey] Big<br><i:false>[grey] Giant</color>"
+        "de-DE": "[grey]<i:false>Verändere deine [danismp_gradient]Größe</gradient> nach Belieben!<br><br><i:false>[grey]  Winzig<br><i:false>[grey][green]> Klein</color><br><i:false>[grey]  Normal<br><i:false>[grey]  Groß<br><i:false>[grey]  Gigantisch</color>",
+        "en-US": "[grey]<i:false>Change your [danismp_gradient]size</gradient> as you wish!<br><br><i:false>[grey]  Tiny<br><i:false>[grey][green]> Small</color><br><i:false>[grey]  Normal<br><i:false>[grey]  Big<br><i:false>[grey]  Giant</color>"
     },
     "SETTING.size.lore.tiny": {
-        "de-DE": "[grey]<i:false>Verändere deine [danismp_gradient]Größe</gradient> nach Belieben!<br><br><i:false>[grey][green]> Winzig</color><br><i:false>[grey] Klein<br><i:false>[grey] Normal<br><i:false>[grey] Groß<br><i:false>[grey] Gigantisch</color>",
-        "en-US": "[grey]<i:false>Change your [danismp_gradient]size</gradient> as you wish!<br><br><i:false>[grey][green]> Tiny</color><br><i:false>[grey] Small<br><i:false>[grey] Normal<br><i:false>[grey] Big<br><i:false>[grey] Giant</color>"
+        "de-DE": "[grey]<i:false>Verändere deine [danismp_gradient]Größe</gradient> nach Belieben!<br><br><i:false>[grey][green]> Winzig</color><br><i:false>[grey]  Klein<br><i:false>[grey]  Normal<br><i:false>[grey]  Groß<br><i:false>[grey]  Gigantisch</color>",
+        "en-US": "[grey]<i:false>Change your [danismp_gradient]size</gradient> as you wish!<br><br><i:false>[grey][green]> Tiny</color><br><i:false>[grey]  Small<br><i:false>[grey]  Normal<br><i:false>[grey]  Big<br><i:false>[grey]  Giant</color>"
     },
     "SETTING.size.lore.false.no.perms": {
         "de-DE": "[grey]<i:false>Verändere deine [danismp_gradient]Größe</gradient> nach Belieben!<br><br><i:false>[grey]Du benötigst folgenden [blue]Rang</color> um dieses [blue]Feature</color> nutzen zu können: [red][rank]</color></color>",
@@ -80,12 +80,12 @@
         "en-US": "<i:false>[blue]Speed</color>"
     },
     "SETTING.speed.lore.true": {
-        "de-DE": "[grey]<i:false>Erhöhe deine [danismp_gradient]Geschwindigkeit</gradient> und bewege dich [blue]schneller!</color><br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey] Deaktiviert</color>",
-        "en-US": "[grey]<i:false>Increase your [danismp_gradient]speed</gradient> and move [blue]faster!</color><br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey] Disabled</color>"
+        "de-DE": "[grey]<i:false>Erhöhe deine [danismp_gradient]Geschwindigkeit</gradient> und bewege dich [blue]schneller!</color><br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey]  Deaktiviert</color>",
+        "en-US": "[grey]<i:false>Increase your [danismp_gradient]speed</gradient> and move [blue]faster!</color><br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey]  Disabled</color>"
     },
     "SETTING.speed.lore.false": {
-        "de-DE": "[grey]<i:false>Erhöhe deine [danismp_gradient]Geschwindigkeit</gradient> und bewege dich [blue]schneller!</color><br><br><i:false>[grey] Aktiviert<br><i:false>[grey][red]> Deaktiviert</color></color>",
-        "en-US": "[grey]<i:false>Increase your [danismp_gradient]speed</gradient> and move [blue]faster!</color><br><br><i:false>[grey] Enabled<br><i:false>[grey][red]> Disabled</color></color>"
+        "de-DE": "[grey]<i:false>Erhöhe deine [danismp_gradient]Geschwindigkeit</gradient> und bewege dich [blue]schneller!</color><br><br><i:false>[grey]  Aktiviert<br><i:false>[grey][red]> Deaktiviert</color></color>",
+        "en-US": "[grey]<i:false>Increase your [danismp_gradient]speed</gradient> and move [blue]faster!</color><br><br><i:false>[grey]  Enabled<br><i:false>[grey][red]> Disabled</color></color>"
     },
     "SETTING.speed.lore.false.no.perms": {
         "de-DE": "[grey]<i:false>Erhöhe deine [danismp_gradient]Geschwindigkeit</gradient> und bewege dich [blue]schneller!</color><br><br><i:false>[grey]Du benötigst folgenden [blue]Rang</color> um dieses [blue]Feature</color> nutzen zu können: [red][rank]</color></color>",
@@ -96,12 +96,12 @@
         "en-US": "<i:false>[blue]Night Vision</color>"
     },
     "SETTING.nightvision.lore.true": {
-        "de-DE": "[grey]<i:false>Aktiviere [danismp_gradient]Nachtsicht</gradient> und sehe in der [blue]Dunkelheit</color> wie am Tag!<br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey] Deaktiviert</color>",
-        "en-US": "[grey]<i:false>Enable [danismp_gradient]Night Vision</gradient> and see in the [blue]dark</color> as if it were day!<br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey] Disabled</color>"
+        "de-DE": "[grey]<i:false>Aktiviere [danismp_gradient]Nachtsicht</gradient> und sehe in der [blue]Dunkelheit</color> wie am Tag!<br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey]  Deaktiviert</color>",
+        "en-US": "[grey]<i:false>Enable [danismp_gradient]Night Vision</gradient> and see in the [blue]dark</color> as if it were day!<br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey]  Disabled</color>"
     },
     "SETTING.nightvision.lore.false": {
-        "de-DE": "[grey]<i:false>Aktiviere [danismp_gradient]Nachtsicht</gradient> und sehe in der [blue]Dunkelheit</color> wie am Tag!<br><br><i:false>[grey] Aktiviert<br><i:false>[grey][red]> Deaktiviert</color></color>",
-        "en-US": "[grey]<i:false>Enable [danismp_gradient]Night Vision</gradient> and see in the [blue]dark</color> as if it were day!<br><br><i:false>[grey] Enabled<br><i:false>[grey][red]> Disabled</color></color>"
+        "de-DE": "[grey]<i:false>Aktiviere [danismp_gradient]Nachtsicht</gradient> und sehe in der [blue]Dunkelheit</color> wie am Tag!<br><br><i:false>[grey]  Aktiviert<br><i:false>[grey][red]> Deaktiviert</color></color>",
+        "en-US": "[grey]<i:false>Enable [danismp_gradient]Night Vision</gradient> and see in the [blue]dark</color> as if it were day!<br><br><i:false>[grey]  Enabled<br><i:false>[grey][red]> Disabled</color></color>"
     },
     "SETTING.nightvision.lore.false.no.perms": {
         "de-DE": "[grey]<i:false>Aktiviere [danismp_gradient]Nachtsicht</gradient> und sehe in der [blue]Dunkelheit</color> wie am Tag!<br><br><i:false>[grey]Du benötigst folgenden [blue]Rang</color> um dieses [blue]Feature</color> nutzen zu können: [red][rank]</color></color>",
@@ -112,47 +112,47 @@
         "en-US": "<i:false>[blue]Private Messages</color>"
     },
     "SETTING.msg.lore.all": {
-        "de-DE": "[grey]<i:false>Wähle aus wer dir [danismp_gradient]Privatnachrichten</gradient> schicken kann!<br><br><i:false>[grey][green]> Jeder</color><br><i:false>[grey] Freunde<br><i:false>[grey] Niemand</color>",
-        "en-US": "[grey]<i:false>Choose who can send you [danismp_gradient]private messages</gradient>!<br><br><i:false>[grey][green]> Everyone</color><br><i:false>[grey] Friends<br>Nobody</color>"
+        "de-DE": "[grey]<i:false>Wähle aus wer dir [danismp_gradient]Privatnachrichten</gradient> schicken kann!<br><br><i:false>[grey][green]> Jeder</color><br><i:false>[grey]  Freunde<br><i:false>[grey]  Niemand</color>",
+        "en-US": "[grey]<i:false>Choose who can send you [danismp_gradient]private messages</gradient>!<br><br><i:false>[grey][green]> Everyone</color><br><i:false>[grey]  Friends<br>Nobody</color>"
     },
     "SETTING.msg.lore.friends": {
-        "de-DE": "[grey]<i:false>Wähle aus wer dir [danismp_gradient]Privatnachrichten</gradient> schicken kann!<br><br><i:false>[grey] Jeder<br><i:false>[grey][purple]> Freunde</color><br><i:false>[grey] Niemand</color>",
-        "en-US": "[grey]<i:false>Choose who can send you [danismp_gradient]private messages</gradient>!<br><br><i:false>[grey] Everyone<br><i:false>[grey][purple]> Friends</color><br><i:false>[grey] Nobody</color>"
+        "de-DE": "[grey]<i:false>Wähle aus wer dir [danismp_gradient]Privatnachrichten</gradient> schicken kann!<br><br><i:false>[grey]  Jeder<br><i:false>[grey][purple]> Freunde</color><br><i:false>[grey]  Niemand</color>",
+        "en-US": "[grey]<i:false>Choose who can send you [danismp_gradient]private messages</gradient>!<br><br><i:false>[grey]  Everyone<br><i:false>[grey][purple]> Friends</color><br><i:false>[grey]  Nobody</color>"
     },
     "SETTINGS.msg.lore.none": {
-        "de-DE": "[grey]<i:false>Wähle aus wer dir [danismp_gradient]Privatnachrichten</gradient> schicken kann!<br><br><i:false>[grey] Jeder<br><i:false>[grey] Freunde<br><i:false>[grey][red]> Niemand</color></color>",
-        "en-US": "[grey]<i:false>Choose who can send you [danismp_gradient]private messages</gradient>!<br><br><i:false>[grey] Everyone<br><i:false>[grey] Friends<br><i:false>[grey][red]> Nobody</color></color>"
+        "de-DE": "[grey]<i:false>Wähle aus wer dir [danismp_gradient]Privatnachrichten</gradient> schicken kann!<br><br><i:false>[grey]  Jeder<br><i:false>[grey]  Freunde<br><i:false>[grey][red]> Niemand</color></color>",
+        "en-US": "[grey]<i:false>Choose who can send you [danismp_gradient]private messages</gradient>!<br><br><i:false>[grey]  Everyone<br><i:false>[grey]  Friends<br><i:false>[grey][red]> Nobody</color></color>"
     },
     "SETTINGS.friendrequests.name": {
         "de-DE": "<i:false>[blue]Freundschaftsanfragen</color>",
         "en-US": "<i:false>[blue]Friendrequests</color>"
     },
     "SETTINGS.friendrequests.lore.true": {
-        "de-DE": "[grey]<i:false>Wähle aus wer dir [danismp_gradient]Freundschaftsanfragen</gradient> schicken kann!<br><br><i:false>[grey][green]> Jeder</color><br><i:false>[grey] Niemand</color>",
-        "en-US": "[grey]<i:false>Choose who can send you [danismp_gradient]friend requests</gradient>!<br><br><i:false>[grey][green]> Everyone</color><br><i:false>[grey] Nobody</color>"
+        "de-DE": "[grey]<i:false>Wähle aus wer dir [danismp_gradient]Freundschaftsanfragen</gradient> schicken kann!<br><br><i:false>[grey][green]> Jeder</color><br><i:false>[grey]  Niemand</color>",
+        "en-US": "[grey]<i:false>Choose who can send you [danismp_gradient]friend requests</gradient>!<br><br><i:false>[grey][green]> Everyone</color><br><i:false>[grey]  Nobody</color>"
     },
     "SETTINGS.friendrequests.lore.false": {
-        "de-DE": "[grey]<i:false>Wähle aus wer dir [danismp_gradient]Freundschaftsanfragen</gradient> schicken kann!<br><br><i:false>[grey] Jeder<br><i:false>[grey][red]> Niemand</color></color>",
-        "en-US": "[grey]<i:false>Choose who can send you [danismp_gradient]friend requests</gradient>!<br><br><i:false>[grey] Everyone<br><i:false>[grey][red]> Nobody</color></color>"
+        "de-DE": "[grey]<i:false>Wähle aus wer dir [danismp_gradient]Freundschaftsanfragen</gradient> schicken kann!<br><br><i:false>[grey]  Jeder<br><i:false>[grey][red]> Niemand</color></color>",
+        "en-US": "[grey]<i:false>Choose who can send you [danismp_gradient]friend requests</gradient>!<br><br><i:false>[grey]  Everyone<br><i:false>[grey][red]> Nobody</color></color>"
     },
     "SETTUBGS.playerhider.name": {
         "de-DE": "<i:false>[blue]Spieler verstecken</color>",
         "en-US": "<i:false>[blue]Hide Players</color>"
     },
     "SETTINGS.playerhider.lore.true": {
-        "de-DE": "[grey]<i:false>Verstecke [danismp_gradient]Spieler</gradient> um deine [blue]Privatsphäre</color> zu schützen!<br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey] Deaktiviert</color>",
-        "en-US": "[grey]<i:false>Hide [danismp_gradient]players</gradient> to protect your [blue]privacy</color>!<br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey] Disabled</color>"
+        "de-DE": "[grey]<i:false>Verstecke [danismp_gradient]Spieler</gradient> um deine [blue]Privatsphäre</color> zu schützen!<br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey]  Deaktiviert</color>",
+        "en-US": "[grey]<i:false>Hide [danismp_gradient]players</gradient> to protect your [blue]privacy</color>!<br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey]  Disabled</color>"
     },
     "SETTINGS.playerhider.lore.false": {
-        "de-DE": "[grey]<i:false>Verstecke [danismp_gradient]Spieler</gradient> um deine [blue]Privatsphäre</color> zu schützen!<br><br><i:false>[grey] Aktiviert<br><i:false>[grey][red]> Deaktiviert</color></color>",
-        "en-US": "[grey]<i:false>Hide [danismp_gradient]players</gradient> to protect your [blue]privacy</color>!<br><br><i:false>[grey] Enabled<br><i:false>[grey][red]> Disabled</color></color>"
+        "de-DE": "[grey]<i:false>Verstecke [danismp_gradient]Spieler</gradient> um deine [blue]Privatsphäre</color> zu schützen!<br><br><i:false>[grey]  Aktiviert<br><i:false>[grey][red]> Deaktiviert</color></color>",
+        "en-US": "[grey]<i:false>Hide [danismp_gradient]players</gradient> to protect your [blue]privacy</color>!<br><br><i:false>[grey]  Enabled<br><i:false>[grey][red]> Disabled</color></color>"
     },
     "SETTINGS.streamermode.lore.true": {
-        "de-DE": "[grey]<i:false>Aktiviere den [danismp_gradient]Streamermodus</gradient> und schütze deine [blue]Privatsphäre</color>!<br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey] Deaktiviert</color>",
-        "en-US": "[grey]<i:false>Enable the [danismp_gradient]Streamer Mode</gradient> and protect your [blue]privacy</color>!<br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey] Disabled</color>"
+        "de-DE": "[grey]<i:false>Aktiviere den [danismp_gradient]Streamermodus</gradient> und schütze deine [blue]Privatsphäre</color>!<br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey]  Deaktiviert</color>",
+        "en-US": "[grey]<i:false>Enable the [danismp_gradient]Streamer Mode</gradient> and protect your [blue]privacy</color>!<br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey]  Disabled</color>"
     }, 
     "SETTINGS.streamermode.lore.false": {
-        "de-DE": "[grey]<i:false>Aktiviere den [danismp_gradient]Streamermodus</gradient> und schütze deine [blue]Privatsphäre</color>!<br><br><i:false>[grey] Aktiviert<br><i:false>[grey][red]> Deaktiviert</color></color>",
-        "en-US": "[grey]<i:false>Enable the [danismp_gradient]Streamer Mode</gradient> and protect your [blue]privacy</color>!<br><br><i:false>[grey] Enabled<br><i:false>[grey][red]> Disabled</color></color>"
+        "de-DE": "[grey]<i:false>Aktiviere den [danismp_gradient]Streamermodus</gradient> und schütze deine [blue]Privatsphäre</color>!<br><br><i:false>[grey]  Aktiviert<br><i:false>[grey][red]> Deaktiviert</color></color>",
+        "en-US": "[grey]<i:false>Enable the [danismp_gradient]Streamer Mode</gradient> and protect your [blue]privacy</color>!<br><br><i:false>[grey]  Enabled<br><i:false>[grey][red]> Disabled</color></color>"
     }
 }
