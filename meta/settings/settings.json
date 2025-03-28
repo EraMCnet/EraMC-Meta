@@ -6,7 +6,10 @@
         "size",
         "speed",
         "nightvision",
-        "msg"
+        "msg",
+        "friendrequests",
+        "playerhider",
+        "streamermode"
     ],
     "fly": {
         "servergroups": [
