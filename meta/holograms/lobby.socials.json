@@ -11,7 +11,7 @@
         "yaw": "",
         "pitch": "",
         "alignment": "center",
-        "background": "",
+        "background": "#000000",
         "line_width": "",
         "see_through": "",
         "shadow": "true",
