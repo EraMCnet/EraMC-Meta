@@ -11,12 +11,12 @@
         "yaw": "",
         "pitch": "",
         "alignment": "center",
-        "background": "",
+        "background": "TRANSPARENT",
         "line_width": "",
         "see_through": "",
         "shadow": "true",
         "text_opacity": "255",
         "billboard": "vertical",
-        "default_background": "true"
+        "default_background": "false"
     }
 }

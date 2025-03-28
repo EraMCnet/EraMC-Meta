@@ -17,7 +17,7 @@
         "shadow": "true",
         "text_opacity": "255",
         "billboard": "fixed",
-        "default_background": "true"
+        "default_background": "false"
     },
     "holo.smp.offline": {
         "de-DE": "<b>[danismp_gradient]SMP SEASON 8</gradient></b><br><b><gradient:#ff0000:#b30000:#ff0000>OFFLINE</gradient></b>",
@@ -37,7 +37,7 @@
         "shadow": "true",
         "text_opacity": "255",
         "billboard": "fixed",
-        "default_background": "true"
+        "default_background": "false"
     },
     "holo.smp.maintenance": {
         "de-DE": "<b>[danismp_gradient]SMP SEASON 8</gradient></b><br><b><gradient:#fede00:#ff7700:#fede00>WARTUNGSARBEITEN</gradient></b>",
@@ -57,6 +57,6 @@
         "shadow": "true",
         "text_opacity": "255",
         "billboard": "fixed",
-        "default_background": "true"
+        "default_background": "false"
     }
 }
