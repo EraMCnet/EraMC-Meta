@@ -113,15 +113,15 @@
     },
     "SETTING.msg.lore.all": {
         "de-DE": "[grey]<i:false>Wähle aus wer dir [danismp_gradient]Privatnachrichten</gradient> schicken kann!<br><br><i:false>[grey][green]> Jeder</color><br><i:false>[grey]  Freunde<br><i:false>[grey]  Niemand</color>",
-        "en-US": "[grey]<i:false>Choose who can send you [danismp_gradient]private messages</gradient>!<br><br><i:false>[grey][green]> Everyone</color><br><i:false>[grey]  Friends<br>Nobody</color>"
+        "en-US": "[grey]<i:false>Choose who can send you [danismp_gradient]private messages!</gradient><br><br><i:false>[grey][green]> Everyone</color><br><i:false>[grey]  Friends<br><i:false>[grey]  Nobody</color>"
     },
     "SETTING.msg.lore.friends": {
         "de-DE": "[grey]<i:false>Wähle aus wer dir [danismp_gradient]Privatnachrichten</gradient> schicken kann!<br><br><i:false>[grey]  Jeder<br><i:false>[grey][purple]> Freunde</color><br><i:false>[grey]  Niemand</color>",
-        "en-US": "[grey]<i:false>Choose who can send you [danismp_gradient]private messages</gradient>!<br><br><i:false>[grey]  Everyone<br><i:false>[grey][purple]> Friends</color><br><i:false>[grey]  Nobody</color>"
+        "en-US": "[grey]<i:false>Choose who can send you [danismp_gradient]private messages!</gradient><br><br><i:false>[grey]  Everyone<br><i:false>[grey][purple]> Friends</color><br><i:false>[grey]  Nobody</color>"
     },
     "SETTINGS.msg.lore.none": {
         "de-DE": "[grey]<i:false>Wähle aus wer dir [danismp_gradient]Privatnachrichten</gradient> schicken kann!<br><br><i:false>[grey]  Jeder<br><i:false>[grey]  Freunde<br><i:false>[grey][red]> Niemand</color></color>",
-        "en-US": "[grey]<i:false>Choose who can send you [danismp_gradient]private messages</gradient>!<br><br><i:false>[grey]  Everyone<br><i:false>[grey]  Friends<br><i:false>[grey][red]> Nobody</color></color>"
+        "en-US": "[grey]<i:false>Choose who can send you [danismp_gradient]private messages!</gradient><br><br><i:false>[grey]  Everyone<br><i:false>[grey]  Friends<br><i:false>[grey][red]> Nobody</color></color>"
     },
     "SETTINGS.friendrequests.name": {
         "de-DE": "<i:false>[blue]Freundschaftsanfragen</color>",
