@@ -14,7 +14,7 @@
         "background": "",
         "line_width": "",
         "see_through": "",
-        "shadow": "",
+        "shadow": "true",
         "text_opacity": "",
         "billboard": "fixed"
     },
@@ -33,7 +33,7 @@
         "background": "",
         "line_width": "",
         "see_through": "",
-        "shadow": "",
+        "shadow": "true",
         "text_opacity": "",
         "billboard": "fixed"
     },
@@ -52,7 +52,7 @@
         "background": "",
         "line_width": "",
         "see_through": "",
-        "shadow": "",
+        "shadow": "true",
         "text_opacity": "",
         "billboard": "fixed"
     }
