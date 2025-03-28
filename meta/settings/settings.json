@@ -75,7 +75,7 @@
         "servergroups": [
             "*"
         ],
-        "material": "barrier",
+        "material": "enchanted_book",
         "permission": "danismp.setting.streamermode"
     }
 }
