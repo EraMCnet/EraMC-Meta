@@ -135,7 +135,7 @@
         "de-DE": "[grey]<i:false>Wähle aus wer dir [danismp_gradient]Freundschaftsanfragen</gradient> schicken kann!<br><br><i:false>[grey]  Jeder<br><i:false>[grey][red]> Niemand</color></color>",
         "en-US": "[grey]<i:false>Choose who can send you [danismp_gradient]friend requests</gradient>!<br><br><i:false>[grey]  Everyone<br><i:false>[grey][red]> Nobody</color></color>"
     },
-    "SETTUBG.playerhider.name": {
+    "SETTING.playerhider.name": {
         "de-DE": "<i:false>[blue]Spieler verstecken</color>",
         "en-US": "<i:false>[blue]Hide Players</color>"
     },
@@ -146,6 +146,10 @@
     "SETTING.playerhider.lore.false": {
         "de-DE": "[grey]<i:false>Verstecke [danismp_gradient]Spieler</gradient> um deine [blue]Privatsphäre</color> zu schützen!<br><br><i:false>[grey]  Aktiviert<br><i:false>[grey][red]> Deaktiviert</color></color>",
         "en-US": "[grey]<i:false>Hide [danismp_gradient]players</gradient> to protect your [blue]privacy</color>!<br><br><i:false>[grey]  Enabled<br><i:false>[grey][red]> Disabled</color></color>"
+    },
+    "SETTING.streamermode.name": {
+        "de-DE": "<i:false>[blue]Streamermodus</color>",
+        "en-US": "<i:false>[blue]Streamermode</color>"
     },
     "SETTING.streamermode.lore.true": {
         "de-DE": "[grey]<i:false>Aktiviere den [danismp_gradient]Streamermodus</gradient> und schütze deine [blue]Privatsphäre</color>!<br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey]  Deaktiviert</color>",
