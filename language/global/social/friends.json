@@ -83,6 +83,14 @@
         "de-DE": "[grey][blue][player]</color> hat [blue]DIR</color> [red]bereits eine</color> [blue]Freundschaftsanfrage</color> gesendet!</color>",
         "en-US": "[grey][blue][player]</color> [red]already</color> sent a [blue]friend request</color> to [blue]YOU!</color></color>"
     },
+    "ERROR.friend.request.disabled": {
+        "de-DE": "[grey][blue][player]</color> hat [blue]Freundschaftsanfragen</color> [red]deaktiviert!</color></color>",
+        "en-US": "[grey][blue][player]</color> has [blue]friend requests</color> [red]disabled!</color></color>"
+    },
+    "ERROR.friend.request.disabled.self": {
+        "de-DE": "[grey][blue]Du</color> hast [blue]Freundschaftsanfragen</color> [red]deaktiviert!</color></color>",
+        "en-US": "[grey][blue]You</color> have [blue]friend requests</color> [red]disabled!</color></color>"
+    },
     "ERROR.friend.request.send.already.friends": {
         "de-DE": "[grey]Du bist [red]bereits</color> mit [blue][player]</color> [blue]befreundet!</color></color>",
         "en-US": "[grey]You are [red]already</color> [blue]friends</color> with [blue][player]!</color></color>"
@@ -234,5 +242,13 @@
     "GENERAL.setting.notify.request.revoke.disable.other": {
         "de-DE": "[grey]Der Spieler, der dir eine [blue]Freundschaftsanfrage</color> gesendet hat, wird nun [red]nicht</color> mehr benachrichtigt, wenn du seine [blue]Freundschaftsanfrage</color> zurückziehst!</color></color>",
         "en-US": "[grey]The player who sent you a [blue]friend request</color> will now [red]no longer</color> be notified when you revoke his [blue]friend request!</color></color>"
+    },
+    "GENERAL.setting.requests.enable": {
+        "de-DE": "[grey]Du hast [blue]Freundschaftsanfragen</color> [green]aktiviert!</color></color>",
+        "en-US": "[grey]You've [green]enabled</color> [blue]friend requests!</color></color>"
+    },
+    "GENERAL.setting.requests.disable": {
+        "de-DE": "[grey]Du hast [blue]Freundschaftsanfragen</color> jetzt [red]deaktiviert!</color></color>",
+        "en-US": "[grey]You have [blue]friend requests</color> now [red]disabled!</color></color>"
     }
 }
