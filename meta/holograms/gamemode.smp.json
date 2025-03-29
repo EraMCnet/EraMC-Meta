@@ -12,12 +12,15 @@
         "pitch": "0",
         "alignment": "center",
         "background": "TRANSPARENT",
-        "line_width": "500",
+        "line_width": "",
         "see_through": "false",
         "shadow": "true",
         "text_opacity": "255",
         "billboard": "fixed",
-        "default_background": "false"
+        "default_background": "false",
+        "scale-x": "2.0",
+        "scale-y": "2.0",
+        "scale-z": "2.0"
     },
     "holo.smp.offline": {
         "de-DE": "<b>[danismp_gradient]SMP SEASON 8</gradient></b><br><b><gradient:#ff0000:#b30000:#ff0000>OFFLINE</gradient></b>",
@@ -32,12 +35,15 @@
         "pitch": "0",
         "alignment": "center",
         "background": "TRANSPARENT",
-        "line_width": "500",
+        "line_width": "",
         "see_through": "false",
         "shadow": "true",
         "text_opacity": "255",
         "billboard": "fixed",
-        "default_background": "false"
+        "default_background": "false",
+        "scale-x": "2.0",
+        "scale-y": "2.0",
+        "scale-z": "2.0"
     },
     "holo.smp.maintenance": {
         "de-DE": "<b>[danismp_gradient]SMP SEASON 8</gradient></b><br><b><gradient:#fede00:#ff7700:#fede00>WARTUNGSARBEITEN</gradient></b>",
@@ -52,11 +58,14 @@
         "pitch": "0",
         "alignment": "center",
         "background": "TRANSPARENT",
-        "line_width": "500",
+        "line_width": "",
         "see_through": "false",
         "shadow": "true",
         "text_opacity": "255",
         "billboard": "fixed",
-        "default_background": "false"
+        "default_background": "false",
+        "scale-x": "2.0",
+        "scale-y": "2.0",
+        "scale-z": "2.0"
     }
 }
