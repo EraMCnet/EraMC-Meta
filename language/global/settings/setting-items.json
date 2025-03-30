@@ -139,13 +139,17 @@
         "de-DE": "<i:false>[blue]Spieler verstecken</color>",
         "en-US": "<i:false>[blue]Hide Players</color>"
     },
-    "SETTING.playerhider.lore.true": {
-        "de-DE": "[grey]<i:false>Verstecke [danismp_gradient]Spieler</gradient> um deine [blue]Privatsphäre</color> zu schützen!<br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey]  Deaktiviert</color>",
-        "en-US": "[grey]<i:false>Hide [danismp_gradient]players</gradient> to protect your [blue]privacy</color>!<br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey]  Disabled</color>"
+    "SETTING.playerhider.lore.all": {
+        "de-DE": "[grey]<i:false>Wähle aus welche Spieler du [danismp_gradient]Sehen</gradient> möchtest!<br><br><i:false>[grey][green]> Jeden</color><br><i:false>[grey]  Besondere Spieler<br><i:false>[grey]  Niemanden</color>",
+        "en-US": "[grey]<i:false>Choose which players you want to [danismp_gradient]see</gradient>!<br><br><i:false>[grey][green]> Everyone</color><br><i:false>[grey]  Special players<br><i:false>[grey]  Nobody</color>"
     },
-    "SETTING.playerhider.lore.false": {
-        "de-DE": "[grey]<i:false>Verstecke [danismp_gradient]Spieler</gradient> um deine [blue]Privatsphäre</color> zu schützen!<br><br><i:false>[grey]  Aktiviert<br><i:false>[grey][red]> Deaktiviert</color></color>",
-        "en-US": "[grey]<i:false>Hide [danismp_gradient]players</gradient> to protect your [blue]privacy</color>!<br><br><i:false>[grey]  Enabled<br><i:false>[grey][red]> Disabled</color></color>"
+    "SETTING.playerhider.lore.special": {
+        "de-DE": "[grey]<i:false>Wähle aus welche Spieler du [danismp_gradient]Sehen</gradient> möchtest!<br><br><i:false>[grey] Jeden</color><br><i:false>[grey][purple]> Besondere Spieler<br><i:false>[grey]  Niemanden</color>",
+        "en-US": "[grey]<i:false>Choose which players you want to [danismp_gradient]see</gradient>!<br><br><i:false>[grey] Everyone</color><br><i:false>[grey][purple]> Special players<br><i:false>[grey]  Nobody</color>"
+    },
+    "SETTING.playerhider.lore.none": {
+        "de-DE": "[grey]<i:false>Wähle aus welche Spieler du [danismp_gradient]Sehen</gradient> möchtest!<br><br><i:false>[grey]Jeden</color><br><i:false>[grey]  Besondere Spieler<br><i:false>[grey][green]> Niemanden</color>",
+        "en-US": "[grey]<i:false>Choose which players you want to [danismp_gradient]see</gradient>!<br><br><i:false>[grey]Everyone</color><br><i:false>[grey]  Special players<br><i:false>[grey][green]> Nobody</color>"
     },
     "SETTING.streamermode.name": {
         "de-DE": "<i:false>[blue]Streamermodus</color>",
