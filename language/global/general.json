@@ -226,5 +226,9 @@
     "GENERAL.command.discord": {
         "de-DE": "[grey]Trete unserem [blue]Discord-Server</color> bei:<br><br>[blue]<click:open_url:'https://discord.gg/DaniSMP'><hover:show_text:'[blue]Klicke hier um den Link in deinem Browser zu öffnen!</color>'>discord.gg/DaniSMP</hover></click></color></color><br>",
         "en-US": "[grey]Join our [blue]Discord server:</color><br><br>[blue]<click:open_url:'https://discord.gg/DaniSMP'><hover:show_text:'[blue]Click here to open the link in your browser!</color>'>discord.gg/DaniSMP</hover></click></color></color><br>"
+    },
+    "FEATURE.bedrock.not.available": {
+        "de-DE": "<color:#96a7b2>Diese Funktion ist <color:#ff0000>nicht</color> für die Bedrock Edition verfügbar!</color>",
+        "en-US": "<color:#96a7b2>This feature is <color:#ff0000>not</color> available for the Bedrock Edition!</color>"
     }
 }
