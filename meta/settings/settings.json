@@ -16,42 +16,48 @@
             "Lobby"
         ],
         "material": "feather",
-        "permission": "danismp.setting.fly"
+        "permission": "danismp.setting.fly",
+        "default": "false"
     },
     "doublejump": {
         "servergroups": [
             "Lobby"
         ],
         "material": "rabbit_foot",
-        "permission": "none"
+        "permission": "none",
+        "default": "false"
     },
     "glow": {
         "servergroups": [
             "*"
         ],
         "material": "glowstone_dust",
-        "permission": "danismp.setting.glow"
+        "permission": "danismp.setting.glow",
+        "default": "false"
     },
     "size": {
         "servergroups": [
             "Lobby"
         ],
         "material": "heavy_core",
-        "permission": "danismp.setting.size"
+        "permission": "danismp.setting.size",
+        "default": "normal"
     },
     "speed": {
         "servergroups": [
             "Lobby"
         ],
         "material": "sugar",
-        "permission": "danismp.setting.speed"
+        "permission": "danismp.setting.speed",
+        "default": "false"
     },
     "nightvision": {
         "servergroups": [
             "*"
         ],
         "material": "torch",
-        "permission": "danismp.setting.nightvision"
+        "permission": "danismp.setting.nightvision",
+        "default": "false"
     },
     "msg": {
         "servergroups": [
@@ -72,13 +78,15 @@
             "Lobby"
         ],
         "material": "ender_eye",
-        "permission": "none"
+        "permission": "none",
+        "default": "false"
     },
     "streamermode": {
         "servergroups": [
             "*"
         ],
         "material": "enchanted_book",
-        "permission": "danismp.setting.streamermode"
+        "permission": "danismp.setting.streamermode",
+        "default": "false"
     }
 }
