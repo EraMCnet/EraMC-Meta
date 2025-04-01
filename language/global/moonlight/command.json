@@ -20,8 +20,8 @@
         "en-US": "[grey]The module [blue][module] [version]</color> has been loaded [green]successfully!</color></color>"
     },
     "INFO.artifact.downloading": {
-        "de-DE": "[grey]Lade [blue][artifact]</color> herunter...</color>",
-        "en-US": "[grey]Downloading [blue][artifact]...</color></color>"
+        "de-DE": "[grey]Lade [blue][artifact]</color> von Branch [blue][branch]</color> herunter...</color>",
+        "en-US": "[grey]Downloading [blue][artifact]</color> from branch [blue][branch]</color>...</color>"
     },
     "SUCCESS.artifact.download": {
         "de-DE": "[grey]Das Herunterladen von [blue][artifact]</color> war [green]erfolgreich</color>!",
