@@ -120,7 +120,7 @@
         "de-DE": "[grey]Du [red]hast nicht</color> die Berechtigung, [blue]permanente Dauern</color> für Bestrafungen zu verwenden.</color>"
     },
     "ERROR.history.empty": {
-        "en-US": "[grey]The player [blue][player]</color> has [red]no</color> punishment history.</color></color>",
+        "en-US": "[grey]The player [blue][player]</color> has [red]no</color> punishment history.</color>",
         "de-DE": "[grey]Der Spieler [blue][player]</color> hat [red]keine</color> Bestrafungshistorie.</color>"
     },
     "GENERAL.history.timed": {

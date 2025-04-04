@@ -1,7 +1,7 @@
 {
     "GUI.title": {
-        "de-DE": "<i:false>[blue]Game-Selector</color>",
-        "en-US": "<i:false>[blue]Game-Selector</color>"
+        "de-DE": "<i:false>Game-Selector",
+        "en-US": "<i:false>Game-Selector"
     },
     "INFO.gamemode.soon": {
         "de-DE": "<i:false>[grey]Dieser [red]Modus</color> ist [red]noch nicht</color> verfügbar</color><br><br><i:false>[grey]Wenn du [blue]Ideen</color> hast, was es noch für [blue]Modi</color> geben könnte</color><br><i:false>[grey]nutze gerne unseren [blurple]Discord Server</color> um uns diese mitzuteilen!</color><br><i:false>[grey]Nutze [blurple]/discord</color> um den [blurple]Link</color> zu erhalten, oder öffne [blurple]discord.gg/danismp</color> in deinem Browser!</color>",
@@ -13,6 +13,6 @@
     },
     "GAMEMODE.smp.lore": {
         "de-DE": "<i:false>[grey]Spiele [blue]alleine</color> oder mit [blue]Freunden</color></color><br><i:false>[grey]Deiner [blue]Kreativität</color> sind [blue]keine Grenzen</color> gesetzt!</color><br><br><i:false>[grey]Aktuell online: [blue][playercount]</color></color>",
-        "en-US": "<i:false>[grey]Play [blue]alone</color> or with [blue]friends</color></color><br><i:false>[grey]Your [blue]creativity</color> knows [blue]no bounds</color>!</color><br><br><i:false>[grey]Currently online: [blue][playercount]</color></color>"
+        "en-US": "<i:false>[grey]Play [blue]alone</color> or with [blue]friends</color></color><br><i:false>[grey]Your [blue]creativity</color> knows [blue]no bounds!</color></color><br><br><i:false>[grey]Currently online: [blue][playercount]</color></color>"
     }
 }
