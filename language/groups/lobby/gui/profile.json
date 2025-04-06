@@ -1,6 +1,6 @@
 {
-    "GUI.title": {
-        "de-DE": "<i:false>[blue]Dein Profil</color>",
-        "en-US": "<i:false>[blue]Your profile</color>"
+    "GUI.title.settings": {
+        "de-DE": "<i:false>[blue]Einstellungen</color>",
+        "en-US": "<i:false>[blue]Settings</color>"
     }
 }
