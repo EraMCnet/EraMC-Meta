@@ -70,5 +70,9 @@
     "ERROR.artifact.download.timeout": {
         "de-DE": "[grey]Das Herunterladen von [blue][artifact]</color> ist [red]fehlgeschlagen</color>, da es [red]zu lange</color> gedauert hat!",
         "en-US": "[grey]The download of [blue][artifact]</color> has [red]failed</color>, because it took [red]too long!</color>"
+    },
+    "ERROR.invalid.branch": {
+        "de-DE": "[grey]Der Branch [blue][branch]</color> ist [red]ungültig</color> oder existiert [red]nicht!</color></color>",
+        "en-US": "[grey]The branch [blue][branch]</color> is [red]invalid</color> or [red]doesn't</color> exist!</color>"
     }
 }
