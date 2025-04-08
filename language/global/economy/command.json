@@ -1,47 +1,47 @@
 {
     "ECONOMY.balance.add": {
-        "de-DE": "[grey]Du hast [blue][amount]</color> [economy] zum Kontostand von [blue][player]</color> <color:#4bfb00>hinzugefügt!</color></color>",
-        "en-US": "[grey]You have <color:#4bfb00>added</color> [blue][amount]</color> [economy] to the balance of [blue][player]!</color></color>"
+        "de-DE": "[grey]Du hast [blue][amount]</color>[economy] zum Kontostand von [blue][player]</color> <color:#4bfb00>hinzugefügt!</color></color>",
+        "en-US": "[grey]You have <color:#4bfb00>added</color> [blue][amount]</color>[economy] to the balance of [blue][player]!</color></color>"
     },
     "ECONOMY.balance.add.other": {
-        "de-DE": "[grey][blue][player]</color> hat [blue][amount]</color> [economy] zu deinem Kontostand <color:#4bfb00>hinzugefügt!</color></color>",
-        "en-US": "[grey][blue][player]</color> has <color:#4bfb00>added</color> [blue][amount]</color> [economy] to your balance!</color>"
+        "de-DE": "[grey][blue][player]</color> hat [blue][amount]</color>[economy] zu deinem Kontostand <color:#4bfb00>hinzugefügt!</color></color>",
+        "en-US": "[grey][blue][player]</color> has <color:#4bfb00>added</color> [blue][amount]</color>[economy] to your balance!</color>"
     },
     "ECONOMY.balance.add.self": {
-        "de-DE": "[grey]Du hast [blue][amount]</color> [economy] zu deinem Kontostand <color:#4bfb00>hinzugefügt!</color></color>",
-        "en-US": "[grey]You have <color:#4bfb00>added</color> [blue][amount]</color> [economy] to your balance!</color>"
+        "de-DE": "[grey]Du hast [blue][amount]</color>[economy] zu deinem Kontostand <color:#4bfb00>hinzugefügt!</color></color>",
+        "en-US": "[grey]You have <color:#4bfb00>added</color> [blue][amount]</color>[economy] to your balance!</color>"
     },
     "ECONOMY.balance.remove": {
-        "de-DE": "[grey]Du hast [blue][amount]</color> [economy] vom Kontostand von [blue][player]</color> <color:#ff0000>entfernt!</color></color>",
-        "en-US": "[grey]You have <color:#ff0000>removed</color> [blue][amount]</color> [economy] from the balance of [blue][player]!</color></color>"
+        "de-DE": "[grey]Du hast [blue][amount]</color>[economy] vom Kontostand von [blue][player]</color> <color:#ff0000>entfernt!</color></color>",
+        "en-US": "[grey]You have <color:#ff0000>removed</color> [blue][amount]</color>[economy] from the balance of [blue][player]!</color></color>"
     },
     "ECONOMY.balance.remove.other": {
-        "de-DE": "[grey][blue][player]</color> hat [blue][amount]</color> [economy] von deinem Kontostand <color:#ff0000>entfernt!</color></color>",
-        "en-US": "[grey][blue][player]</color> has <color:#ff0000>removed</color> [blue][amount]</color> [economy] from your balance!</color>"
+        "de-DE": "[grey][blue][player]</color> hat [blue][amount]</color>[economy] von deinem Kontostand <color:#ff0000>entfernt!</color></color>",
+        "en-US": "[grey][blue][player]</color> has <color:#ff0000>removed</color> [blue][amount]</color>[economy] from your balance!</color>"
     },
     "ECONOMY.balance.remove.self": {
-        "de-DE": "[grey]Du hast [blue][amount]</color> [economy] von deinem Kontostand <color:#ff0000>entfernt!</color></color>",
-        "en-US": "[grey]You have <color:#ff0000>removed</color> [blue][amount]</color> [economy] from your balance!</color>"
+        "de-DE": "[grey]Du hast [blue][amount]</color>[economy] von deinem Kontostand <color:#ff0000>entfernt!</color></color>",
+        "en-US": "[grey]You have <color:#ff0000>removed</color> [blue][amount]</color>[economy] from your balance!</color>"
     },
     "ECONOMY.balance.set": {
-        "de-DE": "[grey]Du hast den Kontostand von [blue][player]</color> auf [blue][amount]</color> [economy] <color:#4bfb00>gesetzt!</color></color>",
-        "en-US": "[grey]You have <color:#4bfb00>set</color> the balance of [blue][player]</color> to [blue][amount]</color> [economy]!</color>"
+        "de-DE": "[grey]Du hast den Kontostand von [blue][player]</color> auf [blue][amount]</color>[economy] <color:#4bfb00>gesetzt!</color></color>",
+        "en-US": "[grey]You have <color:#4bfb00>set</color> the balance of [blue][player]</color> to [blue][amount]</color>[economy]!</color>"
     },
     "ECONOMY.balance.set.other": {
-        "de-DE": "[grey][blue][player]</color> hat deinen Kontostand auf [blue][amount]</color> [economy] <color:#4bfb00>gesetzt!</color></color>",
-        "en-US": "[grey][blue][player]</color> has <color:#4bfb00>set</color> your balance to [blue][amount]</color> [economy]!</color>"
+        "de-DE": "[grey][blue][player]</color> hat deinen Kontostand auf [blue][amount]</color>[economy] <color:#4bfb00>gesetzt!</color></color>",
+        "en-US": "[grey][blue][player]</color> has <color:#4bfb00>set</color> your balance to [blue][amount]</color>[economy]!</color>"
     },
     "ECONOMY.balance.set.self": {
-        "de-DE": "[grey]Du hast deinen Kontostand auf [blue][amount]</color> [economy] <color:#4bfb00>gesetzt!</color></color>",
-        "en-US": "[grey]You have <color:#4bfb00>set</color> your balance to [blue][amount]</color> [economy]!</color>"
+        "de-DE": "[grey]Du hast deinen Kontostand auf [blue][amount]</color>[economy] <color:#4bfb00>gesetzt!</color></color>",
+        "en-US": "[grey]You have <color:#4bfb00>set</color> your balance to [blue][amount]</color>[economy]!</color>"
     },
     "ECONOMY.balance.get": {
-        "de-DE": "[grey]Dein [economy] Kontostand beträgt [blue][amount]</color> [economy]!</color>",
-        "en-US": "[grey]Your [economy] balance is [blue][amount]</color> [economy]!</color>"
+        "de-DE": "[grey]Dein Kontostand beträgt [blue][amount]</color>[economy]</color>",
+        "en-US": "[grey]Your balance is [blue][amount]</color>[economy]</color>"
     },
     "ECONOMY.balance.get.other": {
-        "de-DE": "[grey]Der [economy] Kontostand von [blue][player]</color> beträgt [blue][amount]</color> [economy]!</color>",
-        "en-US": "[grey]The [economy] balance of [blue][player]</color> is [blue][amount]</color> [economy]!</color>"
+        "de-DE": "[grey]Der Kontostand von [blue][player]</color> beträgt [blue][amount]</color>[economy]</color>",
+        "en-US": "[grey]The balance of [blue][player]</color> is [blue][amount]</color>[economy]</color>"
     },
     "ECONOMY.balance.get.all": {
         "de-DE": "[grey]Alle deine [blue]Kontostände</color> aufgelistet:<br></color>",
@@ -52,24 +52,24 @@
         "en-US": "[grey]All [blue]balances</color> of [blue][player]</color> listed:<br></color>"
     },
     "ECONOMY.balance.pay": {
-        "de-DE": "[grey]Du hast [blue][player]</color> [blue][amount]</color> [economy] überwiesen!</color>",
-        "en-US": "[grey]You have payed [blue][player]</color> [blue][amount]</color> [economy]!</color>"
+        "de-DE": "[grey]Du hast [blue][player]</color> [blue][amount]</color>[economy] überwiesen!</color>",
+        "en-US": "[grey]You have payed [blue][player]</color> [blue][amount]</color>[economy]!</color>"
     },
     "ECONOMY.balance.pay.other": {
-        "de-DE": "[grey][blue][player]</color> hat dir [blue][amount]</color> [economy] überwiesen!</color>",
-        "en-US": "[grey][blue][player]</color> has payed you [blue][amount]</color> [economy]!</color>"
+        "de-DE": "[grey][blue][player]</color> hat dir [blue][amount]</color>[economy] überwiesen!</color>",
+        "en-US": "[grey][blue][player]</color> has payed you [blue][amount]</color>[economy]!</color>"
     },
     "ECONOMY.balance.pay.all": {
-        "de-DE": "[grey]Du hast [blue][amount]</color> [economy] an alle Spieler überwiesen! <dark_grey>([blue]-[minus] [economy]</color>)</dark_grey></color>",
-        "en-US": "[grey]You have payed [blue][amount]</color> [economy] to all players! <dark_grey>([blue]-[minus] [economy]</color>)</dark_grey></color>"
+        "de-DE": "[grey]Du hast [blue][amount]</color>[economy] an alle Spieler überwiesen! <dark_grey>([blue]-[minus][economy]</color>)</dark_grey></color>",
+        "en-US": "[grey]You have payed [blue][amount]</color>[economy] to all players! <dark_grey>([blue]-[minus][economy]</color>)</dark_grey></color>"
     },
     "ECONOMY.error.money": {
-        "de-DE": "[grey]Du hast <color:#ff0000>nicht</color> genügend [economy] um diese Aktion auszuführen!</color>",
-        "en-US": "[grey]You <color:#ff0000>do not</color> have enough [economy] to perform this action!</color>"
+        "de-DE": "[grey]Du hast <color:#ff0000>nicht</color> genügend Geld um diese Aktion auszuführen!</color>",
+        "en-US": "[grey]You <color:#ff0000>do not</color> have enough money to perform this action!</color>"
     },
     "ECONOMY.error.money.other": {
-        "de-DE": "[grey][blue][player]</color> hat <color:#ff0000>nicht</color> genügend [economy] um diese Aktion auszuführen!</color>",
-        "en-US": "[grey][blue][player]</color> <color:#ff0000>does not</color> have enough [economy] to perform this action!</color>"
+        "de-DE": "[grey][blue][player]</color> hat <color:#ff0000>nicht</color> genügend Geld um diese Aktion auszuführen!</color>",
+        "en-US": "[grey][blue][player]</color> <color:#ff0000>does not</color> have enough money to perform this action!</color>"
     },
     "ERROR.economy.notfound": {
         "de-DE": "[grey]Das System konnte die angegebene [blue]Währung</color> [red]nicht</color> finden!</color>",
@@ -92,36 +92,36 @@
         "en-US": "[grey]Registered currencies: [blue][currencies]</color></color>"
     },
     "ECONOMY.balance.same": {
-        "de-DE": "[grey]Du kannst deinen [economy] [blue]Kontostand</color> nicht auf [blue][amount]</color> setzen, da er bereits diesen Wert beträgt!</color>",
-        "en-US": "[grey]You can not set your [economy] [blue]balance</color> to [blue][amount]</color> as it already is this value!</color>"
+        "de-DE": "[grey]Du kannst deinen [blue]Kontostand</color> nicht auf [blue][amount]</color>[economy] setzen, da er bereits diesen Wert beträgt!</color>",
+        "en-US": "[grey]You can not set your [blue]balance</color> to [blue][amount]</color>[economy] as it already is this value!</color>"
     },
     "ECONOMY.balance.same.other": {
-        "de-DE": "[grey]Du kannst den [economy] [blue]Kontostand</color> von [blue][player]</color> nicht auf [blue][amount]</color> setzen, da er bereits diesen Wert beträgt!</color>",
-        "en-US": "[grey]You can not set the [economy] [blue]balance</color> of [blue][player]</color> to [blue][amount]</color> as it already is this value!</color>"
+        "de-DE": "[grey]Du kannst den [blue]Kontostand</color> von [blue][player]</color> nicht auf [blue][amount]</color>[economy] setzen, da er bereits diesen Wert beträgt!</color>",
+        "en-US": "[grey]You can not set the [blue]balance</color> of [blue][player]</color> to [blue][amount]</color>[economy] as it already is this value!</color>"
     },
     "ECONOMY.balance.remove.null": {
-        "de-DE": "[grey]Du kannst nicht [blue]null</color> [economy] von deinem Kontostand entfernen!</color>",
-        "en-US": "[grey]You can not remove [blue]zero</color> [economy] from your balance!</color>"
+        "de-DE": "[grey]Du kannst nicht [blue]null</color>[economy] von deinem Kontostand entfernen!</color>",
+        "en-US": "[grey]You can not remove [blue]zero</color>[economy] from your balance!</color>"
     },
     "ECONOMY.balance.remove.null.other": {
-        "de-DE": "[grey]Du kannst nicht [blue]null</color> [economy] vom Kontostand von [blue][player]</color> entfernen!</color>",
-        "en-US": "[grey]You can not remove [blue]zero</color> [economy] from the balance of [blue][player]!</color>"
+        "de-DE": "[grey]Du kannst nicht [blue]null</color>[economy] vom Kontostand von [blue][player]</color> entfernen!</color>",
+        "en-US": "[grey]You can not remove [blue]zero</color>[economy] from the balance of [blue][player]!</color>"
     },
     "ECONOMY.balance.add.null": {
-        "de-DE": "[grey]Du kannst nicht [blue]null</color> [economy] zu deinem Kontostand hinzufügen!</color>",
-        "en-US": "[grey]You can not add [blue]zero</color> [economy] to your balance!</color>"
+        "de-DE": "[grey]Du kannst nicht [blue]null</color>[economy] zu deinem Kontostand hinzufügen!</color>",
+        "en-US": "[grey]You can not add [blue]zero</color>[economy] to your balance!</color>"
     },
     "ECONOMY.balance.add.null.other": {
-        "de-DE": "[grey]Du kannst nicht [blue]null</color> [economy] zu dem Kontostand von [blue][player]</color> hinzufügen!</color>",
-        "en-US": "[grey]You can not add [blue]zero</color> [economy] to the balance of [blue][player]!</color>"
+        "de-DE": "[grey]Du kannst nicht [blue]null</color>[economy] zu dem Kontostand von [blue][player]</color> hinzufügen!</color>",
+        "en-US": "[grey]You can not add [blue]zero</color>[economy] to the balance of [blue][player]!</color>"
     },
     "ECONOMY.balance.pay.null": {
-        "de-DE": "[grey]Du kannst nicht [blue]null</color> [economy] überweisen!</color>",
-        "en-US": "[grey]You can not pay [blue]zero</color> [economy]!</color>"
+        "de-DE": "[grey]Du kannst nicht [blue]null</color>[economy] überweisen!</color>",
+        "en-US": "[grey]You can not pay [blue]zero</color>[economy]!</color>"
     },
     "ECONOMY.balance.pay.null.other": {
-        "de-DE": "[grey]Du kannst nicht [blue]null</color> [economy] an [blue][player]</color> überweisen!</color>",
-        "en-US": "[grey]You can not pay [blue]zero</color> [economy] to [blue][player]!</color>"
+        "de-DE": "[grey]Du kannst nicht [blue]null</color>[economy] an [blue][player]</color> überweisen!</color>",
+        "en-US": "[grey]You can not pay [blue]zero</color>[economy] to [blue][player]!</color>"
     },
     "ECONOMY.balance.pay.all.no.players": {
         "de-DE": "[grey]Es sind [red]keine Spieler</color> online, denen du etwas [blue]überweisen</color> könntest!</color>",
