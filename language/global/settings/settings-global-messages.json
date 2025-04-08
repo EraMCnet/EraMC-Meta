@@ -1,10 +1,82 @@
 {
     "SETTING.streamermode.true": {
         "de-DE": "[grey]Du hast den [blue]Streamermode</color> nun [green]aktiviert!</color></color>",
-        "en-US": "[grey]You have now [blue]activated</color> the [green]Streamermode!</color></color>"
+        "en-US": "[grey]You have now [blue]activated</color> the [green]streamermode!</color></color>"
     },
     "SETTING.streamermode.false": {
         "de-DE": "[grey]Du hast den [blue]Streamermode</color> nun [red]deaktiviert!</color></color>",
-        "en-US": "[grey]You have now [blue]deactivated</color> the [red]Streamermode!</color></color>"
+        "en-US": "[grey]You have now [blue]deactivated</color> the [red]streamermode!</color></color>"
+    },
+    "SETTING.fly.true": {
+        "de-DE": "[grey]Du hast den [blue]Flugmodus</color> nun [green]aktiviert!</color></color>",
+        "en-US": "[grey]You have now [blue]activated</color> the [green]flymode!</color></color>"
+    },
+    "SETTING.fly.false": {
+        "de-DE": "[grey]Du hast den [blue]Flugmodus</color> nun [red]deaktiviert!</color></color>",
+        "en-US": "[grey]You have now [blue]deactivated</color> the [red]flymode!</color></color>"
+    },
+    "SETTING.doublejump.true": {
+        "de-DE": "[grey]Du hast den [blue]Doppelsprung</color> nun [green]aktiviert!</color></color>",
+        "en-US": "[grey]You have now [blue]activated</color> the [green]doublejump!</color></color>"
+    },
+    "SETTING.doublejump.false": {
+        "de-DE": "[grey]Du hast den [blue]Doppelsprung</color> nun [red]deaktiviert!</color></color>",
+        "en-US": "[grey]You have now [blue]deactivated</color> the [red]doublejump!</color></color>"
+    },
+    "SETTING.glow.true": {
+        "de-DE": "[grey]Du hast den [blue]Glow</color> nun [green]aktiviert!</color></color>",
+        "en-US": "[grey]You have now [blue]activated</color> the [green]glow!</color></color>"
+    },
+    "SETTING.glow.false": {
+        "de-DE": "[grey]Du hast den [blue]Glow</color> nun [red]deaktiviert!</color></color>",
+        "en-US": "[grey]You have now [blue]deactivated</color> the [red]glow!</color></color>"
+    },
+    "SETTING.size.normal": {
+        "de-DE": "[grey]Du hast deine [blue]Größe</color> nun auf [green]normal</color> gesetzt!</color></color>",
+        "en-US": "[grey]You have now set your [blue]size</color> to [green]normal</color>!</color></color>"
+    },
+    "SETTING.size.big": {
+        "de-DE": "[grey]Du hast deine [blue]Größe</color> nun auf [green]groß</color> gesetzt!</color></color>",
+        "en-US": "[grey]You have now set your [blue]size</color> to [green]big!</color></color></color>"
+    },
+    "SETTING.size.giant": {
+        "de-DE": "[grey]Du hast deine [blue]Größe</color> nun auf [green]riesig</color> gesetzt!</color></color>",
+        "en-US": "[grey]You have now set your [blue]size</color> to [green]giant!</color></color></color>"
+    },
+    "SETTING.size.small": {
+        "de-DE": "[grey]Du hast deine [blue]Größe</color> nun auf [green]klein</color> gesetzt!</color></color>",
+        "en-US": "[grey]You have now set your [blue]size</color> to [green]small!</color></color></color>"
+    },
+    "SETTING.size.tiny": {
+        "de-DE": "[grey]Du hast deine [blue]Größe</color> nun auf [green]winzig</color> gesetzt!</color></color>",
+        "en-US": "[grey]You have now set your [blue]size</color> to [green]tiny!</color></color></color>"
+    },
+    "SETTING.speed.true": {
+        "de-DE": "[grey]Du hast deine [blue]Geschwindigkeit</color> nun auf [blue]schnell</color> gesetzt!</color></color>",
+        "en-US": "[grey]You have now set your [blue]speed</color> to [blue]fast!</color></color>"
+    },
+    "SETTING.speed.false": {
+        "de-DE": "[grey]Du hast deine [blue]Geschwindigkeit</color> nun auf [blue]normal</color> gesetzt!</color></color>",
+        "en-US": "[grey]You have now set your [blue]speed</color> to [blue]normal!</color></color>"
+    },
+    "SETTING.nightvision.true": {
+        "de-DE": "[grey]Du hast die [blue]Nachtsicht</color> nun [green]aktiviert!</color></color>",
+        "en-US": "[grey]You have now [blue]activated</color> the [green]nightvision!</color></color>"
+    },
+    "SETTING.nightvision.false": {
+        "de-DE": "[grey]Du hast die [blue]Nachtsicht</color> nun [red]deaktiviert!</color></color>",
+        "en-US": "[grey]You have now [blue]deactivated</color> the [red]nightvision!</color></color>"
+    },
+    "SETTING.playerhider.special": {
+        "de-DE": "[grey]Du siehst jetzt nur noch [blue]besondere</color> Spieler!</color>",
+        "en-US": "[grey]You can now only see [blue]special</color> players!</color>"
+    },
+    "SETTING.playerhider.none": {
+        "de-DE": "[grey]Du siehst jetzt [red]keine</color> Spieler mehr!</color>",
+        "en-US": "[grey]You can now see [red]no</color> players!</color>"
+    },
+    "SETTING.playerhider.all": {
+        "de-DE": "[grey]Du siehst jetzt [blue]alle</color> Spieler!</color>",
+        "en-US": "[grey]You can now see [blue]all</color> players!</color>"
     }
 }
