@@ -1,6 +1,6 @@
 {
     "SUCCESS.lang.select": {
-        "en-US": "<color:#96a7b2>Your [blue]language</color> is now set to [blue][language]!</color> It is [yellow]recommended</color> to [blue]reconnect</color> to make all [blue]translations</color> load correctly.</color>",
-        "de-DE": "<color:#96a7b2>Deine [blue]Sprache</color> ist jetzt auf [blue][language]</color> gesetzt! Es wird [yellow]empfohlen</color>, sich [blue]neu zu verbinden</color>, um alle [blue]Übersetzungen</color> korrekt zu laden.</color>"
+        "en-US": "[grey]Your [blue]language</color> is now set to [blue][language]!</color> It is [yellow]recommended</color> to [blue]reconnect</color> to make all [blue]translations</color> load correctly.</color>",
+        "de-DE": "[grey]Deine [blue]Sprache</color> ist jetzt auf [blue][language]</color> gesetzt! Es wird [yellow]empfohlen</color>, sich [blue]neu zu verbinden</color>, um alle [blue]Übersetzungen</color> korrekt zu laden.</color>"
     }
 }

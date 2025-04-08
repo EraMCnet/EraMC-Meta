@@ -1,34 +1,34 @@
 {
     "GENERAL.join.first": {
-        "de-DE": "<color:#96a7b2>ist zum ersten mal auf unserem [blue]SMP.</color> Wir heißen ihn herzlich willkommen! Er ist Spieler [blue][joins]!</color></color>",
-        "en-US": "<color:#96a7b2>is joining our [blue]SMP</color> for the first time. He is player [blue][joins]!</color></color>"
+        "de-DE": "[grey][blue][player]</color> ist zum ersten mal auf den [blue]SMP</color> gejoint. Wir heißen ihn herzlich willkommen! Er ist Spieler [blue]#[joins]!</color></color>",
+        "en-US": "[grey][blue][player]</color> joined the [blue]SMP</color> for the first time. We welcome him! He is player [blue]#[joins]!</color></color>"
     },
     "GENERAL.scoreboard.deaths": {
         "de-DE": "Tode",
         "en-US": "Deaths"
     },
     "GENERAL.spawn.leave": {
-        "de-DE": "<color:#96a7b2>Drücke [blue]<key:key.sneak></color> für einen [blue]boost!</color></color>",
-        "en-US": "<color:#96a7b2>Press [blue]<key:key.sneak></color> for a [blue]boost!</color></color>"
+        "de-DE": "[grey]Drücke [blue]<key:key.sneak></color> für einen [blue]boost!</color></color>",
+        "en-US": "[grey]Press [blue]<key:key.sneak></color> for a [blue]boost!</color></color>"
     },
     "GENERAL.death.use.back": {
-        "de-DE": "<color:#96a7b2>Nutze [blue]/back</color> um zu deinem Todespunkt zurück zu gelangen!</color>",
-        "en-US": "<color:#96a7b2>Use [blue]/back</color> to return to your deathlocation!</color>"
+        "de-DE": "[grey]Nutze [blue]/back</color> um zu deinem Todespunkt zurück zu gelangen!</color>",
+        "en-US": "[grey]Use [blue]/back</color> to return to your deathlocation!</color>"
     },
     "GENERAL.cmd.back.notfound": {
-        "de-DE": "<color:#96a7b2>Es wurde kein Todespunkt gefunden!</color>",
-        "en-US": "<color:#96a7b2>No deathlocation found!</color>"
+        "de-DE": "[grey]Es wurde kein Todespunkt gefunden!</color>",
+        "en-US": "[grey]No deathlocation found!</color>"
     },
     "GENERAL.cmd.back.teleport": {
-        "de-DE": "<color:#96a7b2>Teleportiere zu deinem Todespunkt...</color>",
-        "en-US": "<color:#96a7b2>Telporting to your deathlocation...</color>"
+        "de-DE": "[grey]Teleportiere zu deinem Todespunkt...</color>",
+        "en-US": "[grey]Telporting to your deathlocation...</color>"
     },
     "GENERAL.chat.msg.death": {
-        "de-DE": "<color:#96a7b2>[red]💀</color> [blue][player]</color> ist [red]gestorben</color></color>",
-        "en-US": "<color:#96a7b2>[red]💀</color> [blue][player]</color> [red]died</color></color></color>"
+        "de-DE": "[grey][red]💀</color> [blue][player]</color> ist [red]gestorben</color></color>",
+        "en-US": "[grey][red]💀</color> [blue][player]</color> [red]died</color></color></color>"
     },
     "GENERAL.chat.msg.death.player": {
-        "de-DE": "<color:#96a7b2>[red]💀</color> [blue][player]</color> ist [red]gestorben</color> während er mit [blue][attacker]</color> gekämpft hat!</color>",
-        "en-US": "<color:#96a7b2>[red]💀</color> [blue][player]</color> [red]died</color> while fighting [blue][attacker]</color>!</color>"
+        "de-DE": "[grey][red]💀</color> [blue][player]</color> ist [red]gestorben</color> während er mit [blue][attacker]</color> gekämpft hat!</color>",
+        "en-US": "[grey][red]💀</color> [blue][player]</color> [red]died</color> while fighting [blue][attacker]</color>!</color>"
     }
 }

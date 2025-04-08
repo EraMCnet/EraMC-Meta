@@ -78,5 +78,9 @@
     "SETTING.playerhider.all": {
         "de-DE": "[grey]Du siehst jetzt [blue]alle</color> Spieler!</color>",
         "en-US": "[grey]You can now see [blue]all</color> players!</color>"
+    },
+    "SETTING.error.not.available": {
+        "de-DE": "[grey]Diese [blue]Einstellung</color> ist auf dieser [blue]Server Gruppe</color> [red]nicht</color> verfügbar.</color>",
+        "en-US": "[grey]This [blue]setting</color> is [red]not</color> available on this [blue]server group.</color></color>"
     }
 }

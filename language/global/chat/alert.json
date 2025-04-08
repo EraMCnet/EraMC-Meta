@@ -1,6 +1,6 @@
 {
     "ALERT.success.send": {
-        "de-DE": "<color:#96a7b2>Deine [blue]Nachricht</color> wurde <color:#4bfb00>erfolgreich</color> an jeden Spieler gesendet!</color>",
-        "en-US": "<color:#96a7b2>Your [blue]message</color> has been <color:#4bfb00>successfully</color> sent to every player!</color>"
+        "de-DE": "[grey]Deine [blue]Nachricht</color> wurde <color:#4bfb00>erfolgreich</color> an jeden Spieler gesendet!</color>",
+        "en-US": "[grey]Your [blue]message</color> has been <color:#4bfb00>successfully</color> sent to every player!</color>"
     }
 }

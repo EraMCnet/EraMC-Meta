@@ -1,19 +1,19 @@
 {
     "ERROR.noperms": {
-        "de-DE": "<color:#96a7b2>Dir <color:#ff0000>fehlt</color> die [blue]Berechtigung</color> um das zu tun!</color>",
-        "en-US": "<color:#96a7b2>You <color:#ff0000>don't have</color> the [blue]permission</color> to do that!</color>"
+        "de-DE": "[grey]Dir <color:#ff0000>fehlt</color> die [blue]Berechtigung</color> um das zu tun!</color>",
+        "en-US": "[grey]You <color:#ff0000>don't have</color> the [blue]permission</color> to do that!</color>"
     },
     "ERROR.player.offline": {
-        "de-DE": "<color:#96a7b2>Dieser Spieler ist aktuell <color:#ff0000>offline!</color></color>",
-        "en-US": "<color:#96a7b2>This player is currently <color:#ff0000>offline!</color></color>"
+        "de-DE": "[grey]Dieser Spieler ist aktuell <color:#ff0000>offline!</color></color>",
+        "en-US": "[grey]This player is currently <color:#ff0000>offline!</color></color>"
     },
     "ERROR.player.notfound": {
-        "de-DE": "<color:#96a7b2>Dieser Spieler hat noch <color:#ff0000>nie</color> auf [blue]DaniSMP</color> gespielt!</color>",
-        "en-US": "<color:#96a7b2>This player has <color:#ff0000>never</color> played on [blue]DaniSMP</color> before!</color>"
+        "de-DE": "[grey]Dieser Spieler hat noch <color:#ff0000>nie</color> auf [blue]DaniSMP</color> gespielt!</color>",
+        "en-US": "[grey]This player has <color:#ff0000>never</color> played on [blue]DaniSMP</color> before!</color>"
     },
     "ERROR.command.notfound": {
-        "de-DE": "<color:#96a7b2>Der Command [blue]/[command]</color> existiert <color:#ff0000>nicht!</color> </color>",
-        "en-US": "<color:#96a7b2>The command [blue]/[command]</color> does <color:#ff0000>not</color> exist!</color>"
+        "de-DE": "[grey]Der Command [blue]/[command]</color> existiert <color:#ff0000>nicht!</color> </color>",
+        "en-US": "[grey]The command [blue]/[command]</color> does <color:#ff0000>not</color> exist!</color>"
     },
     "ERROR.command.self": {
         "de-DE": "[grey]Du kannst diesen [blue]Command</color> [red]nicht</color> an dir selbst ausführen!</color>",
@@ -212,8 +212,8 @@
         "en-US": "[amount] years"
     },
     "ERROR.time.format.invalid": {
-        "de-DE": "<color:#96a7b2>Die Zeit die du angegeben hast ist ungültig! Bitte nutze das Format [blue]2s</color> für 2 Sekunden, [blue]5m</color> für 5 Minuten oder [blue]6h</color> für 6 Stunden, [blue]5d</color> für 5 Tage, [blue]3M</color> für 3 Monate oder [blue]2y</color> für 2 Jahre.</color>",
-        "en-US": "<color:#96a7b2>The time you specified is invalid! Please use the format [blue]2s</color> for 2 seconds, [blue]5m</color> for 5 minutes or [blue]6h</color> for 6 hours, [blue]5d</color> for 5 days, [blue]3M</color> for 3 months or [blue]2y</color> for 2 years.</color>"
+        "de-DE": "[grey]Die Zeit die du angegeben hast ist ungültig! Bitte nutze das Format [blue]2s</color> für 2 Sekunden, [blue]5m</color> für 5 Minuten oder [blue]6h</color> für 6 Stunden, [blue]5d</color> für 5 Tage, [blue]3M</color> für 3 Monate oder [blue]2y</color> für 2 Jahre.</color>",
+        "en-US": "[grey]The time you specified is invalid! Please use the format [blue]2s</color> for 2 seconds, [blue]5m</color> for 5 minutes or [blue]6h</color> for 6 hours, [blue]5d</color> for 5 days, [blue]3M</color> for 3 months or [blue]2y</color> for 2 years.</color>"
     },
     "GENERAL.yes": {
         "de-DE": "Ja",
@@ -228,7 +228,7 @@
         "en-US": "[grey]Join our [blue]Discord server:</color><br><br>[blue]<click:open_url:'https://discord.gg/DaniSMP'><hover:show_text:'[blue]Click here to open the link in your browser!</color>'>discord.gg/DaniSMP</hover></click></color></color><br>"
     },
     "FEATURE.bedrock.not.available": {
-        "de-DE": "<color:#96a7b2>Diese Funktion ist <color:#ff0000>nicht</color> für die Bedrock Edition verfügbar!</color>",
-        "en-US": "<color:#96a7b2>This feature is <color:#ff0000>not</color> available for the Bedrock Edition!</color>"
+        "de-DE": "[grey]Diese Funktion ist <color:#ff0000>nicht</color> für die Bedrock Edition verfügbar!</color>",
+        "en-US": "[grey]This feature is <color:#ff0000>not</color> available for the Bedrock Edition!</color>"
     }
 }

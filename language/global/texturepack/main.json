@@ -1,14 +1,14 @@
 {
     "PACK.update.new": {
-        "de-DE": "<color:#96a7b2>Eine neue [green]Version</color> für unser [blue]Texturepack</color> ist jetzt verfügbar. Du kannst [blue]<click:run_command:'/loadpack'>hier</click></color> klicken, um es dir zu installieren oder einfach den Command [blue]<click:run_command:'/loadpack'>/loadpack</click></color> ausführen.</color>",
-        "en-US": "<color:#96a7b2>A new [green]version</color> for our [blue]texture pack</color> is now available. You can click [blue]<click:run_command:'/loadpack'>here</click></color> to install it or simply run the command [blue]<click:run_command:'/loadpack'>/loadpack</click>.</color></color>"
+        "de-DE": "[grey]Eine neue [green]Version</color> für unser [blue]Texturepack</color> ist jetzt verfügbar. Du kannst [blue]<click:run_command:'/loadpack'>hier</click></color> klicken, um es dir zu installieren oder einfach den Command [blue]<click:run_command:'/loadpack'>/loadpack</click></color> ausführen.</color>",
+        "en-US": "[grey]A new [green]version</color> for our [blue]texture pack</color> is now available. You can click [blue]<click:run_command:'/loadpack'>here</click></color> to install it or simply run the command [blue]<click:run_command:'/loadpack'>/loadpack</click>.</color></color>"
     },
     "PACK.command.apply": {
-        "de-DE": "<color:#96a7b2>Das [blue]Texturepack</color> wurde [green]erfolgreich</color> heruntergeladen und installiert!</color>",
-        "en-US": "<color:#96a7b2>The [blue]texture pack</color> has been [green]successfully</color> downloaded and installed!</color>"
+        "de-DE": "[grey]Das [blue]Texturepack</color> wurde [green]erfolgreich</color> heruntergeladen und installiert!</color>",
+        "en-US": "[grey]The [blue]texture pack</color> has been [green]successfully</color> downloaded and installed!</color>"
     },
     "PACK.command.apply.failed": {
-        "de-DE": "<color:#96a7b2>Das [blue]Texturepack</color> konnte <color:#ff0000>nicht</color> erfolgreich heruntergeladen und installiert werden!</color>",
-        "en-US": "<color:#96a7b2>The [blue]texture pack</color> could <color:#ff0000>not</color> be downloaded and installed successfully!</color>"
+        "de-DE": "[grey]Das [blue]Texturepack</color> konnte <color:#ff0000>nicht</color> erfolgreich heruntergeladen und installiert werden!</color>",
+        "en-US": "[grey]The [blue]texture pack</color> could <color:#ff0000>not</color> be downloaded and installed successfully!</color>"
     }
 }

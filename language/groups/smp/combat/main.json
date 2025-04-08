@@ -1,14 +1,14 @@
 {
     "COMBAT.command.blocked": {
-        "de-DE": "<color:#96a7b2>Dieser Befehl ist im <color:#ff0000>Kampf</color> deaktiviert!</color>",
-        "en-US": "<color:#96a7b2>This command is disabled in <color:#ff0000>combat!</color></color>"
+        "de-DE": "[grey]Dieser Befehl ist im <color:#ff0000>Kampf</color> deaktiviert!</color>",
+        "en-US": "[grey]This command is disabled in <color:#ff0000>combat!</color></color>"
     },
     "COMBAT.disabled": {
-        "de-DE": "<color:#96a7b2>Du bist nun <color:#ff0000>nicht mehr</color> in einem <color:#ff0000>Kampf!</color></color>",
-        "en-US": "<color:#96a7b2>You are now <color:#ff0000>no longer</color> in <color:#ff0000>combat!</color></color>"
+        "de-DE": "[grey]Du bist nun <color:#ff0000>nicht mehr</color> in einem <color:#ff0000>Kampf!</color></color>",
+        "en-US": "[grey]You are now <color:#ff0000>no longer</color> in <color:#ff0000>combat!</color></color>"
     },
     "COMBAT.enabled": {
-        "de-DE": "<color:#96a7b2>Du <color:#ff0000>kämpfst</color> nun mit [blue][player]!</color></color>",
-        "en-US": "<color:#96a7b2>You are now <color:#ff0000>in combat</color> with [blue][player]!</color></color>"
+        "de-DE": "[grey]Du <color:#ff0000>kämpfst</color> nun mit [blue][player]!</color></color>",
+        "en-US": "[grey]You are now <color:#ff0000>in combat</color> with [blue][player]!</color></color>"
     }
 }

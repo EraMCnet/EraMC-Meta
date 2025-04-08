@@ -32,7 +32,7 @@
         "en-US": "<i:false>[red]Last Page</color>"
     },
     "PAGE.info": {
-        "de-DE": "<i:false><color:#96a7b2>Seite [blue][page]</color> von [blue][lastpage]</color></color>",
-        "en-US": "<i:false><color:#96a7b2>Page [blue][page]</color> of [blue][lastpage]</color></color>"
+        "de-DE": "<i:false>[grey]Seite [blue][page]</color> von [blue][lastpage]</color></color>",
+        "en-US": "<i:false>[grey]Page [blue][page]</color> of [blue][lastpage]</color></color>"
     }
 }

@@ -1,14 +1,14 @@
 {
     "TELEPORT.spawn.cancel": {
-        "de-DE": "<color:#96a7b2>Der Teleport wurde <color:#ff0000>abgebrochen,</color> da du dich <color:#ff0000>bewegt</color> hast!</color>",
-        "en-US": "<color:#96a7b2>The teleport was <color:#ff0000>canceled</color> because you <color:#ff0000>moved!</color></color>"
+        "de-DE": "[grey]Der Teleport wurde <color:#ff0000>abgebrochen,</color> da du dich <color:#ff0000>bewegt</color> hast!</color>",
+        "en-US": "[grey]The teleport was <color:#ff0000>canceled</color> because you <color:#ff0000>moved!</color></color>"
     },
     "TELEPORT.spawn.countdown": {
-        "de-DE": "<color:#96a7b2>Du wirst in [blue][countdown]</color> Sekunden teleportiert, bewege dich <color:#ff0000>NICHT!</color></color>",
-        "en-US": "<color:#96a7b2>You will be teleported in [blue][countdown]</color> seconds, do <color:#ff0000>NOT</color> move!</color>"
+        "de-DE": "[grey]Du wirst in [blue][countdown]</color> Sekunden teleportiert, bewege dich <color:#ff0000>NICHT!</color></color>",
+        "en-US": "[grey]You will be teleported in [blue][countdown]</color> seconds, do <color:#ff0000>NOT</color> move!</color>"
     },
     "TELEPORT.spawn.success": {
-        "de-DE": "<color:#96a7b2>Du wurdest <color:#4bfb00>erfolgreich</color> zum [blue]Spawn</color> teleportiert!</color>",
-        "en-US": "<color:#96a7b2>You have been <color:#4bfb00>successfully</color> teleported to the [blue]Spawn!</color></color>"
+        "de-DE": "[grey]Du wurdest <color:#4bfb00>erfolgreich</color> zum [blue]Spawn</color> teleportiert!</color>",
+        "en-US": "[grey]You have been <color:#4bfb00>successfully</color> teleported to the [blue]Spawn!</color></color>"
     }
 }
