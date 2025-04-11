@@ -1,11 +1,11 @@
 {
     "PUNISH.kick": {
-        "en-US": "[blue]<b>DANISMP.NET</b></color><br><br>[grey]You got [red]<b>KICKED</b></color> from the server!</color><br><br>[grey][blue]Moderator:</color> [executor]<br>[blue]Reason:</color> [reason]<br>[blue]Punishment ID:</color> [id]</color>",
-        "de-DE": "[blue]<b>DANISMP.DE</b></color><br><br>[grey]Du wurdest vom Server [red]<b>GEKICKT!</b></color></color><br><br>[grey][blue]Moderator:</color> [executor]<br>[blue]Grund:</color> [reason]<br>[blue]Punishment ID:</color> [id]</color>"
+        "en-US": "[blue]<b>DANISMP.NET</b></color><br><br>[red]<b>YOU GOT KICKED!</b></color><br><br>[red]Moderator:</color> <white>[executor]</white><br>[red]Reason:</color> <white>[reason]</white><br><br>[blue]<b>discord.gg/danismp</b></color>",
+        "de-DE": "[blue]<b>DANISMP.NET</b></color><br><br>[red]<b>DU WURDEST GEKICKT!</b></color><br><br>[red]Moderator:</color> <white>[executor]</white><br>[red]Grund:</color> <white>[reason]</white><br><br>[blue]<b>discord.gg/danismp</b></color>"
     },
     "PUNISH.ban": {
-        "en-US": "[blue]<b>DANISMP.NET</b></color><br><br>[grey]You got [red]<b>BANNED</b></color> from the server!</color><br><br>[grey][blue]Moderator:</color> [executor]<br>[blue]Reason:</color> [reason]<br>[blue]Duration:</color> [duration]<br>[blue]Servergroup:</color> [servergroup]<br>[blue]Punishment ID:</color> [id]<br><br><color:#7289DA>discord.gg/danismp</color></color>",
-        "de-DE": "[blue]<b>DANISMP.DE</b></color><br><br>[grey]Du wurdest vom Server [red]<b>GEBANNT!</b></color></color><br><br>[grey][blue]Moderator:</color> [executor]<br>[blue]Grund:</color> [reason]<br>[blue]Länge:</color> [duration]<br>[blue]Servergruppe:</color> [servergroup]<br>[blue]Punishment ID:</color> [id]<br><br><color:#7289DA>discord.gg/danismp</color>"
+        "en-US": "[blue]<b>DANISMP.NET</b></color><br><br>[red]<b>YOU GOT BANNED!</b></color><br><br>[red]Moderator:</color> <white>[executor]</white><br>[red]Reason:</color> <white>[reason]</white><br>[red]Duration:</color> <white>[duration]</white><br>[red]Servergroup:</color> <white>[servergroup]</white><br><br>[blue]<b>discord.gg/danismp</b></color>",
+        "de-DE": "[blue]<b>DANISMP.DE</b></color><br><br>[red]<b>DU WURDEST GEBANNT!</b></color><br><br>[red]Moderator:</color> <white>[executor]</white><br>[red]Grund:</color> <white>[reason]</white><br>[red]Dauer:</color> <white>[duration]</white><br>[red]Servergruppe:</color> <white>[servergroup]</white><br><br>[blue]<b>discord.gg/danismp</b></color>"
     },
     "PUNISH.mute": {
         "en-US": "<br>[red]<b>YOU GOT MUTED!</b></color><br><br>[red]Moderator:</color> <white>[executor]</white><br>[red]Reason:</color> <white>[reason]</white><br>[red]Duration:</color> <white>[duration]</white><br>[red]Servergroup:</color> <white>[servergroup]</white><br>",
