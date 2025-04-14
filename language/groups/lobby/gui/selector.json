@@ -8,11 +8,11 @@
         "en-US": "<i:false>[grey]This [red]mode</color> is [red]not yet</color> available</color><br><br><i:false>[grey]If you have [blue]ideas</color> what other [blue]modes</color> could be available</color><br><i:false>[grey]feel free to join our [blurple]Discord Server</color> to tell us!</color><br><i:false>[grey]Use [blurple]/discord</color> to get the [blurple]link</color>, or open [blurple]discord.gg/danismp</color> in your browser!</color>"
     },
     "GAMEMODE.smp.name": {
-        "de-DE": "<i:false>[blue]SMP</color>",
-        "en-US": "<i:false>[blue]SMP</color>"
+        "de-DE": "<i:false>[green]SURVIVAL SMP</color>",
+        "en-US": "<i:false>[green]SURVIVAL SMP</color>"
     },
     "GAMEMODE.smp.lore": {
-        "de-DE": "<i:false>[grey]Spiele [blue]alleine</color> oder mit [blue]Freunden</color></color><br><i:false>[grey]Deiner [blue]Kreativität</color> sind [blue]keine Grenzen</color> gesetzt!</color><br><br><i:false>[grey]Aktuell online: [blue][playercount]</color></color>",
-        "en-US": "<i:false>[grey]Play [blue]alone</color> or with [blue]friends</color></color><br><i:false>[grey]Your [blue]creativity</color> knows [blue]no bounds!</color></color><br><br><i:false>[grey]Currently online: [blue][playercount]</color></color>"
+        "de-DE": "<i:false><white>Klicke um diesem [pastel_green]Spielmodus</color> beizutreten.</white><br><br><white>[green][players]</color> Spieler online</white>",
+        "en-US": "<i:false><white>Click to join this [pastel_green]game mode.</color></white><br><br><white>[green][players]</color> players online</white>"
     }
 }
