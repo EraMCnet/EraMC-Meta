@@ -9,7 +9,7 @@
     },
     "GAMEMODE.smp.name": {
         "de-DE": "<i:false><b>[green]SURVIVAL SMP</color>",
-        "en-US": "<i:false><b>[[green]SURVIVAL SMP</color>"
+        "en-US": "<i:false><b>[green]SURVIVAL SMP</color>"
     },
     "GAMEMODE.smp.lore": {
         "de-DE": "<i:false><white>Klicke um diesem [pastel_green]Spielmodus</color> beizutreten.</white><br><br><i:false><white>[green][players]</color> Spieler online</white>",
