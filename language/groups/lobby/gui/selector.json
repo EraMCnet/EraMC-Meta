@@ -8,11 +8,11 @@
         "en-US": "<i:false>[grey]This [red]mode</color> is [red]not yet</color> available</color><br><br><i:false>[grey]If you have [blue]ideas</color> what other [blue]modes</color> could be available</color><br><i:false>[grey]feel free to join our [blurple]Discord Server</color> to tell us!</color><br><i:false>[grey]Use [blurple]/discord</color> to get the [blurple]link</color>, or open [blurple]discord.gg/danismp</color> in your browser!</color>"
     },
     "GAMEMODE.smp.name": {
-        "de-DE": "<i:false>[green]SURVIVAL SMP</color>",
-        "en-US": "<i:false>[green]SURVIVAL SMP</color>"
+        "de-DE": "<i:false><b>[green]SURVIVAL SMP</color>",
+        "en-US": "<i:false><b>[[green]SURVIVAL SMP</color>"
     },
     "GAMEMODE.smp.lore": {
-        "de-DE": "<i:false><white>Klicke um diesem [pastel_green]Spielmodus</color> beizutreten.</white><br><br><white>[green][players]</color> Spieler online</white>",
-        "en-US": "<i:false><white>Click to join this [pastel_green]game mode.</color></white><br><br><white>[green][players]</color> players online</white>"
+        "de-DE": "<i:false><white>Klicke um diesem [pastel_green]Spielmodus</color> beizutreten.</white><br><br><i:false><white>[green][players]</color> Spieler online</white>",
+        "en-US": "<i:false><white>Click to join this [pastel_green]game mode.</color></white><br><br><i:false><white>[green][players]</color> players online</white>"
     }
 }
