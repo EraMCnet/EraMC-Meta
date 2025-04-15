@@ -1,7 +1,7 @@
 {
     "GUI.title": {
-        "de-DE": "<i:false>Game-Selector",
-        "en-US": "<i:false>Game-Selector"
+        "de-DE": "<i:false>ꜱᴇʀᴠᴇʀ ꜱᴇʟᴇᴄᴛᴏʀ",
+        "en-US": "<i:false>ꜱᴇʀᴠᴇʀ ꜱᴇʟᴇᴄᴛᴏʀ"
     },
     "INFO.gamemode.soon": {
         "de-DE": "<i:false>[grey]Dieser [red]Modus</color> ist [red]noch nicht</color> verfügbar</color><br><br><i:false>[grey]Wenn du [blue]Ideen</color> hast, was es noch für [blue]Modi</color> geben könnte</color><br><i:false>[grey]nutze gerne unseren [blurple]Discord Server</color> um uns diese mitzuteilen!</color><br><i:false>[grey]Nutze [blurple]/discord</color> um den [blurple]Link</color> zu erhalten, oder öffne [blurple]discord.gg/danismp</color> in deinem Browser!</color>",
@@ -12,7 +12,7 @@
         "en-US": "<i:false><b>[green]SURVIVAL SMP</color>"
     },
     "GAMEMODE.smp.lore": {
-        "de-DE": "<i:false><white>Klicke um diesem [pastel_green]Spielmodus</color> beizutreten.</white><br><br><i:false><white>[green][players]</color> Spieler online</white>",
-        "en-US": "<i:false><white>Click to join this [pastel_green]game mode.</color></white><br><br><i:false><white>[green][players]</color> players online</white>"
+        "de-DE": "<i:false><white>Klicke um diesem [pastel_green]Spielmodus</color> beizutreten.</white><br><br><i:false><white>[green][playercount]</color> Spieler online</white>",
+        "en-US": "<i:false><white>Click to join this [pastel_green]game mode.</color></white><br><br><i:false><white>[green][playercount]</color> players online</white>"
     }
 }
