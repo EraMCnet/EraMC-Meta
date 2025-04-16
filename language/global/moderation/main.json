@@ -138,5 +138,9 @@
     "GENERAL.history.kicks.gui.lore": {
         "de-DE": "<i:false>[grey][dot] ID: [blue][id]</color><br><i:false>[grey][dot] Executor: [blue][executor]</color><br><i:false>[grey][dot] Grund: [blue][reason]</color>",
         "en-US": "<i:false>[grey][dot] ID: [blue][id]</color><br><i:false>[grey][dot] Executor: [blue][executor]</color><br><i:false>[grey][dot] Reason: [blue][reason]</color>"
+    },
+    "PUNISH.servergroup.not.exists": {
+        "en-US": "[grey]The servergroup [blue][servergroup]</color> does [red]not exist!</color></color>",
+        "de-DE": "[grey]Die Servergruppe [blue][servergroup]</color> existiert [red]nicht!</color></color>"
     }
 }
