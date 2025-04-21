@@ -1,6 +1,6 @@
 {
     "GAMEMODE.self.creative": {
-        "de-DE": "[grey]Du hast deinen [blue]Spielmodus</color> auf [danismp_gradient]kreativ</gradient> gesetzt./color>",
+        "de-DE": "[grey]Du hast deinen [blue]Spielmodus</color> auf [danismp_gradient]kreativ</gradient> gesetzt.</color>",
         "en-US": "[grey]You've set your [blue]game mode</color> to [danismp_gradient]creative.</gradient>"
     },
     "GAMEMODE.self.survival": {
