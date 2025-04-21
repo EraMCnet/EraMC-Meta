@@ -14,6 +14,10 @@
     "BOUNTY.get.player": {
         "de-DE": "[grey]Auf [blue][player]</color> ist [blue][amount]</color> [blue]Kopfgeld</color> gesetzt!</color>"
     },
+    "BOUNTY.error.money": {
+        "de-DE": "[grey]Du hast nicht genug [blue]Geld</color> um ein Kopfgeld zu setzen!</color>",
+        "en-US": "[grey]You do not have enough [blue]money</color> to put a bounty!</color>"
+    },
     "BOUNTY.gui.title": {
         "de-DE": "<i:false>ᴋᴏᴘꜰɢᴇʟᴅ",
         "en-US": "<i:false>ʙᴏᴜɴᴛʏ"
