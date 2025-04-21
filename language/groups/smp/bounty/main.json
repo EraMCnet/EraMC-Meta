@@ -1,11 +1,11 @@
 {
     "BOUNTY.add": {
-        "de-DE": "[grey]Du hast [blue][amount]</color> zum [blue]Kopfgeld</color> von [blue][name]</color> hinzugefügt.</color>",
-        "en-US": "[grey]You added [blue][amount]</color> to the [blue]bounty</color> of [blue][name].</color>"
+        "de-DE": "[grey]Du hast [blue][bounty]</color> zum [blue]Kopfgeld</color> von [blue][name]</color> hinzugefügt.</color>",
+        "en-US": "[grey]You added [blue][bounty]</color> to the [blue]bounty</color> of [blue][name].</color>"
     },
     "BOUNTY.add.player": {
-        "de-DE": "[grey][blue][player]</color> hat [blue][amount]</color> [blue]Kopfgeld</color> auf dich gesetzt!</color>",
-        "en-US": "[grey][blue][player]</color> has put [blue][amount]</color> [blue]bounty</color> on you!</color>"
+        "de-DE": "[grey][blue][player]</color> hat [blue][bounty]</color> [blue]Kopfgeld</color> auf dich gesetzt!</color>",
+        "en-US": "[grey][blue][player]</color> has put [blue][bounty]</color> [blue]bounty</color> on you!</color>"
     },
     "BOUNTY.error.add.self": {
         "de-DE": "[grey]Du kannst [red]kein</color> Kopfgeld auf dich selbst setzen!</color>",

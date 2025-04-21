@@ -19,6 +19,10 @@
         "de-DE": "[grey]Du kannst diesen [blue]Command</color> [red]nicht</color> an dir selbst ausführen!</color>",
         "en-US": "[grey]You can't execute this [blue]command</color> on yourself!</color>"
     },
+    "ERROR.number.invalid": {
+        "de-DE": "[grey]Die Zahl die du angegeben hast ist [red]ungültig!</color></color>",
+        "en-US": "[grey]The number you specified is [red]invalid!</color></color>"
+    },
     "GENERAL.you": {
         "de-DE": "Du",
         "en-US": "You"
