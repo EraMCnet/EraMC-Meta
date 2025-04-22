@@ -7,21 +7,9 @@
         "de-DE": "Tode",
         "en-US": "Deaths"
     },
-    "GENERAL.spawn.leave": {
-        "de-DE": "[grey]Drücke [blue]<key:key.sneak></color> für einen [blue]boost!</color></color>",
-        "en-US": "[grey]Press [blue]<key:key.sneak></color> for a [blue]boost!</color></color>"
-    },
     "GENERAL.death.use.back": {
         "de-DE": "[grey]Nutze [blue]/back</color> um zu deinem Todespunkt zurück zu gelangen!</color>",
         "en-US": "[grey]Use [blue]/back</color> to return to your deathlocation!</color>"
-    },
-    "GENERAL.cmd.back.notfound": {
-        "de-DE": "[grey]Es wurde kein Todespunkt gefunden!</color>",
-        "en-US": "[grey]No deathlocation found!</color>"
-    },
-    "GENERAL.cmd.back.teleport": {
-        "de-DE": "[grey]Teleportiere zu deinem Todespunkt...</color>",
-        "en-US": "[grey]Telporting to your deathlocation...</color>"
     },
     "GENERAL.chat.msg.death": {
         "de-DE": "[grey][red]💀</color> [blue][player]</color> ist [red]gestorben</color></color>",

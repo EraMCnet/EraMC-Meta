@@ -1,7 +1,7 @@
 {
     "BOUNTY.add": {
-        "de-DE": "[grey]Du hast [blue][bounty]</color> zum [blue]Kopfgeld</color> von [blue][name]</color> hinzugefügt.</color>",
-        "en-US": "[grey]You added [blue][bounty]</color> to the [blue]bounty</color> of [blue][name].</color>"
+        "de-DE": "[grey]Du hast [blue][bounty]</color> zum [blue]Kopfgeld</color> von [blue][player]</color> hinzugefügt.</color>",
+        "en-US": "[grey]You added [blue][bounty]</color> to the [blue]bounty</color> of [blue][player].</color></color>"
     },
     "BOUNTY.add.player": {
         "de-DE": "[grey][blue][player]</color> hat [blue][bounty]</color> [blue]Kopfgeld</color> auf dich gesetzt!</color>",
