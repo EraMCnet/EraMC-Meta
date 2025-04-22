@@ -18,6 +18,10 @@
         "de-DE": "[grey]Du hast nicht genug [blue]Geld</color> um ein Kopfgeld zu setzen!</color>",
         "en-US": "[grey]You do not have enough [blue]money</color> to put a bounty!</color>"
     },
+    "BOUNTY.kill": {
+        "de-DE": "[grey]Du hast [blue][bounty]</color> Kopfgeld erhalten, da du [blue][player]</color> getötet hast.</color>",
+        "en-US": "[grey]You received [blue][bounty]</color> bounty for killing [blue][player].</color></color>"
+    },
     "BOUNTY.gui.title": {
         "de-DE": "<i:false>ᴋᴏᴘꜰɢᴇʟᴅ",
         "en-US": "<i:false>ʙᴏᴜɴᴛʏ"
