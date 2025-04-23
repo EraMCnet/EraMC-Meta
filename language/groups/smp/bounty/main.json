@@ -41,5 +41,25 @@
     "BOUNTY.gui.title": {
         "de-DE": "<i:false>ᴋᴏᴘꜰɢᴇʟᴅ",
         "en-US": "<i:false>ʙᴏᴜɴᴛʏ"
+    },
+    "BOUNTY.gui.page.previous": {
+        "de-DE": "<i:false>[yellow]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[yellow]ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ"
+    },
+    "BOUNTY.gui.page.update": {
+        "de-DE": "<i:false>[yellow]ᴀᴋᴛᴜᴀʟʟɪꜱɪᴇʀᴇɴ",
+        "en-US": "<i:false>[yellow]ᴜᴘᴅᴀᴛᴇ"
+    },
+    "BOUNTY.gui.page.next": {
+        "de-DE": "<i:false>[yellow]ɴäᴄʜꜱᴛᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[yellow]ɴᴇxᴛ ᴘᴀɢᴇ"
+    },
+    "BOUNTY.gui.page.navigate.lore": {
+        "de-DE": "<i:false><br><i:false>[yellow][ROUNDDOT][white] Klicke zum navigieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[yellow][ROUNDDOT][white] Click to navigate<br><i:false>"
+    },
+    "BOUNTY.gui.page.update.lore": {
+        "de-DE": "<i:false><br><i:false>[yellow][ROUNDDOT][white] Klicke um die Seite zu aktualisieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[yellow][ROUNDDOT][white] Click to update the page<br><i:false>"
     }
 }
