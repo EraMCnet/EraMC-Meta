@@ -22,6 +22,22 @@
         "de-DE": "[grey]Du hast [blue][bounty]</color> Kopfgeld erhalten, da du [blue][player]</color> getötet hast.</color>",
         "en-US": "[grey]You received [blue][bounty]</color> bounty for killing [blue][player].</color></color>"
     },
+    "BOUNTY.see.empty.self": {
+        "de-DE": "[grey]Aktuell ist [red]kein</color> Kopfgeld auf dich gesetzt!</color>",
+        "en-US": "[grey]Currently there is [red]no</color> bounty on you!</color>"
+    },
+    "BOUNTY.see.empty": {
+        "de-DE": "[grey]Aktuell ist [red]kein</color> Kopfgeld auf [blue][player]</color> gesetzt!</color>",
+        "en-US": "[grey]Currently there is [red]no</color> bounty on [blue][player]</color>!</color>"
+    },
+    "BOUNTY.see.self": {
+        "de-DE": "[grey]Aktuell ist [blue][amount]</color> [blue]Kopfgeld</color> auf dich gesetzt!</color>",
+        "en-US": "[grey]Currently there is [blue][amount]</color> [blue]bounty</color> on you!</color>"
+    },
+    "BOUNTY.see": {
+        "de-DE": "[grey]Aktuell ist [blue][amount]</color> [blue]Kopfgeld</color> auf [blue][player]</color> gesetzt!</color>",
+        "en-US": "[grey]Currently there is [blue][amount]</color> [blue]bounty</color> on [blue][player]</color>!</color>"
+    },
     "BOUNTY.gui.title": {
         "de-DE": "<i:false>ᴋᴏᴘꜰɢᴇʟᴅ",
         "en-US": "<i:false>ʙᴏᴜɴᴛʏ"
