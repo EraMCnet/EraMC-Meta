@@ -54,6 +54,10 @@
         "de-DE": "<i:false>[yellow]ɴäᴄʜꜱᴛᴇ ꜱᴇɪᴛᴇ",
         "en-US": "<i:false>[yellow]ɴᴇxᴛ ᴘᴀɢᴇ"
     },
+    "BOUNTY.gui.page.sort": {
+        "de-DE": "<i:false>[yellow]ꜱᴏʀᴛɪᴇʀᴇɴ",
+        "en-US": "<i:false>[yellow]ꜱᴏʀᴛ"
+    },
     "BOUNTY.gui.page.navigate.lore": {
         "de-DE": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Klicke zum navigieren<br><i:false>",
         "en-US": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Click to navigate<br><i:false>"
@@ -65,5 +69,21 @@
     "BOUNTY.gui.player.bounty.lore": {
         "de-DE": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Kopfgeld: [yellow][player]<br><i:false>",
         "en-US": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Bounty: [yellow][player]<br><i:false>"
+    },
+    "BOUNTY.gui.page.sort.lore.highest": {
+        "de-DE": "<i:false><br><i:false>[yellow]> Höchste<br><i:false>[yellow]  Niedrigste<br><i:false>[yellow]  Neuste<br><i:false>[yellow]  Älteste<br><i:false>[yellow]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[yellow]> Highest<br><i:false>[yellow]  Lowest<br><i:false>[yellow]  Newest<br><i:false>[yellow]  Oldest<br><i:false>[yellow]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "BOUNTY.gui.page.sort.lore.lowest": {
+        "de-DE": "<i:false><br><i:false>[yellow]  Höchste<br><i:false>[yellow]> Niedrigste<br><i:false>[yellow]  Neuste<br><i:false>[yellow]  Älteste<br><i:false>[yellow]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[yellow]  Highest<br><i:false>[yellow]> Lowest<br><i:false>[yellow]  Newest<br><i:false>[yellow]  Oldest<br><i:false>[yellow]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "BOUNTY.gui.page.sort.lore.newest": {
+        "de-DE": "<i:false><br><i:false>[yellow]  Höchste<br><i:false>[yellow]  Niedrigste<br><i:false>[yellow]> Neuste<br><i:false>[yellow]  Älteste<br><i:false>[yellow]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[yellow]  Highest<br><i:false>[yellow]  Lowest<br><i:false>[yellow]> Newest<br><i:false>[yellow]  Oldest<br><i:false>[yellow]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "BOUNTY.gui.page.sort.lore.oldest": {
+        "de-DE": "<i:false><br><i:false>[yellow]  Höchste<br><i:false>[yellow]  Niedrigste<br><i:false>[yellow]  Neuste<br><i:false>[yellow]> Älteste<br><i:false>[yellow]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[yellow]  Highest<br><i:false>[yellow]  Lowest<br><i:false>[yellow]  Newest<br><i:false>[yellow]> Oldest<br><i:false>[yellow]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     }
 }
