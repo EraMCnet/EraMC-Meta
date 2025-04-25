@@ -1,0 +1,10 @@
+{
+    "DISCORD.gui.lore": {
+        "de-DE": "<br><!i><white>Klicke hier, um den [blurple]Link</color> zu erhalten.<br><br><!i>[blurple][ROUNDDOT]</color> <white>discord.gg/danismp",
+        "en-US": "<br><!i><white>Click here to get the [blurple]link.</color><br><br><!i>[blurple][ROUNDDOT]</color> <white>discord.gg/danismp"
+    },
+    "DISCORD.gui.click.message": {
+        "de-DE": "<click:open_url:'https://discord.gg/danismp'><hover:show_text:'[blue]discord.gg/danismp'><br>[grey]      <b>[blue]DISCORD LINK</color></b> (klicke hier)      <br>           discord.gg/danismp</color><br> </hover></click>",
+        "en-US": "<click:open_url:'https://discord.gg/danismp'><hover:show_text:'[blue]discord.gg/danismp'><br>[grey]      <b>[blue]DISCORD LINK</color></b> (click here)      <br>           discord.gg/danismp</color><br> </hover></click>"
+    }
+}

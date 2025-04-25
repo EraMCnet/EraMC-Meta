@@ -1,26 +1,27 @@
 {
     "BOUNTY.add": {
-        "de-DE": "[grey]Du hast [yellow][bounty]</color> zum Kopfgeld von [yellow][player]</color> hinzugefügt.</color>",
-        "en-US": "[grey]You added [yellow][bounty]</color> to the bounty of [yellow][player].</color></color>"
+        "de-DE": "[grey]Du hast [yellow]$[bounty]</color> zum Kopfgeld von [yellow][player]</color> hinzugefügt.</color>",
+        "en-US": "[grey]You added [yellow]$[bounty]</color> to the bounty of [yellow][player].</color></color>"
     },
     "BOUNTY.add.player": {
-        "de-DE": "[grey][yellow][player]</color> hat [yellow][bounty]</color> Kopfgeld auf dich gesetzt!</color>",
-        "en-US": "[grey][yellow][player]</color> has put [yellow][bounty]</color> bounty on you!</color>"
+        "de-DE": "[grey][yellow][player]</color> hat [yellow]$[bounty]</color> Kopfgeld auf dich gesetzt!</color>",
+        "en-US": "[grey][yellow][player]</color> has put [yellow]$[bounty]</color> bounty on you!</color>"
     },
     "BOUNTY.error.add.self": {
         "de-DE": "[grey]Du kannst [red]kein</color> Kopfgeld auf dich selbst setzen!</color>",
         "en-US": "[grey]You [red]cannot</color> put a bounty on yourself!</color>"
     },
     "BOUNTY.get.player": {
-        "de-DE": "[grey]Auf [yellow][player]</color> ist [yellow][amount]</color> Kopfgeld gesetzt!</color>"
+        "de-DE": "[grey]Auf [yellow][player]</color> ist [yellow]$[amount]</color> Kopfgeld gesetzt!</color>",
+        "en-US": "[grey]There is a bounty of [yellow]$[amount]</color> on [yellow][player]</color>!</color>"
     },
     "BOUNTY.error.money": {
         "de-DE": "[grey]Du hast nicht genug [yellow]Geld</color> um ein Kopfgeld zu setzen!</color>",
         "en-US": "[grey]You do not have enough [yellow]money</color> to put a bounty!</color>"
     },
     "BOUNTY.kill": {
-        "de-DE": "[grey]Du hast [yellow][bounty]</color> Kopfgeld erhalten, da du [yellow][player]</color> getötet hast.</color>",
-        "en-US": "[grey]You received [yellow][bounty]</color> bounty for killing [yellow][player].</color></color>"
+        "de-DE": "[grey]Du hast [yellow]$[bounty]</color> Kopfgeld erhalten, da du [yellow][player]</color> getötet hast.</color>",
+        "en-US": "[grey]You received [yellow]$[bounty]</color> bounty for killing [yellow][player].</color></color>"
     },
     "BOUNTY.see.empty.self": {
         "de-DE": "[grey]Aktuell ist [red]kein</color> Kopfgeld auf dich gesetzt!</color>",
@@ -31,12 +32,12 @@
         "en-US": "[grey]Currently there is [red]no</color> bounty on [yellow][player]</color>!</color>"
     },
     "BOUNTY.see.self": {
-        "de-DE": "[grey]Aktuell ist [yellow][amount]</color> Kopfgeld auf dich gesetzt!</color>",
-        "en-US": "[grey]Currently there is [yellow][amount]</color> bounty on you!</color>"
+        "de-DE": "[grey]Aktuell ist [yellow]$[amount]</color> Kopfgeld auf dich gesetzt!</color>",
+        "en-US": "[grey]Currently there is [yellow]$[amount]</color> bounty on you!</color>"
     },
     "BOUNTY.see": {
-        "de-DE": "[grey]Aktuell ist [yellow][amount]</color> Kopfgeld auf [yellow][player]</color> gesetzt!</color>",
-        "en-US": "[grey]Currently there is [yellow][amount]</color> bounty on [yellow][player]</color>!</color>"
+        "de-DE": "[grey]Aktuell ist [yellow]$[amount]</color> Kopfgeld auf [yellow][player]</color> gesetzt!</color>",
+        "en-US": "[grey]Currently there is [yellow]$[amount]</color> bounty on [yellow][player]</color>!</color>"
     },
     "BOUNTY.gui.title": {
         "de-DE": "<i:false>ᴋᴏᴘꜰɢᴇʟᴅ",
@@ -67,8 +68,8 @@
         "en-US": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Click to update the page<br><i:false>"
     },
     "BOUNTY.gui.player.bounty.lore": {
-        "de-DE": "<i:false><br><i:false>[pastel_orange][ROUNDDOT]<white> Kopfgeld: [pastel_orange][bounty]$<br><i:false>",
-        "en-US": "<i:false><br><i:false>[pastel_orange][ROUNDDOT]<white> Bounty: [pastel_orange][bounty]$<br><i:false>"
+        "de-DE": "<i:false><br><i:false>[pastel_orange][ROUNDDOT]<white> Kopfgeld: [pastel_orange]$[bounty]<br><i:false>",
+        "en-US": "<i:false><br><i:false>[pastel_orange][ROUNDDOT]<white> Bounty: [pastel_orange]$[bounty]<br><i:false>"
     },
     "BOUNTY.gui.page.sort.lore.highest": {
         "de-DE": "<i:false><br><i:false>[green]> Höchste<br><i:false><white>  Niedrigste<br><br><i:false>[green]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
@@ -79,7 +80,7 @@
         "en-US": "<i:false><br><i:false><white>  Highest<br><i:false>[green]> Lowest<br><br><i:false>[green]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     },
     "BOUNTY.join.info": {
-        "de-DE": "[grey]Du hast noch ein Kopfgeld von [yellow][amount]$</color> auf dir!</color>",
-        "en-US": "[grey]You still have a bounty of [yellow][amount]$</color> on you!</color>"
+        "de-DE": "[grey]Du hast noch ein Kopfgeld von [yellow]$[amount]</color> auf dir!</color>",
+        "en-US": "[grey]You still have a bounty of [yellow]$[amount]</color> on you!</color>"
     }
 }
