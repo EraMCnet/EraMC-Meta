@@ -7,6 +7,18 @@
         "de-DE": "Tode",
         "en-US": "Deaths"
     },
+    "GENERAL.scoreboard.money": {
+        "de-DE": "Geld",
+        "en-US": "Money"
+    },
+    "GENERAL.scoreboard.playtime": {
+        "de-DE": "Spielzeit",
+        "en-US": "Playtime"
+    },
+    "GENERAL.scoreboard.title": {
+        "de-DE": "DANISMP.DE",
+        "en-US": "DANISMP.NET"
+    },
     "GENERAL.death.use.back": {
         "de-DE": "[grey]Nutze [blue]/back</color> um zu deinem Todespunkt zurück zu gelangen!</color>",
         "en-US": "[grey]Use [blue]/back</color> to return to your deathlocation!</color>"
