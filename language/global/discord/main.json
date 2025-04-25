@@ -4,7 +4,7 @@
         "en-US": "<br><!i><white>Click here to get the [blue]link.</color><br><br><!i>[blue][ROUNDDOT]</color> <white>discord.gg/danismp"
     },
     "DISCORD.gui.click.message": {
-        "de-DE": "<click:open_url:'https://discord.gg/danismp'><hover:show_text:'[blue]discord.gg/danismp'><br>[grey]      <b>[blue]DISCORD LINK</color></b> (klicke hier)      <br>           discord.gg/danismp</color><br> </hover></click>",
-        "en-US": "<click:open_url:'https://discord.gg/danismp'><hover:show_text:'[blue]discord.gg/danismp'><br>[grey]      <b>[blue]DISCORD LINK</color></b> (click here)      <br>           discord.gg/danismp</color><br> </hover></click>"
+        "de-DE": "<click:open_url:'https://discord.gg/danismp'><hover:show_text:'[blue]discord.gg/danismp'><br>[grey]      <b>[blue]DISCORD LINK</color></b> (klicke hier)      <br>           <u>discord.gg/danismp</color><br> </hover></click>",
+        "en-US": "<click:open_url:'https://discord.gg/danismp'><hover:show_text:'[blue]discord.gg/danismp'><br>[grey]      <b>[blue]DISCORD LINK</color></b> (click here)      <br>           <u>discord.gg/danismp</color><br> </hover></click>"
     }
 }
