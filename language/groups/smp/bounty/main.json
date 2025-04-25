@@ -67,8 +67,8 @@
         "en-US": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Click to update the page<br><i:false>"
     },
     "BOUNTY.gui.player.bounty.lore": {
-        "de-DE": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Kopfgeld: [yellow][bounty]<br><i:false>",
-        "en-US": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Bounty: [yellow][bounty]<br><i:false>"
+        "de-DE": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Kopfgeld: [yellow][bounty]$<br><i:false>",
+        "en-US": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Bounty: [yellow][bounty]$<br><i:false>"
     },
     "BOUNTY.gui.page.sort.lore.highest": {
         "de-DE": "<i:false><br><i:false>[yellow]> Höchste<br><i:false><white>  Niedrigste<br><br><i:false>[yellow]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
@@ -77,5 +77,9 @@
     "BOUNTY.gui.page.sort.lore.lowest": {
         "de-DE": "<i:false><br><i:false><white>  Höchste<br><i:false>[yellow]> Niedrigste<br><br><i:false>[yellow]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
         "en-US": "<i:false><br><i:false><white>  Highest<br><i:false>[yellow]> Lowest<br><br><i:false>[yellow]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "BOUNTY.join.info": {
+        "de-DE": "[grey]Du hast noch ein Kopfgeld von [blue][amount]$</color> auf dir!</color>",
+        "en-US": "[grey]You still have a bounty of [blue][amount]$</color> on you!</color>"
     }
 }
