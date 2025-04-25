@@ -67,8 +67,8 @@
         "en-US": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Click to update the page<br><i:false>"
     },
     "BOUNTY.gui.player.bounty.lore": {
-        "de-DE": "<i:false><br><i:false>[orange][ROUNDDOT]<white> Kopfgeld: [orange][bounty]$<br><i:false>",
-        "en-US": "<i:false><br><i:false>[orange][ROUNDDOT]<white> Bounty: [orange][bounty]$<br><i:false>"
+        "de-DE": "<i:false><br><i:false>[pastel_orange][ROUNDDOT]<white> Kopfgeld: [pastel_orange][bounty]$<br><i:false>",
+        "en-US": "<i:false><br><i:false>[pastel_orange][ROUNDDOT]<white> Bounty: [pastel_orange][bounty]$<br><i:false>"
     },
     "BOUNTY.gui.page.sort.lore.highest": {
         "de-DE": "<i:false><br><i:false>[green]> Höchste<br><i:false><white>  Niedrigste<br><br><i:false>[green]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
