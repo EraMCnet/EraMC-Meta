@@ -55,8 +55,8 @@
         "en-US": "<i:false>[yellow]ɴᴇxᴛ ᴘᴀɢᴇ"
     },
     "BOUNTY.gui.page.sort": {
-        "de-DE": "<i:false>[yellow]ꜱᴏʀᴛɪᴇʀᴇɴ",
-        "en-US": "<i:false>[yellow]ꜱᴏʀᴛ"
+        "de-DE": "<i:false>[green]ꜱᴏʀᴛɪᴇʀᴇɴ",
+        "en-US": "<i:false>[green]ꜱᴏʀᴛ"
     },
     "BOUNTY.gui.page.navigate.lore": {
         "de-DE": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Klicke zum navigieren<br><i:false>",
@@ -67,8 +67,8 @@
         "en-US": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Click to update the page<br><i:false>"
     },
     "BOUNTY.gui.player.bounty.lore": {
-        "de-DE": "<i:false><br><i:false>[orange][ROUNDDOT]<white> Kopfgeld: [yellow][bounty]$<br><i:false>",
-        "en-US": "<i:false><br><i:false>[orange][ROUNDDOT]<white> Bounty: [yellow][bounty]$<br><i:false>"
+        "de-DE": "<i:false><br><i:false>[orange][ROUNDDOT]<white> Kopfgeld: [orange][bounty]$<br><i:false>",
+        "en-US": "<i:false><br><i:false>[orange][ROUNDDOT]<white> Bounty: [orange][bounty]$<br><i:false>"
     },
     "BOUNTY.gui.page.sort.lore.highest": {
         "de-DE": "<i:false><br><i:false>[green]> Höchste<br><i:false><white>  Niedrigste<br><br><i:false>[green]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
