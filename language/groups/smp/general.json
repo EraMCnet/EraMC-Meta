@@ -1,7 +1,7 @@
 {
     "GENERAL.join.first": {
-        "de-DE": "[grey][blue][player]</color> ist zum ersten mal auf den [blue]SMP</color> gejoint. Wir heißen ihn herzlich willkommen! Er ist Spieler [blue]#[joins]!</color></color>",
-        "en-US": "[grey][blue][player]</color> joined the [blue]SMP</color> for the first time. We welcome him! He is player [blue]#[joins]!</color></color>"
+        "de-DE": "[grey]Willkommen [blue]<u>[player]</u></color> zu [blue]DaniSMP!</color> (#[joins])</color>",
+        "en-US": "[grey]Welcome [blue]<u>[player]</u></color> to [blue]DaniSMP!</color> (#[joins])</color>"
     },
     "GENERAL.scoreboard.deaths": {
         "de-DE": "Tode",
