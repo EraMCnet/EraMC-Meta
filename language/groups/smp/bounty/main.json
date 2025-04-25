@@ -71,19 +71,11 @@
         "en-US": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Bounty: [yellow][bounty]<br><i:false>"
     },
     "BOUNTY.gui.page.sort.lore.highest": {
-        "de-DE": "<i:false><br><i:false>[yellow]> Höchste<br><i:false><white>  Niedrigste<br><i:false><white>  Neuste<br><i:false><white>  Älteste<br><br><i:false>[yellow]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
-        "en-US": "<i:false><br><i:false>[yellow]> Highest<br><i:false><white>  Lowest<br><i:false><white>  Newest<br><i:false><white>  Oldest<br><br><i:false>[yellow]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+        "de-DE": "<i:false><br><i:false>[yellow]> Höchste<br><i:false><white>  Niedrigste<br><br><i:false>[yellow]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[yellow]> Highest<br><i:false><white>  Lowest<br><br><i:false>[yellow]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     },
     "BOUNTY.gui.page.sort.lore.lowest": {
-        "de-DE": "<i:false><br><i:false><white>  Höchste<br><i:false>[yellow]> Niedrigste<br><i:false><white>  Neuste<br><i:false><white>  Älteste<br><br><i:false>[yellow]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
-        "en-US": "<i:false><br><i:false><white>  Highest<br><i:false>[yellow]> Lowest<br><i:false><white>  Newest<br><i:false><white>  Oldest<br><br><i:false>[yellow]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
-    },
-    "BOUNTY.gui.page.sort.lore.newest": {
-        "de-DE": "<i:false><br><i:false><white>  Höchste<br><i:false><white>  Niedrigste<br><i:false>[yellow]> Neuste<br><i:false><white>  Älteste<br><br><i:false>[yellow]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
-        "en-US": "<i:false><br><i:false><white>  Highest<br><i:false><white>  Lowest<br><i:false>[yellow]> Newest<br><i:false><white>  Oldest<br><br><i:false>[yellow]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
-    },
-    "BOUNTY.gui.page.sort.lore.oldest": {
-        "de-DE": "<i:false><br><i:false><white>  Höchste<br><i:false><white>  Niedrigste<br><i:false><white>  Neuste<br><i:false>[yellow]> Älteste<br><br><i:false>[yellow]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
-        "en-US": "<i:false><br><i:false><white>  Highest<br><i:false><white>  Lowest<br><i:false><white>  Newest<br><i:false>[yellow]> Oldest<br><br><i:false>[yellow]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+        "de-DE": "<i:false><br><i:false><white>  Höchste<br><i:false>[yellow]> Niedrigste<br><br><i:false>[yellow]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false><white>  Highest<br><i:false>[yellow]> Lowest<br><br><i:false>[yellow]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     }
 }
