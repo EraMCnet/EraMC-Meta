@@ -1,18 +1,22 @@
 {
     "RTP.error.cooldown": {
-        "de-DE": "[grey]>Du musst noch [blue][duration]</color> warten, um die erneut [blue]teleportieren</color> zu können!</color>",
-        "en-US": "[grey]>You have to wait [blue][duration]</color> to be able to [blue]teleport</color> again!</color>"
+        "de-DE": "[grey]Du musst noch [blue][duration]</color> warten, um die erneut [blue]teleportieren</color> zu können!</color>",
+        "en-US": "[grey]You have to wait [blue][duration]</color> to be able to [blue]teleport</color> again!</color>"
     },
     "RTP.success": {
-        "de-DE": "[grey]>Du wurdest <color:#4bfb00>erfolgreich</color> [blue]teleportiert!</color></color>",
-        "en-US": "[grey]>You have been <color:#4bfb00>successfully</color> [blue]teleported!</color></color>"
+        "de-DE": "[grey]Du wurdest <color:#4bfb00>erfolgreich</color> [blue]teleportiert!</color></color>",
+        "en-US": "[grey]You have been <color:#4bfb00>successfully</color> [blue]teleported!</color></color>"
     },
     "RTP.searching": {
-        "de-DE": "[grey]>Suche nach einem [blue]geeigneten</color> Ort...</color>",
-        "en-US": "[grey]>Searching for a [blue]suitable</color> location...</color>"
+        "de-DE": "[grey]Suche nach einem [blue]geeigneten</color> Ort um dich zu teleportieren...</color>",
+        "en-US": "[grey]Searching for a [blue]suitable</color> location to teleport you...</color>"
     },
     "RTP.error.noSuitableLocation": {
-        "de-DE": "[grey]>Es konnte <color:#ff0000>kein</color> geeigneter Ort gefunden werden!</color>",
-        "en-US": "[grey]>There could be <color:#ff0000>no</color> suitable location found!</color>"
+        "de-DE": "[grey]Es konnte <color:#ff0000>kein</color> geeigneter Ort gefunden werden um dich zu teleportieren! Bitte versuche es erneut.</color>",
+        "en-US": "[grey]No suitable location could be found to teleport you! Please try again.</color>"
+    },
+    "RTP.error.move": {
+        "de-DE": "[grey]Der Teleportationsvorgang wurde <color:#ff0000>abgebrochen,</color> da du dich bewegt hast!</color>",
+        "en-US": "[grey]The teleportation process was <color:#ff0000>cancelled</color> because you moved!</color>"
     }
 }

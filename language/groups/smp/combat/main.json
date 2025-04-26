@@ -8,7 +8,7 @@
         "en-US": "[grey]You are now <color:#ff0000>no longer</color> in <color:#ff0000>combat!</color></color>"
     },
     "COMBAT.enabled": {
-        "de-DE": "[grey]Du <color:#ff0000>kämpfst</color> nun mit [blue][player]!</color></color>",
-        "en-US": "[grey]You are now <color:#ff0000>in combat</color> with [blue][player]!</color></color>"
+        "de-DE": "[grey]Combat: [blue][time]</color></color>",
+        "en-US": "[grey]Combat: [blue][time]</color></color>"
     }
 }
