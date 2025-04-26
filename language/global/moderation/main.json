@@ -4,12 +4,12 @@
         "de-DE": "[red]<b>DU WURDEST GEKICKT!</b></color><br><br>[red]Moderator:</color> <white>[executor]</white><br>[red]Grund:</color> <white>[reason]</white><br><br>[grey]<b>discord.gg/danismp</b></color>"
     },
     "PUNISH.ban": {
-        "en-US": "[red]<b>YOU GOT BANNED!</b></color><br><br>[red]Moderator:</color> <white>[executor]</white><br>[red]Reason:</color> <white>[reason]</white><br>[red]Duration:</color> <white>[duration]</white><br>[red]Servergroup:</color> <white>[servergroup]</white><br><br>[grey]discord.gg/danismp</color>",
-        "de-DE": "[red]<b>DU WURDEST GEBANNT!</b></color><br><br>[red]Moderator:</color> <white>[executor]</white><br>[red]Grund:</color> <white>[reason]</white><br>[red]Dauer:</color> <white>[duration]</white><br>[red]Servergruppe:</color> <white>[servergroup]</white><br><br>[grey]discord.gg/danismp</color>"
+        "en-US": "[red]<b>YOU GOT BANNED!</b></color><br><br>[red]Moderator:</color> <white>[executor]</white><br>[red]Reason:</color> <white>[reason]</white><br>[red]Duration:</color> <white>[duration]</white><br><br>[grey]discord.gg/danismp</color>",
+        "de-DE": "[red]<b>DU WURDEST GEBANNT!</b></color><br><br>[red]Moderator:</color> <white>[executor]</white><br>[red]Grund:</color> <white>[reason]</white><br>[red]Dauer:</color> <white>[duration]</white><br><br>[grey]discord.gg/danismp</color>"
     },
     "PUNISH.mute": {
-        "en-US": "<br>[red]<b>YOU GOT MUTED!</b></color><br><br>[red]Moderator:</color> <white>[executor]</white><br>[red]Reason:</color> <white>[reason]</white><br>[red]Duration:</color> <white>[duration]</white><br>[red]Servergroup:</color> <white>[servergroup]</white><br>",
-        "de-DE": "<br>[red]<b>DU WURDEST GEMUTED!</b></color><br><br>[red]Moderator:</color> <white>[executor]</white><br>[red]Grund:</color> <white>[reason]</white><br>[red]Länge:</color> <white>[duration]</white><br>[red]Servergruppe:</color> <white>[servergroup]</white><br>"
+        "en-US": "<br>[red]<b>YOU GOT MUTED!</b></color><br><br>[red]Moderator:</color> <white>[executor]</white><br>[red]Reason:</color> <white>[reason]</white><br>[red]Duration:</color> <white>[duration]</white><br>",
+        "de-DE": "<br>[red]<b>DU WURDEST GEMUTED!</b></color><br><br>[red]Moderator:</color> <white>[executor]</white><br>[red]Grund:</color> <white>[reason]</white><br>[red]Länge:</color> <white>[duration]</white><br>"
     },
     "ERROR.connect.vpn": {
         "en-US": "<gradient:#08a8f8:#08f7ef:#08a8f8><b>DaniSMP.net</b></gradient> <grey>-</grey> <color:#ff0000><b>VPN DETECTED</b></color><br><br>[grey]It seems like you are using a [blue]VPN, Proxy</color> or something else which hides your IP. This is not allowed on this server.<br><br>If you think, that this is a mistake or an error, please report it to an [red]Admin</color> on our <color:#7289DA>Discord Server!</color><br><br><color:#7289DA><b>discord.gg/danismp</b></color><br><br><dark_grey>[[grey]Flag: [blue][flag]</color>, ISP: [blue][isp]</color>, ASN: [blue][asn]</color></color>]</dark_grey></color>",
@@ -124,12 +124,12 @@
         "de-DE": "[grey]Der Spieler [blue][player]</color> hat [red]keine</color> Bestrafungshistorie.</color>"
     },
     "GENERAL.history.timed": {
-        "de-DE": "[grey][prefix] Punishment ID: [blue][id]</color><br>[prefix] Executor: [blue][executor]</color><br>[prefix] Grund: [blue][reason]</color><br>[prefix] Servergroup: [blue][servergroup]</color><br>[prefix] Dauer: [blue][duration]</color><br>[prefix] Aktiv: [blue]<b>[active]</b></color></color>",
-        "en-US": "[grey][prefix] Punishment ID: [blue][id]</color><br>[prefix] Executor: [blue][executor]</color><br>[prefix] Reason: [blue][reason]</color><br>[prefix] Servergroup: [blue][servergroup]</color><br>[prefix] Duration: [blue][duration]</color><br>[prefix] Active: [blue]<b>[active]</b></color></color>"
+        "de-DE": "[grey][prefix] Punishment ID: [blue][id]</color><br>[prefix] Grund: [blue][reason]</color><br>[prefix] Dauer: [blue][duration]</color></color>",
+        "en-US": "[grey][prefix] Punishment ID: [blue][id]</color><br>[prefix] Reason: [blue][reason]</color><br>[prefix] Duration: [blue][duration]</color></color>"
     },
     "GENERAL.history.kicks": {
-        "de-DE": "[grey][prefix] Punishment ID: [blue][id]</color><br>[prefix] Executor: [blue][executor]</color><br>[prefix] Grund: [blue][reason]</color></color>",
-        "en-US": "[grey][prefix] Punishment ID: [blue][id]</color><br>[prefix] Executor: [blue][executor]</color><br>[prefix] Reason: [blue][reason]</color></color>"
+        "de-DE": "[grey][prefix] Punishment ID: [blue][id]</color><br>[prefix] Grund: [blue][reason]</color></color>",
+        "en-US": "[grey][prefix] Punishment ID: [blue][id]</color><br>[prefix] Reason: [blue][reason]</color></color>"
     },
     "GENERAL.history.timed.gui.lore": {
         "de-DE": "<i:false>[grey][dot] ID: [blue][id]</color><br><i:false>[grey][dot] Executor: [blue][executor]</color><br><i:false>[grey][dot] Grund: [blue][reason]</color><br><i:false>[grey][dot] Servergruppe: [blue][servergroup]</color><br><i:false>[grey][dot] Dauer: [blue][duration]</color><br><i:false>[grey][dot] Aktiv: [grey]<b>[active]</b></color></color>",
