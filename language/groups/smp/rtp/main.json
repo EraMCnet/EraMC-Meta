@@ -16,8 +16,8 @@
         "en-US": "[grey]ʏᴏᴜ ɢᴏᴛ [blue]ᴛᴇʟᴇᴘᴏʀᴛᴇᴅ</color> ʀᴀɴᴅᴏᴍʟʏ</color>"
     },
     "RTP.gui.title": {
-        "de-DE": "[blue]ʀᴀɴᴅᴏᴍ ᴛᴇʟᴇᴘᴏʀᴛ</color>",
-        "en-US": "[blue]ʀᴀɴᴅᴏᴍ ᴛᴇʟᴇᴘᴏʀᴛ</color>"
+        "de-DE": "<!i>ʀᴀɴᴅᴏᴍ ᴛᴇʟᴇᴘᴏʀᴛ",
+        "en-US": "<!i>ʀᴀɴᴅᴏᴍ ᴛᴇʟᴇᴘᴏʀᴛ"
     },
     "RTP.gui.overworld": {
         "de-DE": "<!i>[green]<b>RTP OVERWORLD</b></color>",
