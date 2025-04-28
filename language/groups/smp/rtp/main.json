@@ -3,20 +3,52 @@
         "de-DE": "[grey]Du musst noch [blue][duration]</color> warten, um die erneut [blue]teleportieren</color> zu können!</color>",
         "en-US": "[grey]You have to wait [blue][duration]</color> to be able to [blue]teleport</color> again!</color>"
     },
-    "RTP.success": {
-        "de-DE": "[grey]Du wurdest <color:#4bfb00>erfolgreich</color> [blue]teleportiert!</color></color>",
-        "en-US": "[grey]You have been <color:#4bfb00>successfully</color> [blue]teleported!</color></color>"
-    },
-    "RTP.searching": {
-        "de-DE": "[grey]Suche nach einem [blue]geeigneten</color> Ort um dich zu teleportieren...</color>",
-        "en-US": "[grey]Searching for a [blue]suitable</color> location to teleport you...</color>"
-    },
-    "RTP.error.noSuitableLocation": {
-        "de-DE": "[grey]Es konnte <color:#ff0000>kein</color> geeigneter Ort gefunden werden um dich zu teleportieren! Bitte versuche es erneut.</color>",
-        "en-US": "[grey]No suitable location could be found to teleport you! Please try again.</color>"
-    },
     "RTP.error.move": {
         "de-DE": "[grey]Der Teleportationsvorgang wurde <color:#ff0000>abgebrochen,</color> da du dich bewegt hast!</color>",
         "en-US": "[grey]The teleportation process was <color:#ff0000>cancelled</color> because you moved!</color>"
+    },
+    "RTP.title": {
+        "de-DE": "[blue]<b>RTP</b></color>",
+        "en-US": "[blue]<b>RTP</b></color>"
+    },
+    "RTP.subtitle": {
+        "de-DE": "[grey]ᴅᴜ ᴡᴜʀᴅᴇꜱᴛ [blue]ʀᴀɴᴅᴏᴍ</color> ᴛᴇʟᴇᴘᴏʀᴛɪᴇʀᴛ</color>",
+        "en-US": "[grey]ʏᴏᴜ ɢᴏᴛ [blue]ᴛᴇʟᴇᴘᴏʀᴛᴇᴅ</color> ʀᴀɴᴅᴏᴍʟʏ</color>"
+    },
+    "RTP.gui.title": {
+        "de-DE": "[blue]ʀᴀɴᴅᴏᴍ ᴛᴇʟᴇᴘᴏʀᴛ</color>",
+        "en-US": "[blue]ʀᴀɴᴅᴏᴍ ᴛᴇʟᴇᴘᴏʀᴛ</color>"
+    },
+    "RTP.gui.overworld": {
+        "de-DE": "<!i>[green]<b>RTP OVERWORLD</b></color>",
+        "en-US": "[green]<b>RTP OVERWORLD</b></color>"
+    },
+    "RTP.gui.overworld.lore": {
+        "de-DE": "<br><!i><white>Klicke um dich zu [green]teleportieren</color><br><br><!i>[green][ROUNDDOT] <white>Cooldown: [green][duration]</color><br><!i>[green][ROUNDDOT] <white>Radius: [green]5k - 15k</color><br><!i>[green][ROUNDDOT] <white>Border: [green]150k x 150k</color><br>",
+        "en-US": "<br><!i><white>Click to [green]teleport</color><br><br><!i>[green][ROUNDDOT] <white>Cooldown: [green][duration]</color><br><!i>[green][ROUNDDOT] <white>Radius: [green]5k - 15k</color><br><!i>[green][ROUNDDOT] <white>Border: [green]150k x 150k</color><br>"
+    },
+    "RTP.gui.nether": {
+        "de-DE": "<!i>[red]<b>RTP NETHER</b></color>",
+        "en-US": "[red]<b>RTP NETHER</b></color>"
+    },
+    "RTP.gui.nether.lore": {
+        "de-DE": "<br><!i><white>Klicke um dich zu [red]teleportieren</color><br><br><!i>[red][ROUNDDOT] <white>Cooldown: [red][duration]</color><br><!i>[red][ROUNDDOT] <white>Radius: [red]2k - 5k</color><br><!i>[red][ROUNDDOT] <white>Border: [red]20k x 20k</color><br>",
+        "en-US": "<br><!i><white>Click to [red]teleport</color><br><br><!i>[red][ROUNDDOT] <white>Cooldown: [red][duration]</color><br><!i>[red][ROUNDDOT] <white>Radius: [red]2k - 5k</color><br><!i>[red][ROUNDDOT] <white>Border: [red]20k x 20k</color><br>"
+    },
+    "RTP.gui.end": {
+        "de-DE": "<!i>[purple]<b>RTP END</b></color>",
+        "en-US": "[purple]<b>RTP END</b></color>"
+    },
+    "RTP.gui.end.lore": {
+        "de-DE": "<br><!i><white>Klicke um dich zu [purple]teleportieren</color><br><br><!i>[purple][ROUNDDOT] <white>Cooldown: [purple][duration]</color><br><!i>[purple][ROUNDDOT] <white>Radius: [purple]5k - 20k</color><br><!i>[purple][ROUNDDOT] <white>Border: [purple]150k x 150k</color><br>",
+        "en-US": "<br><!i><white>Click to [purple]teleport</color><br><br><!i>[purple][ROUNDDOT] <white>Cooldown: [purple][duration]</color><br><!i>[purple][ROUNDDOT] <white>Radius: [purple]5k - 20k</color><br><!i>[purple][ROUNDDOT] <white>Border: [purple]150k x 150k</color><br>"
+    },
+    "RTP.gui.queue": {
+        "de-DE": "<!i>[red]<b>RTP QUEUE</b></color>",
+        "en-US": "<!i>[red]<b>RTP QUEUE</b></color>"
+    },
+    "RTP.gui.queue.lore": {
+        "de-DE": "<br><!i><white>Klicke, um zum <red>Menü</red> zu gelangen<br><br><!i><white><u>Kämpfe mit:</u><br><br><!i>[red][ROUNDDOT]<white> Einem zufälligem Spieler<br><!i>[red][ROUNDDOT]<white> Einem bestimmten Spieler<br>",
+        "en-US": "<br><!i><white>Click to go to the <red>menu</red><br><br><!i><white><u>Fight with:</u><br><br><!i>[red][ROUNDDOT]<white> A random player<br><!i>[red][ROUNDDOT]<white> A specific player<br>"
     }
 }
