@@ -1,6 +1,6 @@
 {
     "RTP.error.cooldown": {
-        "de-DE": "[grey]Du musst noch [blue][duration]</color> warten, um die erneut [blue]teleportieren</color> zu können!</color>",
+        "de-DE": "[grey]Du musst noch [blue][duration]</color> warten, um dich erneut [blue]teleportieren</color> zu können!</color>",
         "en-US": "[grey]You have to wait [blue][duration]</color> to be able to [blue]teleport</color> again!</color>"
     },
     "RTP.error.move": {
@@ -50,5 +50,65 @@
     "RTP.gui.queue.lore": {
         "de-DE": "<br><!i><white>Klicke, um zum <red>Menü</red> zu gelangen<br><br><!i><white><u>Kämpfe mit:</u><br><br><!i>[red][ROUNDDOT]<white> Einem zufälligem Spieler<br><!i>[red][ROUNDDOT]<white> Einem bestimmten Spieler<br>",
         "en-US": "<br><!i><white>Click to go to the <red>menu</red><br><br><!i><white><u>Fight with:</u><br><br><!i>[red][ROUNDDOT]<white> A random player<br><!i>[red][ROUNDDOT]<white> A specific player<br>"
+    },
+    "RTP.gui.queue.title": {
+        "de-DE": "<!i>ʀᴛᴘ qᴜᴇᴜᴇ",
+        "en-US": "<!i>ʀᴛᴘ qᴜᴇᴜᴇ"
+    },
+    "RTP.gui.queue.join.random": {
+        "de-DE": "<!i>[red]<b>RTP QUEUE RANDOM</b></color>",
+        "en-US": "<!i>[red]<b>RTP QUEUE RANDOM</b></color>"
+    },
+    "RTP.gui.queue.join.random.lore": {
+        "de-DE": "<br><!i>[red][ROUNDDOT]</color> <white>Klicke um mit einem [blue]zufälligen</color> Spieler zu kämpfen<br>",
+        "en-US": "<br><!i>[red][ROUNDDOT]</color> <white>Click to fight with a [blue]random</color> player<br>"
+    },
+    "RTP.gui.queue.create": {
+        "de-DE": "<!i>[red]<b>RTP QUEUE CREATE</b></color>",
+        "en-US": "<!i>[red]<b>RTP QUEUE CREATE</b></color>"
+    },
+    "RTP.gui.queue.create.lore": {
+        "de-DE": "<br><!i>[red][ROUNDDOT]</color> <white>Klicke um auf andere Spieler zu warten<br>",
+        "en-US": "<br><!i>[red][ROUNDDOT]</color> <white>Click to wait for other players<br>"
+    },
+    "RTP.gui.queue.join.specific": {
+        "de-DE": "<!i>[red]<b>RTP QUEUE JOIN</b></color>",
+        "en-US": "<!i>[red]<b>RTP QUEUE JOIN</b></color>"
+    },
+    "RTP.gui.queue.join.specific.lore": {
+        "de-DE": "<br><!i>[red][ROUNDDOT]</color> <white>Klicke um mit einem [blue]bestimmten</color> Spieler zu kämpfen<br>",
+        "en-US": "<br><!i>[red][ROUNDDOT]</color> <white>Click to fight with a [blue]specific</color> player<br>"
+    },
+    "RTP.gui.queue.leave": {
+        "de-DE": "<!i>[red]<b>RTP QUEUE LEAVE</b></color>",
+        "en-US": "<!i>[red]<b>RTP QUEUE LEAVE</b></color>"
+    },
+    "RTP.gui.queue.leave.lore": {
+        "de-DE": "<br><!i>[red][ROUNDDOT]</color> <white>Klicke um die Warteschlange zu [red]verlassen</color><br>",
+        "en-US": "<br><!i>[red][ROUNDDOT]</color> <white>Click to [red]leave</color> the queue<br>"
+    },
+    "RTP.queue.broadcast": {
+        "de-DE": "[grey][green][player]</color> wartet in der RTP Queue auf einen [red]Gegner!</color> [grey](<click:run_command:'/rtpqueue join [player]'>/rtpqueue join [player]</click> zum beitreten)</color>",
+        "en-US": "[grey][green][player]</color> is waiting in the RTP Queue for an [red]opponent!</color> [grey](<click:run_command:'/rtpqueue join [player]'>/rtpqueue join [player]</click> to join)</color>"
+    },
+    "RTP.queue.create": {
+        "de-DE": "[grey]Du wartest nun auf andere Spieler.</color>",
+        "en-US": "[grey]You are now waiting for other players.</color>"
+    },
+    "RTP.queue.join.random": {
+        "de-DE": "[grey]Du bist nun in der Warteschlange für einen [blue]zufälligen</color> Gegner.</color>",
+        "en-US": "[grey]You are now in the queue for a [blue]random</color> opponent.</color>"
+    },
+    "RTP.queue.join.random.error.no.opponent": {
+        "de-DE": "[grey]Da kein Gegner gefunden wurde, wartest du nun auf einen Gegner.</color>",
+        "en-US": "[grey]Since no opponent was found, you are now waiting for an opponent.</color>"
+    },
+    "RTP.queue.opponent.found.title": {
+        "de-DE": "[blue]ʀᴛᴘ qᴜᴇᴜᴇ</color>",
+        "en-US": "[blue]ʀᴛᴘ qᴜᴇᴜᴇ</color>"
+    },
+    "RTP.queue.opponent.found.subtitle": {
+        "de-DE": "<white>Du kämpfst nun gegen [red][player]</color></white>",
+        "en-US": "<white>You are now fighting against [red][player]</color></white>"
     }
 }
