@@ -110,5 +110,9 @@
     "RTP.queue.opponent.found.subtitle": {
         "de-DE": "<white>Du kämpfst nun gegen [red][player]</color></white>",
         "en-US": "<white>You are now fighting against [red][player]</color></white>"
+    },
+    "RTP.queue.timeout": {
+        "de-DE": "[grey]Es konnte kein Gegner für dich gefunden werden!</color>",
+        "en-US": "[grey]No opponent could be found for you!</color>"
     }
 }
