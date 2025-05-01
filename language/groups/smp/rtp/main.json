@@ -103,6 +103,14 @@
         "de-DE": "[grey]Du bist nun in der Warteschlange für einen [blue]zufälligen</color> Gegner.</color>",
         "en-US": "[grey]You are now in the queue for a [blue]random</color> opponent.</color>"
     },
+    "RTP.queue.already.in.queue": {
+        "de-DE": "[grey]Du bist bereits in der Warteschlange!</color>",
+        "en-US": "[grey]You are already in the queue!</color>"
+    },
+    "RTP.queue.join.specific": {
+        "de-DE": "[grey]Du bist nun in der Warteschlange für [blue][player]</color>.</color>",
+        "en-US": "[grey]You are now in the queue for [blue][player]</color>.</color>"
+    },
     "RTP.queue.join.random.error.no.opponent": {
         "de-DE": "[grey]Da [red]kein</color> Gegner gefunden wurde, wartest du nun auf einen Gegner.</color>",
         "en-US": "[grey]Since [red]no</color> opponent was found, you are now waiting for an opponent.</color>"
