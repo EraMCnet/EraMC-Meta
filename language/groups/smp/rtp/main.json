@@ -118,5 +118,9 @@
     "RTP.queue.leave": {
         "de-DE": "[grey]Du hast die Warteschlange verlassen!</color>",
         "en-US": "[grey]You have left the queue!</color>"
+    },
+    "RTP.queue.not.in.queue": {
+        "de-DE": "[grey]Du bist aktuell nicht in der Warteschlange!</color>",
+        "en-US": "[grey]You are currently not in the queue!</color>"
     }
 }
