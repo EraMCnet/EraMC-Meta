@@ -100,8 +100,8 @@
         "en-US": "[grey]You are now in the queue for a [blue]random</color> opponent.</color>"
     },
     "RTP.queue.join.random.error.no.opponent": {
-        "de-DE": "[grey]Da kein Gegner gefunden wurde, wartest du nun auf einen Gegner.</color>",
-        "en-US": "[grey]Since no opponent was found, you are now waiting for an opponent.</color>"
+        "de-DE": "[grey]Da [red]kein</color> Gegner gefunden wurde, wartest du nun auf einen Gegner.</color>",
+        "en-US": "[grey]Since [red]no</color> opponent was found, you are now waiting for an opponent.</color>"
     },
     "RTP.queue.opponent.found.title": {
         "de-DE": "[blue]ʀᴛᴘ qᴜᴇᴜᴇ</color>",
@@ -116,11 +116,15 @@
         "en-US": "[grey]No opponent could be found for you!</color>"
     },
     "RTP.queue.leave": {
-        "de-DE": "[grey]Du hast die Warteschlange verlassen!</color>",
-        "en-US": "[grey]You have left the queue!</color>"
+        "de-DE": "[grey]Du hast die Warteschlange [red]verlassen!</color></color>",
+        "en-US": "[grey]You have [red]left</color> the queue!</color>"
     },
     "RTP.queue.not.in.queue": {
-        "de-DE": "[grey]Du bist aktuell nicht in der Warteschlange!</color>",
-        "en-US": "[grey]You are currently not in the queue!</color>"
+        "de-DE": "[grey]Du bist aktuell [red]nicht</color> in der Warteschlange!</color>",
+        "en-US": "[grey]You are currently [red]not</color< in the queue!</color>"
+    },
+    "RTP.queue.not.in.queue.other": {
+        "de-DE": "[grey][blue][player]</color> ist aktuell [red]nicht</color> in der Warteschlange!</color>",
+        "en-US": "[grey][blue][player]</color> is currently [red]not</color> in the queue!</color>"
     }
 }
