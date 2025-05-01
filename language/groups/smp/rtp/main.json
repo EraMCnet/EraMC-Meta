@@ -108,8 +108,8 @@
         "en-US": "[blue]ʀᴛᴘ qᴜᴇᴜᴇ</color>"
     },
     "RTP.queue.opponent.found.subtitle": {
-        "de-DE": "<white>Du kämpfst nun gegen [red][player]</color></white>",
-        "en-US": "<white>You are now fighting against [red][player]</color></white>"
+        "de-DE": "<white>Du kämpfst nun gegen [red][player]</color> (nicht bewegen)</white>",
+        "en-US": "<white>You are now fighting against [red][player]</color> (don't move)</white>"
     },
     "RTP.queue.timeout": {
         "de-DE": "[grey]Es konnte kein Gegner für dich gefunden werden!</color>",
@@ -126,5 +126,13 @@
     "RTP.queue.not.in.queue.other": {
         "de-DE": "[grey][blue][player]</color> ist aktuell [red]nicht</color> in der Warteschlange!</color>",
         "en-US": "[grey][blue][player]</color> is currently [red]not</color> in the queue!</color>"
+    },
+    "RTP.queue.move.cancel": {
+        "de-DE": "[grey]Der RTP-Vorgang wurde <color:#ff0000>abgebrochen,</color> da du dich bewegt hast!</color>",
+        "en-US": "[grey]The RTP process was <color:#ff0000>cancelled</color> because you moved!</color>"
+    },
+    "RTP.queue.move.cancel.other": {
+        "de-DE": "[grey][blue][player]</color> hat den RTP-Vorgang <color:#ff0000>abgebrochen,</color> da er sich bewegt hast!</color>",
+        "en-US": "[grey][blue][player]</color> has <color:#ff0000>cancelled</color> the RTP process because he moved!</color>"
     }
 }
