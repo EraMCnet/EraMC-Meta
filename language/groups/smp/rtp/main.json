@@ -114,5 +114,9 @@
     "RTP.queue.timeout": {
         "de-DE": "[grey]Es konnte kein Gegner für dich gefunden werden!</color>",
         "en-US": "[grey]No opponent could be found for you!</color>"
+    },
+    "RTP.queue.leave": {
+        "de-DE": "[grey]Du hast die Warteschlange verlassen!</color>",
+        "en-US": "[grey]You have left the queue!</color>"
     }
 }
