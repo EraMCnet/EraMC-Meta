@@ -24,8 +24,8 @@
         "en-US": "[green]<b>RTP OVERWORLD</b></color>"
     },
     "RTP.gui.overworld.lore": {
-        "de-DE": "<br><!i><white>Klicke um dich zu [green]teleportieren</color><br><br><!i>[green][ROUNDDOT] <white>Cooldown: [green][duration]</color><br><!i>[green][ROUNDDOT] <white>Radius: [green]5k - 15k</color><br><!i>[green][ROUNDDOT] <white>Border: [green]150k x 150k</color><br>",
-        "en-US": "<br><!i><white>Click to [green]teleport</color><br><br><!i>[green][ROUNDDOT] <white>Cooldown: [green][duration]</color><br><!i>[green][ROUNDDOT] <white>Radius: [green]5k - 15k</color><br><!i>[green][ROUNDDOT] <white>Border: [green]150k x 150k</color><br>"
+        "de-DE": "<br><!i><white>Klicke um dich zu [green]teleportieren</color><br><br><!i>[green][ROUNDDOT] <white>Cooldown: [green][duration]</color><br><!i>[green][ROUNDDOT] <white>Radius: [green]20k - 50k</color><br><!i>[green][ROUNDDOT] <white>Border: [green]250k x 250k</color><br>",
+        "en-US": "<br><!i><white>Click to [green]teleport</color><br><br><!i>[green][ROUNDDOT] <white>Cooldown: [green][duration]</color><br><!i>[green][ROUNDDOT] <white>Radius: [green]20k - 50k</color><br><!i>[green][ROUNDDOT] <white>Border: [green]250k x 250k</color><br>"
     },
     "RTP.gui.nether": {
         "de-DE": "<!i>[red]<b>RTP NETHER</b></color>",
@@ -40,8 +40,8 @@
         "en-US": "[purple]<b>RTP END</b></color>"
     },
     "RTP.gui.end.lore": {
-        "de-DE": "<br><!i><white>Klicke um dich zu [purple]teleportieren</color><br><br><!i>[purple][ROUNDDOT] <white>Cooldown: [purple][duration]</color><br><!i>[purple][ROUNDDOT] <white>Radius: [purple]5k - 20k</color><br><!i>[purple][ROUNDDOT] <white>Border: [purple]150k x 150k</color><br>",
-        "en-US": "<br><!i><white>Click to [purple]teleport</color><br><br><!i>[purple][ROUNDDOT] <white>Cooldown: [purple][duration]</color><br><!i>[purple][ROUNDDOT] <white>Radius: [purple]5k - 20k</color><br><!i>[purple][ROUNDDOT] <white>Border: [purple]150k x 150k</color><br>"
+        "de-DE": "<br><!i><white>Klicke um dich zu [purple]teleportieren</color><br><br><!i>[purple][ROUNDDOT] <white>Cooldown: [purple][duration]</color><br><!i>[purple][ROUNDDOT] <white>Radius: [purple]5k - 20k</color><br><!i>[purple][ROUNDDOT] <white>Border: [purple]250k x 250k</color><br>",
+        "en-US": "<br><!i><white>Click to [purple]teleport</color><br><br><!i>[purple][ROUNDDOT] <white>Cooldown: [purple][duration]</color><br><!i>[purple][ROUNDDOT] <white>Radius: [purple]5k - 20k</color><br><!i>[purple][ROUNDDOT] <white>Border: [purple]250k x 250k</color><br>"
     },
     "RTP.gui.queue": {
         "de-DE": "<!i>[red]<b>RTP QUEUE</b></color>",
