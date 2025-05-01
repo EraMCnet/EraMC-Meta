@@ -7,6 +7,10 @@
         "de-DE": "[grey]Der Teleportationsvorgang wurde <color:#ff0000>abgebrochen,</color> da du dich bewegt hast!</color>",
         "en-US": "[grey]The teleportation process was <color:#ff0000>cancelled</color> because you moved!</color>"
     },
+    "RTP.teleport.in": {
+        "de-DE": "<white>ᴅᴜ ᴡɪʀꜱᴛ ɪɴ [blue][duration]</color> ꜱᴇᴋᴜɴᴅᴇɴ ᴛᴇʟᴇᴘᴏʀᴛɪᴇʀᴛ</white>",
+        "en-US": "<white>ʏᴏᴜ ᴀʀᴇ ɢᴏɪɴɢ ᴛᴏ ʙᴇ [blue][duration]</color> ꜱᴇᴄᴏɴᴅꜱ ᴛᴇʟᴇᴘᴏʀᴛ</white>"
+    },
     "RTP.title": {
         "de-DE": "[blue]<b>RTP</b></color>",
         "en-US": "[blue]<b>RTP</b></color>"
@@ -130,10 +134,6 @@
     "RTP.queue.move.cancel.other": {
         "de-DE": "[grey]Der RTP-Vorgang wurde <color:#ff0000>abgebrochen,</color> da [blue][player]</color> sich bewegt hat!</color>",
         "en-US": "[grey]The teleportation process was <color:#ff0000>cancelled</color> because [blue][player]</color> moved!</color>"
-    },
-    "RTP.queue.leave.other": {
-        "de-DE": "[grey]Der RTP-Vorgang wurde <color:#ff0000>abgebrochen,</color> da [blue][player]</color> die Warteschlange verlassen hat!</color>",
-        "en-US": "[grey]The teleportation process was <color:#ff0000>cancelled</color> because [blue][player]</color> left the queue!</color>"
     },
     "RTP.queue.quit.other": {
         "de-DE": "[grey]Der RTP-Vorgang wurde <color:#ff0000>abgebrochen,</color> da [blue][player]</color> den Server verlassen hat!</color>",
