@@ -99,7 +99,7 @@
         "de-DE": "[grey]Du wartest nun auf andere Spieler.</color>",
         "en-US": "[grey]You are now waiting for other players.</color>"
     },
-    "RTP.queue.join.random": {
+    "RTP.queue.join": {
         "de-DE": "[grey]Du bist nun in der Warteschlange für einen [blue]zufälligen</color> Gegner.</color>",
         "en-US": "[grey]You are now in the queue for a [blue]random</color> opponent.</color>"
     },
