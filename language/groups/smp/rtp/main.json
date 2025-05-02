@@ -147,27 +147,27 @@
         "de-DE": "[grey]Der RTP-Vorgang wurde [red]abgebrochen,</color> da [red][player]</color> den Server [red]verlassen</color> hat!</color>",
         "en-US": "[grey]The teleportation process was [red]cancelled</color> because [red][player]</color> [red]left</color> the server!</color>"
     },
-    "RTP.queue.gui.page.previous": {
+    "RTP.gui.queue.page.previous": {
         "de-DE": "<i:false>[red]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
         "en-US": "<i:false>[red]ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ"
     },
-    "RTP.queue.gui.page.update": {
+    "RTP.gui.queue.page.update": {
         "de-DE": "<i:false>[red]ᴀᴋᴛᴜᴀʟʟɪꜱɪᴇʀᴇɴ",
         "en-US": "<i:false>[red]ᴜᴘᴅᴀᴛᴇ"
     },
-    "RTP.queue.gui.page.next": {
+    "RTP.gui.queue.page.next": {
         "de-DE": "<i:false>[red]ɴäᴄʜꜱᴛᴇ ꜱᴇɪᴛᴇ",
         "en-US": "<i:false>[red]ɴᴇxᴛ ᴘᴀɢᴇ"
     },
-    "RTP.queue.gui.page.navigate.lore": {
+    "RTP.gui.queue.page.navigate.lore": {
         "de-DE": "<i:false><br><i:false>[red][ROUNDDOT]<white> Klicke, zum navigieren<br><i:false>",
         "en-US": "<i:false><br><i:false>[red][ROUNDDOT]<white> Click to navigate<br><i:false>"
     },
-    "RTP.queue.gui.page.update.lore": {
+    "RTP.gui.queue.page.update.lore": {
         "de-DE": "<i:false><br><i:false>[red][ROUNDDOT]<white> Klicke, um die Seite zu aktualisieren<br><i:false>",
         "en-US": "<i:false><br><i:false>[red][ROUNDDOT]<white> Click to update the page<br><i:false>"
     },
-    "RTP.queue.gui.player.lore": {
+    "RTP.gui.queue.player.lore": {
         "de-DE": "<i:false><br><i:false>[red][ROUNDDOT]<white> Klicke, um mit diesem Spieler zu [red]kämpfen</color><br><i:false>",
         "en-US": "<i:false><br><i:false>[red][ROUNDDOT]<white> Click to [red]fight</color> this player<br><i:false>"
     }
