@@ -100,8 +100,8 @@
         "en-US": "<br><!i>[red][ROUNDDOT]</color> <white>Click to [red]leave</color> the queue<br>"
     },
     "RTP.queue.broadcast": {
-        "de-DE": "[grey][green][player]</color> ist nun in der [red]<u>RTP Queue</u></color> und wartet auf einen Gegner! <white><click:run_command:'/rtpqueue join [player]'>(/rtpqueue join [player])</click></white></color>",
-        "en-US": "[grey][green][player]</color> is now in the [red]<u>RTP Queue</u></color> and is waiting for an opponent! <white><click:run_command:'/rtpqueue join [player]'>(/rtpqueue join [player])</click></white></color>"
+        "de-DE": "[grey][green][player]</color> ist nun in der [red]<u>RTP Queue</u></color> und wartet auf einen Gegner! <white><click:run_command:'/rtpqueue join [player]'>(<u>/rtpqueue join [player]</u>)</click></white></color>",
+        "en-US": "[grey][green][player]</color> is now in the [red]<u>RTP Queue</u></color> and is waiting for an opponent! <white><click:run_command:'/rtpqueue join [player]'>(<u>/rtpqueue join [player]</u>)</click></white></color>"
     },
     "RTP.queue.create": {
         "de-DE": "[grey]Du wartest nun auf andere Spieler.</color>",
