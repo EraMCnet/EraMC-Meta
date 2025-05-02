@@ -8,8 +8,16 @@
         "en-US": "[grey]The teleportation process was [red]cancelled</color> because you moved!</color>"
     },
     "RTP.teleport.in": {
-        "de-DE": "<white>ᴅᴜ ᴡɪʀꜱᴛ ɪɴ [blue][duration]</color> ꜱᴇᴋᴜɴᴅᴇɴ ᴛᴇʟᴇᴘᴏʀᴛɪᴇʀᴛ</white>",
-        "en-US": "<white>ʏᴏᴜ ᴀʀᴇ ɢᴏɪɴɢ ᴛᴏ ʙᴇ [blue][duration]</color> ꜱᴇᴄᴏɴᴅꜱ ᴛᴇʟᴇᴘᴏʀᴛ</white>"
+        "de-DE": "[grey]ᴅᴜ ᴡɪʀꜱᴛ ɪɴ [blue][duration] ꜱᴇᴋᴜɴᴅᴇɴ</color> ᴛᴇʟᴇᴘᴏʀᴛɪᴇʀᴛ</color>",
+        "en-US": "[grey]ʏᴏᴜ ᴀʀᴇ ɢᴏɪɴɢ ᴛᴏ ʙᴇ ᴛᴇʟᴇᴘᴏʀᴛᴇᴅ ɪɴ [blue][duration] ꜱᴇᴄᴏɴᴅꜱ</color></color>"
+    },
+    "RTP.actionbar.teleported": {
+        "de-DE": "[green]ᴅᴜ ᴡᴜʀᴅᴇꜱᴛ ᴛᴇʟᴇᴘᴏʀᴛɪᴇʀᴛ</color>",
+        "en-US": "[green]ʏᴏᴜ ʜᴀᴠᴇ ʙᴇᴇɴ ᴛᴇʟᴇᴘᴏʀᴛᴇᴅ</color>"
+    },
+    "RTP.actionbar.teleport.cancelled": {
+        "de-DE": "[red]ᴅᴇʀ ᴛᴇʟᴇᴘᴏʀᴛ ᴡᴜʀᴅᴇ ᴀʙɢᴇʙʀᴏᴄʜᴇɴ</color>",
+        "en-US": "[red]ᴛʜᴇ ᴛᴇʟᴇᴘᴏʀᴛ ᴡᴀꜱ ᴄᴀɴᴄᴇʟʟᴇᴅ</color>"
     },
     "RTP.title": {
         "de-DE": "[blue]<b>RTP</b></color>",
