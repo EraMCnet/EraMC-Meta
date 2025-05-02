@@ -28,7 +28,7 @@
         "en-US": "[green]<b>RTP OVERWORLD</b></color>"
     },
     "RTP.gui.overworld.lore": {
-        "de-DE": "<br><!i><white>Klicke um dich zu [green]teleportieren</color><br><br><!i>[green][ROUNDDOT] <white>Cooldown: [green][duration]</color><br><!i>[green][ROUNDDOT] <white>Radius: [green]20k - 50k</color><br><!i>[green][ROUNDDOT] <white>Border: [green]250k x 250k</color><br>",
+        "de-DE": "<br><!i><white>Klicke, um dich zu [green]teleportieren</color><br><br><!i>[green][ROUNDDOT] <white>Cooldown: [green][duration]</color><br><!i>[green][ROUNDDOT] <white>Radius: [green]20k - 50k</color><br><!i>[green][ROUNDDOT] <white>Border: [green]250k x 250k</color><br>",
         "en-US": "<br><!i><white>Click to [green]teleport</color><br><br><!i>[green][ROUNDDOT] <white>Cooldown: [green][duration]</color><br><!i>[green][ROUNDDOT] <white>Radius: [green]20k - 50k</color><br><!i>[green][ROUNDDOT] <white>Border: [green]250k x 250k</color><br>"
     },
     "RTP.gui.nether": {
@@ -36,7 +36,7 @@
         "en-US": "[red]<b>RTP NETHER</b></color>"
     },
     "RTP.gui.nether.lore": {
-        "de-DE": "<br><!i><white>Klicke um dich zu [red]teleportieren</color><br><br><!i>[red][ROUNDDOT] <white>Cooldown: [red][duration]</color><br><!i>[red][ROUNDDOT] <white>Radius: [red]2k - 5k</color><br><!i>[red][ROUNDDOT] <white>Border: [red]20k x 20k</color><br>",
+        "de-DE": "<br><!i><white>Klicke, um dich zu [red]teleportieren</color><br><br><!i>[red][ROUNDDOT] <white>Cooldown: [red][duration]</color><br><!i>[red][ROUNDDOT] <white>Radius: [red]2k - 5k</color><br><!i>[red][ROUNDDOT] <white>Border: [red]20k x 20k</color><br>",
         "en-US": "<br><!i><white>Click to [red]teleport</color><br><br><!i>[red][ROUNDDOT] <white>Cooldown: [red][duration]</color><br><!i>[red][ROUNDDOT] <white>Radius: [red]2k - 5k</color><br><!i>[red][ROUNDDOT] <white>Border: [red]20k x 20k</color><br>"
     },
     "RTP.gui.end": {
@@ -44,7 +44,7 @@
         "en-US": "[purple]<b>RTP END</b></color>"
     },
     "RTP.gui.end.lore": {
-        "de-DE": "<br><!i><white>Klicke um dich zu [purple]teleportieren</color><br><br><!i>[purple][ROUNDDOT] <white>Cooldown: [purple][duration]</color><br><!i>[purple][ROUNDDOT] <white>Radius: [purple]5k - 20k</color><br><!i>[purple][ROUNDDOT] <white>Border: [purple]250k x 250k</color><br>",
+        "de-DE": "<br><!i><white>Klicke, um dich zu [purple]teleportieren</color><br><br><!i>[purple][ROUNDDOT] <white>Cooldown: [purple][duration]</color><br><!i>[purple][ROUNDDOT] <white>Radius: [purple]5k - 20k</color><br><!i>[purple][ROUNDDOT] <white>Border: [purple]250k x 250k</color><br>",
         "en-US": "<br><!i><white>Click to [purple]teleport</color><br><br><!i>[purple][ROUNDDOT] <white>Cooldown: [purple][duration]</color><br><!i>[purple][ROUNDDOT] <white>Radius: [purple]5k - 20k</color><br><!i>[purple][ROUNDDOT] <white>Border: [purple]250k x 250k</color><br>"
     },
     "RTP.gui.queue": {
@@ -64,7 +64,7 @@
         "en-US": "<!i>[red]<b>RTP QUEUE RANDOM</b></color>"
     },
     "RTP.gui.queue.join.random.lore": {
-        "de-DE": "<br><!i>[red][ROUNDDOT]</color> <white>Klicke um mit einem [red]zufälligen</color> Spieler zu kämpfen<br>",
+        "de-DE": "<br><!i>[red][ROUNDDOT]</color> <white>Klicke, um mit einem [red]zufälligen</color> Spieler zu kämpfen<br>",
         "en-US": "<br><!i>[red][ROUNDDOT]</color> <white>Click to fight with a [red]random</color> player<br>"
     },
     "RTP.gui.queue.create": {
@@ -72,7 +72,7 @@
         "en-US": "<!i>[red]<b>RTP QUEUE CREATE</b></color>"
     },
     "RTP.gui.queue.create.lore": {
-        "de-DE": "<br><!i>[red][ROUNDDOT]</color> <white>Klicke um auf [red]andere Spieler</color> zu warten<br>",
+        "de-DE": "<br><!i>[red][ROUNDDOT]</color> <white>Klicke, um auf [red]andere Spieler</color> zu warten<br>",
         "en-US": "<br><!i>[red][ROUNDDOT]</color> <white>Click to wait for [red]other players</color><br>"
     },
     "RTP.gui.queue.join.specific": {
@@ -80,7 +80,7 @@
         "en-US": "<!i>[red]<b>RTP QUEUE JOIN</b></color>"
     },
     "RTP.gui.queue.join.specific.lore": {
-        "de-DE": "<br><!i>[red][ROUNDDOT]</color> <white>Klicke um mit einem [red]bestimmten</color> Spieler zu kämpfen<br>",
+        "de-DE": "<br><!i>[red][ROUNDDOT]</color> <white>Klicke, um mit einem [red]bestimmten</color> Spieler zu kämpfen<br>",
         "en-US": "<br><!i>[red][ROUNDDOT]</color> <white>Click to fight with a [red]specific</color> player<br>"
     },
     "RTP.gui.queue.leave": {
@@ -88,7 +88,7 @@
         "en-US": "<!i>[red]<b>RTP QUEUE LEAVE</b></color>"
     },
     "RTP.gui.queue.leave.lore": {
-        "de-DE": "<br><!i>[red][ROUNDDOT]</color> <white>Klicke um die Warteschlange zu [red]verlassen</color><br>",
+        "de-DE": "<br><!i>[red][ROUNDDOT]</color> <white>Klicke, um die Warteschlange zu [red]verlassen</color><br>",
         "en-US": "<br><!i>[red][ROUNDDOT]</color> <white>Click to [red]leave</color> the queue<br>"
     },
     "RTP.queue.broadcast": {
@@ -146,5 +146,29 @@
     "RTP.queue.quit.other": {
         "de-DE": "[grey]Der RTP-Vorgang wurde [red]abgebrochen,</color> da [red][player]</color> den Server [red]verlassen</color> hat!</color>",
         "en-US": "[grey]The teleportation process was [red]cancelled</color> because [red][player]</color> [red]left</color> the server!</color>"
+    },
+    "RTP.queue.gui.page.previous": {
+        "de-DE": "<i:false>[red]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[red]ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ"
+    },
+    "RTP.queue.gui.page.update": {
+        "de-DE": "<i:false>[red]ᴀᴋᴛᴜᴀʟʟɪꜱɪᴇʀᴇɴ",
+        "en-US": "<i:false>[red]ᴜᴘᴅᴀᴛᴇ"
+    },
+    "RTP.queue.gui.page.next": {
+        "de-DE": "<i:false>[red]ɴäᴄʜꜱᴛᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[red]ɴᴇxᴛ ᴘᴀɢᴇ"
+    },
+    "RTP.queue.gui.page.navigate.lore": {
+        "de-DE": "<i:false><br><i:false>[red][ROUNDDOT]<white> Klicke, zum navigieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[red][ROUNDDOT]<white> Click to navigate<br><i:false>"
+    },
+    "RTP.queue.gui.page.update.lore": {
+        "de-DE": "<i:false><br><i:false>[red][ROUNDDOT]<white> Klicke, um die Seite zu aktualisieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[red][ROUNDDOT]<white> Click to update the page<br><i:false>"
+    },
+    "RTP.queue.gui.player.lore": {
+        "de-DE": "<i:false><br><i:false>[red][ROUNDDOT]<white> Klicke, um mit diesem Spieler zu [red]kämpfen</color><br><i:false>",
+        "en-US": "<i:false><br><i:false>[red][ROUNDDOT]<white> Click to [red]fight</color> this player<br><i:false>"
     }
 }

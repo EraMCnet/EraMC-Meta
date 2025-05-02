@@ -8,7 +8,7 @@
         "en-US": "<i:false>[grey]You are currently connectet to [blue]this</color> lobby!</color>"
     },
     "ITEM.lobby.lore.connect": {
-        "de-DE": "<i:false>[grey]<br><i:false>[grey]Aktuell sind [blue][players] Spieler</color> mit [blue][lobby]</color> verbunden<br><br><i:false>[grey][blue][Klicke um dich zu verbinden]</color></color>",
+        "de-DE": "<i:false>[grey]<br><i:false>[grey]Aktuell sind [blue][players] Spieler</color> mit [blue][lobby]</color> verbunden<br><br><i:false>[grey][blue][Klicke, um dich zu verbinden]</color></color>",
         "en-US": "<i:false>[grey]<br><i:false>[grey]Currently [blue][players] players</color> are connected to [blue][lobby]</color><br><br><i:false>[grey][blue][Click to connect]</color></color>"
     }
 }

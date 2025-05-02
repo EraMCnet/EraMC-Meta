@@ -36,11 +36,11 @@
         "en-US": "<i:false>[grey]<color:#ff0000>Delete</color> all homes</color>"
     },
     "HOMES.list.gui.item.delete.all.lore": {
-        "de-DE": "<br><i:false>[grey]Klicke um alle deine [blue]homes</color> zu <color:#ff0000>löschen.</color><br><i:false>[grey]<color:#ff0000>Aufpassen:</color> Dies kann <color:#ff0000>NICHT</color> rückgängig gemacht werden!</color><br>",
+        "de-DE": "<br><i:false>[grey]Klicke, um alle deine [blue]homes</color> zu <color:#ff0000>löschen.</color><br><i:false>[grey]<color:#ff0000>Aufpassen:</color> Dies kann <color:#ff0000>NICHT</color> rückgängig gemacht werden!</color><br>",
         "en-US": "<br><i:false>[grey]Click to <color:#ff0000>delete</color> all your [blue]homes.</color><br><i:false>[grey]<color:#ff0000>Attention:</color> This can <color:#ff0000>NOT</color> be undone!</color><br>"
     },
     "HOMES.list.gui.item.home.lore": {
-        "de-DE": "<br><i:false>[grey][blue]Welt:</color> [world]<br><i:false>[grey][blue]Server:</color> [server]<br><i:false>[grey][blue]Aktiviert:</color> [status]<br><br><i:false>[grey]Klicke um dieses [blue]Home</color> zu [blue]verwalten</color></color><br>",
+        "de-DE": "<br><i:false>[grey][blue]Welt:</color> [world]<br><i:false>[grey][blue]Server:</color> [server]<br><i:false>[grey][blue]Aktiviert:</color> [status]<br><br><i:false>[grey]Klicke, um dieses [blue]Home</color> zu [blue]verwalten</color></color><br>",
         "en-US": "<br><i:false>[grey][blue]World:</color> [world]<br><i:false>[grey][blue]Server:</color> [server]<br><i:false>[grey][blue]Enabled:</color> [status]<br><br><i:false>[grey]Click to [blue]manage</color> this [blue]home</color></color><br>"
     },
     "HOMES.manage.gui.title": {
@@ -52,7 +52,7 @@
         "en-US": "<i:false>[grey]<color:#ff0000>Disable</color> all homes</color>"
     },
     "HOMES.list.gui.item.admin.disable.all.lore": {
-        "de-DE": "<br><i:false>[grey]Klicke um alle [blue]homes</color> zu <color:#ff0000>deaktivieren.</color><br><i:false>[grey]<color:#ff0000>Aufpassen:</color> Dies kann <color:#ff0000>NICHT</color> rückgängig gemacht werden!</color><br>",
+        "de-DE": "<br><i:false>[grey]Klicke, um alle [blue]homes</color> zu <color:#ff0000>deaktivieren.</color><br><i:false>[grey]<color:#ff0000>Aufpassen:</color> Dies kann <color:#ff0000>NICHT</color> rückgängig gemacht werden!</color><br>",
         "en-US": "<br><i:false>[grey]Click to <color:#ff0000>disable</color> all [blue]homes.</color><br><i:false>[grey]<color:#ff0000>Attention:</color> This can <color:#ff0000>NOT</color> be undone!</color><br>"
     },
     "HOMES.manage.gui.item.teleport.name": {
@@ -80,7 +80,7 @@
         "en-US": "<i:false>[green]Confirm</color>"
     },
     "HOMES.confirm.delete.all.gui.confirm.lore": {
-        "de-DE": "<br><i:false>[grey]Klicke um alle deine [blue]homes</color> zu <color:#ff0000>löschen.</color><br><i:false>[grey]<color:#ff0000>Aufpassen:</color> Dies kann <color:#ff0000>NICHT</color> rückgängig gemacht werden!</color><br>",
+        "de-DE": "<br><i:false>[grey]Klicke, um alle deine [blue]homes</color> zu <color:#ff0000>löschen.</color><br><i:false>[grey]<color:#ff0000>Aufpassen:</color> Dies kann <color:#ff0000>NICHT</color> rückgängig gemacht werden!</color><br>",
         "en-US": "<br><i:false>[grey]Click to <color:#ff0000>delete</color> all your [blue]homes.</color><br><i:false>[grey]<color:#ff0000>Attention:</color> This can <color:#ff0000>NOT</color> be undone!</color><br>"
     },
     "HOMES.confirm.delete.all.gui.cancel.name": {
@@ -88,7 +88,7 @@
         "en-US": "<i:false>[red]Cancel</color>"
     },
     "HOMES.confirm.delete.all.gui.cancel.lore": {
-        "de-DE": "<br><i:false>[grey]Klicke um den <color:#ff0000>Löschvorgang</color> abzubrechen</color><br>",
+        "de-DE": "<br><i:false>[grey]Klicke, um den <color:#ff0000>Löschvorgang</color> abzubrechen</color><br>",
         "en-US": "<br><i:false>[grey]Click to cancel the <color:#ff0000>deletion</color> process</color><br>"
     },
     "HOMES.teleport.error.exist": {
