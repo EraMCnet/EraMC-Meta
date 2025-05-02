@@ -32,12 +32,12 @@
         "en-US": "<br><!i><white>Click to [green]teleport</color><br><br><!i>[green][ROUNDDOT] <white>Cooldown: [green][duration]</color><br><!i>[green][ROUNDDOT] <white>Radius: [green]20k - 50k</color><br><!i>[green][ROUNDDOT] <white>Border: [green]250k x 250k</color><br>"
     },
     "RTP.gui.nether": {
-        "de-DE": "<!i>[pastel_red]<b>RTP NETHER</b></color>",
-        "en-US": "[pastel_red]<b>RTP NETHER</b></color>"
+        "de-DE": "<!i>[red]<b>RTP NETHER</b></color>",
+        "en-US": "[red]<b>RTP NETHER</b></color>"
     },
     "RTP.gui.nether.lore": {
-        "de-DE": "<br><!i><white>Klicke um dich zu [pastel_red]teleportieren</color><br><br><!i>[pastel_red][ROUNDDOT] <white>Cooldown: [pastel_red][duration]</color><br><!i>[pastel_red][ROUNDDOT] <white>Radius: [pastel_red]2k - 5k</color><br><!i>[pastel_red][ROUNDDOT] <white>Border: [pastel_red]20k x 20k</color><br>",
-        "en-US": "<br><!i><white>Click to [pastel_red]teleport</color><br><br><!i>[pastel_red][ROUNDDOT] <white>Cooldown: [pastel_red][duration]</color><br><!i>[pastel_red][ROUNDDOT] <white>Radius: [pastel_red]2k - 5k</color><br><!i>[pastel_red][ROUNDDOT] <white>Border: [pastel_red]20k x 20k</color><br>"
+        "de-DE": "<br><!i><white>Klicke um dich zu [red]teleportieren</color><br><br><!i>[red][ROUNDDOT] <white>Cooldown: [red][duration]</color><br><!i>[red][ROUNDDOT] <white>Radius: [red]2k - 5k</color><br><!i>[red][ROUNDDOT] <white>Border: [red]20k x 20k</color><br>",
+        "en-US": "<br><!i><white>Click to [red]teleport</color><br><br><!i>[red][ROUNDDOT] <white>Cooldown: [red][duration]</color><br><!i>[red][ROUNDDOT] <white>Radius: [red]2k - 5k</color><br><!i>[red][ROUNDDOT] <white>Border: [red]20k x 20k</color><br>"
     },
     "RTP.gui.end": {
         "de-DE": "<!i>[purple]<b>RTP END</b></color>",
@@ -48,99 +48,103 @@
         "en-US": "<br><!i><white>Click to [purple]teleport</color><br><br><!i>[purple][ROUNDDOT] <white>Cooldown: [purple][duration]</color><br><!i>[purple][ROUNDDOT] <white>Radius: [purple]5k - 20k</color><br><!i>[purple][ROUNDDOT] <white>Border: [purple]250k x 250k</color><br>"
     },
     "RTP.gui.queue": {
-        "de-DE": "<!i>[pastel_red]<b>RTP QUEUE</b></color>",
-        "en-US": "<!i>[pastel_red]<b>RTP QUEUE</b></color>"
+        "de-DE": "<!i>[red]<b>RTP QUEUE</b></color>",
+        "en-US": "<!i>[red]<b>RTP QUEUE</b></color>"
     },
     "RTP.gui.queue.lore": {
-        "de-DE": "<br><!i><white>Klicke, um zum <pastel_red>Menü</pastel_red> zu gelangen<br><br><!i><white><u>Kämpfe mit:</u><br><br><!i>[pastel_red][ROUNDDOT]<white> Einem zufälligem Spieler<br><!i>[pastel_red][ROUNDDOT]<white> Einem bestimmten Spieler<br>",
-        "en-US": "<br><!i><white>Click to go to the <pastel_red>menu</pastel_red><br><br><!i><white><u>Fight with:</u><br><br><!i>[pastel_red][ROUNDDOT]<white> A random player<br><!i>[pastel_red][ROUNDDOT]<white> A specific player<br>"
+        "de-DE": "<br><!i><white>Klicke, um zum <red>Menü</red> zu gelangen<br><br><!i><white><u>Kämpfe mit:</u><br><br><!i>[red][ROUNDDOT]<white> Einem zufälligem Spieler<br><!i>[red][ROUNDDOT]<white> Einem bestimmten Spieler<br>",
+        "en-US": "<br><!i><white>Click to go to the <red>menu</red><br><br><!i><white><u>Fight with:</u><br><br><!i>[red][ROUNDDOT]<white> A random player<br><!i>[red][ROUNDDOT]<white> A specific player<br>"
     },
     "RTP.gui.queue.title": {
         "de-DE": "<!i>ʀᴛᴘ qᴜᴇᴜᴇ",
         "en-US": "<!i>ʀᴛᴘ qᴜᴇᴜᴇ"
     },
     "RTP.gui.queue.join.random": {
-        "de-DE": "<!i>[pastel_red]<b>RTP QUEUE RANDOM</b></color>",
-        "en-US": "<!i>[pastel_red]<b>RTP QUEUE RANDOM</b></color>"
+        "de-DE": "<!i>[red]<b>RTP QUEUE RANDOM</b></color>",
+        "en-US": "<!i>[red]<b>RTP QUEUE RANDOM</b></color>"
     },
     "RTP.gui.queue.join.random.lore": {
-        "de-DE": "<br><!i>[pastel_red][ROUNDDOT]</color> <white>Klicke um mit einem [pastel_red]zufälligen</color> Spieler zu kämpfen<br>",
-        "en-US": "<br><!i>[pastel_red][ROUNDDOT]</color> <white>Click to fight with a [pastel_red]random</color> player<br>"
+        "de-DE": "<br><!i>[red][ROUNDDOT]</color> <white>Klicke um mit einem [red]zufälligen</color> Spieler zu kämpfen<br>",
+        "en-US": "<br><!i>[red][ROUNDDOT]</color> <white>Click to fight with a [red]random</color> player<br>"
     },
     "RTP.gui.queue.create": {
-        "de-DE": "<!i>[pastel_red]<b>RTP QUEUE CREATE</b></color>",
-        "en-US": "<!i>[pastel_red]<b>RTP QUEUE CREATE</b></color>"
+        "de-DE": "<!i>[red]<b>RTP QUEUE CREATE</b></color>",
+        "en-US": "<!i>[red]<b>RTP QUEUE CREATE</b></color>"
     },
     "RTP.gui.queue.create.lore": {
-        "de-DE": "<br><!i>[pastel_red][ROUNDDOT]</color> <white>Klicke um auf [pastel_red]andere Spieler</color> zu warten<br>",
-        "en-US": "<br><!i>[pastel_red][ROUNDDOT]</color> <white>Click to wait for [pastel_red]other players</color><br>"
+        "de-DE": "<br><!i>[red][ROUNDDOT]</color> <white>Klicke um auf [red]andere Spieler</color> zu warten<br>",
+        "en-US": "<br><!i>[red][ROUNDDOT]</color> <white>Click to wait for [red]other players</color><br>"
     },
     "RTP.gui.queue.join.specific": {
-        "de-DE": "<!i>[pastel_red]<b>RTP QUEUE JOIN</b></color>",
-        "en-US": "<!i>[pastel_red]<b>RTP QUEUE JOIN</b></color>"
+        "de-DE": "<!i>[red]<b>RTP QUEUE JOIN</b></color>",
+        "en-US": "<!i>[red]<b>RTP QUEUE JOIN</b></color>"
     },
     "RTP.gui.queue.join.specific.lore": {
-        "de-DE": "<br><!i>[pastel_red][ROUNDDOT]</color> <white>Klicke um mit einem [pastel_red]bestimmten</color> Spieler zu kämpfen<br>",
-        "en-US": "<br><!i>[pastel_red][ROUNDDOT]</color> <white>Click to fight with a [pastel_red]specific</color> player<br>"
+        "de-DE": "<br><!i>[red][ROUNDDOT]</color> <white>Klicke um mit einem [red]bestimmten</color> Spieler zu kämpfen<br>",
+        "en-US": "<br><!i>[red][ROUNDDOT]</color> <white>Click to fight with a [red]specific</color> player<br>"
     },
     "RTP.gui.queue.leave": {
-        "de-DE": "<!i>[pastel_red]<b>RTP QUEUE LEAVE</b></color>",
-        "en-US": "<!i>[pastel_red]<b>RTP QUEUE LEAVE</b></color>"
+        "de-DE": "<!i>[red]<b>RTP QUEUE LEAVE</b></color>",
+        "en-US": "<!i>[red]<b>RTP QUEUE LEAVE</b></color>"
     },
     "RTP.gui.queue.leave.lore": {
-        "de-DE": "<br><!i>[pastel_red][ROUNDDOT]</color> <white>Klicke um die Warteschlange zu [pastel_red]verlassen</color><br>",
-        "en-US": "<br><!i>[pastel_red][ROUNDDOT]</color> <white>Click to [pastel_red]leave</color> the queue<br>"
+        "de-DE": "<br><!i>[red][ROUNDDOT]</color> <white>Klicke um die Warteschlange zu [red]verlassen</color><br>",
+        "en-US": "<br><!i>[red][ROUNDDOT]</color> <white>Click to [red]leave</color> the queue<br>"
     },
     "RTP.queue.broadcast": {
-        "de-DE": "[grey][green][player]</color> wartet in der RTP Queue auf einen [pastel_red]Gegner!</color> [grey](<click:run_command:'/rtpqueue join [player]'>/rtpqueue join [player]</click> zum beitreten)</color>",
-        "en-US": "[grey][green][player]</color> is waiting in the RTP Queue for an [pastel_red]opponent!</color> [grey](<click:run_command:'/rtpqueue join [player]'>/rtpqueue join [player]</click> to join)</color>"
+        "de-DE": "[grey][green][player]</color> wartet in der RTP Queue auf einen [red]Gegner!</color> [grey](<click:run_command:'/rtpqueue join [player]'>/rtpqueue join [player]</click> zum beitreten)</color>",
+        "en-US": "[grey][green][player]</color> is waiting in the RTP Queue for an [red]opponent!</color> [grey](<click:run_command:'/rtpqueue join [player]'>/rtpqueue join [player]</click> to join)</color>"
     },
     "RTP.queue.create": {
         "de-DE": "[grey]Du wartest nun auf andere Spieler.</color>",
         "en-US": "[grey]You are now waiting for other players.</color>"
     },
     "RTP.queue.join": {
-        "de-DE": "[grey]Du bist nun in der Warteschlange für einen [pastel_red]zufälligen</color> Gegner.</color>",
-        "en-US": "[grey]You are now in the queue for a [pastel_red]random</color> opponent.</color>"
+        "de-DE": "[grey]Du bist nun in der Warteschlange für einen [red]zufälligen</color> Gegner.</color>",
+        "en-US": "[grey]You are now in the queue for a [red]random</color> opponent.</color>"
     },
     "RTP.queue.already.in.queue": {
-        "de-DE": "[grey]Du bist [pastel_red]bereits</color> in der Warteschlange!</color>",
-        "en-US": "[grey]You are [pastel_red]already</color> in the queue!</color>"
+        "de-DE": "[grey]Du bist bereits in der Warteschlange!</color>",
+        "en-US": "[grey]You are already in the queue!</color>"
+    },
+    "RTP.queue.join.specific": {
+        "de-DE": "[grey]Du bist nun in der Warteschlange für [red][player]</color>.</color>",
+        "en-US": "[grey]You are now in the queue for [red][player]</color>.</color>"
     },
     "RTP.queue.join.random.error.no.opponent": {
-        "de-DE": "[grey]Da [pastel_red]kein</color> Gegner gefunden wurde, wartest du nun auf einen Gegner.</color>",
-        "en-US": "[grey]Since [pastel_red]no</color> opponent was found, you are now waiting for an opponent.</color>"
+        "de-DE": "[grey]Da [red]kein</color> Gegner gefunden wurde, wartest du nun auf einen Gegner.</color>",
+        "en-US": "[grey]Since [red]no</color> opponent was found, you are now waiting for an opponent.</color>"
     },
     "RTP.queue.opponent.found.title": {
-        "de-DE": "[blue]ʀᴛᴘ qᴜᴇᴜᴇ</color>",
-        "en-US": "[blue]ʀᴛᴘ qᴜᴇᴜᴇ</color>"
+        "de-DE": "[red]ʀᴛᴘ qᴜᴇᴜᴇ</color>",
+        "en-US": "[red]ʀᴛᴘ qᴜᴇᴜᴇ</color>"
     },
     "RTP.queue.opponent.found.subtitle": {
-        "de-DE": "<white>Du kämpfst nun gegen [pastel_red][player]</color> (nicht bewegen)</white>",
-        "en-US": "<white>You are now fighting against [pastel_red][player]</color> (don't move)</white>"
+        "de-DE": "<white>Du kämpfst nun gegen [red][player]</color> (nicht bewegen)</white>",
+        "en-US": "<white>You are now fighting against [red][player]</color> (don't move)</white>"
     },
     "RTP.queue.timeout": {
         "de-DE": "[grey]Es konnte kein Gegner für dich gefunden werden!</color>",
         "en-US": "[grey]No opponent could be found for you!</color>"
     },
     "RTP.queue.leave": {
-        "de-DE": "[grey]Du hast die Warteschlange [pastel_red]verlassen!</color></color>",
-        "en-US": "[grey]You have [pastel_red]left</color> the queue!</color>"
+        "de-DE": "[grey]Du hast die Warteschlange [red]verlassen!</color></color>",
+        "en-US": "[grey]You have [red]left</color> the queue!</color>"
     },
     "RTP.queue.not.in.queue": {
-        "de-DE": "[grey]Du bist aktuell [pastel_red]nicht</color> in der Warteschlange!</color>",
-        "en-US": "[grey]You are currently [pastel_red]not</color< in the queue!</color>"
+        "de-DE": "[grey]Du bist aktuell [red]nicht</color> in der Warteschlange!</color>",
+        "en-US": "[grey]You are currently [red]not</color< in the queue!</color>"
     },
     "RTP.queue.not.in.queue.other": {
-        "de-DE": "[grey][pastel_red][player]</color> ist aktuell [pastel_red]nicht</color> in der Warteschlange!</color>",
-        "en-US": "[grey][pastel_red][player]</color> is currently [pastel_red]not</color> in the queue!</color>"
+        "de-DE": "[grey][red][player]</color> ist aktuell [red]nicht</color> in der Warteschlange!</color>",
+        "en-US": "[grey][red][player]</color> is currently [red]not</color> in the queue!</color>"
     },
     "RTP.queue.move.cancel.other": {
-        "de-DE": "[grey]Der RTP-Vorgang wurde [pastel_red]abgebrochen,</color> da [pastel_red][player]</color> sich bewegt hat!</color>",
-        "en-US": "[grey]The teleportation process was [pastel_red]cancelled</color> because [pastel_red][player]</color> moved!</color>"
+        "de-DE": "[grey]Der RTP-Vorgang wurde [red]abgebrochen,</color> da [red][player]</color> sich bewegt hat!</color>",
+        "en-US": "[grey]The teleportation process was [red]cancelled</color> because [red][player]</color> moved!</color>"
     },
     "RTP.queue.quit.other": {
-        "de-DE": "[grey]Der RTP-Vorgang wurde [pastel_red]abgebrochen,</color> da [pastel_red][player]</color> den Server [pastel_red]verlassen</color> hat!</color>",
-        "en-US": "[grey]The teleportation process was [pastel_red]cancelled</color> because [pastel_red][player]</color> [pastel_red]left</color> the server!</color>"
+        "de-DE": "[grey]Der RTP-Vorgang wurde [red]abgebrochen,</color> da [red][player]</color> den Server [red]verlassen</color> hat!</color>",
+        "en-US": "[grey]The teleportation process was [red]cancelled</color> because [red][player]</color> [red]left</color> the server!</color>"
     }
 }
