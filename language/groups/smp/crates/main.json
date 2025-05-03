@@ -1,9 +1,9 @@
 {
-    "CRATE.command.crate": {
+    "CRATE.command.crate.create": {
         "de-DE": "[grey]Du hast die [blue]Crate</color> mit der ID [blue][id]</color> [green]erfolgreich</color> erstellt!",
         "en-US": "[grey]You have crated the [blue]Crate</color> with the ID [blue][id]</color> [green]successfully</color>!"
     },
-    "CRATE.command.crate.error.exists": {
+    "CRATE.command.crate.create.error.exists": {
         "de-DE": "[grey]Die [blue]Crate</color> mit der ID [blue][id]</color> [red]existiert bereits!</color></color>",
         "en-US": "[grey]The [blue]Crate</color> with the ID [blue][id]</color> [red]already exists!</color></color>"
     },
