@@ -3,7 +3,7 @@
         "de-DE": "[grey]Du hast die [blue]Crate</color> mit der ID [blue][id]</color> [green]erfolgreich</color> erstellt!",
         "en-US": "[grey]You have crated the [blue]Crate</color> with the ID [blue][id]</color> [green]successfully</color>!"
     },
-    "CRATE.command.crate.create.error.exists": {
+    "CRATE.command.create.error.exists": {
         "de-DE": "[grey]Die [blue]Crate</color> mit der ID [blue][id]</color> [red]existiert bereits!</color></color>",
         "en-US": "[grey]The [blue]Crate</color> with the ID [blue][id]</color> [red]already exists!</color></color>"
     },
@@ -26,6 +26,10 @@
     "CRATE.command.crate.add.key.error.exists": {
         "de-DE": "[grey]Der [blue]Key</color> mit der ID [blue][id]</color> [red]existiert bereits!</color></color>",
         "en-US": "[grey]The [blue]Key</color> with the ID [blue][id]</color> [red]already exists!</color></color>"
+    },
+    "CRATE.command.crate.add.key.error.item.air": {
+        "de-DE": "[grey]Dieses Item kann [red]nicht</color> als Key verwendet werden!</color>",
+        "en-US": "[grey]This item can [red]not</color> be used as a key!</color>"                   
     },
     "CRATE.command.crate.remove.key": {
         "de-DE": "[grey]Du hast den [blue]Key</color> mit der ID [blue][id]</color> [green]erfolgreich</color> von der [blue]Crate</color> mit der ID [blue][crateId]</color> entfernt!",
