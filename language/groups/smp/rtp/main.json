@@ -19,6 +19,10 @@
         "de-DE": "[red]ᴅᴇʀ ᴛᴇʟᴇᴘᴏʀᴛ ᴡᴜʀᴅᴇ ᴀʙɢᴇʙʀᴏᴄʜᴇɴ</color>",
         "en-US": "[red]ᴛʜᴇ ᴛᴇʟᴇᴘᴏʀᴛ ᴡᴀꜱ ᴄᴀɴᴄᴇʟʟᴇᴅ</color>"
     },
+    "RTP.error.already.teleporting": {
+        "de-DE": "[grey]Du wirst bereits [blue]teleportiert!</color></color>",
+        "en-US": "[grey]You are already being [blue]teleported!</color></color>"
+    },  
     "RTP.title": {
         "de-DE": "[blue]<b>RTP</b></color>",
         "en-US": "[blue]<b>RTP</b></color>"
