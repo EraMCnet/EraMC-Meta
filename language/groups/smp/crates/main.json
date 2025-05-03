@@ -15,23 +15,23 @@
         "de-DE": "[grey]Die [blue]Crate</color> mit der ID [blue][id]</color> [red]existiert nicht!</color></color>",
         "en-US": "[grey]The [blue]Crate</color> with the ID [blue][id]</color> does [red]not exist!</color></color>"
     },
-    "CRATE.command.crate.add.key": {
+    "CRATE.command.crate.key.add": {
         "de-DE": "[grey]Du hast den [blue]Key</color> mit der ID [blue][id]</color> [green]erfolgreich</color> zur [blue]Crate</color> mit der ID [blue][crateId]</color> hinzugefügt!",
         "en-US": "[grey]You have added the [blue]Key</color> with the ID [blue][id]</color> [green]successfully</color> to the [blue]Crate</color> with the ID [blue][crateId]</color>!"
     },
-    "CRATE.command.crate.add.key.error.notfound": {
+    "CRATE.command.crate.key.add.error.notfound": {
         "de-DE": "[grey]Der [blue]Key</color> mit der ID [blue][id]</color> [red]existiert nicht!</color></color>",
         "en-US": "[grey]The [blue]Key</color> with the ID [blue][id]</color> does [red]not exist!</color></color>"
     },
-    "CRATE.command.crate.add.key.error.exists": {
+    "CRATE.command.crate.key.add.error.exists": {
         "de-DE": "[grey]Der [blue]Key</color> mit der ID [blue][id]</color> [red]existiert bereits!</color></color>",
         "en-US": "[grey]The [blue]Key</color> with the ID [blue][id]</color> [red]already exists!</color></color>"
     },
-    "CRATE.command.crate.add.key.error.item.air": {
+    "CRATE.command.crate.key.add.error.item.air": {
         "de-DE": "[grey]Dieses Item kann [red]nicht</color> als Key verwendet werden!</color>",
         "en-US": "[grey]This item can [red]not</color> be used as a key!</color>"                   
     },
-    "CRATE.command.crate.remove.key": {
+    "CRATE.command.crate.key.remove": {
         "de-DE": "[grey]Du hast den [blue]Key</color> mit der ID [blue][id]</color> [green]erfolgreich</color> von der [blue]Crate</color> mit der ID [blue][crateId]</color> entfernt!",
         "en-US": "[grey]You have removed the [blue]Key</color> with the ID [blue][id]</color> [green]successfully</color> from the [blue]Crate</color> with the ID [blue][crateId]</color>!"
     },
