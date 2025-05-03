@@ -1,0 +1,82 @@
+{
+    "CRATE.command.crate": {
+        "de-DE": "[grey]Du hast die [blue]Crate</color> mit der ID [blue][id]</color> [green]erfolgreich</color> erstellt!",
+        "en-US": "[grey]You have crated the [blue]Crate</color> with the ID [blue][id]</color> [green]successfully</color>!"
+    },
+    "CRATE.command.crate.error.exists": {
+        "de-DE": "[grey]Die [blue]Crate</color> mit der ID [blue][id]</color> [red]existiert bereits!</color></color>",
+        "en-US": "[grey]The [blue]Crate</color> with the ID [blue][id]</color> [red]already exists!</color></color>"
+    },
+    "CRATE.command.delete": {
+        "de-DE": "[grey]Du hast die [blue]Crate</color> mit der ID [blue][id]</color> [green]erfolgreich</color> gelöscht!",
+        "en-US": "[grey]You have deleted the [blue]Crate</color> with the ID [blue][id]</color> [green]successfully</color>!"
+    },
+    "CRATE.command.delete.error.notfound": {
+        "de-DE": "[grey]Die [blue]Crate</color> mit der ID [blue][id]</color> [red]existiert nicht!</color></color>",
+        "en-US": "[grey]The [blue]Crate</color> with the ID [blue][id]</color> does [red]not exist!</color></color>"
+    },
+    "CRATE.command.crate.add.key": {
+        "de-DE": "[grey]Du hast den [blue]Key</color> mit der ID [blue][id]</color> [green]erfolgreich</color> zur [blue]Crate</color> mit der ID [blue][crateId]</color> hinzugefügt!",
+        "en-US": "[grey]You have added the [blue]Key</color> with the ID [blue][id]</color> [green]successfully</color> to the [blue]Crate</color> with the ID [blue][crateId]</color>!"
+    },
+    "CRATE.command.crate.add.key.error.notfound": {
+        "de-DE": "[grey]Der [blue]Key</color> mit der ID [blue][id]</color> [red]existiert nicht!</color></color>",
+        "en-US": "[grey]The [blue]Key</color> with the ID [blue][id]</color> does [red]not exist!</color></color>"
+    },
+    "CRATE.command.crate.add.key.error.exists": {
+        "de-DE": "[grey]Der [blue]Key</color> mit der ID [blue][id]</color> [red]existiert bereits!</color></color>",
+        "en-US": "[grey]The [blue]Key</color> with the ID [blue][id]</color> [red]already exists!</color></color>"
+    },
+    "CRATE.command.crate.remove.key": {
+        "de-DE": "[grey]Du hast den [blue]Key</color> mit der ID [blue][id]</color> [green]erfolgreich</color> von der [blue]Crate</color> mit der ID [blue][crateId]</color> entfernt!",
+        "en-US": "[grey]You have removed the [blue]Key</color> with the ID [blue][id]</color> [green]successfully</color> from the [blue]Crate</color> with the ID [blue][crateId]</color>!"
+    },
+    "CRATE.command.crate.add.item": {
+        "de-DE": "[grey]Du hast das [blue]Item</color> mit der ID [blue][id]</color> [green]erfolgreich</color> zur [blue]Crate</color> mit der ID [blue][crateId]</color> hinzugefügt!",
+        "en-US": "[grey]You have added the [blue]Item</color> with the ID [blue][id]</color> [green]successfully</color> to the [blue]Crate</color> with the ID [blue][crateId]</color>!"
+    },
+    "CRATE.command.crate.add.item.error.notfound": {
+        "de-DE": "[grey]Das [blue]Item</color> mit der ID [blue][id]</color> [red]existiert nicht!</color></color>",
+        "en-US": "[grey]The [blue]Item</color> with the ID [blue][id]</color> does [red]not exist!</color></color>"
+    },
+    "CRATE.command.crate.add.item.error.exists": {
+        "de-DE": "[grey]Das [blue]Item</color> mit der ID [blue][id]</color> [red]existiert bereits!</color></color>",
+        "en-US": "[grey]The [blue]Item</color> with the ID [blue][id]</color> [red]already exists!</color></color>"
+    },
+    "CRATE.command.crate.remove.item": {
+        "de-DE": "[grey]Du hast das [blue]Item</color> mit der ID [blue][id]</color> [green]erfolgreich</color> von der [blue]Crate</color> mit der ID [blue][crateId]</color> entfernt!",
+        "en-US": "[grey]You have removed the [blue]Item</color> with the ID [blue][id]</color> [green]successfully</color> from the [blue]Crate</color> with the ID [blue][crateId]</color>!"
+    },
+    "CRATE.command.crate.block.add": {
+        "de-DE": "[grey]Der Block [blue][location]</color> ist jetzt ein [blue]Crate-Block!<color></color>",
+        "en-US": "[grey]The block [blue][location]</color> is now a [blue]crate block!<color></color>"
+    },
+    "CRATE.command.crate.block.remove": {
+        "de-DE": "[grey]Der Block [blue][location]</color> ist jetzt kein [blue]Crate-Block mehr!<color></color>",
+        "en-US": "[grey]The block [blue][location]</color> is no longer a [blue]crate block!<color></color>"
+    },
+    "CRATE.command.crate.block.error.notfound": {
+        "de-DE": "[grey]Der Block [blue][location]</color> ist kein [blue]Crate-Block!</color></color>",
+        "en-US": "[grey]The block [blue][location]</color> is not a [blue]crate block!</color></color>"
+    },
+    "CRATE.command.crate.block.error.exists": {
+        "de-DE": "[grey]Der Block [blue][location]</color> ist bereits ein [blue]Crate-Block!</color></color>",
+        "en-US": "[grey]The block [blue][location]</color> is already a [blue]crate block!</color></color>"
+    },
+    "CRATE.command.crate.block.error.invalid": {
+        "de-DE": "[grey]Du kannst diesen Block [red]nicht</color> als [blue]Crate-Block</color> festlegen!</color>",
+        "en-US": "[grey]You can [red]not</color> set this block as a [blue]crate block!</color></color>"
+    },
+    "CRATE.command.keyall": {
+        "de-DE": "[grey]Du hast den [blue]Key</color> mit der ID [blue][id]</color> [green]erfolgreich</color> an alle Spieler verteilt!",
+        "en-US": "[grey]You have given the [blue]Key</color> with the ID [blue][id]</color> [green]successfully</color> to all players!"
+    },
+    "CRATE.command.keyall.error.notfound": {
+        "de-DE": "[grey]Der [blue]Key</color> mit der ID [blue][id]</color> [red]existiert nicht!</color></color>",
+        "en-US": "[grey]The [blue]Key</color> with the ID [blue][id]</color> does [red]not exist!</color></color>"
+    },
+    "CREATE.command.keyall.receive": {
+        "de-DE": "[grey]Du hast [blue][amount]x</color> <reset>[item-name]</color></reset> von [blue][player]</color erhalten!</color>",
+        "en-US": "[grey]You have received [blue][amount]x</color> <reset>[item-name]</color></reset> from [blue][player]!</color></color>"
+    }
+}
