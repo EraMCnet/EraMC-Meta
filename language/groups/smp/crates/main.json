@@ -1,5 +1,5 @@
 {
-    "CRATE.command.crate.create": {
+    "CRATE.command.create": {
         "de-DE": "[grey]Du hast die [blue]Crate</color> mit der ID [blue][id]</color> [green]erfolgreich</color> erstellt!",
         "en-US": "[grey]You have crated the [blue]Crate</color> with the ID [blue][id]</color> [green]successfully</color>!"
     },
