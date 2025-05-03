@@ -120,8 +120,8 @@
         "en-US": "[grey]You are now in the queue for [red][player]</color>.</color>"
     },
     "RTP.queue.join.random.error.no.opponent": {
-        "de-DE": "[grey]Da [red]kein</color> Gegner gefunden wurde, wartest du nun auf einen Gegner.</color>",
-        "en-US": "[grey]Since [red]no</color> opponent was found, you are now waiting for an opponent.</color>"
+        "de-DE": "[grey]Es wurde [red]kein Gegner</color> für dich gefunden!</color>",
+        "en-US": "[grey][red]No opponent</color> was found for you!</color>"
     },
     "RTP.queue.opponent.found.title": {
         "de-DE": "[red]ʀᴛᴘ qᴜᴇᴜᴇ</color>",
@@ -178,5 +178,9 @@
     "RTP.gui.queue.player.lore": {
         "de-DE": "<i:false><br><i:false>[red][ROUNDDOT]<white> Klicke, um mit diesem Spieler zu [red]kämpfen</color><br><i:false>",
         "en-US": "<i:false><br><i:false>[red][ROUNDDOT]<white> Click to [red]fight</color> this player<br><i:false>"
-    }
+    },
+    "RTP.queue.cooldown": {                                                             
+        "de-DE": "[grey]Du musst noch [blue][duration]</color> warten, bevor du wieder in die [red]RTP Queue</color> kannst.</color>",
+        "en-US": "[grey]You have to wait [blue][duration]</color> before you can go back in the [red]RTP Queue</color>.</color>"
+    }                                    
 }
