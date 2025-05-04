@@ -19,7 +19,7 @@
         "de-DE": "[grey]Du hast den [blue]Key</color> mit der ID [blue][id]</color> [green]erfolgreich</color> zur [blue]Crate</color> mit der ID [blue][crateId]</color> hinzugefügt!",
         "en-US": "[grey]You have added the [blue]Key</color> with the ID [blue][id]</color> [green]successfully</color> to the [blue]Crate</color> with the ID [blue][crateId]</color>!"
     },
-    "CRATE.command.key.add.error.notfound": {
+    "CRATE.command.key.remove.error.notfound": {
         "de-DE": "[grey]Der [blue]Key</color> mit der ID [blue][id]</color> [red]existiert nicht!</color></color>",
         "en-US": "[grey]The [blue]Key</color> with the ID [blue][id]</color> does [red]not exist!</color></color>"
     },
@@ -39,7 +39,7 @@
         "de-DE": "[grey]Du hast das [blue]Item</color> mit der ID [blue][id]</color> [green]erfolgreich</color> zur [blue]Crate</color> mit der ID [blue][crateId]</color> hinzugefügt!",
         "en-US": "[grey]You have added the [blue]Item</color> with the ID [blue][id]</color> [green]successfully</color> to the [blue]Crate</color> with the ID [blue][crateId]</color>!"
     },
-    "CRATE.command.crate.add.item.error.notfound": {
+    "CRATE.command.crate.remove.item.error.notfound": {
         "de-DE": "[grey]Das [blue]Item</color> mit der ID [blue][id]</color> [red]existiert nicht!</color></color>",
         "en-US": "[grey]The [blue]Item</color> with the ID [blue][id]</color> does [red]not exist!</color></color>"
     },
