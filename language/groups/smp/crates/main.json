@@ -59,15 +59,15 @@
         "de-DE": "[grey]Der Block [blue][location]</color> ist jetzt kein [blue]Crate-Block</color> mehr!</color>",
         "en-US": "[grey]The block [blue][location]</color> is no longer a [blue]crate block!</color></color>"
     },
-    "CRATE.command.block.error.notfound": {
+    "CRATE.command.block.remove.error.notfound": {
         "de-DE": "[grey]Der Block [blue][location]</color> ist kein [blue]Crate-Block!</color></color>",
         "en-US": "[grey]The block [blue][location]</color> is not a [blue]crate block!</color></color>"
     },
-    "CRATE.command.block.error.exists": {
+    "CRATE.command.block.add.error.exists": {
         "de-DE": "[grey]Der Block [blue][location]</color> ist bereits ein [blue]Crate-Block!</color></color>",
         "en-US": "[grey]The block [blue][location]</color> is already a [blue]crate block!</color></color>"
     },
-    "CRATE.command.block.error.invalid": {
+    "CRATE.command.block.add.error.invalid": {
         "de-DE": "[grey]Du kannst diesen Block [red]nicht</color> als [blue]Crate-Block</color> festlegen!</color>",
         "en-US": "[grey]You can [red]not</color> set this block as a [blue]crate block!</color></color>"
     },
