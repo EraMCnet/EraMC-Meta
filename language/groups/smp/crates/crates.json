@@ -10,5 +10,9 @@
     "amethyst": {
         "de-DE": "Amethyst Crate",
         "en-US": "Amethyst Crate"
+    },
+    "GUI.lore.chance": {
+        "de-DE": "<br><!i>[blue][ROUNDDOT]</color> <white>Chance:</white> [blue][chance]%",
+        "en-US": "<br><!i>[blue][ROUNDDOT]</color> <white>Chance:</white> [blue][chance]%"
     }
 }
