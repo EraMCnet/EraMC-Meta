@@ -16,8 +16,8 @@
         "en-US": "[grey]The [blue]Crate</color> with the ID [blue][id]</color> does [red]not exist!</color></color>"
     },
     "CRATE.command.key.add": {
-        "de-DE": "[grey]Du hast den [blue]Key</color> mit der ID [blue][id]</color> [green]erfolgreich</color> zur [blue]Crate</color> mit der ID [blue][crateId]</color> hinzugefügt!</color>",
-        "en-US": "[grey]You have added the [blue]Key</color> with the ID [blue][id]</color> [green]successfully</color> to the [blue]Crate</color> with the ID [blue][crateId]!</color></color>"
+        "de-DE": "[grey]Du hast den [blue]Key</color> mit der ID [blue][id]</color> [green]erfolgreich</color> zur [blue]Crate</color> mit der ID [blue][id]</color> hinzugefügt!</color>",
+        "en-US": "[grey]You have added the [blue]Key</color> with the ID [blue][id]</color> [green]successfully</color> to the [blue]Crate</color> with the ID [blue][id]!</color></color>"
     },
     "CRATE.command.key.remove.error.notfound": {
         "de-DE": "[grey]Der [blue]Key</color> mit der ID [blue][id]</color> [red]existiert nicht!</color></color>",
@@ -32,12 +32,12 @@
         "en-US": "[grey]This item can [red]not</color> be used as a key!</color>"                   
     },
     "CRATE.command.key.remove": {
-        "de-DE": "[grey]Du hast den [blue]Key</color> mit der ID [blue][id]</color> [green]erfolgreich</color> von der [blue]Crate</color> mit der ID [blue][crateId]</color> entfernt!</color>",
-        "en-US": "[grey]You have removed the [blue]Key</color> with the ID [blue][id]</color> [green]successfully</color> from the [blue]Crate</color> with the ID [blue][crateId]!</color></color>"
+        "de-DE": "[grey]Du hast den [blue]Key</color> mit der ID [blue][id]</color> [green]erfolgreich</color> von der [blue]Crate</color> mit der ID [blue][id]</color> entfernt!</color>",
+        "en-US": "[grey]You have removed the [blue]Key</color> with the ID [blue][id]</color> [green]successfully</color> from the [blue]Crate</color> with the ID [blue][id]!</color></color>"
     },
     "CRATE.command.item.add": {
-        "de-DE": "[grey]Du hast das [blue]Item</color> mit der ID [blue][id]</color> [green]erfolgreich</color> zur [blue]Crate</color> mit der ID [blue][crateId]</color> hinzugefügt!</color>",
-        "en-US": "[grey]You have added the [blue]Item</color> with the ID [blue][id]</color> [green]successfully</color> to the [blue]Crate</color> with the ID [blue][crateId]!</color></color>"
+        "de-DE": "[grey]Du hast das [blue]Item</color> mit der ID [blue][id]</color> [green]erfolgreich</color> zur [blue]Crate</color> mit der ID [blue][id]</color> hinzugefügt!</color>",
+        "en-US": "[grey]You have added the [blue]Item</color> with the ID [blue][id]</color> [green]successfully</color> to the [blue]Crate</color> with the ID [blue][id]!</color></color>"
     },
     "CRATE.command.item.remove.error.notfound": {
         "de-DE": "[grey]Das [blue]Item</color> mit der ID [blue][id]</color> [red]existiert nicht!</color></color>",
@@ -48,8 +48,8 @@
         "en-US": "[grey]The [blue]Item</color> with the ID [blue][id]</color> [red]already exists!</color></color>"
     },
     "CRATE.command.item.remove": {
-        "de-DE": "[grey]Du hast das [blue]Item</color> mit der ID [blue][id]</color> [green]erfolgreich</color> von der [blue]Crate</color> mit der ID [blue][crateId]</color> entfernt!</color>",
-        "en-US": "[grey]You have removed the [blue]Item</color> with the ID [blue][id]</color> [green]successfully</color> from the [blue]Crate</color> with the ID [blue][crateId]!</color></color>"
+        "de-DE": "[grey]Du hast das [blue]Item</color> mit der ID [blue][id]</color> [green]erfolgreich</color> von der [blue]Crate</color> mit der ID [blue][id]</color> entfernt!</color>",
+        "en-US": "[grey]You have removed the [blue]Item</color> with the ID [blue][id]</color> [green]successfully</color> from the [blue]Crate</color> with the ID [blue][id]!</color></color>"
     },
     "CRATE.command.block.add": {
         "de-DE": "[grey]Der Block [blue][location]</color> ist jetzt ein [blue]Crate-Block!</color></color>",
