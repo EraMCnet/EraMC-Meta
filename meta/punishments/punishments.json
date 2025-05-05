@@ -157,11 +157,7 @@
         "permission": "danismp.punish.ban.ns_content",
         "type": ["ban"],
         "durations": [
-            "1d",
-            "3d",
-            "1w",
-            "2w",
-            "1M"
+            "permanent"
         ]
     },
     "ADVERTISING": {
