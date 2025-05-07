@@ -20,15 +20,15 @@
         "en-US": "<i:false><br><i:false>[blue][ROUNDDOT]<white> Click to navigate<br><i:false>"
     },
     "GUI.page.previous": {
-        "de-DE": "<i:false>[yellow]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
-        "en-US": "<i:false>[yellow]ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ"
+        "de-DE": "<i:false>[blue]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[blue]ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ"
     },
     "GUI.page.next": {
-        "de-DE": "<i:false>[yellow]ɴäᴄʜꜱᴛᴇ ꜱᴇɪᴛᴇ",
-        "en-US": "<i:false>[yellow]ɴᴇxᴛ ᴘᴀɢᴇ"
+        "de-DE": "<i:false>[blue]ɴäᴄʜꜱᴛᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[blue]ɴᴇxᴛ ᴘᴀɢᴇ"
     },
     "GUI.close": {
-        "de-DE": "<i:false>[red]ꜱᴄʜʟɪᴇßᴇɴ",
+        "de-DE": "<i:false>[red]ꜱᴄʜʟɪᴇꜱꜱᴇɴ",
         "en-US": "<i:false>[red]ᴄʟᴏꜱᴇ"
     }
 }
