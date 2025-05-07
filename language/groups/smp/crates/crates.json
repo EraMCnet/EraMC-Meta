@@ -14,5 +14,17 @@
     "GUI.lore.chance": {
         "de-DE": "<br><!i>[blue][ROUNDDOT]</color> <white>Chance:</white> [blue][chance]%",
         "en-US": "<br><!i>[blue][ROUNDDOT]</color> <white>Chance:</white> [blue][chance]%"
+    },
+    "GUI.page.navigate.lore": {
+        "de-DE": "<i:false><br><i:false>[blue][ROUNDDOT]<white> Klicke, zum navigieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[blue][ROUNDDOT]<white> Click to navigate<br><i:false>"
+    },
+    "GUI.page.previous": {
+        "de-DE": "<i:false>[yellow]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[yellow]ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ"
+    },
+    "GUI.page.next": {
+        "de-DE": "<i:false>[yellow]ɴäᴄʜꜱᴛᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[yellow]ɴᴇxᴛ ᴘᴀɢᴇ"
     }
 }

@@ -151,15 +151,6 @@
             "1M"
         ]
     },
-    "NS_CONTENT": {
-        "de-DE": "NSFW-Inhalte",
-        "en-US": "NSFW Content",
-        "permission": "danismp.punish.ban.ns_content",
-        "type": ["ban"],
-        "durations": [
-            "permanent"
-        ]
-    },
     "ADVERTISING": {
         "de-DE": "Werbung",
         "en-US": "Advertising",
