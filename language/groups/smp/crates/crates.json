@@ -26,5 +26,9 @@
     "GUI.page.next": {
         "de-DE": "<i:false>[yellow]ɴäᴄʜꜱᴛᴇ ꜱᴇɪᴛᴇ",
         "en-US": "<i:false>[yellow]ɴᴇxᴛ ᴘᴀɢᴇ"
+    },
+    "GUI.close": {
+        "de-DE": "<i:false>[red]ꜱᴄʜʟɪᴇßᴇɴ",
+        "en-US": "<i:false>[red]ᴄʟᴏꜱᴇ"
     }
 }
