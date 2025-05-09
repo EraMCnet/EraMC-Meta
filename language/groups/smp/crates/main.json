@@ -82,5 +82,25 @@
     "CRATE.command.keyall.receive": {
         "de-DE": "[grey]Du hast [blue][amount]x</color> <reset>[item-name]</color></reset> von [blue][player]</color erhalten!</color>",
         "en-US": "[grey]You have received [blue][amount]x</color> <reset>[item-name]</color></reset> from [blue][player]!</color></color>"
+    },
+    "CRATE.open.error.title": {
+        "de-DE": "<b>[red]Fehler</color></b>",
+        "en-US": "<b>[red]Error</color></b>"
+    },
+    "CRATE.open.error.inventory.full": {
+        "de-DE": "[grey]Dein Inventar ist [red]voll!</color></color>",
+        "en-US": "[grey]Your inventory is [red]full!</color></color>"
+    },
+    "CRATE.open.error.no.key": {
+        "de-DE": "[grey]Du hast keinen [blue]Key</color> für diese [blue]Crate!</color></color>",
+        "en-US": "[grey]You do not have a [blue]Key</color> for this [blue]Crate!</color></color>"
+    },
+    "CRATE.open.error.no.items": {
+        "de-DE": "[grey]Diese [blue]Crate</color> hat keine [blue]Items!</color></color>",
+        "en-US": "[grey]This [blue]Crate</color> has no [blue]Items!</color></color>"
+    },
+    "CRATE.open": {
+        "de-DE": "[grey]Du hast <white>[item]</white> aus der <white>[crate]</white> erhalten.</color>",
+        "en-US": "[grey]You have received <white>[item]</white> from the <white>[crate].</white></color>"
     }
 }
