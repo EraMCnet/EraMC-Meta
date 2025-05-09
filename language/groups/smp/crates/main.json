@@ -100,7 +100,7 @@
         "en-US": "[grey]This [blue]Crate</color> has no [blue]Items!</color></color>"
     },
     "CRATE.open": {
-        "de-DE": "[grey]Du hast <white>[item]</white> aus der <white>[crate]</white> erhalten.</color>",
-        "en-US": "[grey]You have received <white>[item]</white> from the <white>[crate].</white></color>"
+        "de-DE": "[grey]Du hast <white>[item]</white> erhalten.</color>",
+        "en-US": "[grey]You have received <white>[item].</white></color>"
     }
 }
