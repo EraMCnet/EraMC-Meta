@@ -40,7 +40,7 @@
         "en-US": "[grey]You have removed the [blue]Key</color> with the ID [blue][id]</color> [green]successfully</color> from the [blue]Crate</color> with the ID [blue][id]!</color></color>"
     },
     "CRATE.command.keyall": {
-        "de-DE": "[grey]Du hast den [blue]Key</color> mit der ID [blue][id]</color> [green]erfolgreich</color> an alle Spieler verteilt!</color>",
+        "de-DE": "[grey]Du hast [blue][amount]x</color> <white>[key]</white> [green]erfolgreich</color> an alle Spieler verteilt!</color>",
         "en-US": "[grey]You have given the [blue]Key</color> with the ID [blue][id]</color> [green]successfully</color> to all players!</color>"
     },
     "CRATE.command.keyall.error.notfound": {
@@ -48,16 +48,16 @@
         "en-US": "[grey]The [blue]Key</color> with the ID [blue][id]</color> does [red]not exist!</color></color>"
     },
     "CRATE.command.keyall.receive": {
-        "de-DE": "[grey]Du hast [blue][amount]x</color> <reset>[key]</reset> von [blue][player]</color erhalten!</color>",
-        "en-US": "[grey]You have received [blue][amount]x</color> <reset>[key]</reset> from [blue][player]!</color></color>"
+        "de-DE": "[grey]Du hast [blue][amount]x</color> <white>[key]</white> von [blue][player]</color> erhalten!</color>",
+        "en-US": "[grey]You have received [blue][amount]x</color> <white>[key]</white> from [blue][player]!</color></color>"
     },
     "CRATE.command.key.give.self": {
-        "de-DE": "[grey]Du hast [blue][amount]x</color> <reset>[key]</reset> erhalten!</color>",
-        "en-US": "[grey]You have received [blue][amount]x</color> <reset>[key</reset>!</color></color>"
+        "de-DE": "[grey]Du hast [blue][amount]x</color> <white>[key]</white> erhalten!</color>",
+        "en-US": "[grey]You have received [blue][amount]x</color> <white>[key</reset>!</color></color>"
     },
     "CRATE.command.key.give.other": {
-        "de-DE": "[grey]Du hast [blue][player] [blue][amount]x</color> <reset>[key]</reset> gegeben.</color>",
-        "en-US": "[grey]You have given [blue][player] [blue][amount]x</color> <reset>[key]</reset>.</color></color>"
+        "de-DE": "[grey]Du hast [blue][player] [blue][amount]x</color> <white>[key]</white> gegeben.</color>",
+        "en-US": "[grey]You have given [blue][player] [blue][amount]x</color> <white>[key]</white>.</color></color>"
     },
     "CRATE.command.item.add": {
         "de-DE": "[grey]Du hast das [blue]Item</color> mit der ID [blue][id]</color> [green]erfolgreich</color> zur [blue]Crate</color> mit der ID [blue][id]</color> hinzugefügt!</color>",
