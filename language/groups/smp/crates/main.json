@@ -43,10 +43,6 @@
         "de-DE": "[grey]Du hast [blue][amount]x</color> <white>[key]</white> [green]erfolgreich</color> an alle Spieler verteilt!</color>",
         "en-US": "[grey]You have given the [blue]Key</color> with the ID [blue][id]</color> [green]successfully</color> to all players!</color>"
     },
-    "CRATE.command.keyall.error.notfound": {
-        "de-DE": "[grey]Der [blue]Key</color> mit der ID [blue][id]</color> [red]existiert nicht!</color></color>",
-        "en-US": "[grey]The [blue]Key</color> with the ID [blue][id]</color> does [red]not exist!</color></color>"
-    },
     "CRATE.command.keyall.receive": {
         "de-DE": "[grey]Du hast [blue][amount]x</color> <white>[key]</white> von [blue][player]</color> erhalten!</color>",
         "en-US": "[grey]You have received [blue][amount]x</color> <white>[key]</white> from [blue][player]!</color></color>"
@@ -114,5 +110,9 @@
     "CRATE.open": {
         "de-DE": "[grey]Du hast <white>[item]</white> erhalten.</color>",
         "en-US": "[grey]You have received <white>[item].</white></color>"
+    },
+    "CRATE.keyall.timer.receive": {
+        "de-DE": "<click:run_command:'/spawn'><hover:show_text:'[blue]/spawn'><br>[grey]                         <b>[blue]KEYALL</color></b>      <br>           <u>[blue]/ꜱᴘᴀᴡɴ</color> ᴜᴍ ᴅᴇɴ ᴋᴇʏ ᴇɪɴᴢᴜʟöꜱᴇɴ</color><br></hover></click>",
+        "en-US": "<click:run_command:'/spawn'><hover:show_text:'[blue]/spawn'><br>[grey]                         <b>[blue]KEYALL</color></b>      <br>              <u>[blue]/ꜱᴘᴀᴡɴ</color> ᴛᴏ ʀᴇᴅᴇᴇᴍ ᴛʜᴇ ᴋᴇʏ</color><br></hover></click>"
     }
 }
