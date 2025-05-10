@@ -40,8 +40,8 @@
         "en-US": "[grey]You bought [green][amount] [item]</color> for [green]$[money]</color></color>"
     },
     "SHOP.gui.item.view.showcase.lore": {
-        "de-DE": "<br><!i>[blue][ROUNDDOT]</color> <white>Menge:</white> [green][amount]</color><br><!i>[blue][ROUNDDOT]</color> <white>Preis:</white> [green]$[price]</color><br><!i>[blue][ROUNDDOT]</color> <white>Dein Geld:</white> [green]$[money]</color><br>",
-        "en-US": "<br><!i>[blue][ROUNDDOT]</color> <white>Amount:</white> [green][amount]</color><br><!i>[blue][ROUNDDOT]</color> <white>Price:</white> [green]$[price]</color><br><!i>[blue][ROUNDDOT]</color> <white>Your Money:</white> [green]$[money]</color><br>"
+        "de-DE": "<br><!i>[green][ROUNDDOT]</color> <white>Menge:</white> [green][amount]</color><br><!i>[green][ROUNDDOT]</color> <white>Preis:</white> [green]$[price]</color><br><!i>[green][ROUNDDOT]</color> <white>Dein Geld:</white> [green]$[money]</color><br>",
+        "en-US": "<br><!i>[green][ROUNDDOT]</color> <white>Amount:</white> [green][amount]</color><br><!i>[green][ROUNDDOT]</color> <white>Price:</white> [green]$[price]</color><br><!i>[green][ROUNDDOT]</color> <white>Your Money:</white> [green]$[money]</color><br>"
     },
     "SHOP.gui.shops.buy": {
         "de-DE": "<!i><white>ᴋʟɪᴄᴋᴇ ᴢᴜᴍ ᴋᴀᴜꜰᴇɴ</white>",
@@ -52,7 +52,7 @@
         "en-US": "<!i><white>ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ</white>"
     },
     "SHOP.gui.shop.view.item.info": {
-        "de-DE": "<br><!i>[blue][ROUNDDOT]</color> <white>Kaufpreis:</white> [green][buyprice]</color><br>",
-        "en-US": "<br><!i>[blue][ROUNDDOT]</color> <white>Buy Price:</white> [green][buyprice]</color><br>"
+        "de-DE": "<br><!i>[green][ROUNDDOT]</color> <white>Kaufpreis:</white> [green][buyprice]</color><br>",
+        "en-US": "<br><!i>[green][ROUNDDOT]</color> <white>Buy Price:</white> [green][buyprice]</color><br>"
     }
 }
