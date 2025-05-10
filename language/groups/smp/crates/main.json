@@ -108,8 +108,8 @@
         "en-US": "[grey]This [blue]Crate</color> has no [blue]Items!</color></color>"
     },
     "CRATE.open": {
-        "de-DE": "[grey]Du hast <white>[item]</white> erhalten.</color>",
-        "en-US": "[grey]You have received <white>[item].</white></color>"
+        "de-DE": "[grey]Du hast [blue][item]</color> erhalten.</color>",
+        "en-US": "[grey]You have received [blue][item].</color></color>"
     },
     "CRATE.keyall.timer.receive": {
         "de-DE": "<click:run_command:'/spawn'><hover:show_text:'[blue]/spawn'><br>[grey]                         <b>[blue]KEYALL</color></b>      <br>           <u>[blue]/ꜱᴘᴀᴡɴ</color> ᴜᴍ ᴅᴇɴ ᴋᴇʏ ᴇɪɴᴢᴜʟöꜱᴇɴ</color><br></hover></click>",
