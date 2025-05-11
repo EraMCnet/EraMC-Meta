@@ -112,7 +112,7 @@
         "en-US": "[grey]You have received [blue][item].</color></color>"
     },
     "CRATE.keyall.timer.receive": {
-        "de-DE": "<click:run_command:'/spawn'><hover:show_text:'[blue]/spawn'><br>[grey]                         <b>[blue]KEYALL</color></b>      <br>           <u>[blue]/ꜱᴘᴀᴡɴ</color> ᴜᴍ ᴅᴇɴ ᴋᴇʏ ᴇɪɴᴢᴜʟöꜱᴇɴ</color><br></hover></click>",
-        "en-US": "<click:run_command:'/spawn'><hover:show_text:'[blue]/spawn'><br>[grey]                         <b>[blue]KEYALL</color></b>      <br>              <u>[blue]/ꜱᴘᴀᴡɴ</color> ᴛᴏ ʀᴇᴅᴇᴇᴍ ᴛʜᴇ ᴋᴇʏ</color><br></hover></click>"
+        "de-DE": "<click:run_command:'/spawn'><hover:show_text:'[blue]/spawn'><br>[grey]                         <b>[blue]KEYALL</color></b>      <br>           [blue]/<u>ꜱᴘᴀᴡɴ</color> ᴜᴍ ᴅᴇɴ ᴋᴇʏ ᴇɪɴᴢᴜʟöꜱᴇɴ</color><br></hover></click>",
+        "en-US": "<click:run_command:'/spawn'><hover:show_text:'[blue]/spawn'><br>[grey]                         <b>[blue]KEYALL</color></b>      <br>              [blue]/<u>ꜱᴘᴀᴡɴ</color> ᴛᴏ ʀᴇᴅᴇᴇᴍ ᴛʜᴇ ᴋᴇʏ</color><br></hover></click>"
     }
 }
