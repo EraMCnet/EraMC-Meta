@@ -5,11 +5,11 @@
     },
     "PUNISH.ban": {
         "en-US": "[blue]ᴅᴀɴɪꜱᴍᴘ</color><br>[darker_red]<b>YOU GOT BANNED!</b></color><br><br>[blue]Moderator:</color> [grey][executor]</color><br>[blue]Reason:</color> [grey][reason]</color><br>[blue]Duration:</color> [grey][duration]</color><br><br>[grey]Please contact our [blue]support team</color> if you think this is a [darker_red]mistake.</color><br><br><u>[blue]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴅᴀɴɪꜱᴍᴘ</color></u></color>",
-        "de-DE": "[red]<b>DU WURDEST GEBANNT!</b></color><br><br>[blue]Moderator:</color> [grey][executor]</color><br>[blue]Grund:</color> [grey][reason]</color><br>[blue]Dauer:</color> [grey][duration]</color><br><br>[grey]Bitte kontaktiere unser [blue]Supportteam</color> wenn du denkst dass das ein [darker_red]Fehler</color> ist.<br><br><u>[blue]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴅᴀɴɪꜱᴍᴘ</color></u></color>"
+        "de-DE": "[blue]ᴅᴀɴɪꜱᴍᴘ</color><br>[darker_red]<b>YDU WURDEST GEBANNT!</b></color><br><br>[blue]Moderator:</color> [grey][executor]</color><br>[blue]Grund:</color> [grey][reason]</color><br>[blue]Dauer:</color> [grey][duration]</color><br><br>[grey]Bitte kontaktiere unser [blue]Supportteam</color> wenn du denkst dass das ein [darker_red]Fehler</color> ist.<br><br><u>[blue]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴅᴀɴɪꜱᴍᴘ</color></u></color>"
     },
     "PUNISH.mute": {
-        "en-US": "[blue]                          ᴅᴀɴɪꜱᴍᴘ</color><br>[darker_red]                    <b>YOU GOT MUTED!</b></color><br><br>[blue]Moderator:</color> [grey][executor]</color><br>[blue]Reason:</color> [grey][reason]</color><br>[blue]Duration:</color> [grey][duration]</color><br>",
-        "de-DE": "[blue]                          ᴅᴀɴɪꜱᴍᴘ</color><br>[darker_red]               <b>DU WURDEST GEMUTET!</b></color><br><br>[blue]Moderator:</color> [grey][executor]</color><br>[blue]Grund:</color> [grey][reason]</color><br>[blue]Länge:</color> [grey][duration]</color><br>"
+        "en-US": "<br>[darker_red]<b>YOU GOT MUTED!</b></color><br><br>[blue]Moderator:</color> [grey][executor]</color><br>[blue]Reason:</color> [grey][reason]</color><br>[blue]Duration:</color> [grey][duration]</color><br>[blue]Servergroup:</color> [grey][servergroup]</color><br>",
+        "de-DE": "<br>[darker_red]<b>DU WURDEST GEMUTED!</b></color><br><blue>[blue]Moderator:</color> [grey][executor]</color><br>[blue]Grund:</color> [grey][reason]</color><br>[blue]Länge:</color> [grey][duration]</color><br>[blue]Servergruppe:</color> [grey][servergroup]</color><br>"
     },
     "ERROR.connect.vpn": {
         "en-US": "[blue]ᴅᴀɴɪꜱᴍᴘ</color><br>[darker_red]<b>VPN DETECTED!</b></color><br><br>[grey]It seems like you are using a [darker_red]VPN</color> to hide your IP adress. This is [darker_red]not allowed</color> on our server.</color><br><br>[grey]Please contact our [blue]support team</color> if you think this is a [darker_red]mistake.</color><br><br><u>[blue]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴅᴀɴɪꜱᴍᴘ</color></u></color>",
