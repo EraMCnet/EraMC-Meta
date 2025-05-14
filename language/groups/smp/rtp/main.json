@@ -56,8 +56,8 @@
         "en-US": "[purple]<b>RTP END</b></color>"
     },
     "RTP.gui.end.lore": {
-        "de-DE": "<br><!i><white>Klicke, um dich zu [purple]teleportieren</color><br><br><!i>[purple][ROUNDDOT] <white>Cooldown: [purple][duration]</color><br><!i>[purple][ROUNDDOT] <white>Radius: [purple]5k - 20k</color><br><!i>[purple][ROUNDDOT] <white>Border: [purple]250k x 250k</color><br>",
-        "en-US": "<br><!i><white>Click to [purple]teleport</color><br><br><!i>[purple][ROUNDDOT] <white>Cooldown: [purple][duration]</color><br><!i>[purple][ROUNDDOT] <white>Radius: [purple]5k - 20k</color><br><!i>[purple][ROUNDDOT] <white>Border: [purple]250k x 250k</color><br>"
+        "de-DE": "<br><!i><white>Klicke, um dich zu [purple]teleportieren</color><br><br><!i>[purple][ROUNDDOT] <white>Cooldown: [purple][duration]</color><br><!i>[purple][ROUNDDOT] <white>Radius: [purple]5k - 20k</color><br><!i>[purple][ROUNDDOT] <white>Border: [purple]300k x 300k</color><br>",
+        "en-US": "<br><!i><white>Click to [purple]teleport</color><br><br><!i>[purple][ROUNDDOT] <white>Cooldown: [purple][duration]</color><br><!i>[purple][ROUNDDOT] <white>Radius: [purple]5k - 20k</color><br><!i>[purple][ROUNDDOT] <white>Border: [purple]300k x 300k</color><br>"
     },
     "RTP.gui.queue": {
         "de-DE": "<!i>[red]<b>RTP QUEUE</b></color>",

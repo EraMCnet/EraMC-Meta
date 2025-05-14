@@ -11,8 +11,12 @@
         "de-DE": "[grey]Dein Minecraft Account ist bereits mit dem Discord Account [blue][discord-name]</color> verlinkt!</color>",
         "en-US": "[grey]Your Minecraft account is already linked to the Discord account [blue][discord-name]!</color></color>"
     },
-    "DISCORD.link.unlink" : {
+    "DISCORD.link.unlink": {
         "de-DE": "[grey]Dein Minecraft Account ist jetzt nicht mehr mit dem Discord Account [blue][discord-name]</color> verlinkt!</color>",
         "en-US": "[grey]Your Minecraft account is no longer linked to the Discord account [blue][discord-name]!</color></color>"
+    },
+    "DISCORD.link": {
+        "de-DE": "[grey]Verlinke deinen [blue]Minecraft Account</color> mit deinem [blue]Discord Account.</color> Dazu musst du auf Discord den Befehl [blue]<hover:show_text:'[blue]Klicke zum kopieren</color>'><click:copy_to_clipboard:'/link [code]'>/link [code]</click></hover></color> eingeben.</color>",
+        "en-US": "[grey]Link your [blue]Minecraft account</color> with your [blue]Discord account.</color> To do this, you need to enter the command [blue]<hover:show_text:'[blue]Klicke zum kopieren</color>'><click:copy_to_clipboard:'/link [code]'>/link [code]</click></hover></color> on Discord.</color>"
     }
 }
