@@ -8,12 +8,12 @@
         "en-US": "[grey]An [red]error</color> occurred while linking. Please contact our [blue]support team!</color> (/discord)</color>"
     },
     "DISCORD.link.already": {
-        "de-DE": "[grey]Dein Minecraft Account ist bereits mit dem Discord Account [blue][discord-name]</color> verlinkt!</color>",
-        "en-US": "[grey]Your Minecraft account is already linked to the Discord account [blue][discord-name]!</color></color>"
+        "de-DE": "[grey]Dein Minecraft Account ist bereits mit einem [blue]Discord Account</color> verlinkt!</color>",
+        "en-US": "[grey]Your Minecraft account is already linked to a [blue]Discord account!</color></color>"
     },
     "DISCORD.link.unlink": {
-        "de-DE": "[grey]Dein Minecraft Account ist jetzt nicht mehr mit dem Discord Account [blue][discord-name]</color> verlinkt!</color>",
-        "en-US": "[grey]Your Minecraft account is no longer linked to the Discord account [blue][discord-name]!</color></color>"
+        "de-DE": "[grey]Dein Minecraft Account ist jetzt nicht mehr mit deinem [blue]Discord Account</color> verlinkt!</color>",
+        "en-US": "[grey]Your Minecraft account is no longer linked to your [blue]Discord account!</color></color>"
     },
     "DISCORD.link": {
         "de-DE": "[grey]Verlinke deinen [blue]Minecraft Account</color> mit deinem [blue]Discord Account.</color> Dazu musst du auf Discord den Befehl [blue]<hover:show_text:'[blue]Klicke zum kopieren</color>'><click:copy_to_clipboard:'/link [code]'>/link [code]</click></hover></color> eingeben.</color>",
