@@ -1,7 +1,7 @@
 {
     "GENERAL.join.first": {
-        "de-DE": "<br>[grey]Willkommen [blue]<u>[player]</u></color> zu [blue]DaniSMP!</color> (#[joins])</color><br>",
-        "en-US": "<br>[grey]Welcome [blue]<u>[player]</u></color> to [blue]DaniSMP!</color> (#[joins])</color><br>"
+        "de-DE": "<br>[grey]Willkommen [blue]<u>[player]</u></color> zu [blue]EraMC!</color> (#[joins])</color><br>",
+        "en-US": "<br>[grey]Welcome [blue]<u>[player]</u></color> to [blue]EraMC!</color> (#[joins])</color><br>"
     },
     "GENERAL.scoreboard.deaths": {
         "de-DE": "Tode",
@@ -16,8 +16,8 @@
         "en-US": "Playtime"
     },
     "GENERAL.scoreboard.title": {
-        "de-DE": "DANISMP.DE",
-        "en-US": "DANISMP.NET"
+        "de-DE": "EraMC.DE",
+        "en-US": "EraMC.NET"
     },
     "GENERAL.death.use.back": {
         "de-DE": "[grey]Nutze [blue]/back</color> um zu deinem Todespunkt zurück zu gelangen!</color>",

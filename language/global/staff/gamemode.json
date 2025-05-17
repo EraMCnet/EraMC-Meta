@@ -1,50 +1,50 @@
 {
     "GAMEMODE.self.creative": {
-        "de-DE": "[grey]Du hast deinen [blue]Spielmodus</color> auf [danismp_gradient]kreativ</gradient> gesetzt.</color>",
-        "en-US": "[grey]You've set your [blue]game mode</color> to [danismp_gradient]creative.</gradient>"
+        "de-DE": "[grey]Du hast deinen [blue]Spielmodus</color> auf [eramc_gradient]kreativ</gradient> gesetzt.</color>",
+        "en-US": "[grey]You've set your [blue]game mode</color> to [eramc_gradient]creative.</gradient>"
     },
     "GAMEMODE.self.survival": {
-        "de-DE": "[grey]Du hast deinen [blue]Spielmodus</color> auf [danismp_gradient]überleben</gradient> gesetzt.",
-        "en-US": "[grey]You've set your [blue]game mode</color> to [danismp_gradient]survival.</gradient>"
+        "de-DE": "[grey]Du hast deinen [blue]Spielmodus</color> auf [eramc_gradient]überleben</gradient> gesetzt.",
+        "en-US": "[grey]You've set your [blue]game mode</color> to [eramc_gradient]survival.</gradient>"
     },
     "GAMEMODE.self.adventure": {
-        "de-DE": "[grey]Du hast deinen [blue]Spielmodus</color> auf [danismp_gradient]Abenteuer</gradient> gesetzt.",
-        "en-US": "[grey]You've set your [blue]game mode</color> to [danismp_gradient]adventure.</gradient>"
+        "de-DE": "[grey]Du hast deinen [blue]Spielmodus</color> auf [eramc_gradient]Abenteuer</gradient> gesetzt.",
+        "en-US": "[grey]You've set your [blue]game mode</color> to [eramc_gradient]adventure.</gradient>"
     },
     "GAMEMODE.self.spectator": {
-        "de-DE": "[grey]Du hast deinen [blue]Spielmodus</color> auf [danismp_gradient]Zuschauer</gradient> gesetzt.",
-        "en-US": "[grey]You've set your [blue]game mode</color> to [danismp_gradient]spectator.</gradient>"
+        "de-DE": "[grey]Du hast deinen [blue]Spielmodus</color> auf [eramc_gradient]Zuschauer</gradient> gesetzt.",
+        "en-US": "[grey]You've set your [blue]game mode</color> to [eramc_gradient]spectator.</gradient>"
     },
     "GAMEMODE.other.creative": {
-        "de-DE": "[grey][blue][player]</color> hat deinen [blue]Spielmodus</color> auf [danismp_gradient]kreativ</gradient> gesetzt.",
-        "en-US": "[grey][blue][player]</color> has set your [blue]game mode</color> to [danismp_gradient]creative.</gradient>"
+        "de-DE": "[grey][blue][player]</color> hat deinen [blue]Spielmodus</color> auf [eramc_gradient]kreativ</gradient> gesetzt.",
+        "en-US": "[grey][blue][player]</color> has set your [blue]game mode</color> to [eramc_gradient]creative.</gradient>"
     },
     "GAMEMODE.other.survival": {
-        "de-DE": "[grey][blue][player]</color> hat deinen [blue]Spielmodus</color> auf [danismp_gradient]überleben</gradient> gesetzt.",
-        "en-US": "[grey][blue][player]</color> has set your [blue]game mode</color> to [danismp_gradient]survival.</gradient>"
+        "de-DE": "[grey][blue][player]</color> hat deinen [blue]Spielmodus</color> auf [eramc_gradient]überleben</gradient> gesetzt.",
+        "en-US": "[grey][blue][player]</color> has set your [blue]game mode</color> to [eramc_gradient]survival.</gradient>"
     },
     "GAMEMODE.other.adventure": {
-        "de-DE": "[grey][blue][player]</color> hat deinen [blue]Spielmodus</color> auf [danismp_gradient]Abenteuer</gradient> gesetzt.",
-        "en-US": "[grey][blue][player]</color> has set your [blue]game mode</color> to [danismp_gradient]adventure.</gradient>"
+        "de-DE": "[grey][blue][player]</color> hat deinen [blue]Spielmodus</color> auf [eramc_gradient]Abenteuer</gradient> gesetzt.",
+        "en-US": "[grey][blue][player]</color> has set your [blue]game mode</color> to [eramc_gradient]adventure.</gradient>"
     },
     "GAMEMODE.other.spectator": {
-        "de-DE": "[grey][blue][player]</color> hat deinen [blue]Spielmodus</color> auf [danismp_gradient]Zuschauer</gradient> gesetzt.",
-        "en-US": "[grey][blue][player]</color> has set your [blue]game mode</color> to [danismp_gradient]spectator.</gradient>"
+        "de-DE": "[grey][blue][player]</color> hat deinen [blue]Spielmodus</color> auf [eramc_gradient]Zuschauer</gradient> gesetzt.",
+        "en-US": "[grey][blue][player]</color> has set your [blue]game mode</color> to [eramc_gradient]spectator.</gradient>"
     },
     "GAMEMODE.self.change.other.creative": {
-        "de-DE": "[grey]Du hast den [blue]Spielmodus</color> von [blue][player]</color> auf [danismp_gradient]kreativ</gradient> gesetzt.",
-        "en-US": "[grey]You've set [blue][player]</color>'s [blue]game mode</color> to [danismp_gradient]creative.</gradient>"
+        "de-DE": "[grey]Du hast den [blue]Spielmodus</color> von [blue][player]</color> auf [eramc_gradient]kreativ</gradient> gesetzt.",
+        "en-US": "[grey]You've set [blue][player]</color>'s [blue]game mode</color> to [eramc_gradient]creative.</gradient>"
     },
     "GAMEMODE.self.change.other.survival": {
-        "de-DE": "[grey]Du hast den [blue]Spielmodus</color> von [blue][player]</color> auf [danismp_gradient]überleben</gradient> gesetzt.",
-        "en-US": "[grey]You've set [blue][player]</color>'s [blue]game mode</color> to [danismp_gradient]survival.</gradient>"
+        "de-DE": "[grey]Du hast den [blue]Spielmodus</color> von [blue][player]</color> auf [eramc_gradient]überleben</gradient> gesetzt.",
+        "en-US": "[grey]You've set [blue][player]</color>'s [blue]game mode</color> to [eramc_gradient]survival.</gradient>"
     },
     "GAMEMODE.self.change.other.adventure": {
-        "de-DE": "[grey]Du hast den [blue]Spielmodus</color> von [blue][player]</color> auf [danismp_gradient]Abenteuer</gradient> gesetzt.",
-        "en-US": "[grey]You've set [blue][player]</color>'s [blue]game mode</color> to [danismp_gradient]adventure.</gradient>"
+        "de-DE": "[grey]Du hast den [blue]Spielmodus</color> von [blue][player]</color> auf [eramc_gradient]Abenteuer</gradient> gesetzt.",
+        "en-US": "[grey]You've set [blue][player]</color>'s [blue]game mode</color> to [eramc_gradient]adventure.</gradient>"
     },
     "GAMEMODE.self.change.other.spectator": {
-        "de-DE": "[grey]Du hast den [blue]Spielmodus</color> von [blue][player]</color> auf [danismp_gradient]Zuschauer</gradient> gesetzt.",
-        "en-US": "[grey]You've set [blue][player]</color>'s [blue]game mode</color> to [danismp_gradient]spectator.</gradient>"
+        "de-DE": "[grey]Du hast den [blue]Spielmodus</color> von [blue][player]</color> auf [eramc_gradient]Zuschauer</gradient> gesetzt.",
+        "en-US": "[grey]You've set [blue][player]</color>'s [blue]game mode</color> to [eramc_gradient]spectator.</gradient>"
     }
 }

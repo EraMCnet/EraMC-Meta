@@ -2,7 +2,7 @@
     "ILLEGAL_CLIENT_MODIFICATIONS": {
         "de-DE": "Illegale Client-Modifikationen",
         "en-US": "Illegal Client Modifications",
-        "permission": "danismp.punish.ban.illegal_client_modifications",
+        "permission": "eramc.punish.ban.illegal_client_modifications",
         "type": ["ban"],
         "durations": [
             "1M",
@@ -13,7 +13,7 @@
     "OFFENSIVE_LANGUAGE": {
         "de-DE": "Beleidigende Sprache",
         "en-US": "Offensive Language",
-        "permission": "danismp.punish.mute.offensive_language",
+        "permission": "eramc.punish.mute.offensive_language",
         "type": ["mute", "ban"],
         "durations": [
             "1h",
@@ -27,7 +27,7 @@
     "NS_IDEOLOGY_CONTENT": {
         "de-DE": "Verbreitung nationalsozialistischer Inhalte",
         "en-US": "Distribution of National Socialist Content",
-        "permission": "danismp.punish.ban.ns_ideology_content",
+        "permission": "eramc.punish.ban.ns_ideology_content",
         "type": ["ban"],
         "durations": [
             "1M",
@@ -39,7 +39,7 @@
     "SPAMMING": {
         "de-DE": "Spamming",
         "en-US": "Spamming",
-        "permission": "danismp.punish.mute.spamming",
+        "permission": "eramc.punish.mute.spamming",
         "type": ["mute", "kick"],
         "durations": [
             "1h",
@@ -53,7 +53,7 @@
     "TROLLING": {
         "de-DE": "Trolling",
         "en-US": "Trolling",
-        "permission": "danismp.punish.mute.trolling",
+        "permission": "eramc.punish.mute.trolling",
         "type": ["ban"],
         "durations": [
             "1d",
@@ -64,7 +64,7 @@
     "UNNECESSARY_OVERLOADING_SERVER": {
         "de-DE": "Unnötiges auslasten des Servers",
         "en-US": "Unnecessary overloading the Server",
-        "permission": "danismp.punish.ban.unnecessary_overloading_server",
+        "permission": "eramc.punish.ban.unnecessary_overloading_server",
         "type": ["ban"],
         "durations": [
             "1w",
@@ -77,7 +77,7 @@
     "ALT_ACCOUNT_USING": {
         "de-DE": "Nutzen eines Alt-Accounts",
         "en-US": "Using of an Alt-Account",
-        "permission": "danismp.punish.ban.alt_account_using",
+        "permission": "eramc.punish.ban.alt_account_using",
         "type": ["ban"],
         "durations": [
             "1d",
@@ -90,7 +90,7 @@
     "NOT_ALLOWED_SKIN": {
         "de-DE": "Nicht erlaubter Skin",
         "en-US": "Not allowed Skin",
-        "permission": "danismp.punish.ban.not_allowed_skin",
+        "permission": "eramc.punish.ban.not_allowed_skin",
         "type": ["ban", "kick"],
         "durations": [
             "1d",
@@ -105,7 +105,7 @@
     "GRIEFING": {
         "de-DE": "Griefing",
         "en-US": "Griefing",
-        "permission": "danismp.punish.ban.griefing",
+        "permission": "eramc.punish.ban.griefing",
         "type": ["ban"],
         "durations": [
             "1d",
@@ -119,7 +119,7 @@
     "REAL_MONEY_TRADING": {
         "de-DE": "Echtgeldhandel",
         "en-US": "Trading with real money",
-        "permission": "danismp.punish.ban.real_money_trading",
+        "permission": "eramc.punish.ban.real_money_trading",
         "type": ["ban"],
         "durations": [
             "permanent"
@@ -128,7 +128,7 @@
     "CROSS_SERVER_TRADING": {
         "de-DE": "Cross-Server Trading",
         "en-US": "Cross-Server Trading",
-        "permission": "danismp.punish.ban.cross_server_trading",
+        "permission": "eramc.punish.ban.cross_server_trading",
         "type": ["ban"],
         "durations": [
             "1d",
@@ -141,7 +141,7 @@
     "Racism": {
         "de-DE": "Rassismus",
         "en-US": "Racism",
-        "permission": "danismp.punish.ban.Racism",
+        "permission": "eramc.punish.ban.Racism",
         "type": ["ban"],
         "durations": [
             "1d",
@@ -154,7 +154,7 @@
     "ADVERTISING": {
         "de-DE": "Werbung",
         "en-US": "Advertising",
-        "permission": "danismp.punish.ban.advertising",
+        "permission": "eramc.punish.ban.advertising",
         "type": ["ban"],
         "durations": [
             "1d",
@@ -167,7 +167,7 @@
     "ACCOUNT_SELLING": {
         "de-DE": "Accountverkauf",
         "en-US": "Account selling",
-        "permission": "danismp.punish.ban.account_selling",
+        "permission": "eramc.punish.ban.account_selling",
         "type": ["ban"],
         "durations": [
             "permanent"
@@ -176,7 +176,7 @@
     "BUG_ABUSE": {
         "de-DE": "Bug-Abuse",
         "en-US": "Bug Abuse",
-        "permission": "danismp.punish.ban.bug_abuse",
+        "permission": "eramc.punish.ban.bug_abuse",
         "type": ["ban"],
         "durations": [
             "1h",
@@ -195,7 +195,7 @@
     "BEGGING_FOR_RANK_OR_EXTRA_PERMS": {
         "de-DE": "Betteln um Rang oder extra Rechte",
         "en-US": "Begging for rank or extra permissions",
-        "permission": "danismp.punish.mute.begging_for_rank_or_extra_perms",
+        "permission": "eramc.punish.mute.begging_for_rank_or_extra_perms",
         "type": ["mute", "kick"],
         "durations": [
             "1h",
@@ -209,7 +209,7 @@
     "BYPASSING_PUNISHMENTS": {
         "de-DE": "Umgehen von Strafen",
         "en-US": "Bypassing punishments",
-        "permission": "danismp.punish.ban.bypassing_punishments",
+        "permission": "eramc.punish.ban.bypassing_punishments",
         "type": ["ban"],
         "durations": [
             "1d",
@@ -224,7 +224,7 @@
     "DOXXING": {
         "de-DE": "Doxxing",
         "en-US": "Doxxing",
-        "permission": "danismp.punish.ban.doxxing",
+        "permission": "eramc.punish.ban.doxxing",
         "type": ["ban"],
         "durations": [
             "permanent"
@@ -233,7 +233,7 @@
     "HAUSVERBOT": {
         "de-DE": "Hausverbot",
         "en-US": "Excluded from playing",
-        "permission": "danismp.punish.ban.hausverbot",
+        "permission": "eramc.punish.ban.hausverbot",
         "type": ["ban"],
         "durations": [
             "permanent"
@@ -242,7 +242,7 @@
     "COMBAT_EVADING": {
         "de-DE": "Combat-Evading",
         "en-US": "Combat Evading",
-        "permission": "danismp.punish.ban.combat_evading",
+        "permission": "eramc.punish.ban.combat_evading",
         "type": ["ban"],
         "durations": [
             "2d",

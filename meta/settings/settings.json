@@ -16,7 +16,7 @@
             "Lobby"
         ],
         "material": "feather",
-        "permission": "danismp.setting.fly",
+        "permission": "eramc.setting.fly",
         "default": "false"
     },
     "doublejump": {
@@ -32,7 +32,7 @@
             "*"
         ],
         "material": "glowstone_dust",
-        "permission": "danismp.setting.glow",
+        "permission": "eramc.setting.glow",
         "default": "false"
     },
     "size": {
@@ -40,7 +40,7 @@
             "Lobby"
         ],
         "material": "heavy_core",
-        "permission": "danismp.setting.size",
+        "permission": "eramc.setting.size",
         "default": "normal"
     },
     "speed": {
@@ -48,7 +48,7 @@
             "Lobby"
         ],
         "material": "sugar",
-        "permission": "danismp.setting.speed",
+        "permission": "eramc.setting.speed",
         "default": "false"
     },
     "nightvision": {
@@ -56,7 +56,7 @@
             "*"
         ],
         "material": "torch",
-        "permission": "danismp.setting.nightvision",
+        "permission": "eramc.setting.nightvision",
         "default": "false"
     },
     "msg": {
@@ -86,7 +86,7 @@
             "*"
         ],
         "material": "enchanted_book",
-        "permission": "danismp.setting.streamermode",
+        "permission": "eramc.setting.streamermode",
         "default": "false"
     }
 }

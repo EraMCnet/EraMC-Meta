@@ -4,8 +4,8 @@
         "en-US": "<i:false>[blue]Game-Selector</color>"
     },
     "ITEM.selector.lore": {
-        "de-DE": "<i:false>[grey]Wähle den [blue]Spielmodus</color> aus</color><br><i:false>[grey]den du auf [blue]DaniSMP</color> spielen möchtest</color>",
-        "en-US": "<i:false>[grey]Choose the [blue]game mode</color> you want to play on [blue]DaniSMP</color></color>"
+        "de-DE": "<i:false>[grey]Wähle den [blue]Spielmodus</color> aus</color><br><i:false>[grey]den du auf [blue]EraMC</color> spielen möchtest</color>",
+        "en-US": "<i:false>[grey]Choose the [blue]game mode</color> you want to play on [blue]EraMC</color></color>"
     },
     "ITEM.profile.name": {
         "de-DE": "<i:false>[blue]Dein Profil</color>",

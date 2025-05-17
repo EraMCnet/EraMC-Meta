@@ -8,8 +8,8 @@
         "en-US": "[grey]This player is currently [red]offline!</color></color>"
     },
     "ERROR.player.notfound": {
-        "de-DE": "[grey]Dieser Spieler hat noch [red]nie</color> auf [blue]DaniSMP</color> gespielt!</color>",
-        "en-US": "[grey]This player has [red]never</color> played on [blue]DaniSMP</color> before!</color>"
+        "de-DE": "[grey]Dieser Spieler hat noch [red]nie</color> auf [blue]EraMC</color> gespielt!</color>",
+        "en-US": "[grey]This player has [red]never</color> played on [blue]EraMC</color> before!</color>"
     },
     "ERROR.command.notfound": {
         "de-DE": "[grey]Der Command [blue]/[command]</color> existiert [red]nicht!</color> </color>",
@@ -24,8 +24,8 @@
         "en-US": "[grey]The number you specified is [red]invalid!</color></color>"
     },
     "ERROR.unknown": {
-        "de-DE": "[grey]Ein unbekannter [red]Fehler</color> ist aufgetreten! Bitte kontaktieren den Discord-Ticketsupport. [blue]discord.gg/danismp</color></color>",
-        "en-US": "[grey]An unknown [red]error</color> occurred! Please contact the Discord ticket support. [blue]discord.gg/danismp</color></color>"
+        "de-DE": "[grey]Ein unbekannter [red]Fehler</color> ist aufgetreten! Bitte kontaktieren den Discord-Ticketsupport. [blue]discord.gg/eramc</color></color>",
+        "en-US": "[grey]An unknown [red]error</color> occurred! Please contact the Discord ticket support. [blue]discord.gg/eramc</color></color>"
     },
     "GENERAL.you": {
         "de-DE": "Du",
@@ -232,8 +232,8 @@
         "en-US": "No"
     },
     "GENERAL.command.discord": {
-        "de-DE": "[grey]Trete unserem [blue]Discord-Server</color> bei:<br><br>[blue]<click:open_url:'https://discord.gg/DaniSMP'><hover:show_text:'[blue]Klicke hier, um den Link in deinem Browser zu öffnen!</color>'>discord.gg/DaniSMP</hover></click></color></color><br>",
-        "en-US": "[grey]Join our [blue]Discord server:</color><br><br>[blue]<click:open_url:'https://discord.gg/DaniSMP'><hover:show_text:'[blue]Click here to open the link in your browser!</color>'>discord.gg/DaniSMP</hover></click></color></color><br>"
+        "de-DE": "[grey]Trete unserem [blue]Discord-Server</color> bei:<br><br>[blue]<click:open_url:'https://discord.gg/eramc'><hover:show_text:'[blue]Klicke hier, um den Link in deinem Browser zu öffnen!</color>'>discord.gg/eramc</hover></click></color></color><br>",
+        "en-US": "[grey]Join our [blue]Discord server:</color><br><br>[blue]<click:open_url:'https://discord.gg/eramc'><hover:show_text:'[blue]Click here to open the link in your browser!</color>'>discord.gg/eramc</hover></click></color></color><br>"
     },
     "FEATURE.bedrock.not.available": {
         "de-DE": "[grey]Diese Funktion ist [red]nicht</color> für die Bedrock Edition verfügbar!</color>",

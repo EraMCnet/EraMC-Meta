@@ -1,7 +1,7 @@
 {
     "holo.smp.online": {
-        "de-DE": "<b>[danismp_gradient]SMP SEASON 8</gradient></b><br>[grey][blue][players]</color> / [blue]500</color> Spieler</color>",
-        "en-US": "<b>[danismp_gradient]SMP SEASON 8</gradient></b><br>[grey][blue][players]</color> / [orange]500</color> players</color>",
+        "de-DE": "<b>[eramc_gradient]SMP SEASON 8</gradient></b><br>[grey][blue][players]</color> / [blue]500</color> Spieler</color>",
+        "en-US": "<b>[eramc_gradient]SMP SEASON 8</gradient></b><br>[grey][blue][players]</color> / [orange]500</color> players</color>",
         "location": {
             "x": 325.0,
             "y": 7,
@@ -23,8 +23,8 @@
         "scale-z": "2.0"
     },
     "holo.smp.offline": {
-        "de-DE": "<b>[danismp_gradient]SMP SEASON 8</gradient></b><br><b><gradient:#ff0000:#b30000:#ff0000>OFFLINE</gradient></b>",
-        "en-US": "<b>[danismp_gradient]SMP SEASON 8</gradient></b><br><b><gradient:#ff0000:#b30000:#ff0000>OFFLINE</gradient></b>",
+        "de-DE": "<b>[eramc_gradient]SMP SEASON 8</gradient></b><br><b><gradient:#ff0000:#b30000:#ff0000>OFFLINE</gradient></b>",
+        "en-US": "<b>[eramc_gradient]SMP SEASON 8</gradient></b><br><b><gradient:#ff0000:#b30000:#ff0000>OFFLINE</gradient></b>",
         "location": {
             "x": 325.0,
             "y": 7,
@@ -46,8 +46,8 @@
         "scale-z": "2.0"
     },
     "holo.smp.maintenance": {
-        "de-DE": "<b>[danismp_gradient]SMP SEASON 8</gradient></b><br><b><gradient:#fede00:#ff7700:#fede00>WARTUNGSARBEITEN</gradient></b>",
-        "en-US": "<b>[danismp_gradient]SMP SEASON 8</gradient></b><br><b><gradient:#fede00:#ff7700:#fede00>MAINTENANCE</gradient></b>",
+        "de-DE": "<b>[eramc_gradient]SMP SEASON 8</gradient></b><br><b><gradient:#fede00:#ff7700:#fede00>WARTUNGSARBEITEN</gradient></b>",
+        "en-US": "<b>[eramc_gradient]SMP SEASON 8</gradient></b><br><b><gradient:#fede00:#ff7700:#fede00>MAINTENANCE</gradient></b>",
         "location": {
             "x": 325.0,
             "y": 7,
