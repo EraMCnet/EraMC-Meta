@@ -1,0 +1,58 @@
+{
+    "SHOP.gui.page.previous": {
+        "de-DE": "<i:false>[blue]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[blue]ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ"
+    },
+    "SHOP.gui.page.next": {
+        "de-DE": "<i:false>[blue]ɴäᴄʜꜱᴛᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[blue]ɴᴇxᴛ ᴘᴀɢᴇ"
+    },
+    "SHOP.gui.page.back": {
+        "de-DE": "<i:false>[red]ᴢᴜʀüᴄᴋ",
+        "en-US": "<i:false>[red]ʙᴀᴄᴋ"
+    },
+    "SHOP.gui.page.navigate.lore": {
+        "de-DE": "<i:false><br><i:false>[blue][ROUNDDOT]<white> Klicke, zum navigieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[blue][ROUNDDOT]<white> Click to navigate<br><i:false>"
+    },
+    "SHOP.gui.item.view.confirm": {
+        "de-DE": "<i:false>[green]<b>BESTÄTIGEN",
+        "en-US": "<i:false>[green]<b>CONFIRM"
+    },
+    "SHOP.gui.item.view.confirm.lore": {
+        "de-DE": "<!i>[grey][green][amount]</color> kaufen für [green]$[money]</color></color>",
+        "en-US": "<!i>[grey]Buy [green][amount]</color> for [green]$[money]</color></color>"
+    },
+    "SHOP.gui.item.view.buy.not.enough.money": {
+        "de-DE": "[grey]Du hast [red]nicht</color> genug Geld um das zu tun!</color>",
+        "en-US": "[grey]You [red]don't</color> have enough money to do that!</color>"
+    },
+    "SHOP.gui.item.view.buy.inventory.full": {
+        "de-DE": "[grey]Du hast [red]nicht genug Platz</color> im Inventar!</color>!",
+        "en-US": "[grey]You [red]don't have enough space</color> in your inventory!</color>!"
+    },
+    "SHOP.error": {
+        "de-DE": "[grey]Ein [red]Fehler</color> ist aufgetreten! ([blue]/discord</color>)</color>",
+        "en-US": "[grey]An [red]error</color> occurred! ([blue]/discord</color>)</color>"
+    },
+    "SHOP.gui.item.view.buy.success": {
+        "de-DE": "[grey]Du hast [green][amount] [item]</color> für [green]$[money]</color> gekauft!</color>",
+        "en-US": "[grey]You bought [green][amount] [item]</color> for [green]$[money]</color></color>"
+    },
+    "SHOP.gui.item.view.showcase.lore": {
+        "de-DE": "<br><!i>[green][ROUNDDOT]</color> <white>Menge:</white> [green][amount]</color><br><!i>[green][ROUNDDOT]</color> <white>Preis:</white> [green]$[price]</color><br><!i>[green][ROUNDDOT]</color> <white>Dein Geld:</white> [green]$[money]</color><br>",
+        "en-US": "<br><!i>[green][ROUNDDOT]</color> <white>Amount:</white> [green][amount]</color><br><!i>[green][ROUNDDOT]</color> <white>Price:</white> [green]$[price]</color><br><!i>[green][ROUNDDOT]</color> <white>Your Money:</white> [green]$[money]</color><br>"
+    },
+    "SHOP.gui.shops.buy": {
+        "de-DE": "<!i><white>ᴋʟɪᴄᴋᴇ ᴢᴜᴍ ᴋᴀᴜꜰᴇɴ</white>",
+        "en-US": "<!i><white>ᴄʟɪᴄᴋ ᴛᴏ ʙᴜʏ</white>"
+    },
+    "SHOP.gui.shops.view": {
+        "de-DE": "<!i><white>ᴋʟɪᴄᴋᴇ ᴢᴜᴍ ᴀɴѕᴄʜᴀᴜᴇɴ</white>",
+        "en-US": "<!i><white>ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ</white>"
+    },
+    "SHOP.gui.shop.view.item.info": {
+        "de-DE": "<br><!i>[green][ROUNDDOT]</color> <white>Kaufpreis:</white> [green][buyprice]</color><br>",
+        "en-US": "<br><!i>[green][ROUNDDOT]</color> <white>Buy Price:</white> [green][buyprice]</color><br>"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "CHAT.no.unicode.or.custom.font": {
+        "de-DE": "[grey]Du kannst [red]keine Unicodes</color> oder [red]andere Schriftarten</color> im Chat verwenden.</color>",
+        "en-US": "[grey]You cannot use [red]Unicode</color> or [red]other fonts</color> in the chat.</color>"
+    }
+}

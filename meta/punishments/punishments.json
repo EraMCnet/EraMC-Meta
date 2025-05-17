@@ -5,8 +5,6 @@
         "permission": "danismp.punish.ban.illegal_client_modifications",
         "type": ["ban"],
         "durations": [
-            "1w",
-            "2w",
             "1M",
             "3M",
             "6M"
@@ -16,7 +14,7 @@
         "de-DE": "Beleidigende Sprache",
         "en-US": "Offensive Language",
         "permission": "danismp.punish.mute.offensive_language",
-        "type": ["mute", "kick", "ban"],
+        "type": ["mute", "ban"],
         "durations": [
             "1h",
             "3h",
@@ -24,6 +22,18 @@
             "1d",
             "3d",
             "1w"
+        ]
+    },
+    "NS_IDEOLOGY_CONTENT": {
+        "de-DE": "Verbreitung nationalsozialistischer Inhalte",
+        "en-US": "Distribution of National Socialist Content",
+        "permission": "danismp.punish.ban.ns_ideology_content",
+        "type": ["ban"],
+        "durations": [
+            "1M",
+            "3M",
+            "6M",
+            "permanent"
         ]
     },
     "SPAMMING": {
@@ -49,22 +59,6 @@
             "1d",
             "3d",
             "1w"
-        ]
-    },
-    "TEAMING": {
-        "de-DE": "Teaming",
-        "en-US": "Teaming",
-        "permission": "danismp.punish.ban.teaming",
-        "type": ["ban", "kick"],
-        "durations": [
-            "1h",
-            "6h",
-            "12h",
-            "1d",
-            "3d",
-            "1w",
-            "2w",
-            "1M"
         ]
     },
     "UNNECESSARY_OVERLOADING_SERVER": {
@@ -103,7 +97,9 @@
             "3d",
             "1w",
             "2w",
-            "1M"
+            "1M",
+            "3M",
+            "6M"
         ]
     },
     "GRIEFING": {
@@ -129,6 +125,32 @@
             "permanent"
         ]
     },
+    "CROSS_SERVER_TRADING": {
+        "de-DE": "Cross-Server Trading",
+        "en-US": "Cross-Server Trading",
+        "permission": "danismp.punish.ban.cross_server_trading",
+        "type": ["ban"],
+        "durations": [
+            "1d",
+            "3d",
+            "1w",
+            "2w",
+            "1M"
+        ]
+    },
+    "Racism": {
+        "de-DE": "Rassismus",
+        "en-US": "Racism",
+        "permission": "danismp.punish.ban.Racism",
+        "type": ["ban"],
+        "durations": [
+            "1d",
+            "3d",
+            "1w",
+            "2w",
+            "1M"
+        ]
+    },
     "ADVERTISING": {
         "de-DE": "Werbung",
         "en-US": "Advertising",
@@ -151,19 +173,6 @@
             "permanent"
         ]
     },
-    "ACCOUNT_SHARING": {
-        "de-DE": "Accountsharing",
-        "en-US": "Account sharing",
-        "permission": "danismp.punish.ban.account_sharing",
-        "type": ["ban", "kick"],
-        "durations": [
-            "1d",
-            "3d",
-            "1w",
-            "2w",
-            "1M"
-        ]
-    },
     "BUG_ABUSE": {
         "de-DE": "Bug-Abuse",
         "en-US": "Bug Abuse",
@@ -177,20 +186,10 @@
             "3d",
             "1w",
             "2w",
-            "1M"
-        ]
-    },
-    "PERMS_ABUSE": {
-        "de-DE": "Rechte-Missbrauch",
-        "en-US": "Permissions Abuse",
-        "permission": "danismp.punish.ban.perms_abuse",
-        "type": ["ban"],
-        "durations": [
-            "1d",
-            "3d",
-            "1w",
-            "2w",
-            "1M"
+            "1M",
+            "3M",
+            "6M",
+            "permanent"
         ]
     },
     "BEGGING_FOR_RANK_OR_EXTRA_PERMS": {
@@ -207,19 +206,6 @@
             "1w"
         ]
     },
-    "REPORT_ABUSE": {
-        "de-DE": "Report-Abuse",
-        "en-US": "Report Abuse",
-        "permission": "danismp.punish.ban.report_abuse",
-        "type": ["ban"],
-        "durations": [
-            "1d",
-            "3d",
-            "1w",
-            "2w",
-            "1M"
-        ]
-    },
     "BYPASSING_PUNISHMENTS": {
         "de-DE": "Umgehen von Strafen",
         "en-US": "Bypassing punishments",
@@ -233,19 +219,6 @@
             "1M",
             "2M",
             "6M"
-        ]
-    },
-    "SUPPORT_ABUSE": {
-        "de-DE": "Support-Missbrauch",
-        "en-US": "Support Abuse",
-        "permission": "danismp.punish.ban.support_abuse",
-        "type": ["ban"],
-        "durations": [
-            "1d",
-            "3d",
-            "1w",
-            "2w",
-            "1M"
         ]
     },
     "DOXXING": {
@@ -264,6 +237,16 @@
         "type": ["ban"],
         "durations": [
             "permanent"
+        ]
+    },
+    "COMBAT_EVADING": {
+        "de-DE": "Combat-Evading",
+        "en-US": "Combat Evading",
+        "permission": "danismp.punish.ban.combat_evading",
+        "type": ["ban"],
+        "durations": [
+            "2d",
+            "4d"
         ]
     }
 }

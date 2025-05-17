@@ -34,5 +34,13 @@
     "PAGE.info": {
         "de-DE": "<i:false>[grey]Seite [blue][page]</color> von [blue][lastpage]</color></color>",
         "en-US": "<i:false>[grey]Page [blue][page]</color> of [blue][lastpage]</color></color>"
+    },
+    "GUI.back.name": {
+        "de-DE": "<i:false>[red]Zurück</color>",
+        "en-US": "<i:false>[red]Back</color>"
+    },
+    "GUI.back.lore": {
+        "de-DE": "<i:false><br><!i>[red][ROUNDDOT]</color> <white>Klicke, um zurückzugehen<br>",
+        "en-US": "<i:false><br><!i>[red][ROUNDDOT]</color> <white>Click to go back<br>"
     }
 }

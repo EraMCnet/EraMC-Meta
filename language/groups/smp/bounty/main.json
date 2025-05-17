@@ -60,11 +60,11 @@
         "en-US": "<i:false>[green]ꜱᴏʀᴛ"
     },
     "BOUNTY.gui.page.navigate.lore": {
-        "de-DE": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Klicke zum navigieren<br><i:false>",
+        "de-DE": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Klicke, zum navigieren<br><i:false>",
         "en-US": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Click to navigate<br><i:false>"
     },
     "BOUNTY.gui.page.update.lore": {
-        "de-DE": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Klicke um die Seite zu aktualisieren<br><i:false>",
+        "de-DE": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Klicke, um die Seite zu aktualisieren<br><i:false>",
         "en-US": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Click to update the page<br><i:false>"
     },
     "BOUNTY.gui.player.bounty.lore": {

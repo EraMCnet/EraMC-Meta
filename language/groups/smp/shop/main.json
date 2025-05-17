@@ -1,0 +1,10 @@
+{
+    "SELL.sell": {
+        "de-DE": "[grey]Du hast [blue][amount]</color> Items für [green]$[money]</color> verkauft.</color>",
+        "en-US": "[grey]You sold [blue][amount]</color> items for [green]$[money]</color>."
+    },
+    "SELL.sell.nothing": {
+        "de-DE": "[grey]Du hast [red]keine</color> Items verkauft.</color>",
+        "en-US": "[grey]You sold [red]no</color> items.</color>"
+    }
+}
