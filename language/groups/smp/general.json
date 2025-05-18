@@ -1,7 +1,7 @@
 {
     "GENERAL.join.first": {
-        "de-DE": "<br>[grey]Willkommen [blue]<u>[player]</u></color> zu [blue]EraMC!</color> (#[joins])</color><br>",
-        "en-US": "<br>[grey]Welcome [blue]<u>[player]</u></color> to [blue]EraMC!</color> (#[joins])</color><br>"
+        "de-DE": "<br>[grey]Willkommen [era_purple]<u>[player]</u></color> zu [era_purple]EraMC!</color> (#[joins])</color><br>",
+        "en-US": "<br>[grey]Welcome [era_purple]<u>[player]</u></color> to [era_purple]EraMC!</color> (#[joins])</color><br>"
     },
     "GENERAL.scoreboard.deaths": {
         "de-DE": "Tode",
@@ -20,15 +20,15 @@
         "en-US": "EraMC.NET"
     },
     "GENERAL.death.use.back": {
-        "de-DE": "[grey]Nutze [blue]/back</color> um zu deinem Todespunkt zurück zu gelangen!</color>",
-        "en-US": "[grey]Use [blue]/back</color> to return to your deathlocation!</color>"
+        "de-DE": "[grey]Nutze [era_purple]/back</color> um zu deinem Todespunkt zurück zu gelangen!</color>",
+        "en-US": "[grey]Use [era_purple]/back</color> to return to your deathlocation!</color>"
     },
     "GENERAL.chat.msg.death": {
-        "de-DE": "[grey][red]💀</color> [blue][player]</color> ist [red]gestorben</color></color>",
-        "en-US": "[grey][red]💀</color> [blue][player]</color> [red]died</color></color></color>"
+        "de-DE": "[grey][red]💀</color> [era_purple][player]</color> ist [red]gestorben</color></color>",
+        "en-US": "[grey][red]💀</color> [era_purple][player]</color> [red]died</color></color></color>"
     },
     "GENERAL.chat.msg.death.player": {
-        "de-DE": "[grey][red]💀</color> [blue][player]</color> ist [red]gestorben</color> während er mit [blue][attacker]</color> gekämpft hat!</color>",
-        "en-US": "[grey][red]💀</color> [blue][player]</color> [red]died</color> while fighting [blue][attacker]</color>!</color>"
+        "de-DE": "[grey][red]💀</color> [era_purple][player]</color> ist [red]gestorben</color> während er mit [era_purple][attacker]</color> gekämpft hat!</color>",
+        "en-US": "[grey][red]💀</color> [era_purple][player]</color> [red]died</color> while fighting [era_purple][attacker]</color>!</color>"
     }
 }

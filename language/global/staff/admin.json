@@ -1,26 +1,26 @@
 {
     "CLOUD.task.maintenance.enable": {
-        "de-DE": "[grey]Die [blue]Wartungsarbeiten</color> wurden auf dem Task [blue][task]</color> [green]aktiviert.</color></color>",
-        "en-US": "[grey]The [blue]maintenance</color> has been [green]enabled</color> on the task [blue][task].</color></color>"
+        "de-DE": "[grey]Die [era_purple]Wartungsarbeiten</color> wurden auf dem Task [era_purple][task]</color> [green]aktiviert.</color></color>",
+        "en-US": "[grey]The [era_purple]maintenance</color> has been [green]enabled</color> on the task [era_purple][task].</color></color>"
     },
     "CLOUD.task.maintenance.disable": {
-        "de-DE": "[grey]Die [blue]Wartungsarbeiten</color> wurden auf dem Task [blue][task]</color> [red]deaktiviert.</color></color>",
-        "en-US": "[grey]The [blue]maintenance</color> has been [red]disabled</color> on the task [blue][task].</color></color>"
+        "de-DE": "[grey]Die [era_purple]Wartungsarbeiten</color> wurden auf dem Task [era_purple][task]</color> [red]deaktiviert.</color></color>",
+        "en-US": "[grey]The [era_purple]maintenance</color> has been [red]disabled</color> on the task [era_purple][task].</color></color>"
     },
     "CLOUD.task.maintenance.already.enabled": {
-        "de-DE": "[grey]Die [blue]Wartungsarbeiten</color> sind bereits auf dem Task [blue][task]</color> [green]aktiviert.</color></color>",
-        "en-US": "[grey]The [blue]maintenance</color> is already [green]enabled</color> on the task [blue][task].</color></color>"
+        "de-DE": "[grey]Die [era_purple]Wartungsarbeiten</color> sind bereits auf dem Task [era_purple][task]</color> [green]aktiviert.</color></color>",
+        "en-US": "[grey]The [era_purple]maintenance</color> is already [green]enabled</color> on the task [era_purple][task].</color></color>"
     },
     "CLOUD.task.maintenance.already.disabled": {
-        "de-DE": "[grey]Die [blue]Wartungsarbeiten</color> sind bereits auf dem Task [blue][task]</color> [red]deaktiviert.</color></color>",
-        "en-US": "[grey]The [blue]maintenance</color> is already [red]disabled</color> on the task [blue][task].</color></color>"
+        "de-DE": "[grey]Die [era_purple]Wartungsarbeiten</color> sind bereits auf dem Task [era_purple][task]</color> [red]deaktiviert.</color></color>",
+        "en-US": "[grey]The [era_purple]maintenance</color> is already [red]disabled</color> on the task [era_purple][task].</color></color>"
     },
     "CLOUD.task.not.found": {
-        "de-DE": "[grey]Der Task [blue][task]</color> existiert [red]nicht.</color></color>",
-        "en-US": "[grey]The task [blue][task]</color> does [red]not</color> exist.</color>"
+        "de-DE": "[grey]Der Task [era_purple][task]</color> existiert [red]nicht.</color></color>",
+        "en-US": "[grey]The task [era_purple][task]</color> does [red]not</color> exist.</color>"
     },
     "CLOUD.task.minservicecount.set": {
-        "de-DE": "[grey]Die minimale Service Anzahl auf dem Task [blue][task]</color> wurde auf [blue][minservicecount]</color> gesetzt.</color>",
-        "en-US": "[grey]The minimum service count on the task [blue][task]</color> has been set to [blue][minservicecount].</color></color>"
+        "de-DE": "[grey]Die minimale Service Anzahl auf dem Task [era_purple][task]</color> wurde auf [era_purple][minservicecount]</color> gesetzt.</color>",
+        "en-US": "[grey]The minimum service count on the task [era_purple][task]</color> has been set to [era_purple][minservicecount].</color></color>"
     }
 }

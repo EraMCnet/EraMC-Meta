@@ -1,14 +1,14 @@
 {
     "TEAMPERMS.disable": {
-        "de-DE": "[grey]Du hast deine [blue]Teamperms</color> jetzt [red]deaktiviert.</color> Das heißt, das du den [blue]Teamchat</color> und andere [red]teaminterne</color> Dinge nun nicht mehr sehen kannst.</color>",
-        "en-US": "[grey]You have now [red]disabled</color> your [blue]teamperms.</color> This means that you can no longer see the [blue]teamchat</color> and other [red]team internal</color> things.</color>"
+        "de-DE": "[grey]Du hast deine [era_purple]Teamperms</color> jetzt [red]deaktiviert.</color> Das heißt, das du den [era_purple]Teamchat</color> und andere [red]teaminterne</color> Dinge nun nicht mehr sehen kannst.</color>",
+        "en-US": "[grey]You have now [red]disabled</color> your [era_purple]teamperms.</color> This means that you can no longer see the [era_purple]teamchat</color> and other [red]team internal</color> things.</color>"
     },
     "TEAMPERMS.enable": {
-        "de-DE": "[grey]Du hast deine [blue]Teamperms</color> wieder [green]aktiviert.</color> Das heißt, das du den [blue]Teamchat</color> und andere [green]teaminterne</color> Dinge nun wieder sehen kannst.</color>",
-        "en-US": "[grey]You have now [green]enabled</color> your [blue]teamperms.</color> This means that you can now see the [blue]teamchat</color> and other [green]team internal</color> things again.</color>"
+        "de-DE": "[grey]Du hast deine [era_purple]Teamperms</color> wieder [green]aktiviert.</color> Das heißt, das du den [era_purple]Teamchat</color> und andere [green]teaminterne</color> Dinge nun wieder sehen kannst.</color>",
+        "en-US": "[grey]You have now [green]enabled</color> your [era_purple]teamperms.</color> This means that you can now see the [era_purple]teamchat</color> and other [green]team internal</color> things again.</color>"
     },
     "TEAMPERMS.command.disabled": {
-        "de-DE": "[grey]Deine [blue]Teamperms</color> sind aktuell [red]deaktiviert.</color> Du kannst diesen Befehl aktuell [red]nicht</color> benutzen.</color>",
-        "en-US": "[grey]Your [blue]teamperms</color> are currently [red]disabled.</color> You can currently [red]not</color> use this command.</color>"
+        "de-DE": "[grey]Deine [era_purple]Teamperms</color> sind aktuell [red]deaktiviert.</color> Du kannst diesen Befehl aktuell [red]nicht</color> benutzen.</color>",
+        "en-US": "[grey]Your [era_purple]teamperms</color> are currently [red]disabled.</color> You can currently [red]not</color> use this command.</color>"
     }
 }

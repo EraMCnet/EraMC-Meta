@@ -1,30 +1,30 @@
 {
     "NOTIFY.server.join": {
-        "de-DE": "[grey][green]<b>➕</b></color> [blue][player]</color> ist dem Netzwerk beigetreten. <dark_grey>([blue][proxy]</color>)</dark_grey></color>",
-        "en-US": "[grey][green]<b>➕</b></color> [blue][player]</color> has joined the network. <dark_grey>([blue][proxy]</color>)</dark_grey></color>"
+        "de-DE": "[grey][green]<b>➕</b></color> [era_purple][player]</color> ist dem Netzwerk beigetreten. <dark_grey>([era_purple][proxy]</color>)</dark_grey></color>",
+        "en-US": "[grey][green]<b>➕</b></color> [era_purple][player]</color> has joined the network. <dark_grey>([era_purple][proxy]</color>)</dark_grey></color>"
     },
     "NOTIFY.server.leave": {
-        "de-DE": "[grey][red]<b>➖</b></color> [blue][player]</color> hat das Netzwerk verlassen. <dark_grey>([blue][proxy]</color>)</dark_grey></color>",
-        "en-US": "[grey][red]<b>➖</color> [blue][player]</color> has left the network. <dark_grey>([blue][proxy]</color>)</dark_grey></color>"
+        "de-DE": "[grey][red]<b>➖</b></color> [era_purple][player]</color> hat das Netzwerk verlassen. <dark_grey>([era_purple][proxy]</color>)</dark_grey></color>",
+        "en-US": "[grey][red]<b>➖</color> [era_purple][player]</color> has left the network. <dark_grey>([era_purple][proxy]</color>)</dark_grey></color>"
     },
     "NOTIFY.server.switch": {
-        "de-DE": "[grey][blue][player]</color> hat den Server gewechselt. <dark_grey>([blue][previous-server]</color> -> [blue][current-server]</color>)</dark_grey></color>",
-        "en-US": "[grey][blue][player]</color> has switched servers. <dark_grey>([blue][previous-server]</color> -> [blue][current-server]</color>)</dark_grey></color>"
+        "de-DE": "[grey][era_purple][player]</color> hat den Server gewechselt. <dark_grey>([era_purple][previous-server]</color> -> [era_purple][current-server]</color>)</dark_grey></color>",
+        "en-US": "[grey][era_purple][player]</color> has switched servers. <dark_grey>([era_purple][previous-server]</color> -> [era_purple][current-server]</color>)</dark_grey></color>"
     },
     "NOTIFY.enable": {
-        "de-DE": "[grey]Du hast nun [blue]Benachrichtigungen</color> vom Typen [blue][type]</color> [green]aktiviert!</color></color>",
-        "en-US": "[grey]You have now enabled [blue]notifications</color> of type [blue][type]</color> [green]successfully!</color></color>"
+        "de-DE": "[grey]Du hast nun [era_purple]Benachrichtigungen</color> vom Typen [era_purple][type]</color> [green]aktiviert!</color></color>",
+        "en-US": "[grey]You have now enabled [era_purple]notifications</color> of type [era_purple][type]</color> [green]successfully!</color></color>"
     },
     "NOTIFY.disable": {
-        "de-DE": "[grey]Du hast nun [blue]Benachrichtigungen</color> vom Typen [blue][type]</color> [red]deaktiviert!</color></color>",
-        "en-US": "[grey]You have now disabled [blue]notifications</color> of type [blue][type]</color> [red]successfully!</color></color>"
+        "de-DE": "[grey]Du hast nun [era_purple]Benachrichtigungen</color> vom Typen [era_purple][type]</color> [red]deaktiviert!</color></color>",
+        "en-US": "[grey]You have now disabled [era_purple]notifications</color> of type [era_purple][type]</color> [red]successfully!</color></color>"
     },
     "NOTIFY.enable.all": {
-        "de-DE": "[grey]Du hast nun [blue]alle Benachrichtigungen</color> [green]aktiviert!</color></color>",
-        "en-US": "[grey]You have now enabled [blue]all notifications</color> [green]successfully!</color></color>"
+        "de-DE": "[grey]Du hast nun [era_purple]alle Benachrichtigungen</color> [green]aktiviert!</color></color>",
+        "en-US": "[grey]You have now enabled [era_purple]all notifications</color> [green]successfully!</color></color>"
     },
     "NOTIFY.disable.all": {
-        "de-DE": "[grey]Du hast nun [blue]alle Benachrichtigungen</color> [red]deaktiviert!</color></color>",
-        "en-US": "[grey]You have now disabled [blue]all notifications</color> [red]successfully!</color></color>"
+        "de-DE": "[grey]Du hast nun [era_purple]alle Benachrichtigungen</color> [red]deaktiviert!</color></color>",
+        "en-US": "[grey]You have now disabled [era_purple]all notifications</color> [red]successfully!</color></color>"
     }
 }

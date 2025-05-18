@@ -1,95 +1,95 @@
 {
     "CRATE.command.create": {
-        "de-DE": "[grey]Du hast die [blue]Crate</color> mit der ID [blue][id]</color> [green]erfolgreich</color> erstellt!</color>",
-        "en-US": "[grey]You have crated the [blue]Crate</color> with the ID [blue][id]</color> [green]successfully</color>!"
+        "de-DE": "[grey]Du hast die [era_purple]Crate</color> mit der ID [era_purple][id]</color> [green]erfolgreich</color> erstellt!</color>",
+        "en-US": "[grey]You have crated the [era_purple]Crate</color> with the ID [era_purple][id]</color> [green]successfully</color>!"
     },
     "CRATE.command.create.error.exists": {
-        "de-DE": "[grey]Die [blue]Crate</color> mit der ID [blue][id]</color> [red]existiert bereits!</color></color>",
-        "en-US": "[grey]The [blue]Crate</color> with the ID [blue][id]</color> [red]already exists!</color></color>"
+        "de-DE": "[grey]Die [era_purple]Crate</color> mit der ID [era_purple][id]</color> [red]existiert bereits!</color></color>",
+        "en-US": "[grey]The [era_purple]Crate</color> with the ID [era_purple][id]</color> [red]already exists!</color></color>"
     },
     "CRATE.command.delete": {
-        "de-DE": "[grey]Du hast die [blue]Crate</color> mit der ID [blue][id]</color> [green]erfolgreich</color> gelöscht!</color>",
-        "en-US": "[grey]You have deleted the [blue]Crate</color> with the ID [blue][id]</color> [green]successfully!</color></color>"
+        "de-DE": "[grey]Du hast die [era_purple]Crate</color> mit der ID [era_purple][id]</color> [green]erfolgreich</color> gelöscht!</color>",
+        "en-US": "[grey]You have deleted the [era_purple]Crate</color> with the ID [era_purple][id]</color> [green]successfully!</color></color>"
     },
     "CRATE.command.delete.error.notfound": {
-        "de-DE": "[grey]Die [blue]Crate</color> mit der ID [blue][id]</color> [red]existiert nicht!</color></color>",
-        "en-US": "[grey]The [blue]Crate</color> with the ID [blue][id]</color> does [red]not exist!</color></color>"
+        "de-DE": "[grey]Die [era_purple]Crate</color> mit der ID [era_purple][id]</color> [red]existiert nicht!</color></color>",
+        "en-US": "[grey]The [era_purple]Crate</color> with the ID [era_purple][id]</color> does [red]not exist!</color></color>"
     },
     "CRATE.command.key.add": {
-        "de-DE": "[grey]Du hast den [blue]Key</color> mit der ID [blue][id]</color> [green]erfolgreich</color> zur [blue]Crate</color> mit der ID [blue][id]</color> hinzugefügt!</color>",
-        "en-US": "[grey]You have added the [blue]Key</color> with the ID [blue][id]</color> [green]successfully</color> to the [blue]Crate</color> with the ID [blue][id]!</color></color>"
+        "de-DE": "[grey]Du hast den [era_purple]Key</color> mit der ID [era_purple][id]</color> [green]erfolgreich</color> zur [era_purple]Crate</color> mit der ID [era_purple][id]</color> hinzugefügt!</color>",
+        "en-US": "[grey]You have added the [era_purple]Key</color> with the ID [era_purple][id]</color> [green]successfully</color> to the [era_purple]Crate</color> with the ID [era_purple][id]!</color></color>"
     },
     "CRATE.command.key.add.error.exists": {
-        "de-DE": "[grey]Der [blue]Key</color> mit der ID [blue][id]</color> [red]existiert bereits!</color></color>",
-        "en-US": "[grey]The [blue]Key</color> with the ID [blue][id]</color> [red]already exists!</color></color>"
+        "de-DE": "[grey]Der [era_purple]Key</color> mit der ID [era_purple][id]</color> [red]existiert bereits!</color></color>",
+        "en-US": "[grey]The [era_purple]Key</color> with the ID [era_purple][id]</color> [red]already exists!</color></color>"
     },
     "CRATE.command.key.add.error.item.air": {
         "de-DE": "[grey]Dieses Item kann [red]nicht</color> als Key verwendet werden!</color>",
         "en-US": "[grey]This item can [red]not</color> be used as a key!</color>"                   
     },
     "CRATE.command.key.error.crate.notfound": {
-        "de-DE": "[grey]Die [blue]Crate</color> mit der ID [blue][id]</color> [red]existiert nicht!</color></color>",
-        "en-US": "[grey]The [blue]Crate</color> with the ID [blue][id]</color> does [red]not exist!</color></color>"
+        "de-DE": "[grey]Die [era_purple]Crate</color> mit der ID [era_purple][id]</color> [red]existiert nicht!</color></color>",
+        "en-US": "[grey]The [era_purple]Crate</color> with the ID [era_purple][id]</color> does [red]not exist!</color></color>"
     },
     "CRATE.command.key.remove.error.notfound": {
-        "de-DE": "[grey]Der [blue]Key</color> mit der ID [blue][id]</color> [red]existiert nicht!</color></color>",
-        "en-US": "[grey]The [blue]Key</color> with the ID [blue][id]</color> does [red]not exist!</color></color>"
+        "de-DE": "[grey]Der [era_purple]Key</color> mit der ID [era_purple][id]</color> [red]existiert nicht!</color></color>",
+        "en-US": "[grey]The [era_purple]Key</color> with the ID [era_purple][id]</color> does [red]not exist!</color></color>"
     },
     "CRATE.command.key.remove": {
-        "de-DE": "[grey]Du hast den [blue]Key</color> mit der ID [blue][id]</color> [green]erfolgreich</color> von der [blue]Crate</color> mit der ID [blue][id]</color> entfernt!</color>",
-        "en-US": "[grey]You have removed the [blue]Key</color> with the ID [blue][id]</color> [green]successfully</color> from the [blue]Crate</color> with the ID [blue][id]!</color></color>"
+        "de-DE": "[grey]Du hast den [era_purple]Key</color> mit der ID [era_purple][id]</color> [green]erfolgreich</color> von der [era_purple]Crate</color> mit der ID [era_purple][id]</color> entfernt!</color>",
+        "en-US": "[grey]You have removed the [era_purple]Key</color> with the ID [era_purple][id]</color> [green]successfully</color> from the [era_purple]Crate</color> with the ID [era_purple][id]!</color></color>"
     },
     "CRATE.command.keyall": {
-        "de-DE": "[grey]Du hast [blue][amount]x</color> <white>[key]</white> [green]erfolgreich</color> an alle Spieler verteilt!</color>",
-        "en-US": "[grey]You have given the [blue]Key</color> with the ID [blue][id]</color> [green]successfully</color> to all players!</color>"
+        "de-DE": "[grey]Du hast [era_purple][amount]x</color> <white>[key]</white> [green]erfolgreich</color> an alle Spieler verteilt!</color>",
+        "en-US": "[grey]You have given the [era_purple]Key</color> with the ID [era_purple][id]</color> [green]successfully</color> to all players!</color>"
     },
     "CRATE.command.keyall.receive": {
-        "de-DE": "[grey]Du hast [blue][amount]x</color> <white>[key]</white> von [blue][player]</color> erhalten!</color>",
-        "en-US": "[grey]You have received [blue][amount]x</color> <white>[key]</white> from [blue][player]!</color></color>"
+        "de-DE": "[grey]Du hast [era_purple][amount]x</color> <white>[key]</white> von [era_purple][player]</color> erhalten!</color>",
+        "en-US": "[grey]You have received [era_purple][amount]x</color> <white>[key]</white> from [era_purple][player]!</color></color>"
     },
     "CRATE.command.key.give.self": {
-        "de-DE": "[grey]Du hast [blue][amount]x</color> <white>[key]</white> erhalten!</color>",
-        "en-US": "[grey]You have received [blue][amount]x</color> <white>[key</reset>!</color></color>"
+        "de-DE": "[grey]Du hast [era_purple][amount]x</color> <white>[key]</white> erhalten!</color>",
+        "en-US": "[grey]You have received [era_purple][amount]x</color> <white>[key</reset>!</color></color>"
     },
     "CRATE.command.key.give.other": {
-        "de-DE": "[grey]Du hast [blue][player] [blue][amount]x</color> <white>[key]</white> gegeben.</color>",
-        "en-US": "[grey]You have given [blue][player] [blue][amount]x</color> <white>[key]</white>.</color></color>"
+        "de-DE": "[grey]Du hast [era_purple][player] [era_purple][amount]x</color> <white>[key]</white> gegeben.</color>",
+        "en-US": "[grey]You have given [era_purple][player] [era_purple][amount]x</color> <white>[key]</white>.</color></color>"
     },
     "CRATE.command.item.add": {
-        "de-DE": "[grey]Du hast das [blue]Item</color> mit der ID [blue][id]</color> [green]erfolgreich</color> zur [blue]Crate</color> mit der ID [blue][id]</color> hinzugefügt!</color>",
-        "en-US": "[grey]You have added the [blue]Item</color> with the ID [blue][id]</color> [green]successfully</color> to the [blue]Crate</color> with the ID [blue][id]!</color></color>"
+        "de-DE": "[grey]Du hast das [era_purple]Item</color> mit der ID [era_purple][id]</color> [green]erfolgreich</color> zur [era_purple]Crate</color> mit der ID [era_purple][id]</color> hinzugefügt!</color>",
+        "en-US": "[grey]You have added the [era_purple]Item</color> with the ID [era_purple][id]</color> [green]successfully</color> to the [era_purple]Crate</color> with the ID [era_purple][id]!</color></color>"
     },
     "CRATE.command.item.remove.error.notfound": {
-        "de-DE": "[grey]Das [blue]Item</color> mit der ID [blue][id]</color> [red]existiert nicht!</color></color>",
-        "en-US": "[grey]The [blue]Item</color> with the ID [blue][id]</color> does [red]not exist!</color></color>"
+        "de-DE": "[grey]Das [era_purple]Item</color> mit der ID [era_purple][id]</color> [red]existiert nicht!</color></color>",
+        "en-US": "[grey]The [era_purple]Item</color> with the ID [era_purple][id]</color> does [red]not exist!</color></color>"
     },
     "CRATE.command.item.add.error.exists": {
-        "de-DE": "[grey]Das [blue]Item</color> mit der ID [blue][id]</color> [red]existiert bereits!</color></color>",
-        "en-US": "[grey]The [blue]Item</color> with the ID [blue][id]</color> [red]already exists!</color></color>"
+        "de-DE": "[grey]Das [era_purple]Item</color> mit der ID [era_purple][id]</color> [red]existiert bereits!</color></color>",
+        "en-US": "[grey]The [era_purple]Item</color> with the ID [era_purple][id]</color> [red]already exists!</color></color>"
     },
     "CRATE.command.item.remove": {
-        "de-DE": "[grey]Du hast das [blue]Item</color> mit der ID [blue][id]</color> [green]erfolgreich</color> von der [blue]Crate</color> mit der ID [blue][id]</color> entfernt!</color>",
-        "en-US": "[grey]You have removed the [blue]Item</color> with the ID [blue][id]</color> [green]successfully</color> from the [blue]Crate</color> with the ID [blue][id]!</color></color>"
+        "de-DE": "[grey]Du hast das [era_purple]Item</color> mit der ID [era_purple][id]</color> [green]erfolgreich</color> von der [era_purple]Crate</color> mit der ID [era_purple][id]</color> entfernt!</color>",
+        "en-US": "[grey]You have removed the [era_purple]Item</color> with the ID [era_purple][id]</color> [green]successfully</color> from the [era_purple]Crate</color> with the ID [era_purple][id]!</color></color>"
     },
     "CRATE.command.block.add": {
-        "de-DE": "[grey]Der Block [blue][location]</color> ist jetzt ein [blue]Crate-Block!</color></color>",
-        "en-US": "[grey]The block [blue][location]</color> is now a [blue]crate block!</color></color>"
+        "de-DE": "[grey]Der Block [era_purple][location]</color> ist jetzt ein [era_purple]Crate-Block!</color></color>",
+        "en-US": "[grey]The block [era_purple][location]</color> is now a [era_purple]crate block!</color></color>"
     },
     "CRATE.command.block.remove": {
-        "de-DE": "[grey]Der Block [blue][location]</color> ist jetzt kein [blue]Crate-Block</color> mehr!</color>",
-        "en-US": "[grey]The block [blue][location]</color> is no longer a [blue]crate block!</color></color>"
+        "de-DE": "[grey]Der Block [era_purple][location]</color> ist jetzt kein [era_purple]Crate-Block</color> mehr!</color>",
+        "en-US": "[grey]The block [era_purple][location]</color> is no longer a [era_purple]crate block!</color></color>"
     },
     "CRATE.command.block.remove.error.notfound": {
-        "de-DE": "[grey]Der Block [blue][location]</color> ist kein [blue]Crate-Block!</color></color>",
-        "en-US": "[grey]The block [blue][location]</color> is not a [blue]crate block!</color></color>"
+        "de-DE": "[grey]Der Block [era_purple][location]</color> ist kein [era_purple]Crate-Block!</color></color>",
+        "en-US": "[grey]The block [era_purple][location]</color> is not a [era_purple]crate block!</color></color>"
     },
     "CRATE.command.block.add.error.exists": {
-        "de-DE": "[grey]Der Block [blue][location]</color> ist bereits ein [blue]Crate-Block!</color></color>",
-        "en-US": "[grey]The block [blue][location]</color> is already a [blue]crate block!</color></color>"
+        "de-DE": "[grey]Der Block [era_purple][location]</color> ist bereits ein [era_purple]Crate-Block!</color></color>",
+        "en-US": "[grey]The block [era_purple][location]</color> is already a [era_purple]crate block!</color></color>"
     },
     "CRATE.command.block.add.error.invalid": {
-        "de-DE": "[grey]Du kannst diesen Block [red]nicht</color> als [blue]Crate-Block</color> festlegen!</color>",
-        "en-US": "[grey]You can [red]not</color> set this block as a [blue]crate block!</color></color>"
+        "de-DE": "[grey]Du kannst diesen Block [red]nicht</color> als [era_purple]Crate-Block</color> festlegen!</color>",
+        "en-US": "[grey]You can [red]not</color> set this block as a [era_purple]crate block!</color></color>"
     },
     "CRATE.open.error.title": {
         "de-DE": "<b>[red]Fehler</color></b>",
@@ -100,19 +100,19 @@
         "en-US": "[grey]Your inventory is [red]full!</color></color>"
     },
     "CRATE.open.error.no.key": {
-        "de-DE": "[grey]Du hast keinen [blue]Key</color> für diese [blue]Crate!</color></color>",
-        "en-US": "[grey]You do not have a [blue]Key</color> for this [blue]Crate!</color></color>"
+        "de-DE": "[grey]Du hast keinen [era_purple]Key</color> für diese [era_purple]Crate!</color></color>",
+        "en-US": "[grey]You do not have a [era_purple]Key</color> for this [era_purple]Crate!</color></color>"
     },
     "CRATE.open.error.no.items": {
-        "de-DE": "[grey]Diese [blue]Crate</color> hat keine [blue]Items!</color></color>",
-        "en-US": "[grey]This [blue]Crate</color> has no [blue]Items!</color></color>"
+        "de-DE": "[grey]Diese [era_purple]Crate</color> hat keine [era_purple]Items!</color></color>",
+        "en-US": "[grey]This [era_purple]Crate</color> has no [era_purple]Items!</color></color>"
     },
     "CRATE.open": {
-        "de-DE": "[grey]Du hast [blue][item]</color> erhalten.</color>",
-        "en-US": "[grey]You have received [blue][item].</color></color>"
+        "de-DE": "[grey]Du hast [era_purple][item]</color> erhalten.</color>",
+        "en-US": "[grey]You have received [era_purple][item].</color></color>"
     },
     "CRATE.keyall.timer.receive": {
-        "de-DE": "<click:run_command:'/spawn'><hover:show_text:'[blue]/spawn'><br>[grey]                         <b>[blue]KEYALL</color></b>      <br>           [blue]/<u>ꜱᴘᴀᴡɴ</color> ᴜᴍ ᴅᴇɴ ᴋᴇʏ ᴇɪɴᴢᴜʟöꜱᴇɴ</color><br></hover></click>",
-        "en-US": "<click:run_command:'/spawn'><hover:show_text:'[blue]/spawn'><br>[grey]                         <b>[blue]KEYALL</color></b>      <br>              [blue]/<u>ꜱᴘᴀᴡɴ</color> ᴛᴏ ʀᴇᴅᴇᴇᴍ ᴛʜᴇ ᴋᴇʏ</color><br></hover></click>"
+        "de-DE": "<click:run_command:'/spawn'><hover:show_text:'[era_purple]/spawn'><br>[grey]                         <b>[era_purple]KEYALL</color></b>      <br>           [era_purple]/<u>ꜱᴘᴀᴡɴ</color> ᴜᴍ ᴅᴇɴ ᴋᴇʏ ᴇɪɴᴢᴜʟöꜱᴇɴ</color><br></hover></click>",
+        "en-US": "<click:run_command:'/spawn'><hover:show_text:'[era_purple]/spawn'><br>[grey]                         <b>[era_purple]KEYALL</color></b>      <br>              [era_purple]/<u>ꜱᴘᴀᴡɴ</color> ᴛᴏ ʀᴇᴅᴇᴇᴍ ᴛʜᴇ ᴋᴇʏ</color><br></hover></click>"
     }
 }

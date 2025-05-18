@@ -1,55 +1,55 @@
 {
     "SETTING.fly.name": {
-        "de-DE": "<i:false>[blue]Fliegen</color>",
-        "en-US": "<i:false>[blue]Fly</color>"
+        "de-DE": "<i:false>[era_purple]Fliegen</color>",
+        "en-US": "<i:false>[era_purple]Fly</color>"
     },
     "SETTING.fly.lore.true": {
-        "de-DE": "[grey]<i:false>[eramc_gradient]Fliege</gradient> durch die [blue]Luft</color> und spare dir so das nervige laufen!<br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey]  Deaktiviert",
-        "en-US": "[grey]<i:false>[eramc_gradient]Fly</gradient> through the [blue]air</color> and save yourself the annoying walking!</color><br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey]  Disabled"
+        "de-DE": "[grey]<i:false>[eramc_gradient]Fliege</gradient> durch die [era_purple]Luft</color> und spare dir so das nervige laufen!<br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey]  Deaktiviert",
+        "en-US": "[grey]<i:false>[eramc_gradient]Fly</gradient> through the [era_purple]air</color> and save yourself the annoying walking!</color><br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey]  Disabled"
     },
     "SETTING.fly.lore.false": {
-        "de-DE": "[grey]<i:false>[eramc_gradient]Fliege</gradient> durch die [blue]Luft</color> und spare dir so das nervige laufen!<br><br><i:false>[grey]  Aktiviert<br><i:false>[grey][red]> Deaktiviert</color>",
-        "en-US": "[grey]<i:false>[eramc_gradient]Fly</gradient> through the [blue]air</color> and save yourself the annoying walking!<br><br><i:false>[grey]  Enabled<br><i:false>[grey][red]> Disabled</color>"
+        "de-DE": "[grey]<i:false>[eramc_gradient]Fliege</gradient> durch die [era_purple]Luft</color> und spare dir so das nervige laufen!<br><br><i:false>[grey]  Aktiviert<br><i:false>[grey][red]> Deaktiviert</color>",
+        "en-US": "[grey]<i:false>[eramc_gradient]Fly</gradient> through the [era_purple]air</color> and save yourself the annoying walking!<br><br><i:false>[grey]  Enabled<br><i:false>[grey][red]> Disabled</color>"
     },
     "SETTINGS.fly.lore.false.no.perms": {
-        "de-DE": "[grey]<i:false>[eramc_gradient]Fliege</gradient> durch die [blue]Luft</color> und spare dir so das nervige laufen!<br><br><i:false>[grey]Du benötigst folgenden [blue]Rang</color> um dieses [blue]Feature</color> nutzen zu können: [red][rank]</color>",
-        "en-US": "[grey]<i:false>[eramc_gradient]Fly</gradient> through the [blue]air</color> and save yourself the annoying walking!<br><br><i:false>[grey]You need the following [blue]rank</color> to use this [blue]feature</color>: [red][rank]</color>"
+        "de-DE": "[grey]<i:false>[eramc_gradient]Fliege</gradient> durch die [era_purple]Luft</color> und spare dir so das nervige laufen!<br><br><i:false>[grey]Du benötigst folgenden [era_purple]Rang</color> um dieses [era_purple]Feature</color> nutzen zu können: [red][rank]</color>",
+        "en-US": "[grey]<i:false>[eramc_gradient]Fly</gradient> through the [era_purple]air</color> and save yourself the annoying walking!<br><br><i:false>[grey]You need the following [era_purple]rank</color> to use this [era_purple]feature</color>: [red][rank]</color>"
     },
     "SETTING.doublejump.name": {
-        "de-DE": "<i:false>[blue]Doppelsprung</color>",
-        "en-US": "<i:false>[blue]Doublejump</color>"
+        "de-DE": "<i:false>[era_purple]Doppelsprung</color>",
+        "en-US": "<i:false>[era_purple]Doublejump</color>"
     },
     "SETTING.doublejump.lore.true": {
-        "de-DE": "[grey]<i:false>Aktiviere den [eramc_gradient]Doppelsprung</gradient> und Springe [blue]höher</color> und spare dir so einige Schritte!<br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey]  Deaktiviert",
-        "en-US": "[grey]<i:false>Enable the [eramc_gradient]Doublejump</gradient> and jump [blue]higher</color> and save yourself some steps!<br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey]  Disabled"
+        "de-DE": "[grey]<i:false>Aktiviere den [eramc_gradient]Doppelsprung</gradient> und Springe [era_purple]höher</color> und spare dir so einige Schritte!<br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey]  Deaktiviert",
+        "en-US": "[grey]<i:false>Enable the [eramc_gradient]Doublejump</gradient> and jump [era_purple]higher</color> and save yourself some steps!<br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey]  Disabled"
     },
     "SETTING.doublejump.lore.false": {
-        "de-DE": "[grey]<i:false>Aktiviere den [eramc_gradient]Doppelsprung</gradient> und Springe [blue]höher</color> und spare dir so einige Schritte!<br><br><i:false>[grey]  Aktiviert<br><i:false>[grey][red]> Deaktiviert</color>",
-        "en-US": "[grey]<i:false>Enable the [eramc_gradient]Doublejump</gradient> and jump [blue]higher</color> and save yourself some steps!<br><br><i:false>[grey]  Enabled<br><i:false>[grey][red]> Disabled</color>"
+        "de-DE": "[grey]<i:false>Aktiviere den [eramc_gradient]Doppelsprung</gradient> und Springe [era_purple]höher</color> und spare dir so einige Schritte!<br><br><i:false>[grey]  Aktiviert<br><i:false>[grey][red]> Deaktiviert</color>",
+        "en-US": "[grey]<i:false>Enable the [eramc_gradient]Doublejump</gradient> and jump [era_purple]higher</color> and save yourself some steps!<br><br><i:false>[grey]  Enabled<br><i:false>[grey][red]> Disabled</color>"
     },
     "SETTING.doublejump.lore.false.no.perms": {
-        "de-DE": "[grey]<i:false>Aktiviere den [eramc_gradient]Doppelsprung</gradient> und Springe [blue]höher</color> und spare dir so einige Schritte!<br><br><i:false>[grey]Du benötigst folgenden [blue]Rang</color> um dieses [blue]Feature</color> nutzen zu können: [red][rank]</color>",
-        "en-US": "[grey]<i:false>Enable the [eramc_gradient]Doublejump</gradient> and jump [blue]higher</color> and save yourself some steps!<br><br><i:false>[grey]You need the following [blue]rank</color> to use this [blue]feature</color>: [red][rank]</color>"
+        "de-DE": "[grey]<i:false>Aktiviere den [eramc_gradient]Doppelsprung</gradient> und Springe [era_purple]höher</color> und spare dir so einige Schritte!<br><br><i:false>[grey]Du benötigst folgenden [era_purple]Rang</color> um dieses [era_purple]Feature</color> nutzen zu können: [red][rank]</color>",
+        "en-US": "[grey]<i:false>Enable the [eramc_gradient]Doublejump</gradient> and jump [era_purple]higher</color> and save yourself some steps!<br><br><i:false>[grey]You need the following [era_purple]rank</color> to use this [era_purple]feature</color>: [red][rank]</color>"
     },
     "SETTING.glow.name": {
-        "de-DE": "<i:false>[blue]Leuchten</color>",
-        "en-US": "<i:false>[blue]Glowing</color>"
+        "de-DE": "<i:false>[era_purple]Leuchten</color>",
+        "en-US": "<i:false>[era_purple]Glowing</color>"
     },
     "SETTING.glow.lore.true": {
-        "de-DE": "[grey]<i:false>Aktiviere das [eramc_gradient]Leuchten</gradient> und mache auf dich [blue]Aufmerksam!</color><br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey]  Deaktiviert",
-        "en-US": "[grey]<i:false>Enable the [eramc_gradient]Glow</gradient> and make yourself [blue]noticeable!</color><br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey]  Disabled"
+        "de-DE": "[grey]<i:false>Aktiviere das [eramc_gradient]Leuchten</gradient> und mache auf dich [era_purple]Aufmerksam!</color><br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey]  Deaktiviert",
+        "en-US": "[grey]<i:false>Enable the [eramc_gradient]Glow</gradient> and make yourself [era_purple]noticeable!</color><br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey]  Disabled"
     },
     "SETTING.glow.lore.false": {
-        "de-DE": "[grey]<i:false>Aktiviere das [eramc_gradient]Leuchten</gradient> und mache auf dich [blue]Aufmerksam!</color><br><br><i:false>[grey]  Aktiviert<br><i:false>[grey][red]> Deaktiviert</color>",
-        "en-US": "[grey]<i:false>Enable the [eramc_gradient]Glow</gradient> and make yourself [blue]noticeable!</color><br><br><i:false>[grey]  Enabled<br><i:false>[grey][red]> Disabled</color>"
+        "de-DE": "[grey]<i:false>Aktiviere das [eramc_gradient]Leuchten</gradient> und mache auf dich [era_purple]Aufmerksam!</color><br><br><i:false>[grey]  Aktiviert<br><i:false>[grey][red]> Deaktiviert</color>",
+        "en-US": "[grey]<i:false>Enable the [eramc_gradient]Glow</gradient> and make yourself [era_purple]noticeable!</color><br><br><i:false>[grey]  Enabled<br><i:false>[grey][red]> Disabled</color>"
     },
     "SETTING.glow.lore.false.no.perms": {
-        "de-DE": "[grey]<i:false>Aktiviere das [eramc_gradient]Leuchten</gradient> und mache auf dich [blue]Aufmerksam!</color><br><br>D<i:false>[grey]u benötigst folgenden [blue]Rang</color> um dieses [blue]Feature</color> nutzen zu können: [red][rank]</color>",
-        "en-US": "[grey]<i:false>Enable the [eramc_gradient]Glow</gradient> and make yourself [blue]noticeable!</color><br><br><i:false>[grey]You need the following [blue]rank</color> to use this [blue]feature</color>: [red][rank]</color>"
+        "de-DE": "[grey]<i:false>Aktiviere das [eramc_gradient]Leuchten</gradient> und mache auf dich [era_purple]Aufmerksam!</color><br><br>D<i:false>[grey]u benötigst folgenden [era_purple]Rang</color> um dieses [era_purple]Feature</color> nutzen zu können: [red][rank]</color>",
+        "en-US": "[grey]<i:false>Enable the [eramc_gradient]Glow</gradient> and make yourself [era_purple]noticeable!</color><br><br><i:false>[grey]You need the following [era_purple]rank</color> to use this [era_purple]feature</color>: [red][rank]</color>"
     },
     "SETTING.size.name": {
-        "de-DE": "<i:false>[blue]Größe</color>",
-        "en-US": "<i:false>[blue]Size</color>"
+        "de-DE": "<i:false>[era_purple]Größe</color>",
+        "en-US": "<i:false>[era_purple]Size</color>"
     },
     "SETTING.size.lore.normal": {
         "de-DE": "[grey]<i:false>Verändere deine [eramc_gradient]Größe</gradient> nach Belieben!<br><br><i:false>[grey]  Winzig<br><i:false>[grey]  Klein<br><i:false>[grey][green]> Normal</color><br><i:false>[grey]  Groß<br><i:false>[grey]  Gigantisch",
@@ -72,44 +72,44 @@
         "en-US": "[grey]<i:false>Change your [eramc_gradient]size</gradient> as you wish!<br><br><i:false>[grey][green]> Tiny</color><br><i:false>[grey]  Small<br><i:false>[grey]  Normal<br><i:false>[grey]  Big<br><i:false>[grey]  Giant</color>"
     },
     "SETTING.size.lore.false.no.perms": {
-        "de-DE": "[grey]<i:false>Verändere deine [eramc_gradient]Größe</gradient> nach Belieben!<br><br><i:false>[grey]Du benötigst folgenden [blue]Rang</color> um dieses [blue]Feature</color> nutzen zu können: [red][rank]</color></color>",
-        "en-US": "[grey]<i:false>Change your [eramc_gradient]size</gradient> as you wish!<br><br><i:false>[grey]You need the following [blue]rank</color> to use this [blue]feature</color>: [red][rank]</color></color>"
+        "de-DE": "[grey]<i:false>Verändere deine [eramc_gradient]Größe</gradient> nach Belieben!<br><br><i:false>[grey]Du benötigst folgenden [era_purple]Rang</color> um dieses [era_purple]Feature</color> nutzen zu können: [red][rank]</color></color>",
+        "en-US": "[grey]<i:false>Change your [eramc_gradient]size</gradient> as you wish!<br><br><i:false>[grey]You need the following [era_purple]rank</color> to use this [era_purple]feature</color>: [red][rank]</color></color>"
     },
     "SETTING.speed.name": {
-        "de-DE": "<i:false>[blue]Geschwindigkeit</color>",
-        "en-US": "<i:false>[blue]Speed</color>"
+        "de-DE": "<i:false>[era_purple]Geschwindigkeit</color>",
+        "en-US": "<i:false>[era_purple]Speed</color>"
     },
     "SETTING.speed.lore.true": {
-        "de-DE": "[grey]<i:false>Erhöhe deine [eramc_gradient]Geschwindigkeit</gradient> und bewege dich [blue]schneller!</color><br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey]  Deaktiviert</color>",
-        "en-US": "[grey]<i:false>Increase your [eramc_gradient]speed</gradient> and move [blue]faster!</color><br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey]  Disabled</color>"
+        "de-DE": "[grey]<i:false>Erhöhe deine [eramc_gradient]Geschwindigkeit</gradient> und bewege dich [era_purple]schneller!</color><br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey]  Deaktiviert</color>",
+        "en-US": "[grey]<i:false>Increase your [eramc_gradient]speed</gradient> and move [era_purple]faster!</color><br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey]  Disabled</color>"
     },
     "SETTING.speed.lore.false": {
-        "de-DE": "[grey]<i:false>Erhöhe deine [eramc_gradient]Geschwindigkeit</gradient> und bewege dich [blue]schneller!</color><br><br><i:false>[grey]  Aktiviert<br><i:false>[grey][red]> Deaktiviert</color></color>",
-        "en-US": "[grey]<i:false>Increase your [eramc_gradient]speed</gradient> and move [blue]faster!</color><br><br><i:false>[grey]  Enabled<br><i:false>[grey][red]> Disabled</color></color>"
+        "de-DE": "[grey]<i:false>Erhöhe deine [eramc_gradient]Geschwindigkeit</gradient> und bewege dich [era_purple]schneller!</color><br><br><i:false>[grey]  Aktiviert<br><i:false>[grey][red]> Deaktiviert</color></color>",
+        "en-US": "[grey]<i:false>Increase your [eramc_gradient]speed</gradient> and move [era_purple]faster!</color><br><br><i:false>[grey]  Enabled<br><i:false>[grey][red]> Disabled</color></color>"
     },
     "SETTING.speed.lore.false.no.perms": {
-        "de-DE": "[grey]<i:false>Erhöhe deine [eramc_gradient]Geschwindigkeit</gradient> und bewege dich [blue]schneller!</color><br><br><i:false>[grey]Du benötigst folgenden [blue]Rang</color> um dieses [blue]Feature</color> nutzen zu können: [red][rank]</color></color>",
-        "en-US": "[grey]<i:false>Increase your [eramc_gradient]speed</gradient> and move [blue]faster!</color><br><br><i:false>[grey]You need the following [blue]rank</color> to use this [blue]feature</color>: [red][rank]</color></color>"
+        "de-DE": "[grey]<i:false>Erhöhe deine [eramc_gradient]Geschwindigkeit</gradient> und bewege dich [era_purple]schneller!</color><br><br><i:false>[grey]Du benötigst folgenden [era_purple]Rang</color> um dieses [era_purple]Feature</color> nutzen zu können: [red][rank]</color></color>",
+        "en-US": "[grey]<i:false>Increase your [eramc_gradient]speed</gradient> and move [era_purple]faster!</color><br><br><i:false>[grey]You need the following [era_purple]rank</color> to use this [era_purple]feature</color>: [red][rank]</color></color>"
     },
     "SETTING.nightvision.name": {
-        "de-DE": "<i:false>[blue]Nachtsicht</color>",
-        "en-US": "<i:false>[blue]Night Vision</color>"
+        "de-DE": "<i:false>[era_purple]Nachtsicht</color>",
+        "en-US": "<i:false>[era_purple]Night Vision</color>"
     },
     "SETTING.nightvision.lore.true": {
-        "de-DE": "[grey]<i:false>Aktiviere [eramc_gradient]Nachtsicht</gradient> und sehe in der [blue]Dunkelheit</color> wie am Tag!<br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey]  Deaktiviert</color>",
-        "en-US": "[grey]<i:false>Enable [eramc_gradient]Night Vision</gradient> and see in the [blue]dark</color> as if it were day!<br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey]  Disabled</color>"
+        "de-DE": "[grey]<i:false>Aktiviere [eramc_gradient]Nachtsicht</gradient> und sehe in der [era_purple]Dunkelheit</color> wie am Tag!<br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey]  Deaktiviert</color>",
+        "en-US": "[grey]<i:false>Enable [eramc_gradient]Night Vision</gradient> and see in the [era_purple]dark</color> as if it were day!<br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey]  Disabled</color>"
     },
     "SETTING.nightvision.lore.false": {
-        "de-DE": "[grey]<i:false>Aktiviere [eramc_gradient]Nachtsicht</gradient> und sehe in der [blue]Dunkelheit</color> wie am Tag!<br><br><i:false>[grey]  Aktiviert<br><i:false>[grey][red]> Deaktiviert</color></color>",
-        "en-US": "[grey]<i:false>Enable [eramc_gradient]Night Vision</gradient> and see in the [blue]dark</color> as if it were day!<br><br><i:false>[grey]  Enabled<br><i:false>[grey][red]> Disabled</color></color>"
+        "de-DE": "[grey]<i:false>Aktiviere [eramc_gradient]Nachtsicht</gradient> und sehe in der [era_purple]Dunkelheit</color> wie am Tag!<br><br><i:false>[grey]  Aktiviert<br><i:false>[grey][red]> Deaktiviert</color></color>",
+        "en-US": "[grey]<i:false>Enable [eramc_gradient]Night Vision</gradient> and see in the [era_purple]dark</color> as if it were day!<br><br><i:false>[grey]  Enabled<br><i:false>[grey][red]> Disabled</color></color>"
     },
     "SETTING.nightvision.lore.false.no.perms": {
-        "de-DE": "[grey]<i:false>Aktiviere [eramc_gradient]Nachtsicht</gradient> und sehe in der [blue]Dunkelheit</color> wie am Tag!<br><br><i:false>[grey]Du benötigst folgenden [blue]Rang</color> um dieses [blue]Feature</color> nutzen zu können: [red][rank]</color></color>",
-        "en-US": "[grey]<i:false>Enable [eramc_gradient]Night Vision</gradient> and see in the [blue]dark</color> as if it were day!<br><br><i:false>[grey]You need the following [blue]rank</color> to use this [blue]feature</color>: [red][rank]</color></color>"
+        "de-DE": "[grey]<i:false>Aktiviere [eramc_gradient]Nachtsicht</gradient> und sehe in der [era_purple]Dunkelheit</color> wie am Tag!<br><br><i:false>[grey]Du benötigst folgenden [era_purple]Rang</color> um dieses [era_purple]Feature</color> nutzen zu können: [red][rank]</color></color>",
+        "en-US": "[grey]<i:false>Enable [eramc_gradient]Night Vision</gradient> and see in the [era_purple]dark</color> as if it were day!<br><br><i:false>[grey]You need the following [era_purple]rank</color> to use this [era_purple]feature</color>: [red][rank]</color></color>"
     },
     "SETTING.msg.name": {
-        "de-DE": "<i:false>[blue]Privatnachrichten</color>",
-        "en-US": "<i:false>[blue]Private Messages</color>"
+        "de-DE": "<i:false>[era_purple]Privatnachrichten</color>",
+        "en-US": "<i:false>[era_purple]Private Messages</color>"
     },
     "SETTING.msg.lore.all": {
         "de-DE": "[grey]<i:false>Wähle aus wer dir [eramc_gradient]Privatnachrichten</gradient> schicken kann!<br><br><i:false>[grey][green]> Jeder</color><br><i:false>[grey]  Freunde<br><i:false>[grey]  Niemand</color>",
@@ -124,8 +124,8 @@
         "en-US": "[grey]<i:false>Choose who can send you [eramc_gradient]private messages!</gradient><br><br><i:false>[grey]  Everyone<br><i:false>[grey]  Friends<br><i:false>[grey][red]> Nobody</color></color>"
     },
     "SETTING.friendrequests.name": {
-        "de-DE": "<i:false>[blue]Freundschaftsanfragen</color>",
-        "en-US": "<i:false>[blue]Friendrequests</color>"
+        "de-DE": "<i:false>[era_purple]Freundschaftsanfragen</color>",
+        "en-US": "<i:false>[era_purple]Friendrequests</color>"
     },
     "SETTING.friendrequests.lore.true": {
         "de-DE": "[grey]<i:false>Wähle aus wer dir [eramc_gradient]Freundschaftsanfragen</gradient> schicken kann!<br><br><i:false>[grey][green]> Jeder</color><br><i:false>[grey]  Niemand</color>",
@@ -136,8 +136,8 @@
         "en-US": "[grey]<i:false>Choose who can send you [eramc_gradient]friend requests</gradient>!<br><br><i:false>[grey]  Everyone<br><i:false>[grey][red]> Nobody</color></color>"
     },
     "SETTING.playerhider.name": {
-        "de-DE": "<i:false>[blue]Spieler verstecken</color>",
-        "en-US": "<i:false>[blue]Hide Players</color>"
+        "de-DE": "<i:false>[era_purple]Spieler verstecken</color>",
+        "en-US": "<i:false>[era_purple]Hide Players</color>"
     },
     "SETTING.playerhider.lore.all": {
         "de-DE": "[grey]<i:false>Wähle aus welche Spieler du [eramc_gradient]Sehen</gradient> möchtest!<br><br><i:false>[grey][green]> Jeden</color><br><i:false>[grey]  Besondere Spieler<br><i:false>[grey]  Niemanden</color>",
@@ -152,15 +152,15 @@
         "en-US": "[grey]<i:false>Choose which players you want to [eramc_gradient]see</gradient>!<br><br><i:false>[grey]Everyone</color><br><i:false>[grey]  Special players<br><i:false>[grey][green]> Nobody</color>"
     },
     "SETTING.streamermode.name": {
-        "de-DE": "<i:false>[blue]Streamermodus</color>",
-        "en-US": "<i:false>[blue]Streamermode</color>"
+        "de-DE": "<i:false>[era_purple]Streamermodus</color>",
+        "en-US": "<i:false>[era_purple]Streamermode</color>"
     },
     "SETTING.streamermode.lore.true": {
-        "de-DE": "[grey]<i:false>Aktiviere den [eramc_gradient]Streamermodus</gradient> und schütze deine [blue]Privatsphäre</color>!<br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey]  Deaktiviert</color>",
-        "en-US": "[grey]<i:false>Enable the [eramc_gradient]Streamer Mode</gradient> and protect your [blue]privacy</color>!<br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey]  Disabled</color>"
+        "de-DE": "[grey]<i:false>Aktiviere den [eramc_gradient]Streamermodus</gradient> und schütze deine [era_purple]Privatsphäre</color>!<br><br><i:false>[grey][green]> Aktiviert</color><br><i:false>[grey]  Deaktiviert</color>",
+        "en-US": "[grey]<i:false>Enable the [eramc_gradient]Streamer Mode</gradient> and protect your [era_purple]privacy</color>!<br><br><i:false>[grey][green]> Enabled</color><br><i:false>[grey]  Disabled</color>"
     }, 
     "SETTING.streamermode.lore.false": {
-        "de-DE": "[grey]<i:false>Aktiviere den [eramc_gradient]Streamermodus</gradient> und schütze deine [blue]Privatsphäre</color>!<br><br><i:false>[grey]  Aktiviert<br><i:false>[grey][red]> Deaktiviert</color></color>",
-        "en-US": "[grey]<i:false>Enable the [eramc_gradient]Streamer Mode</gradient> and protect your [blue]privacy</color>!<br><br><i:false>[grey]  Enabled<br><i:false>[grey][red]> Disabled</color></color>"
+        "de-DE": "[grey]<i:false>Aktiviere den [eramc_gradient]Streamermodus</gradient> und schütze deine [era_purple]Privatsphäre</color>!<br><br><i:false>[grey]  Aktiviert<br><i:false>[grey][red]> Deaktiviert</color></color>",
+        "en-US": "[grey]<i:false>Enable the [eramc_gradient]Streamer Mode</gradient> and protect your [era_purple]privacy</color>!<br><br><i:false>[grey]  Enabled<br><i:false>[grey][red]> Disabled</color></color>"
     }
 }

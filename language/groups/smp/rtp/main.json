@@ -1,15 +1,15 @@
 {
     "RTP.error.cooldown": {
-        "de-DE": "[grey]Du musst noch [blue][duration]</color> warten, um dich erneut [blue]teleportieren</color> zu können!</color>",
-        "en-US": "[grey]You have to wait [blue][duration]</color> to be able to [blue]teleport</color> again!</color>"
+        "de-DE": "[grey]Du musst noch [era_purple][duration]</color> warten, um dich erneut [era_purple]teleportieren</color> zu können!</color>",
+        "en-US": "[grey]You have to wait [era_purple][duration]</color> to be able to [era_purple]teleport</color> again!</color>"
     },
     "RTP.error.move": {
         "de-DE": "[grey]Der Teleportationsvorgang wurde [red]abgebrochen,</color> da du dich bewegt hast!</color>",
         "en-US": "[grey]The teleportation process was [red]cancelled</color> because you moved!</color>"
     },
     "RTP.teleport.in": {
-        "de-DE": "[grey]ᴅᴜ ᴡɪʀꜱᴛ ɪɴ [blue][duration] ꜱᴇᴋᴜɴᴅᴇɴ</color> ᴛᴇʟᴇᴘᴏʀᴛɪᴇʀᴛ</color>",
-        "en-US": "[grey]ʏᴏᴜ ᴀʀᴇ ɢᴏɪɴɢ ᴛᴏ ʙᴇ ᴛᴇʟᴇᴘᴏʀᴛᴇᴅ ɪɴ [blue][duration] ꜱᴇᴄᴏɴᴅꜱ</color></color>"
+        "de-DE": "[grey]ᴅᴜ ᴡɪʀꜱᴛ ɪɴ [era_purple][duration] ꜱᴇᴋᴜɴᴅᴇɴ</color> ᴛᴇʟᴇᴘᴏʀᴛɪᴇʀᴛ</color>",
+        "en-US": "[grey]ʏᴏᴜ ᴀʀᴇ ɢᴏɪɴɢ ᴛᴏ ʙᴇ ᴛᴇʟᴇᴘᴏʀᴛᴇᴅ ɪɴ [era_purple][duration] ꜱᴇᴄᴏɴᴅꜱ</color></color>"
     },
     "RTP.actionbar.teleported": {
         "de-DE": "[green]ᴅᴜ ᴡᴜʀᴅᴇꜱᴛ ᴛᴇʟᴇᴘᴏʀᴛɪᴇʀᴛ</color>",
@@ -20,16 +20,16 @@
         "en-US": "[red]ᴛʜᴇ ᴛᴇʟᴇᴘᴏʀᴛ ᴡᴀꜱ ᴄᴀɴᴄᴇʟʟᴇᴅ</color>"
     },
     "RTP.error.already.teleporting": {
-        "de-DE": "[grey]Du wirst bereits [blue]teleportiert!</color></color>",
-        "en-US": "[grey]You are already being [blue]teleported!</color></color>"
+        "de-DE": "[grey]Du wirst bereits [era_purple]teleportiert!</color></color>",
+        "en-US": "[grey]You are already being [era_purple]teleported!</color></color>"
     },  
     "RTP.title": {
-        "de-DE": "[blue]<b>RTP</b></color>",
-        "en-US": "[blue]<b>RTP</b></color>"
+        "de-DE": "[era_purple]<b>RTP</b></color>",
+        "en-US": "[era_purple]<b>RTP</b></color>"
     },
     "RTP.subtitle": {
-        "de-DE": "[grey]ᴅᴜ ᴡᴜʀᴅᴇꜱᴛ [blue]ʀᴀɴᴅᴏᴍ</color> ᴛᴇʟᴇᴘᴏʀᴛɪᴇʀᴛ</color>",
-        "en-US": "[grey]ʏᴏᴜ ɢᴏᴛ [blue]ᴛᴇʟᴇᴘᴏʀᴛᴇᴅ</color> ʀᴀɴᴅᴏᴍʟʏ</color>"
+        "de-DE": "[grey]ᴅᴜ ᴡᴜʀᴅᴇꜱᴛ [era_purple]ʀᴀɴᴅᴏᴍ</color> ᴛᴇʟᴇᴘᴏʀᴛɪᴇʀᴛ</color>",
+        "en-US": "[grey]ʏᴏᴜ ɢᴏᴛ [era_purple]ᴛᴇʟᴇᴘᴏʀᴛᴇᴅ</color> ʀᴀɴᴅᴏᴍʟʏ</color>"
     },
     "RTP.gui.title": {
         "de-DE": "<!i>ʀᴀɴᴅᴏᴍ ᴛᴇʟᴇᴘᴏʀᴛ",
@@ -184,7 +184,7 @@
         "en-US": "<i:false><br><i:false>[red][ROUNDDOT]<white> Click to [red]fight</color> this player<br><i:false>"
     },
     "RTP.queue.cooldown": {                                                             
-        "de-DE": "[grey]Du musst noch [blue][duration]</color> warten, bevor du wieder in die [red]RTP Queue</color> kannst.</color>",
-        "en-US": "[grey]You have to wait [blue][duration]</color> before you can go back in the [red]RTP Queue</color>.</color>"
+        "de-DE": "[grey]Du musst noch [era_purple][duration]</color> warten, bevor du wieder in die [red]RTP Queue</color> kannst.</color>",
+        "en-US": "[grey]You have to wait [era_purple][duration]</color> before you can go back in the [red]RTP Queue</color>.</color>"
     }                                    
 }

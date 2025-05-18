@@ -4,15 +4,15 @@
         "en-US": "[grey]ᴊᴏɪɴ ᴏᴜʀ [blurple]ᴅɪѕᴄᴏʀᴅ ѕᴇʀᴠᴇʀ</color> ᴡɪᴛʜ [blurple]/ᴅɪѕᴄᴏʀᴅ</color>"
     },
     "CATEGORY.store": {
-        "de-DE": "[grey][green]ᴜɴᴛᴇʀѕᴛüᴛᴢᴇ</color> ᴜɴѕ ɪɴ ᴅᴇᴍ ᴅᴜ ᴀᴜꜰ [blue]ѕᴛᴏʀᴇ.ᴅᴀɴɪѕᴍᴘ.ᴅᴇ</color> ᴠᴏʀʙᴇɪѕᴄʜᴀᴜѕᴛ</color>",
-        "en-US": "[grey][green]ѕᴜᴘᴘᴏʀᴛ</color> ᴜѕ ʙʏ ᴠɪѕɪᴛɪɴɢ [blue]ѕᴛᴏʀᴇ.ᴅᴀɴɪѕᴍᴘ.ɴᴇᴛ</color></color>"
+        "de-DE": "[grey][green]ᴜɴᴛᴇʀѕᴛüᴛᴢᴇ</color> ᴜɴѕ ɪɴ ᴅᴇᴍ ᴅᴜ ᴀᴜꜰ [era_purple]ѕᴛᴏʀᴇ.ᴅᴀɴɪѕᴍᴘ.ᴅᴇ</color> ᴠᴏʀʙᴇɪѕᴄʜᴀᴜѕᴛ</color>",
+        "en-US": "[grey][green]ѕᴜᴘᴘᴏʀᴛ</color> ᴜѕ ʙʏ ᴠɪѕɪᴛɪɴɢ [era_purple]ѕᴛᴏʀᴇ.ᴅᴀɴɪѕᴍᴘ.ɴᴇᴛ</color></color>"
     },
     "CATEGORY.players": {
-        "de-DE": "[grey]ᴇѕ ѕɪɴᴅ ᴀᴋᴛᴜᴇʟʟ [blue][players] ѕᴘɪᴇʟᴇʀ</color> ᴏɴʟɪɴᴇ</color>",
-        "en-US": "[grey]ᴄᴜʀʀᴇɴᴛʟʏ ᴛʜᴇʀᴇ ᴀʀᴇ [blue][players] ᴘʟᴀʏᴇʀѕ</color> ᴏɴʟɪɴᴇ</color>"
+        "de-DE": "[grey]ᴇѕ ѕɪɴᴅ ᴀᴋᴛᴜᴇʟʟ [era_purple][players] ѕᴘɪᴇʟᴇʀ</color> ᴏɴʟɪɴᴇ</color>",
+        "en-US": "[grey]ᴄᴜʀʀᴇɴᴛʟʏ ᴛʜᴇʀᴇ ᴀʀᴇ [era_purple][players] ᴘʟᴀʏᴇʀѕ</color> ᴏɴʟɪɴᴇ</color>"
     },
     "CATEGORY.tutorial": {
-        "de-DE": "[grey]ɴᴜᴛᴢᴇ [blue]/ᴛᴜᴛᴏʀɪᴀʟ</color> ᴜᴍ ᴇɪɴ ᴡᴇɴɪɢ [yellow]ʜɪʟꜰᴇ</color> ᴢᴜ ᴇʀʜᴀʟᴛᴇɴ</color>",
-        "en-US": "[grey]ᴜѕᴇ [blue]/ᴛᴜᴛᴏʀɪᴀʟ</color> ᴛᴏ ɢᴇᴛ [yellow]ѕᴏᴍᴇ ʜᴇʟᴘ</color> ᴏɴ ʜᴏᴡ ᴛᴏ ᴘʟᴀʏ</color>"
+        "de-DE": "[grey]ɴᴜᴛᴢᴇ [era_purple]/ᴛᴜᴛᴏʀɪᴀʟ</color> ᴜᴍ ᴇɪɴ ᴡᴇɴɪɢ [yellow]ʜɪʟꜰᴇ</color> ᴢᴜ ᴇʀʜᴀʟᴛᴇɴ</color>",
+        "en-US": "[grey]ᴜѕᴇ [era_purple]/ᴛᴜᴛᴏʀɪᴀʟ</color> ᴛᴏ ɢᴇᴛ [yellow]ѕᴏᴍᴇ ʜᴇʟᴘ</color> ᴏɴ ʜᴏᴡ ᴛᴏ ᴘʟᴀʏ</color>"
     }
 }

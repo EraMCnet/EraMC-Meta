@@ -1,6 +1,6 @@
 {
     "ERROR.send.message": {
-        "de-DE": "[grey]Es ist ein <color:#ff0000>Fehler</color> beim senden deiner Nachricht aufgetreten! Bitte versuche es später erneut oder kontaktieren einen [blue]Developer!</color></color>",
-        "en-US": "[grey]An <color:#ff0000>error</color> occoured while sending your message! Please try it later again or try contacting a [blue]developer!</color></color>"
+        "de-DE": "[grey]Es ist ein <color:#ff0000>Fehler</color> beim senden deiner Nachricht aufgetreten! Bitte versuche es später erneut oder kontaktieren einen [era_purple]Developer!</color></color>",
+        "en-US": "[grey]An <color:#ff0000>error</color> occoured while sending your message! Please try it later again or try contacting a [era_purple]developer!</color></color>"
     }
 }

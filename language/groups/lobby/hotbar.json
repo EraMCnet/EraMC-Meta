@@ -1,34 +1,34 @@
 {
     "ITEM.selector.name": {
-        "de-DE": "<i:false>[blue]Game-Selector</color>",
-        "en-US": "<i:false>[blue]Game-Selector</color>"
+        "de-DE": "<i:false>[era_purple]Game-Selector</color>",
+        "en-US": "<i:false>[era_purple]Game-Selector</color>"
     },
     "ITEM.selector.lore": {
-        "de-DE": "<i:false>[grey]Wähle den [blue]Spielmodus</color> aus</color><br><i:false>[grey]den du auf [blue]EraMC</color> spielen möchtest</color>",
-        "en-US": "<i:false>[grey]Choose the [blue]game mode</color> you want to play on [blue]EraMC</color></color>"
+        "de-DE": "<i:false>[grey]Wähle den [era_purple]Spielmodus</color> aus</color><br><i:false>[grey]den du auf [era_purple]EraMC</color> spielen möchtest</color>",
+        "en-US": "<i:false>[grey]Choose the [era_purple]game mode</color> you want to play on [era_purple]EraMC</color></color>"
     },
     "ITEM.profile.name": {
-        "de-DE": "<i:false>[blue]Dein Profil</color>",
-        "en-US": "<i:false>[blue]Your Profile</color>"
+        "de-DE": "<i:false>[era_purple]Dein Profil</color>",
+        "en-US": "<i:false>[era_purple]Your Profile</color>"
     },
     "ITEM.profile.lore": {
-        "de-DE": "<i:false>[grey]Ändere [blue]einstellungen</color> und greife auf deine [blue]Freunde</color> zu!</color>",
-        "en-US": "<i:false>[grey]Change [blue]settings</color> and access your [blue]friends!</color></color>"
+        "de-DE": "<i:false>[grey]Ändere [era_purple]einstellungen</color> und greife auf deine [era_purple]Freunde</color> zu!</color>",
+        "en-US": "<i:false>[grey]Change [era_purple]settings</color> and access your [era_purple]friends!</color></color>"
     },
     "ITEM.cosmetics.name": {
-        "de-DE": "<i:false>[blue]Kosmetik</color>",
-        "en-US": "<i:false>[blue]Cosmetics</color>"
+        "de-DE": "<i:false>[era_purple]Kosmetik</color>",
+        "en-US": "<i:false>[era_purple]Cosmetics</color>"
     },
     "ITEM.cosmetics.lore": {
-        "de-DE": "<i:false>[grey]Wähle deine [blue]Cosmetics</color> aus</color><br><i:false>[grey]und passe deinen [blue]Charakter</color> an!<br><br><i:false>[red]<b>[BALD VERFÜGBAR]</b></color></color>",
-        "en-US": "<i:false>[grey]Choose your [blue]Cosmetics</color></color><br><i:false>[grey]and customize your [blue]character</color>!<br><br><i:false>[red]<b>[AVAILABLE SOON]</b></color></color>"
+        "de-DE": "<i:false>[grey]Wähle deine [era_purple]Cosmetics</color> aus</color><br><i:false>[grey]und passe deinen [era_purple]Charakter</color> an!<br><br><i:false>[red]<b>[BALD VERFÜGBAR]</b></color></color>",
+        "en-US": "<i:false>[grey]Choose your [era_purple]Cosmetics</color></color><br><i:false>[grey]and customize your [era_purple]character</color>!<br><br><i:false>[red]<b>[AVAILABLE SOON]</b></color></color>"
     },
     "ITEM.lobbyselector.name": {
-        "de-DE": "<i:false>[blue]Lobby-Selector</color>",
-        "en-US": "<i:false>[blue]Lobby-Selector</color>"
+        "de-DE": "<i:false>[era_purple]Lobby-Selector</color>",
+        "en-US": "<i:false>[era_purple]Lobby-Selector</color>"
     },
     "ITEM.lobbyselector.lore": {
-        "de-DE": "<i:false>[grey]Wähle die [blue]Lobby</color> in der du dich aufhalten möchtest!</color>",
-        "en-US": "<i:false>[grey]Choose the [blue]lobby</color> you want to be in!</color>"
+        "de-DE": "<i:false>[grey]Wähle die [era_purple]Lobby</color> in der du dich aufhalten möchtest!</color>",
+        "en-US": "<i:false>[grey]Choose the [era_purple]lobby</color> you want to be in!</color>"
     }
 }

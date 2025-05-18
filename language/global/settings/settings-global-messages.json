@@ -1,74 +1,74 @@
 {
     "SETTING.streamermode.true": {
-        "de-DE": "[grey]Du hast den [blue]Streamermode</color> nun [green]aktiviert!</color></color>",
-        "en-US": "[grey]You have now [blue]activated</color> the [green]streamermode!</color></color>"
+        "de-DE": "[grey]Du hast den [era_purple]Streamermode</color> nun [green]aktiviert!</color></color>",
+        "en-US": "[grey]You have now [era_purple]activated</color> the [green]streamermode!</color></color>"
     },
     "SETTING.streamermode.false": {
-        "de-DE": "[grey]Du hast den [blue]Streamermode</color> nun [red]deaktiviert!</color></color>",
-        "en-US": "[grey]You have now [blue]deactivated</color> the [red]streamermode!</color></color>"
+        "de-DE": "[grey]Du hast den [era_purple]Streamermode</color> nun [red]deaktiviert!</color></color>",
+        "en-US": "[grey]You have now [era_purple]deactivated</color> the [red]streamermode!</color></color>"
     },
     "SETTING.fly.true": {
-        "de-DE": "[grey]Du hast den [blue]Flugmodus</color> nun [green]aktiviert!</color></color>",
-        "en-US": "[grey]You have now [blue]activated</color> the [green]flymode!</color></color>"
+        "de-DE": "[grey]Du hast den [era_purple]Flugmodus</color> nun [green]aktiviert!</color></color>",
+        "en-US": "[grey]You have now [era_purple]activated</color> the [green]flymode!</color></color>"
     },
     "SETTING.fly.false": {
-        "de-DE": "[grey]Du hast den [blue]Flugmodus</color> nun [red]deaktiviert!</color></color>",
-        "en-US": "[grey]You have now [blue]deactivated</color> the [red]flymode!</color></color>"
+        "de-DE": "[grey]Du hast den [era_purple]Flugmodus</color> nun [red]deaktiviert!</color></color>",
+        "en-US": "[grey]You have now [era_purple]deactivated</color> the [red]flymode!</color></color>"
     },
     "SETTING.doublejump.true": {
-        "de-DE": "[grey]Du hast den [blue]Doppelsprung</color> nun [green]aktiviert!</color></color>",
-        "en-US": "[grey]You have now [blue]activated</color> the [green]doublejump!</color></color>"
+        "de-DE": "[grey]Du hast den [era_purple]Doppelsprung</color> nun [green]aktiviert!</color></color>",
+        "en-US": "[grey]You have now [era_purple]activated</color> the [green]doublejump!</color></color>"
     },
     "SETTING.doublejump.false": {
-        "de-DE": "[grey]Du hast den [blue]Doppelsprung</color> nun [red]deaktiviert!</color></color>",
-        "en-US": "[grey]You have now [blue]deactivated</color> the [red]doublejump!</color></color>"
+        "de-DE": "[grey]Du hast den [era_purple]Doppelsprung</color> nun [red]deaktiviert!</color></color>",
+        "en-US": "[grey]You have now [era_purple]deactivated</color> the [red]doublejump!</color></color>"
     },
     "SETTING.glow.true": {
-        "de-DE": "[grey]Du hast den [blue]Glow</color> nun [green]aktiviert!</color></color>",
-        "en-US": "[grey]You have now [blue]activated</color> the [green]glow!</color></color>"
+        "de-DE": "[grey]Du hast den [era_purple]Glow</color> nun [green]aktiviert!</color></color>",
+        "en-US": "[grey]You have now [era_purple]activated</color> the [green]glow!</color></color>"
     },
     "SETTING.glow.false": {
-        "de-DE": "[grey]Du hast den [blue]Glow</color> nun [red]deaktiviert!</color></color>",
-        "en-US": "[grey]You have now [blue]deactivated</color> the [red]glow!</color></color>"
+        "de-DE": "[grey]Du hast den [era_purple]Glow</color> nun [red]deaktiviert!</color></color>",
+        "en-US": "[grey]You have now [era_purple]deactivated</color> the [red]glow!</color></color>"
     },
     "SETTING.size.normal": {
-        "de-DE": "[grey]Du hast deine [blue]Größe</color> nun auf [green]normal</color> gesetzt!</color></color>",
-        "en-US": "[grey]You have now set your [blue]size</color> to [green]normal</color>!</color></color>"
+        "de-DE": "[grey]Du hast deine [era_purple]Größe</color> nun auf [green]normal</color> gesetzt!</color></color>",
+        "en-US": "[grey]You have now set your [era_purple]size</color> to [green]normal</color>!</color></color>"
     },
     "SETTING.size.big": {
-        "de-DE": "[grey]Du hast deine [blue]Größe</color> nun auf [green]groß</color> gesetzt!</color></color>",
-        "en-US": "[grey]You have now set your [blue]size</color> to [green]big!</color></color></color>"
+        "de-DE": "[grey]Du hast deine [era_purple]Größe</color> nun auf [green]groß</color> gesetzt!</color></color>",
+        "en-US": "[grey]You have now set your [era_purple]size</color> to [green]big!</color></color></color>"
     },
     "SETTING.size.giant": {
-        "de-DE": "[grey]Du hast deine [blue]Größe</color> nun auf [green]riesig</color> gesetzt!</color></color>",
-        "en-US": "[grey]You have now set your [blue]size</color> to [green]giant!</color></color></color>"
+        "de-DE": "[grey]Du hast deine [era_purple]Größe</color> nun auf [green]riesig</color> gesetzt!</color></color>",
+        "en-US": "[grey]You have now set your [era_purple]size</color> to [green]giant!</color></color></color>"
     },
     "SETTING.size.small": {
-        "de-DE": "[grey]Du hast deine [blue]Größe</color> nun auf [green]klein</color> gesetzt!</color></color>",
-        "en-US": "[grey]You have now set your [blue]size</color> to [green]small!</color></color></color>"
+        "de-DE": "[grey]Du hast deine [era_purple]Größe</color> nun auf [green]klein</color> gesetzt!</color></color>",
+        "en-US": "[grey]You have now set your [era_purple]size</color> to [green]small!</color></color></color>"
     },
     "SETTING.size.tiny": {
-        "de-DE": "[grey]Du hast deine [blue]Größe</color> nun auf [green]winzig</color> gesetzt!</color></color>",
-        "en-US": "[grey]You have now set your [blue]size</color> to [green]tiny!</color></color></color>"
+        "de-DE": "[grey]Du hast deine [era_purple]Größe</color> nun auf [green]winzig</color> gesetzt!</color></color>",
+        "en-US": "[grey]You have now set your [era_purple]size</color> to [green]tiny!</color></color></color>"
     },
     "SETTING.speed.true": {
-        "de-DE": "[grey]Du hast deine [blue]Geschwindigkeit</color> nun auf [blue]schnell</color> gesetzt!</color></color>",
-        "en-US": "[grey]You have now set your [blue]speed</color> to [blue]fast!</color></color>"
+        "de-DE": "[grey]Du hast deine [era_purple]Geschwindigkeit</color> nun auf [era_purple]schnell</color> gesetzt!</color></color>",
+        "en-US": "[grey]You have now set your [era_purple]speed</color> to [era_purple]fast!</color></color>"
     },
     "SETTING.speed.false": {
-        "de-DE": "[grey]Du hast deine [blue]Geschwindigkeit</color> nun auf [blue]normal</color> gesetzt!</color></color>",
-        "en-US": "[grey]You have now set your [blue]speed</color> to [blue]normal!</color></color>"
+        "de-DE": "[grey]Du hast deine [era_purple]Geschwindigkeit</color> nun auf [era_purple]normal</color> gesetzt!</color></color>",
+        "en-US": "[grey]You have now set your [era_purple]speed</color> to [era_purple]normal!</color></color>"
     },
     "SETTING.nightvision.true": {
-        "de-DE": "[grey]Du hast die [blue]Nachtsicht</color> nun [green]aktiviert!</color></color>",
-        "en-US": "[grey]You have now [blue]activated</color> the [green]nightvision!</color></color>"
+        "de-DE": "[grey]Du hast die [era_purple]Nachtsicht</color> nun [green]aktiviert!</color></color>",
+        "en-US": "[grey]You have now [era_purple]activated</color> the [green]nightvision!</color></color>"
     },
     "SETTING.nightvision.false": {
-        "de-DE": "[grey]Du hast die [blue]Nachtsicht</color> nun [red]deaktiviert!</color></color>",
-        "en-US": "[grey]You have now [blue]deactivated</color> the [red]nightvision!</color></color>"
+        "de-DE": "[grey]Du hast die [era_purple]Nachtsicht</color> nun [red]deaktiviert!</color></color>",
+        "en-US": "[grey]You have now [era_purple]deactivated</color> the [red]nightvision!</color></color>"
     },
     "SETTING.error.not.available": {
-        "de-DE": "[grey]Diese [blue]Einstellung</color> ist auf dieser [blue]Server Gruppe</color> [red]nicht</color> verfügbar.</color>",
-        "en-US": "[grey]This [blue]setting</color> is [red]not</color> available on this [blue]server group.</color></color>"
+        "de-DE": "[grey]Diese [era_purple]Einstellung</color> ist auf dieser [era_purple]Server Gruppe</color> [red]nicht</color> verfügbar.</color>",
+        "en-US": "[grey]This [era_purple]setting</color> is [red]not</color> available on this [era_purple]server group.</color></color>"
     }
 }

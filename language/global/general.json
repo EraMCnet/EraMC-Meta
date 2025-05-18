@@ -1,31 +1,31 @@
 {
     "ERROR.noperms": {
-        "de-DE": "[grey]Dir [red]fehlt</color> die [blue]Berechtigung</color> um das zu tun!</color>",
-        "en-US": "[grey]You [red]don't have</color> the [blue]permission</color> to do that!</color>"
+        "de-DE": "[grey]Dir [red]fehlt</color> die [era_purple]Berechtigung</color> um das zu tun!</color>",
+        "en-US": "[grey]You [red]don't have</color> the [era_purple]permission</color> to do that!</color>"
     },
     "ERROR.player.offline": {
         "de-DE": "[grey]Dieser Spieler ist aktuell [red]offline!</color></color>",
         "en-US": "[grey]This player is currently [red]offline!</color></color>"
     },
     "ERROR.player.notfound": {
-        "de-DE": "[grey]Dieser Spieler hat noch [red]nie</color> auf [blue]EraMC</color> gespielt!</color>",
-        "en-US": "[grey]This player has [red]never</color> played on [blue]EraMC</color> before!</color>"
+        "de-DE": "[grey]Dieser Spieler hat noch [red]nie</color> auf [era_purple]EraMC</color> gespielt!</color>",
+        "en-US": "[grey]This player has [red]never</color> played on [era_purple]EraMC</color> before!</color>"
     },
     "ERROR.command.notfound": {
-        "de-DE": "[grey]Der Command [blue]/[command]</color> existiert [red]nicht!</color> </color>",
-        "en-US": "[grey]The command [blue]/[command]</color> does [red]not</color> exist!</color>"
+        "de-DE": "[grey]Der Command [era_purple]/[command]</color> existiert [red]nicht!</color> </color>",
+        "en-US": "[grey]The command [era_purple]/[command]</color> does [red]not</color> exist!</color>"
     },
     "ERROR.command.self": {
-        "de-DE": "[grey]Du kannst diesen [blue]Command</color> [red]nicht</color> an dir selbst ausführen!</color>",
-        "en-US": "[grey]You can't execute this [blue]command</color> on yourself!</color>"
+        "de-DE": "[grey]Du kannst diesen [era_purple]Command</color> [red]nicht</color> an dir selbst ausführen!</color>",
+        "en-US": "[grey]You can't execute this [era_purple]command</color> on yourself!</color>"
     },
     "ERROR.number.invalid": {
         "de-DE": "[grey]Die Zahl die du angegeben hast ist [red]ungültig!</color></color>",
         "en-US": "[grey]The number you specified is [red]invalid!</color></color>"
     },
     "ERROR.unknown": {
-        "de-DE": "[grey]Ein unbekannter [red]Fehler</color> ist aufgetreten! Bitte kontaktieren den Discord-Ticketsupport. [blue]discord.gg/eramc</color></color>",
-        "en-US": "[grey]An unknown [red]error</color> occurred! Please contact the Discord ticket support. [blue]discord.gg/eramc</color></color>"
+        "de-DE": "[grey]Ein unbekannter [red]Fehler</color> ist aufgetreten! Bitte kontaktieren den Discord-Ticketsupport. [era_purple]discord.gg/eramc</color></color>",
+        "en-US": "[grey]An unknown [red]error</color> occurred! Please contact the Discord ticket support. [era_purple]discord.gg/eramc</color></color>"
     },
     "GENERAL.you": {
         "de-DE": "Du",
@@ -220,8 +220,8 @@
         "en-US": "[amount] years"
     },
     "ERROR.time.format.invalid": {
-        "de-DE": "[grey]Die Zeit die du angegeben hast ist ungültig! Bitte nutze das Format [blue]2s</color> für 2 Sekunden, [blue]5m</color> für 5 Minuten oder [blue]6h</color> für 6 Stunden, [blue]5d</color> für 5 Tage, [blue]3M</color> für 3 Monate oder [blue]2y</color> für 2 Jahre.</color>",
-        "en-US": "[grey]The time you specified is invalid! Please use the format [blue]2s</color> for 2 seconds, [blue]5m</color> for 5 minutes or [blue]6h</color> for 6 hours, [blue]5d</color> for 5 days, [blue]3M</color> for 3 months or [blue]2y</color> for 2 years.</color>"
+        "de-DE": "[grey]Die Zeit die du angegeben hast ist ungültig! Bitte nutze das Format [era_purple]2s</color> für 2 Sekunden, [era_purple]5m</color> für 5 Minuten oder [era_purple]6h</color> für 6 Stunden, [era_purple]5d</color> für 5 Tage, [era_purple]3M</color> für 3 Monate oder [era_purple]2y</color> für 2 Jahre.</color>",
+        "en-US": "[grey]The time you specified is invalid! Please use the format [era_purple]2s</color> for 2 seconds, [era_purple]5m</color> for 5 minutes or [era_purple]6h</color> for 6 hours, [era_purple]5d</color> for 5 days, [era_purple]3M</color> for 3 months or [era_purple]2y</color> for 2 years.</color>"
     },
     "GENERAL.yes": {
         "de-DE": "Ja",
@@ -232,8 +232,8 @@
         "en-US": "No"
     },
     "GENERAL.command.discord": {
-        "de-DE": "[grey]Trete unserem [blue]Discord-Server</color> bei:<br><br>[blue]<click:open_url:'https://discord.gg/eramc'><hover:show_text:'[blue]Klicke hier, um den Link in deinem Browser zu öffnen!</color>'>discord.gg/eramc</hover></click></color></color><br>",
-        "en-US": "[grey]Join our [blue]Discord server:</color><br><br>[blue]<click:open_url:'https://discord.gg/eramc'><hover:show_text:'[blue]Click here to open the link in your browser!</color>'>discord.gg/eramc</hover></click></color></color><br>"
+        "de-DE": "[grey]Trete unserem [era_purple]Discord-Server</color> bei:<br><br>[era_purple]<click:open_url:'https://discord.gg/eramc'><hover:show_text:'[era_purple]Klicke hier, um den Link in deinem Browser zu öffnen!</color>'>discord.gg/eramc</hover></click></color></color><br>",
+        "en-US": "[grey]Join our [era_purple]Discord server:</color><br><br>[era_purple]<click:open_url:'https://discord.gg/eramc'><hover:show_text:'[era_purple]Click here to open the link in your browser!</color>'>discord.gg/eramc</hover></click></color></color><br>"
     },
     "FEATURE.bedrock.not.available": {
         "de-DE": "[grey]Diese Funktion ist [red]nicht</color> für die Bedrock Edition verfügbar!</color>",

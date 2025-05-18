@@ -1,6 +1,6 @@
 {
     "GUI.title.settings": {
-        "de-DE": "<i:false>[blue]Einstellungen</color>",
-        "en-US": "<i:false>[blue]Settings</color>"
+        "de-DE": "<i:false>[era_purple]Einstellungen</color>",
+        "en-US": "<i:false>[era_purple]Settings</color>"
     }
 }

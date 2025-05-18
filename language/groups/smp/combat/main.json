@@ -8,7 +8,7 @@
         "en-US": "[grey]You are now <color:#ff0000>no longer</color> in <color:#ff0000>combat!</color></color>"
     },
     "COMBAT.enabled": {
-        "de-DE": "[grey]Combat: [blue][time]</color></color>",
-        "en-US": "[grey]Combat: [blue][time]</color></color>"
+        "de-DE": "[grey]Combat: [era_purple][time]</color></color>",
+        "en-US": "[grey]Combat: [era_purple][time]</color></color>"
     }
 }

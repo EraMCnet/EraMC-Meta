@@ -1,10 +1,10 @@
 {
     "ITEM.module.enabled": {
-        "de-DE": "<i:false>[grey][dot] Autor: [blue][author]</color><br><i:false>[grey][dot] Version: [blue][version]</color><br><i:false>[grey][dot] Description: [blue][description]</color><br><br><i:false>[grey][dot] [blue]Linksklick</color> zum deaktivieren<br><i:false>[grey][dot] [blue]Rechtsklick</color> zum neu laden<br><br><i:false>[grey][green]<b>[AKTIVIERT]</b></color>",
-        "en-US": "<i:false>[grey][dot] Author: [blue][author]</color><br><i:false>[grey][dot] Version: [blue][version]</color><br><i:false>[grey][dot] Description: [blue][description]</color><br><br><i:false>[grey][dot] [blue]Left click</color> to disable<br><i:false>[grey][dot] [blue]Right click</color> to reload<br><br><i:false>[grey][green][ENABLED]</color>"
+        "de-DE": "<i:false>[grey][dot] Autor: [era_purple][author]</color><br><i:false>[grey][dot] Version: [era_purple][version]</color><br><i:false>[grey][dot] Description: [era_purple][description]</color><br><br><i:false>[grey][dot] [era_purple]Linksklick</color> zum deaktivieren<br><i:false>[grey][dot] [era_purple]Rechtsklick</color> zum neu laden<br><br><i:false>[grey][green]<b>[AKTIVIERT]</b></color>",
+        "en-US": "<i:false>[grey][dot] Author: [era_purple][author]</color><br><i:false>[grey][dot] Version: [era_purple][version]</color><br><i:false>[grey][dot] Description: [era_purple][description]</color><br><br><i:false>[grey][dot] [era_purple]Left click</color> to disable<br><i:false>[grey][dot] [era_purple]Right click</color> to reload<br><br><i:false>[grey][green][ENABLED]</color>"
     },
     "ITEM.module.disabled": {
-        "de-DE": "<i:false>[grey][dot] Autor: [blue][author]</color><br><i:false>[grey][dot] Version: [blue][version]</color><br><i:false>[grey][dot] Description: [blue][description]</color><br><br><i:false>[grey][dot] [blue]Linksklick</color> zum aktivieren<br><br><i:false>[grey][red]<b>[DEAKTIVIERT]</b></color>",
-        "en-US": "<i:false>[grey][dot] Author: [blue][author]</color><br><i:false>[grey][dot] Version: [blue][version]</color><br><i:false>[grey][dot] Description: [blue][description]</color><br><br><i:false>[grey][dot] [blue]Left click</color> to enable<br><br><i:false>[grey][red]<b>[DISABLED]</b></color>"
+        "de-DE": "<i:false>[grey][dot] Autor: [era_purple][author]</color><br><i:false>[grey][dot] Version: [era_purple][version]</color><br><i:false>[grey][dot] Description: [era_purple][description]</color><br><br><i:false>[grey][dot] [era_purple]Linksklick</color> zum aktivieren<br><br><i:false>[grey][red]<b>[DEAKTIVIERT]</b></color>",
+        "en-US": "<i:false>[grey][dot] Author: [era_purple][author]</color><br><i:false>[grey][dot] Version: [era_purple][version]</color><br><i:false>[grey][dot] Description: [era_purple][description]</color><br><br><i:false>[grey][dot] [era_purple]Left click</color> to enable<br><br><i:false>[grey][red]<b>[DISABLED]</b></color>"
     }
 }

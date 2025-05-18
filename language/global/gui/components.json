@@ -32,8 +32,8 @@
         "en-US": "<i:false>[red]Last Page</color>"
     },
     "PAGE.info": {
-        "de-DE": "<i:false>[grey]Seite [blue][page]</color> von [blue][lastpage]</color></color>",
-        "en-US": "<i:false>[grey]Page [blue][page]</color> of [blue][lastpage]</color></color>"
+        "de-DE": "<i:false>[grey]Seite [era_purple][page]</color> von [era_purple][lastpage]</color></color>",
+        "en-US": "<i:false>[grey]Page [era_purple][page]</color> of [era_purple][lastpage]</color></color>"
     },
     "GUI.back.name": {
         "de-DE": "<i:false>[red]Zurück</color>",

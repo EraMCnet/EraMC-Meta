@@ -1,18 +1,18 @@
 {
     "BUILDMODE.enable": {
-        "de-DE": "[grey]Dein [blue]Buildmode</color> wurde erfolgreich <color:#4bfb00>aktiviert!</color></color>",
-        "en-US": "[grey]Your [blue]buildmode</color> has been successfully <color:#4bfb00>activated!</color></color>"
+        "de-DE": "[grey]Dein [era_purple]Buildmode</color> wurde erfolgreich <color:#4bfb00>aktiviert!</color></color>",
+        "en-US": "[grey]Your [era_purple]buildmode</color> has been successfully <color:#4bfb00>activated!</color></color>"
     },
     "BUILDMODE.disable": {
-        "de-DE": "[grey]Dein [blue]Buildmode</color> wurde erfolgreich <color:#ff0000>deaktiviert!</color></color>",
-        "en-US": "[grey]Your [blue]buildmode</color> has been successfully <color:#ff0000>deactivated!</color></color>"
+        "de-DE": "[grey]Dein [era_purple]Buildmode</color> wurde erfolgreich <color:#ff0000>deaktiviert!</color></color>",
+        "en-US": "[grey]Your [era_purple]buildmode</color> has been successfully <color:#ff0000>deactivated!</color></color>"
     },
     "BUILDMODE.enable.other": {
-        "de-DE": "[grey]Du hast den [blue]Buildmode</color> von [blue][player]</color> erfolgreich <color:#4bfb00>aktiviert!</color></color>",
-        "en-US": "[grey]You have successfully <color:#4bfb00>activated</color> the [blue]buildmode</color> of [blue][player]!</color></color>"
+        "de-DE": "[grey]Du hast den [era_purple]Buildmode</color> von [era_purple][player]</color> erfolgreich <color:#4bfb00>aktiviert!</color></color>",
+        "en-US": "[grey]You have successfully <color:#4bfb00>activated</color> the [era_purple]buildmode</color> of [era_purple][player]!</color></color>"
     },
     "BUILDMODE.disable.other": {
-        "de-DE": "[grey]Du hast den <color:#4bfb00>Buildmode</color> von [blue][player]</color> erfolgreich <color:#ff0000>deaktiviert!</color></color>",
-        "en-US": "[grey]You have successfully <color:#ff0000>disabled</color> the <color:#4bfb00>buildmode</color> of [blue][player]!</color></color>"
+        "de-DE": "[grey]Du hast den <color:#4bfb00>Buildmode</color> von [era_purple][player]</color> erfolgreich <color:#ff0000>deaktiviert!</color></color>",
+        "en-US": "[grey]You have successfully <color:#ff0000>disabled</color> the <color:#4bfb00>buildmode</color> of [era_purple][player]!</color></color>"
     }
 }

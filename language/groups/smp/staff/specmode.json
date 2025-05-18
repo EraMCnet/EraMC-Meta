@@ -1,10 +1,10 @@
 {
     "SPECMODE.enable": {
-        "de-DE": "[grey]Du hast jetzt den [blue]Specmode</color> [green]aktiviert</color> und wirst zurück [blue]teleportiert,</color> wenn du ihn wieder [red]deaktivieren</color> solltest.</color>",
-        "en-US": "[grey]You have now activated the [blue]Specmode</color> and will be [blue]teleported</color> back when you [red]deactivate</color> it again.</color>"
+        "de-DE": "[grey]Du hast jetzt den [era_purple]Specmode</color> [green]aktiviert</color> und wirst zurück [era_purple]teleportiert,</color> wenn du ihn wieder [red]deaktivieren</color> solltest.</color>",
+        "en-US": "[grey]You have now activated the [era_purple]Specmode</color> and will be [era_purple]teleported</color> back when you [red]deactivate</color> it again.</color>"
     },
     "SPECMODE.disable": {
-        "de-DE": "[grey]Du hast jetzt den [blue]Specmode</color> [red]deaktiviert</color> und wurdest zu deiner alten Position zurück [blue]teleportiert.</color></color>",
-        "en-US": "[grey]You have now [red]deactivated</color> the [blue]Specmode</color> and have been [blue]teleported</color> back to your old position.</color>"
+        "de-DE": "[grey]Du hast jetzt den [era_purple]Specmode</color> [red]deaktiviert</color> und wurdest zu deiner alten Position zurück [era_purple]teleportiert.</color></color>",
+        "en-US": "[grey]You have now [red]deactivated</color> the [era_purple]Specmode</color> and have been [era_purple]teleported</color> back to your old position.</color>"
     }
 }
