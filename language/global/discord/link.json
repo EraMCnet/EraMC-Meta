@@ -11,12 +11,12 @@
         "de-DE": "[grey]Dein Minecraft Account ist bereits mit einem [era_purple]Discord Account</color> verlinkt!</color>",
         "en-US": "[grey]Your Minecraft account is already linked to a [era_purple]Discord account!</color></color>"
     },
-    "DISCORD.link.unlink": {
+    "DISCORD.unlink": {
         "de-DE": "[grey]Dein Minecraft Account ist jetzt nicht mehr mit deinem [era_purple]Discord Account</color> verlinkt!</color>",
         "en-US": "[grey]Your Minecraft account is no longer linked to your [era_purple]Discord account!</color></color>"
     },
     "DISCORD.link": {
-        "de-DE": "[grey]Verlinke deinen [era_purple]Minecraft Account</color> mit deinem [era_purple]Discord Account.</color> Dazu musst du auf Discord den Befehl [era_purple]<hover:show_text:'[era_purple]Klicke zum kopieren</color>'><click:copy_to_clipboard:'/link [code]'>/link [code]</click></hover></color> eingeben.</color>",
-        "en-US": "[grey]Link your [era_purple]Minecraft account</color> with your [era_purple]Discord account.</color> To do this, you need to enter the command [era_purple]<hover:show_text:'[era_purple]Klicke zum kopieren</color>'><click:copy_to_clipboard:'/link [code]'>/link [code]</click></hover></color> on Discord.</color>"
+        "de-DE": "[grey]Verlinke deinen [era_purple]Minecraft Account</color> mit deinem [era_purple]Discord Account.</color> Dazu musst du auf Discord den Befehl [era_purple]<hover:show_text:'[era_purple]Klicke zum kopieren</color>'><click:copy_to_clipboard:'[code]'>/link [code]</click></hover></color> eingeben.</color>",
+        "en-US": "[grey]Link your [era_purple]Minecraft account</color> with your [era_purple]Discord account.</color> To do this, you need to enter the command [era_purple]<hover:show_text:'[era_purple]Klicke zum kopieren</color>'><click:copy_to_clipboard:'[code]'>/link [code]</click></hover></color> on Discord.</color>"
     }
 }
