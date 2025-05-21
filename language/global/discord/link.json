@@ -20,8 +20,8 @@
         "en-US": "[grey]Link your [era_purple]Minecraft account</color> with your [era_purple]Discord account.</color> To do this, you need to enter the command [era_purple]<hover:show_text:'[era_purple]Klicke zum kopieren</color>'><click:copy_to_clipboard:'[code]'>/link [code]</click></hover></color> on Discord.</color>"
     },
     "DISCORD.link.already.linked": {
-        "de-DE": "[grey]Dein Minecraft Account ist bereits mit dem Discord Account [era_purple][discord-name]</color> verlinkt!</color>",
-        "en-US": "[grey]Your Minecraft account is already linked to the Discord account [era_purple][discord-name]!</color></color>"
+        "de-DE": "[grey]Dein Minecraft Account ist bereits mit deinem Discord Account verlinkt!</color>",
+        "en-US": "[grey]Your Minecraft account is already linked to your Discord account!</color>"
     },
     "DISCORD.unlink.not.linked": {
         "de-DE": "[grey]Dein Minecraft Account ist nicht mit einem [era_purple]Discord Account</color> verlinkt!</color>",
