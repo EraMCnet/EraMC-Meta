@@ -19,6 +19,22 @@
         "de-DE": "[grey]Du wurdest zu deinem Home [yellow][home]</color> teleportiert!</color>",
         "en-US": "[grey]You have been teleported to your home [yellow][home]!</color></color>"
     },
+    "HOMES.teleport.error": {
+        "de-DE": "[grey]Während des [yellow]Teleportierens</color> ist ein [red]Fehler</color> aufgetreten. Bitte kontaktiere unseren [yellow]Support.</color> ([era_purple]discord.gg/eramc</color>)</color>",
+        "en-US": "[grey]An error occurred while [yellow]teleporting</color>. Please contact our [yellow]support.</color> ([era_purple]discord.gg/eramc</color>)</color>"
+    },
+    "HOMES.teleport.in": {
+        "de-DE": "[grey]ᴅᴜ ᴡɪʀꜱᴛ ɪɴ [era_purple][duration] ꜱᴇᴋᴜɴᴅᴇɴ</color> ᴛᴇʟᴇᴘᴏʀᴛɪᴇʀᴛ</color>",
+        "en-US": "[grey]ʏᴏᴜ ᴀʀᴇ ɢᴏɪɴɢ ᴛᴏ ʙᴇ ᴛᴇʟᴇᴘᴏʀᴛᴇᴅ ɪɴ [era_purple][duration] ꜱᴇᴄᴏɴᴅꜱ</color></color>"
+    },
+    "HOMES.teleport.error.move": {
+        "de-DE": "[grey]Der Teleportationsvorgang wurde [red]abgebrochen,</color> da du dich bewegt hast!</color>",
+        "en-US": "[grey]The teleportation process was [red]cancelled</color> because you moved!</color>"
+    },
+    "HOMES.teleport.actionbar.cancelled": {
+        "de-DE": "[red]ᴅᴇʀ ᴛᴇʟᴇᴘᴏʀᴛ ᴡᴜʀᴅᴇ ᴀʙɢᴇʙʀᴏᴄʜᴇɴ</color>",
+        "en-US": "[red]ᴛʜᴇ ᴛᴇʟᴇᴘᴏʀᴛ ᴡᴀꜱ ᴄᴀɴᴄᴇʟʟᴇᴅ</color>"
+    },
     "HOMES.teleport.error.disabled": {
         "de-DE": "[grey]Das Home [yellow][home]</color> wurde automatisch oder von einem <red>Admin</red> [red]deaktiviert!</color></color>",
         "en-US": "[grey]The home [yellow][home]</color> has been disabled automatically or by an <red>Admin!</red></color>"
@@ -82,5 +98,9 @@
     "HOMES.admin.teleport": {
         "de-DE": "[grey]Du hast [green]erfolgreich</color> zu dem Home [yellow][home]</color> des Spielers [yellow][player]</color> [green]teleportiert!</color></color>",
         "en-US": "[grey]You have [green]successfully</color> teleported to the home [yellow][home]</color> of [yellow][player]!</color></color>"
+    },
+    "HOMES.admin.teleport.error": {
+        "de-DE": "[grey]Während des [yellow]Teleportierens</color> ist ein [red]Fehler</color> aufgetreten. Bitte kontaktiere einen [yellow]Administrator.</color> ([era_purple]discord.gg/eramc</color>)</color>",
+        "en-US": "[grey]An error occurred while [yellow]teleporting</color>. Please contact our [yellow]support.</color> ([era_purple]discord.gg/eramc</color>)</color>"
     }
 }
