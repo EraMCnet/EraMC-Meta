@@ -1,106 +1,86 @@
 {
-    "GUI.list.title": {
-        "de-DE": "<i:false>[era_purple][player]'s Homes</color>",
-        "en-US": "<i:false>[era_purple][player]'s homes</color>"
+    "HOMES.gui.list.title": {
+        "de-DE": "<i:false>Deine Homes</color>",
+        "en-US": "<i:false>Your homes</color>"
+    },
+    "HOMES.gui.page.previous": {
+        "de-DE": "<i:false>[yellow]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[yellow]ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ"
+    },
+    "HOMES.gui.page.next": {
+        "de-DE": "<i:false>[yellow]ɴäᴄʜꜱᴛᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[yellow]ɴᴇxᴛ ᴘᴀɢᴇ"
+    },
+    "HOMES.gui.page.navigate.lore": {
+        "de-DE": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Klicke, zum navigieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Click to navigate<br><i:false>"
     },
     "HOMES.teleport.success": {
-        "de-DE": "[grey]Du wurdest zu deinem Home [era_purple][home]</color> teleportiert!</color>",
-        "en-US": "[grey]You have been teleported to your home [era_purple][home]</color>!</color>"
+        "de-DE": "[grey]Du wurdest zu deinem Home [yellow][home]</color> teleportiert!</color>",
+        "en-US": "[grey]You have been teleported to your home [yellow][home]!</color></color>"
     },
     "HOMES.teleport.error.disabled": {
-        "de-DE": "[grey]Das Home [era_purple][home]</color> wurde automatisch oder von einem <red>Admin</red> <color:#ff0000>deaktiviert!</color></color>",
-        "en-US": "[grey]The home [era_purple][home]</color> has been disabled automatically or by an <red>Admin</red> <color:#ff0000>!</color></color>"
+        "de-DE": "[grey]Das Home [yellow][home]</color> wurde automatisch oder von einem <red>Admin</red> [red]deaktiviert!</color></color>",
+        "en-US": "[grey]The home [yellow][home]</color> has been disabled automatically or by an <red>Admin!</red></color>"
     },
     "HOMES.create.success": {
-        "de-DE": "[grey]Dein Home [era_purple][home]</color> wurde <color:#4bfb00>erfolgreich</color> erstellt!</color>",
-        "en-US": "[grey]Your home [era_purple][home]</color> has been created <color:#4bfb00>successfully!</color></color>"
+        "de-DE": "[grey]Du hast das Home [yellow][home]</color> [green]erfolgreich</color> erstellt!</color>",
+        "en-US": "[grey]You have created the home [yellow][home]</color> [green]successfully!</color></color>"
     },
     "HOMES.create.error.limit": {
-        "de-DE": "[grey]Du hast bereits das <yellow>Maximum an Homes</yellow> <dark_grey>([red][limit]</color> [grey]/</color> [green][max]</color>)</dark_grey> erreicht!</color>",
-        "en-US": "[grey]You have already reached the [yellow]maximum limit of homes</color> <dark_grey>([[era_purple][limit]</color>)</dark_grey>!</color>"
-    },
-    "HOMES.view.self.error": {
-        "de-DE": "[grey]DU kannst deine [era_purple]eigenen Homes</color> nicht im [red]Admin-Modus</color> anschauen!</color>",
-        "en-US": "[grey]You can't view your [era_purple]own homes</color> in [red]Admin mode!</color></color>"
+        "de-DE": "[grey]Du hast das <yellow>Maximum an Homes</yellow> <dark_grey>([red][limit]</color> [grey]/</color> [green][max]</color>)</dark_grey> erreicht!</color>",
+        "en-US": "[grey]You have reached the [yellow]maximum limit of homes</color> <dark_grey>([[yellow][limit]</color>)</dark_grey>!</color>"
     },
     "HOMES.delete.success": {
-        "de-DE": "[grey]Dein Home [era_purple][home]</color> wurde <color:#4bfb00>erfolgreich</color> gelöscht!</color>",
-        "en-US": "[grey]Your home [era_purple][home]</color> has been deleted <color:#4bfb00>successfully!</color></color>"
-    },
-    "HOMES.disable.all.success": {
-        "de-DE": "[grey]Du hast [green]erfolgreich</color> alle [era_purple]Homes</color> des Spielers [era_purple][player]</color> [red]deaktiviert!</color></color>",
-        "en-US": "[grey]You have [green]successfully</color> disabled all [era_purple]homes</color> of [era_purple][player]!</color></color>"
-    },
-    "HOMES.list.gui.item.delete.all.name": {
-        "de-DE": "<i:false>[grey]Alle Homes <color:#ff0000>löschen</color></color>",
-        "en-US": "<i:false>[grey]<color:#ff0000>Delete</color> all homes</color>"
-    },
-    "HOMES.list.gui.item.delete.all.lore": {
-        "de-DE": "<br><i:false>[grey]Klicke, um alle deine [era_purple]homes</color> zu <color:#ff0000>löschen.</color><br><i:false>[grey]<color:#ff0000>Aufpassen:</color> Dies kann <color:#ff0000>NICHT</color> rückgängig gemacht werden!</color><br>",
-        "en-US": "<br><i:false>[grey]Click to <color:#ff0000>delete</color> all your [era_purple]homes.</color><br><i:false>[grey]<color:#ff0000>Attention:</color> This can <color:#ff0000>NOT</color> be undone!</color><br>"
+        "de-DE": "[grey]Du hast das Home [yellow][home]</color> [green]erfolgreich</color> gelöscht!</color>",
+        "en-US": "[grey]You have deleted the home [yellow][home]</color> [green]successfully!</color></color>"
     },
     "HOMES.list.gui.item.home.lore": {
-        "de-DE": "<br><i:false>[grey][era_purple]Welt:</color> [world]<br><i:false>[grey][era_purple]Server:</color> [server]<br><i:false>[grey][era_purple]Aktiviert:</color> [status]<br><br><i:false>[grey]Klicke, um dieses [era_purple]Home</color> zu [era_purple]verwalten</color></color><br>",
-        "en-US": "<br><i:false>[grey][era_purple]World:</color> [world]<br><i:false>[grey][era_purple]Server:</color> [server]<br><i:false>[grey][era_purple]Enabled:</color> [status]<br><br><i:false>[grey]Click to [era_purple]manage</color> this [era_purple]home</color></color><br>"
+        "de-DE": "<br><i:false>[grey][yellow]Welt:</color> [world]<br><i:false>[grey][yellow]Server:</color> [server]<br><i:false>[grey][yellow]Aktiviert:</color> [status]<br><br><i:false>[yellow][ROUNDDOT]</color> [grey][yellow]Linksklick</color> um dich zu deinem Home zu [yellow]teleportieren</color></color><br><i:false>[yellow][ROUNDDOT]</color> [grey][yellow]Rechtsklick</color> um dein Home zu [red]löschen</color></color><br>",
+        "en-US": "<br><i:false>[grey][yellow]World:</color> [world]<br><i:false>[grey][yellow]Server:</color> [server]<br><i:false>[grey][yellow]Enabled:</color> [status]<br><br><i:false>[yellow][ROUNDDOT]</color> [grey][yellow]Left click</color> to [yellow]teleport</color> to your home</color></color><br><i:false>[yellow][ROUNDDOT]</color> [grey][yellow]Right click</color> to [red]delete</color> your home</color></color><br>"
     },
-    "HOMES.manage.gui.title": {
-        "de-DE": "[grey][era_purple]Verwalte</color> das [era_purple]Home</color> [era_purple][name]</color></color>",
-        "en-US": "[grey][era_purple]Manage</color> the [era_purple]home</color> [era_purple][name]</color></color>"
+    "HOMES.gui.delete.confirm": {
+        "de-DE": "<i:false>[green]ʙᴇꜱᴛäᴛɪɢᴇɴ</color>",
+        "en-US": "<i:false>[green]ᴄᴏɴꜰɪʀᴍ</color>"
     },
-    "HOMES.list.gui.item.admin.disable.all.name": {
-        "de-DE": "<i:false>[grey]Alle Homes <color:#ff0000>deaktivieren</color></color>",
-        "en-US": "<i:false>[grey]<color:#ff0000>Disable</color> all homes</color>"
-    },
-    "HOMES.list.gui.item.admin.disable.all.lore": {
-        "de-DE": "<br><i:false>[grey]Klicke, um alle [era_purple]homes</color> zu <color:#ff0000>deaktivieren.</color><br><i:false>[grey]<color:#ff0000>Aufpassen:</color> Dies kann <color:#ff0000>NICHT</color> rückgängig gemacht werden!</color><br>",
-        "en-US": "<br><i:false>[grey]Click to <color:#ff0000>disable</color> all [era_purple]homes.</color><br><i:false>[grey]<color:#ff0000>Attention:</color> This can <color:#ff0000>NOT</color> be undone!</color><br>"
-    },
-    "HOMES.manage.gui.item.teleport.name": {
-        "de-DE": "<i:false>[grey]Zu deinem Home [era_purple]teleportieren</color></color>",
-        "en-US": "<i:false>[grey][era_purple]Teleport</color> to your home</color>"
-    },
-    "HOMES.manage.gui.item.teleport.lore": {
-        "de-DE": "<br><i:false>[grey][era_purple]Klicke</color> um dich zu deinem [era_purple]Home</color> zu [era_purple]teleportieren</color></color><br>",
-        "en-US": "<br><i:false>[grey][era_purple]Click</color> to [era_purple]teleport</color> to your [era_purple]home</color></color><br>"
-    },
-    "HOMES.manage.gui.item.delete.name": {
-        "de-DE": "<i:false>[grey]Das Home [red]löschen</color></color>",
-        "en-US": "<i:false>[grey][red]Delete</color> the home</color>"
-    },
-    "HOMES.manage.gui.item.delete.lore": {
-        "de-DE": "<br><i:false>[grey][era_purple]Klicke</color> um dieses [era_purple]Home</color> zu [era_purple]löschen</color><br><i:false>[grey]<color:#ff0000>Aufpassen:</color> Dies kann <color:#ff0000>NICHT</color> rückgängig gemacht werden!</color><br>",
-        "en-US": "<br><i:false>[grey][era_purple]Click</color> to [era_purple]delete</color> this [era_purple]home</color></color><br><i:false>[grey]<color:#ff0000>Attention:</color> This can <color:#ff0000>NOT</color> be undone!</color><br>"
-    },
-    "HOMES.confirm.delete.all.gui.title": {
-        "de-DE": "[grey]Alle Homes <color:#ff0000>löschen</color></color>",
-        "en-US": "[grey]<color:#ff0000>Delete</color> all homes</color>"
-    },
-    "HOMES.confirm.delete.all.gui.confirm.name": {
-        "de-DE": "<i:false>[green]Bestätigen</color>",
-        "en-US": "<i:false>[green]Confirm</color>"
-    },
-    "HOMES.confirm.delete.all.gui.confirm.lore": {
-        "de-DE": "<br><i:false>[grey]Klicke, um alle deine [era_purple]homes</color> zu <color:#ff0000>löschen.</color><br><i:false>[grey]<color:#ff0000>Aufpassen:</color> Dies kann <color:#ff0000>NICHT</color> rückgängig gemacht werden!</color><br>",
-        "en-US": "<br><i:false>[grey]Click to <color:#ff0000>delete</color> all your [era_purple]homes.</color><br><i:false>[grey]<color:#ff0000>Attention:</color> This can <color:#ff0000>NOT</color> be undone!</color><br>"
-    },
-    "HOMES.confirm.delete.all.gui.cancel.name": {
-        "de-DE": "<i:false>[red]Abbrechen</color>",
-        "en-US": "<i:false>[red]Cancel</color>"
+    "HOMES.gui.delete.cancel": {
+        "de-DE": "<i:false>[red]ᴀʙʙʀᴇᴄʜᴇɴ</color>",
+        "en-US": "<i:false>[red]ᴄᴀɴᴄᴇʟ</color>"
     },
     "HOMES.confirm.delete.all.gui.cancel.lore": {
-        "de-DE": "<br><i:false>[grey]Klicke, um den <color:#ff0000>Löschvorgang</color> abzubrechen</color><br>",
-        "en-US": "<br><i:false>[grey]Click to cancel the <color:#ff0000>deletion</color> process</color><br>"
+        "de-DE": "<br><i:false>[yellow][ROUNDDOT]</color> [grey]Klicke zum abbrechen</color><br>",
+        "en-US": "<br><i:false>[yellow][ROUNDDOT]</color> [grey]Click to cancel</color><br>"
     },
     "HOMES.teleport.error.exist": {
-        "de-DE": "[grey]Das [era_purple]Home,</color> zu welchem du dich [era_purple]teleportieren</color> willst, existiert [red]nicht</color> mehr!</color>",
-        "en-US": "[grey]The [era_purple]home</color> you want to [era_purple]teleport</color> to doesn't exist [red]anymore!</color></color>"
+        "de-DE": "[grey]Das [yellow]Home,</color> zu welchem du dich [yellow]teleportieren</color> willst, existiert [red]nicht</color> mehr!</color>",
+        "en-US": "[grey]The [yellow]home</color> you want to [yellow]teleport</color> to doesn't exist [red]anymore!</color></color>"
     },
-    "HOMES.confirm.delete.all.success": {
-        "de-DE": "[grey]Du hast [green]erfolgreich</color> alle [era_purple]Homes</color> gelöscht!</color>",
-        "en-US": "[grey]You have [green]successfully</color> deleted all [era_purple]homes!</color></color>"
+    "HOMES.admin.disable.all": {
+        "de-DE": "[grey]Du hast [green]erfolgreich</color> alle [yellow]Homes</color> des Spielers [yellow][player]</color> [red]deaktiviert!</color></color>",
+        "en-US": "[grey]You have [green]successfully</color> disabled all [yellow]homes</color> of [yellow][player]!</color></color>"
     },
-    "HOMES.confirm.delete.all.cancel": {
-        "de-DE": "[grey]Der <color:#ff0000>Löschvorgang</color> wurde <color:#ff0000>abgebrochen!</color></color>",
-        "en-US": "[grey]The <color:#ff0000>deletion</color> process has been <color:#ff0000>canceled!</color></color>"
+    "HOMES.admin.enable.all": {
+        "de-DE": "[grey]Du hast [green]erfolgreich</color> alle [yellow]Homes</color> des Spielers [yellow][player]</color> [green]aktiviert!</color></color>",
+        "en-US": "[grey]You have [green]successfully</color> enabled all [yellow]homes</color> of [yellow][player]!</color></color>"
+    },
+    "HOMES.admin.disable": {
+        "de-DE": "[grey]Du hast [green]erfolgreich</color> das Home [yellow][home]</color> des Spielers [yellow][player]</color> [red]deaktiviert!</color></color>",
+        "en-US": "[grey]You have [green]successfully</color> disabled the home [yellow][home]</color> of [yellow][player]!</color></color>"
+    },
+    "HOMES.admin.enable": {
+        "de-DE": "[grey]Du hast [green]erfolgreich</color> das Home [yellow][home]</color> des Spielers [yellow][player]</color> [green]aktiviert!</color></color>",
+        "en-US": "[grey]You have [green]successfully</color> enabled the home [yellow][home]</color> of [yellow][player]!</color></color>"
+    },
+    "HOMES.admin.delete": {
+        "de-DE": "[grey]Du hast [green]erfolgreich</color> das Home [yellow][home]</color> des Spielers [yellow][player]</color> [red]gelöscht!</color></color>",
+        "en-US": "[grey]You have [green]successfully</color> deleted the home [yellow][home]</color> of [yellow][player]!</color></color>"
+    },
+    "HOMES.admin.delete.all": {
+        "de-DE": "[grey]Du hast [green]erfolgreich</color> alle [yellow]Homes</color> des Spielers [yellow][player]</color> [red]gelöscht!</color></color>",
+        "en-US": "[grey]You have [green]successfully</color> deleted all [yellow]homes</color> of [yellow][player]!</color></color>"
+    },
+    "HOMES.admin.teleport": {
+        "de-DE": "[grey]Du hast [green]erfolgreich</color> zu dem Home [yellow][home]</color> des Spielers [yellow][player]</color> [green]teleportiert!</color></color>",
+        "en-US": "[grey]You have [green]successfully</color> teleported to the home [yellow][home]</color> of [yellow][player]!</color></color>"
     }
 }
