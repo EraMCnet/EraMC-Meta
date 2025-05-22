@@ -51,6 +51,10 @@
         "de-DE": "[grey]Du hast das Home [yellow][home]</color> [green]erfolgreich</color> gelöscht!</color>",
         "en-US": "[grey]You have deleted the home [yellow][home]</color> [green]successfully!</color></color>"
     },
+    "HOMES.not.found": {
+        "de-DE": "[grey]Das Home [yellow][home]</color> existiert nicht!</color>",
+        "en-US": "[grey]The home [yellow][home]</color> doesn't exist!</color>"
+    },
     "HOMES.list.gui.item.home.lore": {
         "de-DE": "<br><i:false>[grey][yellow]Welt:</color> [world]<br><i:false>[grey][yellow]Server:</color> [server]<br><i:false>[grey][yellow]Aktiviert:</color> [status]<br><br><i:false>[yellow][ROUNDDOT]</color> [grey][yellow]Linksklick</color> um dich zu deinem Home zu [yellow]teleportieren</color></color><br><i:false>[yellow][ROUNDDOT]</color> [grey][yellow]Rechtsklick</color> um dein Home zu [red]löschen</color></color><br>",
         "en-US": "<br><i:false>[grey][yellow]World:</color> [world]<br><i:false>[grey][yellow]Server:</color> [server]<br><i:false>[grey][yellow]Enabled:</color> [status]<br><br><i:false>[yellow][ROUNDDOT]</color> [grey][yellow]Left click</color> to [yellow]teleport</color> to your home</color></color><br><i:false>[yellow][ROUNDDOT]</color> [grey][yellow]Right click</color> to [red]delete</color> your home</color></color><br>"
