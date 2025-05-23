@@ -1,0 +1,22 @@
+{
+    "CLAN.command.create.error.name.lenght": {
+        "de-DE": "[grey]Der Clan Name darf [red]nicht länger</color> als [era_purple]16 Zeichen</color> sein!</color>",
+        "en-US": "[grey]The clan name [red]can't be longer</color> than [era_purple]16 characters!</color></color>"
+    },
+    "CLAN.command.create.error.tagline.lenght": {
+        "de-DE": "[grey]Die Clan Tagline darf [red]nicht länger</color> als [era_purple]8 Zeichen</color> sein!</color>",
+        "en-US": "[grey]The clan tagline [red]can't be longer</color> than [era_purple]8 characters!</color></color>"
+    },
+    "CLAN.command.create.error.tag.lenght": {
+        "de-DE": "[grey]Der Clan Tag darf [red]nicht länger</color> als [era_purple]12 Zeichen</color> sein!</color>",
+        "en-US": "[grey]The clan tag [red]can't be longer</color> than [era_purple]12 characters!</color></color>"
+    },
+    "CLAN.command.create.error.already.in.clan": {
+        "de-DE": "[grey]Du bist bereits in einem Clan!</color>",
+        "en-US": "[grey]You are already in a clan!</color>"
+    },
+    "CLAN.command.create.success": {
+        "de-DE": "[grey]Du hast den Clan [era_purple][name]#[tagline]</color> [green]erfolgreich</color> erstellt!</color>",
+        "en-US": "[grey]You have successfully created the clan [era_purple][name]#[tagline]!</color></color>"
+    }
+}
