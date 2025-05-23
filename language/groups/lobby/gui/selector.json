@@ -4,15 +4,15 @@
         "en-US": "<i:false>ꜱᴇʀᴠᴇʀ ꜱᴇʟᴇᴄᴛᴏʀ"
     },
     "INFO.gamemode.soon": {
-        "de-DE": "<i:false><white>Dieser [pastel_red]Spielmodus</color> ist noch nicht verfügbar!</white>",
-        "en-US": "<i:false><white>This [pastel_red]game mode</color> has not been released yet!</white>"
+        "de-DE": "<i:false>[grey]Dieser [pastel_red]Spielmodus</color> ist noch nicht verfügbar!</color>",
+        "en-US": "<i:false>[grey]This [pastel_red]game mode</color> has not been released yet!</color>"
     },
     "GAMEMODE.smp.name": {
         "de-DE": "<i:false><b>[green]SURVIVAL SMP</color>",
         "en-US": "<i:false><b>[green]SURVIVAL SMP</color>"
     },
     "GAMEMODE.smp.lore": {
-        "de-DE": "<i:false><white>Klicke, um diesem [pastel_green]Spielmodus</color> beizutreten.</white><br><br><i:false><white>[green][playercount]</color> Spieler online</white>",
-        "en-US": "<i:false><white>Click to join this [pastel_green]game mode.</color></white><br><br><i:false><white>[green][playercount]</color> players online</white>"
+        "de-DE": "<i:false>[grey]Klicke, um diesem [pastel_green]Spielmodus</color> beizutreten.</color><br><br><i:false>[grey][green][playercount]</color> Spieler online</color>",
+        "en-US": "<i:false>[grey]Click to join this [pastel_green]game mode.</color></color><br><br><i:false>[grey][green][playercount]</color> players online</color>"
     }
 }

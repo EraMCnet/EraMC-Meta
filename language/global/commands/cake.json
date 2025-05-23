@@ -1,6 +1,6 @@
 {
     "CAKE.recipe": {
-        "de-DE": "<green>200g Zartbitterschokolade<white>,</white> 200g Butter<white>,</white> 200g Zucker<white>,</white> 4 Eier<white>,</white> 150g Mehl<white>,</white> 1 TL Backpulver<white>,</white> 1 Prise Salz<white>,</white> Puderzucker zum Bestreuen</green>",
-        "en-US": "<green>200g dark chocolate<white>,</white> 200g butter<white>,</white> 200g sugar<white>,</white> 4 eggs<white>,</white> 150g flour<white>,</white> 1 tsp baking powder<white>,</white> 1 pinch of salt<white>,</white> icing sugar for dusting</green>"
+        "de-DE": "<green>200g Zartbitterschokolade[grey],</color> 200g Butter[grey],</color> 200g Zucker[grey],</color> 4 Eier[grey],</color> 150g Mehl[grey],</color> 1 TL Backpulver[grey],</color> 1 Prise Salz[grey],</color> Puderzucker zum Bestreuen</green>",
+        "en-US": "<green>200g dark chocolate[grey],</color> 200g butter[grey],</color> 200g sugar[grey],</color> 4 eggs[grey],</color> 150g flour[grey],</color> 1 tsp baking powder[grey],</color> 1 pinch of salt[grey],</color> icing sugar for dusting</green>"
     }
 }

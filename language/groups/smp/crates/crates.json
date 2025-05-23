@@ -12,12 +12,12 @@
         "en-US": "Amethyst Crate"
     },
     "GUI.lore.chance": {
-        "de-DE": "<br><!i>[era_purple][ROUNDDOT]</color> <white>Chance:</white> [era_purple][chance]%",
-        "en-US": "<br><!i>[era_purple][ROUNDDOT]</color> <white>Chance:</white> [era_purple][chance]%"
+        "de-DE": "<br><!i>[era_purple][ROUNDDOT]</color> [grey]Chance:</color> [era_purple][chance]%",
+        "en-US": "<br><!i>[era_purple][ROUNDDOT]</color> [grey]Chance:</color> [era_purple][chance]%"
     },
     "GUI.page.navigate.lore": {
-        "de-DE": "<i:false><br><i:false>[era_purple][ROUNDDOT]<white> Klicke, zum navigieren<br><i:false>",
-        "en-US": "<i:false><br><i:false>[era_purple][ROUNDDOT]<white> Click to navigate<br><i:false>"
+        "de-DE": "<i:false><br><i:false>[era_purple][ROUNDDOT][grey] Klicke, zum navigieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[era_purple][ROUNDDOT][grey] Click to navigate<br><i:false>"
     },
     "GUI.page.previous": {
         "de-DE": "<i:false>[era_purple]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",

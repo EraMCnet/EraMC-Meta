@@ -12,8 +12,8 @@
         "en-US": "<i:false>[yellow]ɴᴇxᴛ ᴘᴀɢᴇ"
     },
     "HOMES.gui.page.navigate.lore": {
-        "de-DE": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Klicke, zum navigieren<br><i:false>",
-        "en-US": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Click to navigate<br><i:false>"
+        "de-DE": "<i:false><br><i:false>[yellow][ROUNDDOT][grey] Klicke, zum navigieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[yellow][ROUNDDOT][grey] Click to navigate<br><i:false>"
     },
     "HOMES.list.gui.item.home.lore": {
         "de-DE": "<br><i:false>[grey][yellow]Server:</color> [server]<br><i:false>[grey][yellow]Aktiviert:</color> [status]<br><br><i:false>[yellow][ROUNDDOT]</color> [grey][yellow]Linksklick</color> um dich zu deinem Home zu [yellow]teleportieren</color></color><br><i:false>[yellow][ROUNDDOT]</color> [grey][yellow]Rechtsklick</color> um dein Home zu [red]löschen</color></color><br>",

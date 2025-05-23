@@ -60,24 +60,24 @@
         "en-US": "<i:false>[green]ꜱᴏʀᴛ"
     },
     "BOUNTY.gui.page.navigate.lore": {
-        "de-DE": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Klicke, zum navigieren<br><i:false>",
-        "en-US": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Click to navigate<br><i:false>"
+        "de-DE": "<i:false><br><i:false>[yellow][ROUNDDOT][grey] Klicke, zum navigieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[yellow][ROUNDDOT][grey] Click to navigate<br><i:false>"
     },
     "BOUNTY.gui.page.update.lore": {
-        "de-DE": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Klicke, um die Seite zu aktualisieren<br><i:false>",
-        "en-US": "<i:false><br><i:false>[yellow][ROUNDDOT]<white> Click to update the page<br><i:false>"
+        "de-DE": "<i:false><br><i:false>[yellow][ROUNDDOT][grey] Klicke, um die Seite zu aktualisieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[yellow][ROUNDDOT][grey] Click to update the page<br><i:false>"
     },
     "BOUNTY.gui.player.bounty.lore": {
-        "de-DE": "<i:false><br><i:false>[pastel_orange][ROUNDDOT]<white> Kopfgeld: [pastel_orange]$[bounty]<br><i:false>",
-        "en-US": "<i:false><br><i:false>[pastel_orange][ROUNDDOT]<white> Bounty: [pastel_orange]$[bounty]<br><i:false>"
+        "de-DE": "<i:false><br><i:false>[pastel_orange][ROUNDDOT][grey] Kopfgeld: [pastel_orange]$[bounty]<br><i:false>",
+        "en-US": "<i:false><br><i:false>[pastel_orange][ROUNDDOT][grey] Bounty: [pastel_orange]$[bounty]<br><i:false>"
     },
     "BOUNTY.gui.page.sort.lore.highest": {
-        "de-DE": "<i:false><br><i:false>[green]> Höchste<br><i:false><white>  Niedrigste<br><br><i:false>[green]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
-        "en-US": "<i:false><br><i:false>[green]> Highest<br><i:false><white>  Lowest<br><br><i:false>[green]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+        "de-DE": "<i:false><br><i:false>[green]> Höchste<br><i:false>[grey]  Niedrigste<br><br><i:false>[green]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[green]> Highest<br><i:false>[grey]  Lowest<br><br><i:false>[green]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     },
     "BOUNTY.gui.page.sort.lore.lowest": {
-        "de-DE": "<i:false><br><i:false><white>  Höchste<br><i:false>[green]> Niedrigste<br><br><i:false>[green]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
-        "en-US": "<i:false><br><i:false><white>  Highest<br><i:false>[green]> Lowest<br><br><i:false>[green]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+        "de-DE": "<i:false><br><i:false>[grey]  Höchste<br><i:false>[green]> Niedrigste<br><br><i:false>[green]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  Highest<br><i:false>[green]> Lowest<br><br><i:false>[green]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     },
     "BOUNTY.join.info": {
         "de-DE": "[grey]Du hast noch ein Kopfgeld von [yellow]$[amount]</color> auf dir!</color>",
