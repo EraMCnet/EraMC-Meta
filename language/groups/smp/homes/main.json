@@ -1,7 +1,11 @@
 {
     "HOMES.gui.list.title": {
-        "de-DE": "<i:false>Deine Homes</color>",
-        "en-US": "<i:false>Your homes</color>"
+        "de-DE": "<i:false>ᴅᴇɪɴᴇ ʜᴏᴍᴇꜱ</color>",
+        "en-US": "<i:false>ʏᴏᴜʀ ʜᴏᴍᴇꜱ</color>"
+    },
+    "HOMES.gui.confirm.delete.title": {
+        "de-DE": "<i:false>ʜᴏᴍᴇ ʟöꜱᴄʜᴇɴ</color>",
+        "en-US": "<i:false>ᴅᴇʟᴇᴛᴇ ʜᴏᴍᴇ</color>"
     },
     "HOMES.gui.page.previous": {
         "de-DE": "<i:false>[yellow]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
