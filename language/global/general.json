@@ -59,6 +59,22 @@
         "de-DE": "und",
         "en-US": "and"
     },
+    "GENERAL.or": {
+        "de-DE": "oder",
+        "en-US": "or"
+    },
+    "GENERAL.error": {
+        "de-DE": "Fehler",
+        "en-US": "Error"
+    },
+    "GENERAL.success": {
+        "de-DE": "Erfolg",
+        "en-US": "Success"
+    },
+    "GENERAL.cancelled": {
+        "de-DE": "Abgebrochen",
+        "en-US": "Cancelled"
+    },
     "DATE.relative.minute.less.ago": {
         "de-DE": "vor weniger als einer Minute",
         "en-US": "less than a minute ago"
