@@ -1,7 +1,7 @@
 {
     "HOMES.gui.confirm.delete.title": {
-        "de-DE": "<i:false>ʜᴏᴍᴇ ʟöꜱᴄʜᴇɴ</color>",
-        "en-US": "<i:false>ᴅᴇʟᴇᴛᴇ ʜᴏᴍᴇ</color>"
+        "de-DE": "<i:false>ʜᴏᴍᴇ ʟöꜱᴄʜᴇɴ",
+        "en-US": "<i:false>ᴅᴇʟᴇᴛᴇ ʜᴏᴍᴇ"
     },
     "HOMES.gui.confirm.delete.confirm": {
         "de-DE": "<i:false>[green]ʙᴇꜱᴛäᴛɪɢᴇɴ</color>",
