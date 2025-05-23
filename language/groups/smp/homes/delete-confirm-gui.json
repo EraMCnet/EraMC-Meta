@@ -1,0 +1,22 @@
+{
+    "HOMES.gui.confirm.delete.title": {
+        "de-DE": "<i:false>ʜᴏᴍᴇ ʟöꜱᴄʜᴇɴ</color>",
+        "en-US": "<i:false>ᴅᴇʟᴇᴛᴇ ʜᴏᴍᴇ</color>"
+    },
+    "HOMES.gui.confirm.delete.confirm": {
+        "de-DE": "<i:false>[green]ʙᴇꜱᴛäᴛɪɢᴇɴ</color>",
+        "en-US": "<i:false>[green]ᴄᴏɴꜰɪʀᴍ</color>"
+    },
+    "HOMES.gui.confirm.delete.cancel": {
+        "de-DE": "<i:false>[red]ᴀʙʙʀᴇᴄʜᴇɴ</color>",
+        "en-US": "<i:false>[red]ᴄᴀɴᴄᴇʟ</color>"
+    },
+    "HOMES..gui.confirm.delete.cancel.lore": {
+        "de-DE": "<br><i:false>[yellow][ROUNDDOT]</color> [grey]Klicke zum [red]abbrechen</color></color><br>",
+        "en-US": "<br><i:false>[yellow][ROUNDDOT]</color> [grey]Click to [red]cancel</color></color><br>"
+    },
+    "HOMES.gui.confirm.delete.confirm.lore": {
+        "de-DE": "<br><i:false>[yellow][ROUNDDOT]</color> [grey]Klicke zum [green]bestätigen</color></color><br>",
+        "en-US": "<br><i:false>[yellow][ROUNDDOT]</color> [grey]Click to [green]confirm</color></color><br>"
+    }
+}
