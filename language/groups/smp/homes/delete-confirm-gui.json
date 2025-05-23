@@ -11,7 +11,7 @@
         "de-DE": "<i:false>[red]ᴀʙʙʀᴇᴄʜᴇɴ</color>",
         "en-US": "<i:false>[red]ᴄᴀɴᴄᴇʟ</color>"
     },
-    "HOMES..gui.confirm.delete.cancel.lore": {
+    "HOMES.gui.confirm.delete.cancel.lore": {
         "de-DE": "<br><i:false>[yellow][ROUNDDOT]</color> [grey]Klicke zum [red]abbrechen</color></color><br>",
         "en-US": "<br><i:false>[yellow][ROUNDDOT]</color> [grey]Click to [red]cancel</color></color><br>"
     },
