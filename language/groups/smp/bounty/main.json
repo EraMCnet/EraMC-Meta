@@ -84,7 +84,7 @@
         "en-US": "[grey]You still have a bounty of [yellow]$[amount]</color> on you!</color>"
     },
     "BOUNTY.gui.player.bounty": {
-        "de-DE": "[grey]Es sind [yellow]$[money] Kopfgeld</color> auf dich gesetzt</color>",
-        "en-US": "[grey]There is [yellow]$[money] bounty</color> on you</color>"
+        "de-DE": "<!i>[grey]Es sind [yellow]$[money] Kopfgeld</color> auf dich gesetzt</color>",
+        "en-US": "<!i>[grey]There is [yellow]$[money] bounty</color> on you</color>"
     }
 }
