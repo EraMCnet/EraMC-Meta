@@ -44,7 +44,7 @@
         "en-US": "[grey]You have created the home [yellow][home]</color> [green]successfully!</color></color>"
     },
     "HOMES.create.error.limit": {
-        "de-DE": "[grey]Du hast das <yellow>Maximum an Homes</yellow> <dark_grey>([red][limit]</color> [grey]/</color> [green][max]</color>)</dark_grey> erreicht!</color>",
+        "de-DE": "[grey]Du hast das [yellow]Maximum an Homes</color> <dark_grey>([red][limit]</color> [grey]/</color> [green][max]</color>)</dark_grey> erreicht!</color>",
         "en-US": "[grey]You have reached the [yellow]maximum limit of homes</color> <dark_grey>([[yellow][limit]</color>)</dark_grey>!</color>"
     },
     "HOMES.delete.success": {
