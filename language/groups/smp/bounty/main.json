@@ -83,8 +83,12 @@
         "de-DE": "[grey]Du hast noch ein Kopfgeld von [yellow]$[amount]</color> auf dir!</color>",
         "en-US": "[grey]You still have a bounty of [yellow]$[amount]</color> on you!</color>"
     },
+    "BOUNTY.gui.player.bounty.title": {
+        "de-DE": "<i:false>[yellow]ᴅᴇɪɴ ᴋᴏᴘꜰɢᴇʟᴅ</color>",
+        "en-US": "<i:false>[yellow]ʏᴏᴜʀ ʙᴏᴜɴᴛʏ</color>"
+    },
     "BOUNTY.gui.player.bounty": {
-        "de-DE": "<!i>[grey]Es sind [yellow]$[money] Kopfgeld</color> auf dich gesetzt</color>",
-        "en-US": "<!i>[grey]There is [yellow]$[money] bounty</color> on you</color>"
+        "de-DE": "<br><!i>[yellow][ROUNDDOT][grey] Es sind [yellow]$[money] Kopfgeld</color> auf dich gesetzt</color><br>",
+        "en-US": "<br><!i>[yellow][ROUNDDOT][grey] There is [yellow]$[money] bounty</color> on you</color><br>"
     }
 }
