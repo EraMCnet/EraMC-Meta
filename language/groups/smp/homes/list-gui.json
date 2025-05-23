@@ -16,7 +16,7 @@
         "en-US": "<i:false><br><i:false>[yellow][ROUNDDOT][grey] Click to navigate<br><i:false>"
     },
     "HOMES.list.gui.item.home.lore": {
-        "de-DE": "<br><i:false>[yellow][ROUNDDOT]</color> [grey][yellow]Linksklick</color> um dich zu deinem Home zu [yellow]teleportieren</color></color><br><i:false>[yellow][ROUNDDOT]</color> [grey][yellow]Rechtsklick</color> um dein Home zu [red]löschen</color></color><br>",
-        "en-US": "<br><i:false>[yellow][ROUNDDOT]</color> [grey][yellow]Left click</color> to [yellow]teleport</color> to your home</color></color><br><i:false>[yellow][ROUNDDOT]</color> [grey][yellow]Right click</color> to [red]delete</color> your home</color></color><br>"
+        "de-DE": "<br><i:false>[yellow][ROUNDDOT]</color> [grey][yellow]<b>Linksklick:</b></color> teleportieren<br><i:false>[yellow][ROUNDDOT]</color> [grey][yellow]<b>Rechtsklick:</b></color> löschen</color><br>",
+        "en-US": "<br><i:false>[yellow][ROUNDDOT]</color> [grey][yellow]<b>Leftclick:</b></color> teleport<br><i:false>[yellow][ROUNDDOT]</color> [grey][yellow]<b>Rightclick:</b></color> delete</color><br>"
     }
 }
