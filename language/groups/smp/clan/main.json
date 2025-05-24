@@ -16,8 +16,8 @@
         "en-US": "[grey]You [red]are already</color> in a clan!</color>"
     },
     "CLAN.command.create.success": {
-        "de-DE": "[grey]Du hast den Clan [era_purple][name]#[tagline]</color> <dark_grey>([era_purple][id]</color>)</dark_grey> [green]erfolgreich</color> erstellt!</color>",
-        "en-US": "[grey]You have successfully created the clan [era_purple][name]#[tagline]</color> <dark_grey>([era_purple][id]</color>)</dark_grey>!</color>"
+        "de-DE": "[grey]Du hast den Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) [green]erfolgreich</color> erstellt!</color>",
+        "en-US": "[grey]You have successfully created the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>)!</color>"
     },
     "CLAN.command.delete.error.not.in.clan": {
         "de-DE": "[grey]Du bist [red]in keinem</color> Clan!</color>",
@@ -28,7 +28,47 @@
         "en-US": "[grey]You are [red]not the</color> clan leader!</color>"
     },
     "CLAN.command.delete.success": {
-        "de-DE": "[grey]Du hast den Clan [era_purple][name]#[tagline]</color> <dark_grey>([era_purple][id]</color>)</dark_grey> [green]erfolgreich</color> gelöscht!</color>",
-        "en-US": "[grey]You have successfully deleted the clan [era_purple][name]#[tagline]</color> <dark_grey>([era_purple][id]</color>)</dark_grey>!</color>"
+        "de-DE": "[grey]Du hast den Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) [green]erfolgreich</color> gelöscht!</color>",
+        "en-US": "[grey]You have successfully deleted the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>)!</color>"
+    },
+    "CLAN.command.invite.error.not.in.clan": {
+        "de-DE": "[grey]Du bist [red]in keinem</color> Clan!</color>",
+        "en-US": "[grey]You are [red]not in</color> a clan!</color>"
+    },
+    "CLAN.command.invite.error.no.permission": {
+        "de-DE": "[grey]Du musst der Clan [red]Owner</color> oder ein Clan <red>Admin</color> sein um das zu tun!</color>",
+        "en-US": "[grey]You must be the clan [red]owner</color> or a clan <red>admin</color> to do that!</color>"
+    },
+    "CLAN.command.invite.error.already.invited": {
+        "de-DE": "[grey]Dieser Spieler ist bereits eingeladen, dem Clan beizutreten!</color>",
+        "en-US": "[grey]This player is already invited to join the clan!</color>"
+    },
+    "CLAN.command.invite.error.already.in.clan": {
+        "de-DE": "[grey]Der Spieler [red]ist bereits</color> in einem Clan!</color>",
+        "en-US": "[grey]The player [red]is already</color> in a clan!</color>"
+    },
+    "CLAN.command.invite.success": {
+        "de-DE": "[grey]Du hast [era_purple][player]</color> [green]erfolgreich</color> in deinen Clan ([era_purple][tagline]</color>) eingeladen!</color>",
+        "en-US": "[grey]You have successfully invited [era_purple][player]</color> to your clan ([era_purple][tagline]</color>)!</color>"
+    },
+    "CLAN.invite.receive": {
+        "de-DE": "[grey][era_purple][player]</color> hat dich eingeladen, dem Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) beizutreten! Nutze [era_purple]/clan invite accept [name]#[tagline]</color> um die Einladung anzunehmen!</color>",
+        "en-US": "[grey][era_purple][player]</color> has invited you to join the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>)! Use [era_purple]/clan invite accept [name]#[tagline]</color> to accept the invitation!</color>"
+    },
+    "CLAN.command.invite.accept": {
+        "de-DE": "[grey]Du bist [green]erfolgreich</color> dem Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) beigetreten!</color>",
+        "en-US": "[grey]You have successfully joined the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>)!</color>"
+    },
+    "CLAN.command.invite.deny": {
+        "de-DE": "[grey]Du hast die Einladung zum Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) abgelehnt!</color>",
+        "en-US": "[grey]You denied the invitation to the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>)!</color>"
+    },
+    "CLAN.command.invite.accept.error.already.in.clan": {
+        "de-DE": "[grey]Du bist [red]bereits</color> in einem Clan!</color>",
+        "en-US": "[grey]You are [red]already</color> in a clan!</color>"
+    },
+    "CLAN.command.invite.accept.error.not.invited": {
+        "de-DE": "[grey]Du wurdest [red]nicht eingeladen</color> diesem Clan beizutreten</color>",
+        "en-US": "[grey]You were [red]not invited</color> to join this clan!</color>"
     }
 }
