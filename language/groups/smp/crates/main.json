@@ -100,8 +100,8 @@
         "en-US": "[grey]Your inventory is [red]full!</color></color>"
     },
     "CRATE.open.error.no.key": {
-        "de-DE": "[grey]Du hast keinen [era_purple]Key</color> für diese [era_purple]Crate!</color></color>",
-        "en-US": "[grey]You do not have a [era_purple]Key</color> for this [era_purple]Crate!</color></color>"
+        "de-DE": "[grey]Du hast [red]keinen</color> [era_purple]Key</color> für diese [era_purple]Crate!</color></color>",
+        "en-US": "[grey]You [red]do not</color> have a [era_purple]Key</color> for this [era_purple]Crate!</color></color>"
     },
     "CRATE.open.error.no.items": {
         "de-DE": "[grey]Diese [era_purple]Crate</color> hat keine [era_purple]Items!</color></color>",

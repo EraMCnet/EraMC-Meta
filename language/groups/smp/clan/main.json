@@ -40,8 +40,8 @@
         "en-US": "[grey]You must be the clan [red]owner</color> or a clan <red>admin</color> to do that!</color>"
     },
     "CLAN.command.invite.error.already.invited": {
-        "de-DE": "[grey]Dieser Spieler ist bereits eingeladen, dem Clan beizutreten!</color>",
-        "en-US": "[grey]This player is already invited to join the clan!</color>"
+        "de-DE": "[grey]Dieser Spieler [red]ist bereits</color> eingeladen!</color>",
+        "en-US": "[grey]This player [red]is already</color> invited to join the clan!</color>"
     },
     "CLAN.command.invite.error.already.in.clan": {
         "de-DE": "[grey]Der Spieler [red]ist bereits</color> in einem Clan!</color>",
