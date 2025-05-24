@@ -75,6 +75,10 @@
         "de-DE": "Abgebrochen",
         "en-US": "Cancelled"
     },
+    "GENERAL.rank": {
+        "de-DE": "Rang",
+        "en-US": "Rank"
+    },
     "DATE.relative.minute.less.ago": {
         "de-DE": "vor weniger als einer Minute",
         "en-US": "less than a minute ago"
