@@ -12,11 +12,23 @@
         "en-US": "[grey]The clan tag [red]can't be longer</color> than [era_purple]12 characters!</color></color>"
     },
     "CLAN.command.create.error.already.in.clan": {
-        "de-DE": "[grey]Du bist bereits in einem Clan!</color>",
-        "en-US": "[grey]You are already in a clan!</color>"
+        "de-DE": "[grey]Du [red]bist bereits</color> in einem Clan!</color>",
+        "en-US": "[grey]You [red]are already</color> in a clan!</color>"
     },
     "CLAN.command.create.success": {
         "de-DE": "[grey]Du hast den Clan [era_purple][name]#[tagline]</color> [green]erfolgreich</color> erstellt!</color>",
         "en-US": "[grey]You have successfully created the clan [era_purple][name]#[tagline]!</color></color>"
+    },
+    "CLAN.command.delete.error.not.in.clan": {
+        "de-DE": "[grey]Du bist [red]in keinem</color> Clan!</color>",
+        "en-US": "[grey]You are [red]not in</color> a clan!</color>"
+    },
+    "CLAN.command.delete.error.not.owner": {
+        "de-DE": "[grey]Du bist [red]nicht der</color> Clan Leader!</color>",
+        "en-US": "[grey]You are [red]not the</color> clan leader!</color>"
+    },
+    "CLAN.command.delete.success": {
+        "de-DE": "[grey]Du hast den Clan [era_purple][name]#[tagline]</color> [green]erfolgreich</color> gelöscht!</color>",
+        "en-US": "[grey]You have successfully deleted the clan [era_purple][name]#[tagline]!</color></color>"
     }
 }
