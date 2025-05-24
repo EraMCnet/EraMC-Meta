@@ -79,6 +79,10 @@
         "de-DE": "Rang",
         "en-US": "Rank"
     },
+    "GENERAL.money": {
+        "de-DE": "Geld",
+        "en-US": "Money"
+    },
     "DATE.relative.minute.less.ago": {
         "de-DE": "vor weniger als einer Minute",
         "en-US": "less than a minute ago"
