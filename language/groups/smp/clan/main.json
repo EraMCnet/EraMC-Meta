@@ -52,8 +52,8 @@
         "en-US": "[grey]You have successfully invited [era_purple][player]</color> to your clan!</color>"
     },
     "CLAN.invite.receive": {
-        "de-DE": "[grey][era_purple][player]</color> hat dich eingeladen, dem Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) beizutreten! Nutze [era_purple]<hover:'[era_purple]Klicke zum ausführen</color>'><click:run_command:'/clan invite accept [name]#[tagline]'>/clan invite accept [name]#[tagline]</click></hover></color> um die Einladung anzunehmen!</color>",
-        "en-US": "[grey][era_purple][player]</color> has invited you to join the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>)! Use [era_purple]<hover:'[era_purple]Klicke zum ausführen</color>'><click:run_command:'/clan invite accept [name]#[tagline]'>/clan invite accept [name]#[tagline]</click></hover></color> to accept the invitation!</color>"
+        "de-DE": "[grey][era_purple][player]</color> hat dich eingeladen, dem Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) beizutreten! Nutze [era_purple]<hover:show_text:'[era_purple]Klicke zum ausführen</color>'><click:run_command:'/clan invite accept [name]#[tagline]'>/clan invite accept [name]#[tagline]</click></hover:show_text></color> um die Einladung anzunehmen!</color>",
+        "en-US": "[grey][era_purple][player]</color> has invited you to join the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>)! Use [era_purple]<hover:show_text:'[era_purple]Klicke zum ausführen</color>'><click:run_command:'/clan invite accept [name]#[tagline]'>/clan invite accept [name]#[tagline]</click></hover:show_text></color> to accept the invitation!</color>"
     },
     "CLAN.command.invite.accept": {
         "de-DE": "[grey]Du bist [green]erfolgreich</color> dem Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) beigetreten!</color>",
