@@ -68,7 +68,7 @@
         "en-US": "[grey]You are [red]already</color> in a clan!</color>"
     },
     "CLAN.command.invite.accept.error.not.invited": {
-        "de-DE": "[grey]Du wurdest [red]nicht eingeladen</color> diesem Clan beizutreten</color>",
+        "de-DE": "[grey]Du wurdest [red]nicht eingeladen</color> diesem Clan beizutreten!</color>",
         "en-US": "[grey]You were [red]not invited</color> to join this clan!</color>"
     },
     "CLAN.command.create.error.name.unicode": {
