@@ -140,7 +140,7 @@
         "en-US": "[grey]You [red]can't change</color> your own role!</color>"
     },
     "CLAN.command.role.success": {
-        "de-DE": "[grey]Du hast die Rolle von [era_purple][player]</color> zu [era_purple][role]</color> geändert!</color>",
-        "en-US": "[grey]You have changed the role of [era_purple][player]</color> to [era_purple][role]!</color></color>"
+        "de-DE": "[grey]Du hast die Rolle von [era_purple][player]</color> auf [era_purple][role]</color> gesetzt!</color>",
+        "en-US": "[grey]You have set the role of [era_purple][player]</color> to [era_purple][role]!</color></color>"
     }
 }
