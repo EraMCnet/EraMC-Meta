@@ -48,12 +48,12 @@
         "en-US": "[grey]The player [red]is already</color> in a clan!</color>"
     },
     "CLAN.command.invite.success": {
-        "de-DE": "[grey]Du hast [era_purple][player]</color> [green]erfolgreich</color> in deinen Clan ([era_purple][tagline]</color>) eingeladen!</color>",
-        "en-US": "[grey]You have successfully invited [era_purple][player]</color> to your clan ([era_purple][tagline]</color>)!</color>"
+        "de-DE": "[grey]Du hast [era_purple][player]</color> [green]erfolgreich</color> in deinen Clan eingeladen!</color>",
+        "en-US": "[grey]You have successfully invited [era_purple][player]</color> to your clan!</color>"
     },
     "CLAN.invite.receive": {
-        "de-DE": "[grey][era_purple][player]</color> hat dich eingeladen, dem Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) beizutreten! Nutze [era_purple]<click:copy_to_clipboard:'/clan invite accept [name]#[tagline]'>/clan invite accept [name]#[tagline]</click></color> um die Einladung anzunehmen!</color>",
-        "en-US": "[grey][era_purple][player]</color> has invited you to join the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>)! Use [era_purple]<click:copy_to_clipboard:'/clan invite accept [name]#[tagline]'>/clan invite accept [name]#[tagline]</click></color> to accept the invitation!</color>"
+        "de-DE": "[grey][era_purple][player]</color> hat dich eingeladen, dem Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) beizutreten! Nutze [era_purple]<hover:'[era_purple]Klicke zum ausführen</color>'><click:run_command:'/clan invite accept [name]#[tagline]'>/clan invite accept [name]#[tagline]</click></hover></color> um die Einladung anzunehmen!</color>",
+        "en-US": "[grey][era_purple][player]</color> has invited you to join the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>)! Use [era_purple]<hover:'[era_purple]Klicke zum ausführen</color>'><click:run_command:'/clan invite accept [name]#[tagline]'>/clan invite accept [name]#[tagline]</click></hover></color> to accept the invitation!</color>"
     },
     "CLAN.command.invite.accept": {
         "de-DE": "[grey]Du bist [green]erfolgreich</color> dem Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) beigetreten!</color>",
@@ -66,7 +66,7 @@
     "CLAN.command.invite.accept.error.already.in.clan": {
         "de-DE": "[grey]Du bist [red]bereits</color> in einem Clan!</color>",
         "en-US": "[grey]You are [red]already</color> in a clan!</color>"
-    },
+    }, 
     "CLAN.command.invite.accept.error.not.invited": {
         "de-DE": "[grey]Du wurdest [red]nicht eingeladen</color> diesem Clan beizutreten!</color>",
         "en-US": "[grey]You were [red]not invited</color> to join this clan!</color>"
@@ -106,5 +106,21 @@
     "CLAN.command.leave.error.not.in.clan": {
         "de-DE": "[grey]Du bist [red]in keinem</color> Clan!</color>",
         "en-US": "[grey]You are [red]not in</color> a clan!</color>"
+    },
+    "CLAN.command.kick.error.not.in.clan": {
+        "de-DE": "[grey][era_purple][player]</color> ist [red]nicht</color> in deinem Clan!</color>",
+        "en-US": "[grey][era_purple][player]</color> is [red]not</color> in your clan!</color>"
+    },
+    "CLAN.command.kick.error.no.permission": {
+        "de-DE": "[grey]Du musst der Clan [red]Owner</color> oder ein Clan <red>Admin</color> sein um das zu tun!</color>",
+        "en-US": "[grey]You must be the clan [red]owner</color> or a clan <red>admin</color> to do that!</color>"
+    },
+    "CLAN.command.kick.success": {
+        "de-DE": "[grey]Du hast [era_purple][player]</color> [green]erfolgreich</color> aus deinem Clan gekickt!</color>",
+        "en-US": "[grey]You have successfully kicked [era_purple][player]</color> from your clan!</color>"
+    },
+    "CLAN.kick.info": {
+        "de-DE": "[grey][era_purple][player]</color> hat dich aus dem Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) gekickt!</color>",
+        "en-US": "[grey][era_purple][player]</color> has kicked you from the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>)!</color>"
     }
 }
