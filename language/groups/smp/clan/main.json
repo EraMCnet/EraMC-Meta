@@ -122,5 +122,25 @@
     "CLAN.kick.info": {
         "de-DE": "[grey][era_purple][player]</color> hat dich aus dem Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) gekickt!</color>",
         "en-US": "[grey][era_purple][player]</color> has kicked you from the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>)!</color>"
+    },
+    "CLAN.command.role.error.not.in.clan": {
+        "de-DE": "[grey][era_purple][player]</color> ist [red]nicht</color> in deinem Clan!</color>",
+        "en-US": "[grey][era_purple][player]</color> is [red]not</color> in your clan!</color>"
+    },
+    "CLAN.command.role.error.invalid.role": {
+        "de-DE": "[grey]Die Rolle [red][role]</color> ist ungültig! Gültige Rollen sind: [era_purple]Admin, Member</color>!</color>",
+        "en-US": "[grey]The role [red][role]</color> is invalid! Valid roles are: [era_purple]Admin, Member</color>!</color>"
+    },
+    "CLAN.command.role.error.no.permission": {
+        "de-DE": "[grey]Du musst der Clan [red]Owner</color> sein um das zu tun!</color>",
+        "en-US": "[grey]You must be the clan [red]owner</color> to do that!</color>"
+    },
+    "CLAN.command.role.error.self": {
+        "de-DE": "[grey]Du kannst deine eigene Rolle [red]nicht ändern!</color></color>",
+        "en-US": "[grey]You [red]can't change</color> your own role!</color>"
+    },
+    "CLAN.command.role.success": {
+        "de-DE": "[grey]Du hast die Rolle von [era_purple][player]</color> zu [era_purple][role]</color> geändert!</color>",
+        "en-US": "[grey]You have changed the role of [era_purple][player]</color> to [era_purple][role]!</color></color>"
     }
 }
