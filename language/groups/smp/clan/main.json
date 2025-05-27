@@ -11,7 +11,7 @@
         "de-DE": "[grey]Der Clan Tag darf [red]nicht länger</color> als [era_purple]12 Zeichen</color> sein!</color>",
         "en-US": "[grey]The clan tag [red]can't be longer</color> than [era_purple]12 characters!</color></color>"
     },
-    "CLAN.command.create.error.already.in.clan": {
+    "CLAN.error.already.in.clan": {
         "de-DE": "[grey]Du [red]bist bereits</color> in einem Clan!</color>",
         "en-US": "[grey]You [red]are already</color> in a clan!</color>"
     },
@@ -94,5 +94,17 @@
     "CLAN.command.create.error.tag.blacklisted": {
         "de-DE": "[grey]Dein Clan Tag enthält ein [red]Verbotenes Wort!</color> Wenn du denkst, dass das ein [red]Fehler</color> ist, kontaktiere unseren Support ([era_purple]/discord</color>).</color>",
         "en-US": "[grey]Your clan tag contains a [red]blacklisted word!</color> If you think this is a [red]mistake</color>, please contact our support ([era_purple]/discord</color>).</color>"
+    },
+    "CLAN.command.leave.error.owner": {
+        "de-DE": "[grey]Du kannst den Clan [red]nicht verlassen</color>, da du der Clan Leader bist! Bitte lösche den Clan stattdessen!</color>",
+        "en-US": "[grey]You can't leave the clan, because you are the clan leader! Please delete the clan instead!</color>"
+    },
+    "CLAN.command.leave.success": {
+        "de-DE": "[grey]Du hast den Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) [green]erfolgreich</color> verlassen!</color>",
+        "en-US": "[grey]You have successfully left the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>)!</color>"
+    },
+    "CLAN.command.leave.error.not.in.clan": {
+        "de-DE": "[grey]Du bist [red]in keinem</color> Clan!</color>",
+        "en-US": "[grey]You are [red]not in</color> a clan!</color>"
     }
 }
