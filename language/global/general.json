@@ -262,5 +262,9 @@
     "FEATURE.bedrock.not.available": {
         "de-DE": "[grey]Diese Funktion ist [red]nicht</color> für die Bedrock Edition verfügbar!</color>",
         "en-US": "[grey]This feature is [red]not</color> available for the Bedrock Edition!</color>"
+    },
+    "COMMAND.cooldown": {
+        "de-DE": "[grey]Du musst [red][time]</color> warten, bevor du diesen [era_purple]Command</color> erneut verwenden kannst!</color>",
+        "en-US": "[grey]You have to wait [red][time]</color> before you can use this [era_purple]command</color> again!</color>"
     }
 }
