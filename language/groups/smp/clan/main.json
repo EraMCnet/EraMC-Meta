@@ -182,5 +182,41 @@
     "CLAN.command.home.teleport.cooldown": {
         "de-DE": "[grey]ᴅᴜ ᴡɪʀꜱᴛ ɪɴ [era_purple][duration] ꜱᴇᴋᴜɴᴅᴇɴ</color> ᴛᴇʟᴇᴘᴏʀᴛɪᴇʀᴛ</color>",
         "en-US": "[grey]ʏᴏᴜ ᴀʀᴇ ɢᴏɪɴɢ ᴛᴏ ʙᴇ ᴛᴇʟᴇᴘᴏʀᴛᴇᴅ ɪɴ [era_purple][duration] ꜱᴇᴄᴏɴᴅꜱ</color></color>"
+    },
+    "CLAN.command.setting.name.error.not.in.clan": {
+        "de-DE": "[grey]Du bist [red]in keinem</color> Clan!</color>",
+        "en-US": "[grey]You are [red]not in</color> a clan!</color>"
+    },
+    "CLAN.command.setting.name.error.no.permission": {
+        "de-DE": "[grey]Du musst der Clan [red]Owner</color> sein um das zu tun!</color>",
+        "en-US": "[grey]You must be the clan [red]owner</color> to do that!</color>"
+    },
+    "CLAN.command.setting.name.success": {
+        "de-DE": "[grey]Du hast den Clan Namen erfolgreich auf [era_purple][name]</color> geändert!</color>",
+        "en-US": "[grey]You have successfully changed the clan name to [era_purple][name]</color>!</color>"
+    },
+    "CLAN.command.setting.tagline.error.not.in.clan": {
+        "de-DE": "[grey]Du bist [red]in keinem</color> Clan!</color>",
+        "en-US": "[grey]You are [red]not in</color> a clan!</color>"
+    },
+    "CLAN.command.setting.tagline.error.no.permission": {
+        "de-DE": "[grey]Du musst der Clan [red]Owner</color> sein um das zu tun!</color>",
+        "en-US": "[grey]You must be the clan [red]owner</color> to do that!</color>"
+    },
+    "CLAN.command.setting.tagline.success": {
+        "de-DE": "[grey]Du hast die Clan Tagline erfolgreich auf [era_purple]#[tagline]</color> geändert!</color>",
+        "en-US": "[grey]You have successfully changed the clan tagline to [era_purple]#[tagline]</color>!</color>"
+    },
+    "CLAN.command.setting.tag.error.not.in.clan": {
+        "de-DE": "[grey]Du bist [red]in keinem</color> Clan!</color>",
+        "en-US": "[grey]You are [red]not in</color> a clan!</color>"
+    },
+    "CLAN.command.setting.tag.error.no.permission": {
+        "de-DE": "[grey]Du musst der Clan [red]Owner</color> sein um das zu tun!</color>",
+        "en-US": "[grey]You must be the clan [red]owner</color> to do that!</color>"
+    },
+    "CLAN.command.setting.tag.success": {
+        "de-DE": "[grey]Du hast den Clan Tag erfolgreich auf [era_purple][tag]</color> geändert!</color>",
+        "en-US": "[grey]You have successfully changed the clan tag to [era_purple][tag]</color>!</color>"
     }
 }
