@@ -170,5 +170,17 @@
     "CLAN.command.home.teleport.error": {
         "de-DE": "[grey]Beim Teleportieren ist ein [red]Fehler</color> aufgetreten! Bitte kontaktiere unseren Support ([era_purple]/discord</color>).</color>",
         "en-US": "[grey]An error occurred while teleporting! Please contact our support ([era_purple]/discord</color>).</color>"
+    },
+    "CLAN.command.home.teleport.teleport.error.move": {
+        "de-DE": "[grey]Der Teleportationsvorgang wurde [red]abgebrochen,</color> da du dich bewegt hast!</color>",
+        "en-US": "[grey]The teleportation process was [red]cancelled</color> because you moved!</color>"
+    },
+    "CLAN.command.home.teleport.actionbar.cancelled": {
+        "de-DE": "[red]ᴅᴇʀ ᴛᴇʟᴇᴘᴏʀᴛ ᴡᴜʀᴅᴇ ᴀʙɢᴇʙʀᴏᴄʜᴇɴ</color>",
+        "en-US": "[red]ᴛʜᴇ ᴛᴇʟᴇᴘᴏʀᴛ ᴡᴀꜱ ᴄᴀɴᴄᴇʟʟᴇᴅ</color>"
+    },
+    "CLAN.command.home.teleport.cooldown": {
+        "de-DE": "[grey]ᴅᴜ ᴡɪʀꜱᴛ ɪɴ [era_purple][duration] ꜱᴇᴋᴜɴᴅᴇɴ</color> ᴛᴇʟᴇᴘᴏʀᴛɪᴇʀᴛ</color>",
+        "en-US": "[grey]ʏᴏᴜ ᴀʀᴇ ɢᴏɪɴɢ ᴛᴏ ʙᴇ ᴛᴇʟᴇᴘᴏʀᴛᴇᴅ ɪɴ [era_purple][duration] ꜱᴇᴄᴏɴᴅꜱ</color></color>"
     }
 }
