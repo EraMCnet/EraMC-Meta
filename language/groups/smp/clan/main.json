@@ -154,5 +154,21 @@
     "CLAN.command.sethome.error.no.permission": {
         "de-DE": "[grey]Du musst der Clan [red]Owner</color> sein um das zu tun!</color>",
         "en-US": "[grey]You must be the clan [red]owner</color> to do that!</color>"
+    },
+    "CLAN.command.home.success.teleport": {
+        "de-DE": "[grey]Du wurdest zum [era_purple]Clan Home</color> teleportiert!</color>",
+        "en-US": "[grey]You have been teleported to the [era_purple]clan home</color>!</color>"
+    },
+    "CLAN.command.home.error.not.in.clan": {
+        "de-DE": "[grey]Du bist [red]in keinem</color> Clan!</color>",
+        "en-US": "[grey]You are [red]not in</color> a clan!</color>"
+    },
+    "CLAN.command.home.error.no.home": {
+        "de-DE": "[grey]Dein Clan hat kein [era_purple]Clan Home</color> gesetzt!</color>",
+        "en-US": "[grey]Your clan has no [era_purple]clan home</color> set!</color>"
+    },
+    "CLAN.command.home.teleport.error": {
+        "de-DE": "[grey]Beim Teleportieren ist ein [red]Fehler</color> aufgetreten! Bitte kontaktiere unseren Support ([era_purple]/discord</color>).</color>",
+        "en-US": "[grey]An error occurred while teleporting! Please contact our support ([era_purple]/discord</color>).</color>"
     }
 }
