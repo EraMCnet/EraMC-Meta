@@ -16,7 +16,7 @@
         "en-US": "<br><i:false>[red][ROUNDDOT]</color> [grey]Click to [red]cancel</color></color><br>"
     },
     "CLAN.gui.confirm.create.confirm.lore": {
-        "de-DE": "<br><i:false>[green][ARROW]</color> [grey]Das erstellen eines Clans kostet [gem_purple]250 Gems</color><br><i:false>[green][ROUNDDOT]</color> [grey]Klicke zum [green]bestätigen</color></color><br>",
+        "de-DE": "<br><i:false>[green][ARROW]</color> [grey]Das Erstellen eines Clans kostet [gem_purple]250 Gems</color><br><i:false>[green][ROUNDDOT]</color> [grey]Klicke zum [green]bestätigen</color></color><br>",
         "en-US": "<br><i:false>[green][ARROW]</color> [grey]Creating a clan costs [gem_purple]250 Gems</color><br><i:false>[green][ROUNDDOT]</color> [grey]Click to [green]confirm</color></color><br>"
     },
     "CLAN.gui.confirm.create.click.no.money": {
