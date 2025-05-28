@@ -142,5 +142,17 @@
     "CLAN.command.role.success": {
         "de-DE": "[grey]Du hast die Rolle von [era_purple][player]</color> auf [era_purple][role]</color> gesetzt!</color>",
         "en-US": "[grey]You have set the role of [era_purple][player]</color> to [era_purple][role]!</color></color>"
+    },
+    "CLAN.command.sethome.success": {
+        "de-DE": "[grey]Du hast das [era_purple]Clan Home</color> erfolgreich auf deine [era_purple]aktuelle Position</color> gesetzt!</color>",
+        "en-US": "[grey]You have successfully set the [era_purple]clan home</color> to your [era_purple]current position!</color></color>"
+    },
+    "CLAN.command.sethome.error.not.in.clan": {
+        "de-DE": "[grey]Du bist [red]in keinem</color> Clan!</color>",
+        "en-US": "[grey]You are [red]not in</color> a clan!</color>"
+    },
+    "CLAN.command.sethome.error.no.permission": {
+        "de-DE": "[grey]Du musst der Clan [red]Owner</color> sein um das zu tun!</color>",
+        "en-US": "[grey]You must be the clan [red]owner</color> to do that!</color>"
     }
 }
