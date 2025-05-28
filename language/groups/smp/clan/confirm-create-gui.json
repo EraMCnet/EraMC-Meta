@@ -1,25 +1,25 @@
 {
-    "CLANS.gui.confirm.create.title": {
+    "CLAN.gui.confirm.create.title": {
         "de-DE": "<i:false>ᴄʟᴀɴ ᴇʀꜱᴛᴇʟʟᴇɴ",
         "en-US": "<i:false>ᴄʀᴇᴀᴛᴇ ᴄʟᴀɴ"
     },
-    "CLANS.gui.confirm.create.confirm": {
+    "CLAN.gui.confirm.create.confirm": {
         "de-DE": "<i:false>[green]ʙᴇꜱᴛäᴛɪɢᴇɴ</color>",
         "en-US": "<i:false>[green]ᴄᴏɴꜰɪʀᴍ</color>"
     },
-    "CLANS.gui.confirm.create.cancel": {
+    "CLAN.gui.confirm.create.cancel": {
         "de-DE": "<i:false>[red]ᴀʙʙʀᴇᴄʜᴇɴ</color>",
         "en-US": "<i:false>[red]ᴄᴀɴᴄᴇʟ</color>"
     },
-    "CLANS.gui.confirm.create.cancel.lore": {
+    "CLAN.gui.confirm.create.cancel.lore": {
         "de-DE": "<br><i:false>[red][ROUNDDOT]</color> [grey]Klicke zum [red]abbrechen</color></color><br>",
         "en-US": "<br><i:false>[red][ROUNDDOT]</color> [grey]Click to [red]cancel</color></color><br>"
     },
-    "CLANS.gui.confirm.create.confirm.lore": {
+    "CLAN.gui.confirm.create.confirm.lore": {
         "de-DE": "<br><i:false>[green][ARROW]</color> [grey]Das erstellen eines Clans kostet [gem_purple]250 Gems</color><br><i:false>[green][ROUNDDOT]</color> [grey]Klicke zum [green]bestätigen</color></color><br>",
         "en-US": "<br><i:false>[green][ARROW]</color> [grey]Creating a clan costs [gem_purple]250 Gems</color><br><i:false>[green][ROUNDDOT]</color> [grey]Click to [green]confirm</color></color><br>"
     },
-    "CLANS.gui.confirm.create.click.no.money": {
+    "CLAN.gui.confirm.create.click.no.money": {
         "de-DE": "<i:false>[red]Du hast [red]nicht</color> genug [gem_purple]Gems</color> um einen [era_purple]Clan</color> zu erstellen!</color>",
         "en-US": "<i:false>[red]You [red]do not</color> have enough [gem_purple]Gems</color> to create a [era_purple]Clan!</color></color>"
     },
