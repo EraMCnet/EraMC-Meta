@@ -287,5 +287,13 @@
     "STAT.gui.display.stat.30d": {
         "de-DE": "<!i>[era_purple]<b>Letzte 30 Tage</color>",
         "en-US": "<!i>[era_purple]<b>Last 30 Days</color>"
+    },
+    "STAT.command.no.stats.self": {
+        "de-DE": "[grey]Du hast noch [red]keine Statistiken!</color></color>",
+        "en-US": "[grey]You have [red]no statistics!</color</color>"
+    },
+    "STAT.command.no.stats": {
+        "de-DE": "[grey][era_purple][player]</color> hat noch [red]keine Statistiken!</color></color>",
+        "en-US": "[grey][era_purple][player]</color> has [red]no statistics!</color></color>"
     }
 }
