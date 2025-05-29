@@ -26,5 +26,9 @@
     "CLAN.gui.confirm.transfer.click.success": {
         "de-DE": "[grey]Du hast den Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) [green]erfolgreich</color> an [era_purple][player]</color> übertragen!</color>",
         "en-US": "[grey]You have successfully transferred the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) to [era_purple][player]!</color></color>"
+    },
+    "CLAN.gui.confirm.transfer.click.success.target": {
+        "de-DE": "[grey][era_purple][player]</color> hat den Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) an dich übertragen!</color>",
+        "en-US": "[grey][era_purple][player]</color> has transferred the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) to you!</color></color>"
     }
 }
