@@ -242,5 +242,9 @@
     "CLAN.command.transfer.error.no.permission": {
         "de-DE": "[grey]Du musst der Clan [red]Owner</color> sein um das zu tun!</color>",
         "en-US": "[grey]You must be the clan [red]owner</color> to do that!</color>"
+    },
+    "CLAN.command.transfer.error.player.already.in.clan": {
+        "de-DE": "[grey][era_purple][player]</color> ist [red]bereits</color> in einem Clan!</color>",
+        "en-US": "[grey][era_purple][player]</color> is [red]already</color> in a clan!</color>"
     }
 }
