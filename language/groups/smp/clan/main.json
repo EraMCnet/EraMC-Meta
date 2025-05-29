@@ -167,6 +167,10 @@
         "de-DE": "[grey]Du musst der Clan [red]Owner</color> sein um das zu tun!</color>",
         "en-US": "[grey]You must be the clan [red]owner</color> to do that!</color>"
     },
+    "CLAN.command.delhome.error.no.home": {
+        "de-DE": "[grey]Dein Clan hat kein [era_purple]Clan Home</color> gesetzt!</color>",
+        "en-US": "[grey]Your clan has no [era_purple]clan home</color> set!</color>"
+    },
     "CLAN.command.home.success.teleport": {
         "de-DE": "[grey]Du wurdest zum [era_purple]Clan Home</color> teleportiert!</color>",
         "en-US": "[grey]You have been teleported to the [era_purple]clan home</color>!</color>"
