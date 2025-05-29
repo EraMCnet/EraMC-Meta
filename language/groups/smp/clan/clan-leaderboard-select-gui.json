@@ -1,0 +1,29 @@
+{
+    "CLAN.gui.leaderboard.select.title": {
+        "de-DE": "<!i>ᴄʟᴀɴ ʙᴇꜱᴛᴇɴʟɪꜱᴛᴇɴ",
+        "en-US": "<!i>ᴄʟᴀɴ ʟᴇᴀᴅᴇʀʙᴏᴀʀᴅꜱ"
+    },
+    "CLAN.gui.leaderboard.select.kills": {
+        "de-DE": "<!i>[red]<b>TOP KILLS</b></color>",
+        "en-US": "<!i>[red]<b>TOP KILLS</b></color>"
+    },
+    "CLAN.gui.leaderboard.select.deaths": {
+        "de-DE": "<!i>[darker_red]<b>TOP DEATHS</b></color>",
+        "en-US": "<!i>[darker_red]<b>TOP DEATHS</b></color>"
+    },
+    "CLAN.gui.leaderboard.select.money": {
+        "de-DE": "<!i>[yellow]<b>TOP MONEY</b></color>",
+        "en-US": "<!i>[gold]<b>TOP MONEY</b></color>"
+    },
+    "CLAN.gui.leaderboard.select.gems": {
+        "de-DE": "<!i>[gem_purple]<b>TOP GEMS</b></color>",
+        "en-US": "<!i>[gem_purple]<b>TOP GEMS</b></color>"
+    },
+    "CLAN.gui.leaderboard.select.playtime": {
+        "de-DE": "<!i>[green]<b>TOP PLAYTIME</b></color>",
+        "en-US": "<!i>[green]<b>TOP PLAYTIME</b></color>"
+    },
+    "CLAN.gui.leaderboard.select.kills.lore": {
+        "de-DE": ""
+    }
+}
