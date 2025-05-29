@@ -71,6 +71,14 @@
         "de-DE": "[grey]Du wurdest [red]nicht eingeladen</color> diesem Clan beizutreten!</color>",
         "en-US": "[grey]You were [red]not invited</color> to join this clan!</color>"
     },
+    "CLAN.command.invite.remove": {
+        "de-DE": "[grey]Du hast die Einladung von [era_purple][player]</color> zum Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) [green]erfolgreich</color> entfernt!</color>",
+        "en-US": "[grey]You have successfully removed the invitation of [era_purple][player]</color> to the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>)!</color>"
+    },
+    "CLAN.command.invite.remove.error.not.invited": {
+        "de-DE": "[grey][era_purple][player]</color> ist [red]nicht</color> eingeladen dem Clan beizutreten!</color>",
+        "en-US": "[grey][era_purple][player]</color> is [red]not</color> invited to join the clan!</color>"
+    },
     "CLAN.command.create.error.name.unicode": {
         "de-DE": "[grey]Der Clan Name darf [red]keine</color> Unicode Zeichen enthalten!</color>",
         "en-US": "[grey]The clan name [red]can't contain</color> unicode characters!</color>"
