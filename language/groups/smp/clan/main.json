@@ -234,5 +234,13 @@
     "CLAN.command.setting.tag.success": {
         "de-DE": "[grey]Du hast den [era_purple]Clan Tag</color> erfolgreich auf [era_purple][tag]</color> geändert!</color>",
         "en-US": "[grey]You have successfully changed the [era_purple]clan tag</color> to [era_purple][tag]</color>!</color>"
+    },
+    "CLAN.command.transfer.error.not.in.clan": {
+        "de-DE": "[grey]Du bist [red]in keinem</color> Clan!</color>",
+        "en-US": "[grey]You are [red]not in</color> a clan!</color>"
+    },
+    "CLAN.command.transfer.error.no.permission": {
+        "de-DE": "[grey]Du musst der Clan [red]Owner</color> sein um das zu tun!</color>",
+        "en-US": "[grey]You must be the clan [red]owner</color> to do that!</color>"
     }
 }
