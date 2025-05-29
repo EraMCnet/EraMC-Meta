@@ -18,9 +18,5 @@
     "CLAN.gui.confirm.delete.confirm.lore": {
         "de-DE": "<br><i:false>[green][ROUNDDOT]</color> [grey]Klicke zum [green]bestätigen</color></color><br>",
         "en-US": "<br><<i:false>[green][ROUNDDOT]</color> [grey]Click to [green]confirm</color></color><br>"
-    },
-    "CLAN.gui.confirm.delete.click.success": {
-        "de-DE": "[grey]Du hast den Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) [green]erfolgreich</color> erstellt!</color>",
-        "en-US": "[grey]You have successfully deleted the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>)!</color>"
     }
 }
