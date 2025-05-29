@@ -135,6 +135,10 @@
         "de-DE": "[grey]Du musst der Clan [red]Owner</color> sein um das zu tun!</color>",
         "en-US": "[grey]You must be the clan [red]owner</color> to do that!</color>"
     },
+    "CLAN.command.kick.error.owner": {
+        "de-DE": "[grey]Du kannst den Clan [red]Owner</color> nicht kicken!</color>",
+        "en-US": "[grey]You can't kick the clan [red]owner</color>!</color>"
+    },
     "CLAN.command.role.error.self": {
         "de-DE": "[grey]Du kannst deine eigene Rolle [red]nicht ändern!</color></color>",
         "en-US": "[grey]You [red]can't change</color> your own role!</color>"
