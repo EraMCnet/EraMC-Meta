@@ -1,0 +1,42 @@
+{
+    "STAT.gui.display.lore.24h": {
+        "de-DE": "<br><!i>[grey][era_purple][ARROW]</color> Letzte 24 Stunden: [era_purple][statistic]</color></b>",
+        "en-US": "<br><!i>[grey][era_purple][ARROW]</color> Last 24 hours: [era_purple][statistic]</color></b>"
+    },
+    "STAT.gui.display.lore.7d": {
+        "de-DE": "<br><!i>[grey][era_purple][ARROW]</color> Letzte 7 Tage: [era_purple][statistic]</color></b>",
+        "en-US": "<br><!i>[grey][era_purple][ARROW]</color> Last 7 days: [era_purple][statistic]</color></b>"
+    },
+    "STAT.gui.display.lore.14d": {
+        "de-DE": "<br><!i>[grey][era_purple][ARROW]</color> Letzte 14 Tage: [era_purple][statistic]</color></b>",
+        "en-US": "<br><!i>[grey][era_purple][ARROW]</color> Last 14 days: [era_purple][statistic]</color></b>"
+    },
+    "STAT.gui.display.lore.30d": {
+        "de-DE": "<br><!i>[grey][era_purple][ARROW]</color> Letzte 30 Tage: [era_purple][statistic]</color></b>",
+        "en-US": "<br><!i>[grey][era_purple][ARROW]</color> Last 30 days: [era_purple][statistic]</color></b>"
+    },
+    "STAT.gui.display.lore.alltime": {
+        "de-DE": "<br><!i>[grey][era_purple][ARROW]</color> Insgesamt: [era_purple][statistic]</color></b>",
+        "en-US": "<br><!i>[grey][era_purple][ARROW]</color> All time: [era_purple][statistic]</color></b>"
+    },
+    "STAT.gui.display.stat.24h": {
+        "de-DE": "<!i>[era_purple]Letzte 24 Stunden</color>",
+        "en-US": "<!i>[era_purple]Last 24 Hours</color>"
+    },
+    "STAT.gui.display.stat.7d": {
+        "de-DE": "<!i>[era_purple]Letzte 7 Tage</color>",
+        "en-US": "<!i>[era_purple]Last 7 Days</color>"
+    },
+    "STAT.gui.display.stat.14d": {
+        "de-DE": "<!i>[era_purple]Letzte 14 Tage</color>",
+        "en-US": "<!i>[era_purple]Last 14 Days</color>"
+    },
+    "STAT.gui.display.stat.30d": {
+        "de-DE": "<!i>[era_purple]Letzte 30 Tage</color>",
+        "en-US": "<!i>[era_purple]Last 30 Days</color>"
+    },
+    "STAT.gui.display.stat.alltime": {
+        "de-DE": "<!i>[era_purple]Gesamt</color>",
+        "en-US": "<!i>[era_purple]Alltime</color>"
+    }
+}
