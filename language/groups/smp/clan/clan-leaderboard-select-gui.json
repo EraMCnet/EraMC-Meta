@@ -22,8 +22,5 @@
     "CLAN.gui.leaderboard.select.playtime": {
         "de-DE": "<!i>[green]<b>TOP PLAYTIME</b></color>",
         "en-US": "<!i>[green]<b>TOP PLAYTIME</b></color>"
-    },
-    "CLAN.gui.leaderboard.select.kills.lore": {
-        "de-DE": ""
     }
 }
