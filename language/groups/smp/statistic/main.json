@@ -41,7 +41,7 @@
     },
     "STAT.gui.select.stat.mobs-killed": {
         "de-DE": "<!i>[darker_red]<b>MOBS GETÖTET</color>",
-        "en-US": "<!is>[darker_redred]<b>MOBS KILLED</color>"
+        "en-US": "<!i>[darker_red]<b>MOBS KILLED</color>"
     },
     "STAT.gui.select.stat.jumps": {
         "de-DE": "<!i>[orange]<b>SPRÜNGE</color>",
