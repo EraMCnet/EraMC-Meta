@@ -12,8 +12,8 @@
         "en-US": "<!i>[darker_red]<b>TOP DEATHS</b></color>"
     },
     "CLAN.gui.leaderboard.select.money": {
-        "de-DE": "<!i>[yellow]<b>TOP MONEY</b></color>",
-        "en-US": "<!i>[gold]<b>TOP MONEY</b></color>"
+        "de-DE": "<!i><gold><b>TOP MONEY</b></gold>",
+        "en-US": "<!i><gold><b>TOP MONEY</b></gold>"
     },
     "CLAN.gui.leaderboard.select.gems": {
         "de-DE": "<!i>[gem_purple]<b>TOP GEMS</b></color>",

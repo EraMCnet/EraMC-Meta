@@ -12,12 +12,12 @@
         "en-US": "<!i>[red]<b>DEATHS</color>"
     },
     "STAT.gui.select.stat.money-earned": {
-        "de-DE": "<!i>[yellow]<b>GELD VERDIENT</color>",
-        "en-US": "<!i>[yellow]<b>MONEY EARNED</color>"
+        "de-DE": "<!i><gold><b>GELD VERDIENT</gold>",
+        "en-US": "<!i><gold><b>MONEY EARNED</gold>"
     },
     "STAT.gui.select.stat.money-spent": {
-        "de-DE": "<!i>[yellow]<b>GELD AUSGEGEBEN</color>",
-        "en-US": "<!i>[yellow]<b>MONEY SPENT</color>"
+        "de-DE": "<!i><gold><b>GELD AUSGEGEBEN</gold>",
+        "en-US": "<!i><gold><b>MONEY SPENT</gold>"
     },
     "STAT.gui.select.stat.gems-earned": {
         "de-DE": "<!i>[gem_purple]<b>GEMS VERDIENT</color>",
