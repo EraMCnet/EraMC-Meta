@@ -56,55 +56,55 @@
         "en-US": "<!i>[pastel_red]<b>DAMAGE DEALT</color>"
     },
     "STAT.name.kills": {
-        "de-DE": "<!i>kills",
-        "en-US": "<!i>kills"
+        "de-DE": "kills",
+        "en-US": "kills"
     } ,
     "STAT.name.deaths": {
-        "de-DE": "<!i>tode",
-        "en-US": "<!i>deaths"
+        "de-DE": "tode",
+        "en-US": "deaths"
     },
     "STAT.name.money-earned": {
-        "de-DE": "<!i>verdientes geld",
-        "en-US": "<!i>earned money"
+        "de-DE": "verdientes geld",
+        "en-US": "earned money"
     },
     "STAT.name.money-spent": {
-        "de-DE": "<!i>ausgegebenes geld",
-        "en-US": "<!i>spent money"
+        "de-DE": "ausgegebenes geld",
+        "en-US": "spent money"
     },
     "STAT.name.gems-earned": {
-        "de-DE": "<!i>verdiente gems",
-        "en-US": "<!i>earned gems"
+        "de-DE": "verdiente gems",
+        "en-US": "earned gems"
     },
     "STAT.name.gems-spent": {
-        "de-DE": "<!i>ausgegebene gems",
-        "en-US": "<!i>spent gems"
+        "de-DE": "ausgegebene gems",
+        "en-US": "spent gems"
     },
     "STAT.name.playtime": {
-        "de-DE": "<!i>spielzeit",
-        "en-US": "<!i>playtime"
+        "de-DE": "spielzeit",
+        "en-US": "playtime"
     },
     "STAT.name.blocks-mined": {
-        "de-DE": "<!i>abgebaute blöcke",
-        "en-US": "<!i>blocks mined"
+        "de-DE": "abgebaute blöcke",
+        "en-US": "blocks mined"
     },
     "STAT.name.blocks-placed": {
-        "de-DE": "<!i>platzierte blöcke",
-        "en-US": "<!i>blocks placed"
+        "de-DE": "platzierte blöcke",
+        "en-US": "blocks placed"
     },
     "STAT.name.mobs-killed": {
-        "de-DE": "<!i>getötete mobs",
-        "en-US": "<!i>mobs killed"
+        "de-DE": "getötete mobs",
+        "en-US": "mobs killed"
     },
     "STAT.name.jumps": {
-        "de-DE": "<!i>sprünge",
-        "en-US": "<!i>jumps"
+        "de-DE": "sprünge",
+        "en-US": "jumps"
     },
     "STAT.name.damage-taken": {
-        "de-DE": "<!i>erhaltener schaden",
-        "en-US": "<!i>damage taken"
+        "de-DE": "erhaltener schaden",
+        "en-US": "damage taken"
     },
     "STAT.name.damage-dealt": {
-        "de-DE": "<!i>verursachter schaden",
-        "en-US": "<!i>damage dealt"
+        "de-DE": "verursachter schaden",
+        "en-US": "damage dealt"
     }
 }
