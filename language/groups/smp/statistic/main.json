@@ -49,10 +49,62 @@
     },
     "STAT.gui.select.stat.damage-taken": {
         "de-DE": "<!i>[pastel_red]<b>SCHADEN ERHALTEN</color>",
-        "en-US": "<!i>[pastel_red]<b>DEATHS</color>"
+        "en-US": "<!i>[pastel_red]<b>DAMAGE TAKEN</color>"
     },
     "STAT.gui.select.stat.damage-dealt": {
         "de-DE": "<!i>[pastel_red]<b>SCHADEN VERURSACHT</color>",
         "en-US": "<!i>[pastel_red]<b>DAMAGE DEALT</color>"
+    },
+    "STAT.name.kills": {
+        "de-DE": "<!i>kills",
+        "en-US": "<!i>kills"
+    } ,
+    "STAT.name.deaths": {
+        "de-DE": "<!i>tode",
+        "en-US": "<!i>deaths"
+    },
+    "STAT.name.money-earned": {
+        "de-DE": "<!i>verdientes geld",
+        "en-US": "<!i>earned money"
+    },
+    "STAT.name.money-spent": {
+        "de-DE": "<!i>ausgegebenes geld",
+        "en-US": "<!i>spent money"
+    },
+    "STAT.name.gems-earned": {
+        "de-DE": "<!i>verdiente gems",
+        "en-US": "<!i>earned gems"
+    },
+    "STAT.name.gems-spent": {
+        "de-DE": "<!i>ausgegebene gems",
+        "en-US": "<!i>spent gems"
+    },
+    "STAT.name.playtime": {
+        "de-DE": "<!i>spielzeit",
+        "en-US": "<!i>playtime"
+    },
+    "STAT.name.blocks-mined": {
+        "de-DE": "<!i>abgebaute blöcke",
+        "en-US": "<!i>blocks mined"
+    },
+    "STAT.name.blocks-placed": {
+        "de-DE": "<!i>platzierte blöcke",
+        "en-US": "<!i>blocks placed"
+    },
+    "STAT.name.mobs-killed": {
+        "de-DE": "<!i>getötete mobs",
+        "en-US": "<!i>mobs killed"
+    },
+    "STAT.name.jumps": {
+        "de-DE": "<!i>sprünge",
+        "en-US": "<!i>jumps"
+    },
+    "STAT.name.damage-taken": {
+        "de-DE": "<!i>erhaltener schaden",
+        "en-US": "<!i>damage taken"
+    },
+    "STAT.name.damage-dealt": {
+        "de-DE": "<!i>verursachter schaden",
+        "en-US": "<!i>damage dealt"
     }
 }
