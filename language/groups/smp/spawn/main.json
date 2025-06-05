@@ -4,8 +4,8 @@
         "en-US": "[grey]Currently, there are no [era_purple]spawn points</color> available. Please create a [era_purple]ticket</color> on our [era_purple]Discord server</color> ([era_purple]/discord</color>)!</color>"
     },
     "SPAWN.teleport.success": {
-        "de-DE": "[grey]Du wurdest zu Spawn [era_purple][spawn]</color> teleportiert!</color>",
-        "en-US": "[grey]You have been teleported to spawn [era_purple][spawn]!</color></color>"
+        "de-DE": "[grey]Du wurdest zu [era_purple][spawn]</color> teleportiert!</color>",
+        "en-US": "[grey]You have been teleported to [era_purple][spawn]!</color></color>"
     },
     "SPAWN.teleport.error": {
         "de-DE": "[grey]Beim Teleportieren ist ein [red]Fehler</color> aufgetreten! Bitte kontaktiere unseren Support ([era_purple]/discord</color>).</color>",
