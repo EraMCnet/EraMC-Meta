@@ -1,0 +1,25 @@
+{
+    "holo.npc.ah.spawn.1": {
+        "de-DE": "<b>[green]AUKTIONSHAUS</color></b><br>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ öꜰꜰɴᴇɴ</color>",
+        "en-US": "<b>[green]AUCTIONHOUSE</color></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ</color>",
+        "location": {
+            "x": 10381.500,
+            "y": 221,
+            "z": 20221.500,
+            "world": "world"
+        },
+        "yaw": "",
+        "pitch": "",
+        "alignment": "center",
+        "background": "TRANSPARENT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "vertical",
+        "default_background": "false",
+        "scale-x": "1.0",
+        "scale-y": "1.0",
+        "scale-z": "1.0"
+    }
+}
