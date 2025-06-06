@@ -132,8 +132,8 @@
         "en-US": "[grey][era_purple][player]</color> has kicked you from the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>)!</color>"
     },
     "CLAN.command.role.error.not.in.clan": {
-        "de-DE": "[grey][era_purple][player]</color> ist [red]nicht</color> in deinem Clan!</color>",
-        "en-US": "[grey][era_purple][player]</color> is [red]not</color> in your clan!</color>"
+        "de-DE": "[grey][era_purple][name]</color> ist [red]nicht</color> in deinem Clan!</color>",
+        "en-US": "[grey][era_purple][name]</color> is [red]not</color> in your clan!</color>"
     },
     "CLAN.command.role.error.invalid.role": {
         "de-DE": "[grey]Die Rolle [red][role]</color> ist ungültig! Gültige Rollen sind: [era_purple]Admin, Member</color></color>",
