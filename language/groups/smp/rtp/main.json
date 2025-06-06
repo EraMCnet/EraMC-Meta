@@ -186,5 +186,5 @@
     "RTP.queue.cooldown": {                                                             
         "de-DE": "[grey]Du musst noch [era_purple][duration]</color> warten, bevor du wieder in die [red]RTP Queue</color> kannst.</color>",
         "en-US": "[grey]You have to wait [era_purple][duration]</color> before you can go back in the [red]RTP Queue</color>.</color>"
-    }                                    
+    }                           
 }
