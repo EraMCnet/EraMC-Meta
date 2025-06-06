@@ -270,5 +270,21 @@
     "CLAN.error.tagline.taken": {
         "de-DE": "[grey]Die Clan Tagline [red][tagline]</color> ist bereits vergeben!</color>",
         "en-US": "[grey]The clan tagline [red][tagline]</color> is already taken!</color>"
+    },
+    "CLAN.command.setting.error.description.lenght": {
+        "de-DE": "[grey]Die Clan Beschreibung darf [red]nicht länger</color> als [era_purple]64 Zeichen</color> sein!</color>",
+        "en-US": "[grey]The clan description [red]can't be longer</color> than [era_purple]64 characters!</color></color>"
+    },
+    "CLAN.command.setting.error.description.unicode": {
+        "de-DE": "[grey]Die Clan Beschreibung darf [red]keine</color> Unicode Zeichen enthalten!</color>",
+        "en-US": "[grey]The clan description [red]can't contain</color> unicode characters!</color>"
+    },
+    "CLAN.command.setting.error.description.blacklisted": {
+        "de-DE": "[grey]Die Clan Beschreibung enthält ein [red]Verbotenes Wort!</color> Wenn du denkst, dass das ein [red]Fehler</color> ist, kontaktiere unseren Support ([era_purple]/discord</color>).</color>",
+        "en-US": "[grey]The clan description contains a [red]blacklisted word!</color> If you think this is a [red]mistake</color>, please contact our support ([era_purple]/discord</color>).</color>"
+    },
+    "CLAN.command.setting.description.success": {
+        "de-DE": "[grey]Du hast die [era_purple]Clan Beschreibung</color> erfolgreich auf [era_purple]\"[description]\"</color> geändert!</color>",
+        "en-US": "[grey]You have successfully changed the [era_purple]clan description</color> to [era_purple]\"[description]\"!</color></color>"
     }
 }
