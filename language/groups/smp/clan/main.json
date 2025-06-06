@@ -263,6 +263,10 @@
         "de-DE": "[grey][era_purple][player]</color> ist [red]bereits</color> in einem anderen Clan!</color>",
         "en-US": "[grey][era_purple][player]</color> is [red]already</color> in another clan!</color>"
     },
+    "CLAN.command.transfer.error.player.not.in.clan": {
+        "de-DE": "[grey][era_purple][player]</color> ist [red]nicht</color> in deinem Clan!</color>",
+        "en-US": "[grey][era_purple][player]</color> is [red]not</color> in your clan!</color>"
+    },
     "CLAN.error.name.taken": {
         "de-DE": "[grey]Der Clan Name [red][name]</color> ist bereits vergeben!</color>",
         "en-US": "[grey]The clan name [red][name]</color> is already taken!</color>"
