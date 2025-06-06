@@ -26,5 +26,9 @@
     "SPAWN.teleport.error.already.teleporting": {
         "de-DE": "[grey]Du wirst [red]bereits</color> teleportiert!</color>",
         "en-US": "[grey]You are [red]already</color> getting teleported!</color>"
+    },
+    "SPAWN.leave": {
+        "de-DE": "[grey]Drücke [era_purple]<key:key.sneak></color> für einen [era_purple]boost!</color></color>",
+        "en-US": "[grey]Press [era_purple]<key:key.sneak></color> for a [era_purple]boost!</color></color>"
     }
 }
