@@ -3,6 +3,10 @@
         "de-DE": "[grey]Du hast [yellow]$[bounty]</color> zum Kopfgeld von [yellow][player]</color> hinzugefügt.</color>",
         "en-US": "[grey]You added [yellow]$[bounty]</color> to the bounty of [yellow][player].</color></color>"
     },
+    "BOUNTY.add.error.min.50": {
+        "de-DE": "[grey]Das Kopfgeld muss mindestens [yellow]50$</color> betragen!</color>",
+        "en-US": "[grey]The bounty must be at least [yellow]$50!</color></color>"
+    },
     "BOUNTY.add.player": {
         "de-DE": "[grey][yellow][player]</color> hat [yellow]$[bounty]</color> Kopfgeld auf dich gesetzt!</color>",
         "en-US": "[grey][yellow][player]</color> has put [yellow]$[bounty]</color> bounty on you!</color>"
