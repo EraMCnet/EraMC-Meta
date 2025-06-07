@@ -1,0 +1,25 @@
+{
+    "holo.spawn.area.afk.spawn.1": {
+        "de-DE": "<b>[mint_green_dark]AFK BEREICH</color>",
+        "en-US": "<b>[mint_green_dark]AFK AREA</color>",
+        "location": {
+            "x": 20447.0,
+            "y": 221,
+            "z": 20255.0,
+            "world": "world"
+        },
+        "yaw": 146.0,
+        "pitch": 0.0,
+        "alignment": "center",
+        "background": "TRANSPARENT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "vertical",
+        "default_background": "false",
+        "scale-x": "1.0",
+        "scale-y": "1.0",
+        "scale-z": "1.0"
+    }
+}

@@ -44,5 +44,28 @@
         "scale-x": "1.0",
         "scale-y": "1.0",
         "scale-z": "1.0"
+    },
+    "holo.npc.keys.spawn.1": {
+        "de-DE": "<b>[purple]CRATE KEYS</color></b><br>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ öꜰꜰɴᴇɴ</color>",
+        "en-US": "<b>[purple]SHOP</color></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ</color>",
+        "location": {
+            "x": 20391.500,
+            "y": 221,
+            "z": 20277.500,
+            "world": "world"
+        },
+        "yaw": "",
+        "pitch": "",
+        "alignment": "center",
+        "background": "TRANSPARENT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "vertical",
+        "default_background": "false",
+        "scale-x": "1.0",
+        "scale-y": "1.0",
+        "scale-z": "1.0"
     }
 }
