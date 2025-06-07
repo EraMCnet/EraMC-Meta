@@ -1,13 +1,13 @@
 {
-    "ILLEGAL_CLIENT_MODIFICATIONS": {
-        "de-DE": "Illegale Client-Modifikationen",
-        "en-US": "Illegal Client Modifications",
+    "ILLEGAL_CLIENT_moODIFICATIONS": {
+        "de-DE": "Illegale Client-moodifikationen",
+        "en-US": "Illegal Client moodifications",
         "permission": "eramc.punish.ban.illegal_client_modifications",
         "type": ["ban"],
         "durations": [
-            "1M",
-            "3M",
-            "6M"
+            "1mo",
+            "3mo",
+            "6mo"
         ]
     },
     "OFFENSIVE_LANGUAGE": {
@@ -30,13 +30,13 @@
         "permission": "eramc.punish.ban.ns_ideology_content",
         "type": ["ban"],
         "durations": [
-            "1M",
-            "3M",
-            "6M",
+            "1mo",
+            "3mo",
+            "6mo",
             "permanent"
         ]
     },
-    "SPAMMING": {
+    "SPAmomoING": {
         "de-DE": "Spamming",
         "en-US": "Spamming",
         "permission": "eramc.punish.mute.spamming",
@@ -69,9 +69,9 @@
         "durations": [
             "1w",
             "2w",
-            "1M",
-            "3M",
-            "6M"
+            "1mo",
+            "3mo",
+            "6mo"
         ]
     },
     "ALT_ACCOUNT_USING": {
@@ -84,7 +84,7 @@
             "3d",
             "1w",
             "2w",
-            "1M"
+            "1mo"
         ]
     },
     "NOT_ALLOWED_SKIN": {
@@ -97,9 +97,9 @@
             "3d",
             "1w",
             "2w",
-            "1M",
-            "3M",
-            "6M"
+            "1mo",
+            "3mo",
+            "6mo"
         ]
     },
     "GRIEFING": {
@@ -112,11 +112,11 @@
             "3d",
             "1w",
             "2w",
-            "1M",
-            "3M"
+            "1mo",
+            "3mo"
         ]
     },
-    "REAL_MONEY_TRADING": {
+    "REAL_moONEY_TRADING": {
         "de-DE": "Echtgeldhandel",
         "en-US": "Trading with real money",
         "permission": "eramc.punish.ban.real_money_trading",
@@ -135,7 +135,7 @@
             "3d",
             "1w",
             "2w",
-            "1M"
+            "1mo"
         ]
     },
     "Racism": {
@@ -148,7 +148,7 @@
             "3d",
             "1w",
             "2w",
-            "1M"
+            "1mo"
         ]
     },
     "ADVERTISING": {
@@ -161,7 +161,7 @@
             "3d",
             "1w",
             "2w",
-            "1M"
+            "1mo"
         ]
     },
     "ACCOUNT_SELLING": {
@@ -186,13 +186,13 @@
             "3d",
             "1w",
             "2w",
-            "1M",
-            "3M",
-            "6M",
+            "1mo",
+            "3mo",
+            "6mo",
             "permanent"
         ]
     },
-    "BEGGING_FOR_RANK_OR_EXTRA_PERMS": {
+    "BEGGING_FOR_RANK_OR_EXTRA_PERmoS": {
         "de-DE": "Betteln um Rang oder extra Rechte",
         "en-US": "Begging for rank or extra permissions",
         "permission": "eramc.punish.mute.begging_for_rank_or_extra_perms",
@@ -206,7 +206,7 @@
             "1w"
         ]
     },
-    "BYPASSING_PUNISHMENTS": {
+    "BYPASSING_PUNISHmoENTS": {
         "de-DE": "Umgehen von Strafen",
         "en-US": "Bypassing punishments",
         "permission": "eramc.punish.ban.bypassing_punishments",
@@ -216,9 +216,9 @@
             "3d",
             "1w",
             "2w",
-            "1M",
-            "2M",
-            "6M"
+            "1mo",
+            "2mo",
+            "6mo"
         ]
     },
     "DOXXING": {
@@ -239,7 +239,7 @@
             "permanent"
         ]
     },
-    "COMBAT_EVADING": {
+    "COmoBAT_EVADING": {
         "de-DE": "Combat-Evading",
         "en-US": "Combat Evading",
         "permission": "eramc.punish.ban.combat_evading",
