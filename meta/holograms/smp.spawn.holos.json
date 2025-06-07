@@ -18,8 +18,8 @@
         "text_opacity": "255",
         "billboard": "fixed",
         "default_background": "false",
-        "scale-x": "5.0",
-        "scale-y": "5.0",
-        "scale-z": "5.0"
+        "scale-x": "2.5",
+        "scale-y": "2.5",
+        "scale-z": "2.5"
     }
 }
