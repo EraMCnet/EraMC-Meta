@@ -21,5 +21,28 @@
         "scale-x": "2.5",
         "scale-y": "2.5",
         "scale-z": "2.5"
+    },
+    "holo.spawn.area.sword.spawn.1": {
+        "de-DE": "<b>[red]SWORD PVP</color>",
+        "en-US": "<b>[red]SWORD PVP</color>",
+        "location": {
+            "x": 20378.5,
+            "y": 219,
+            "z": 20188.0,
+            "world": "world"
+        },
+        "yaw": -90.0,
+        "pitch": 0.0,
+        "alignment": "center",
+        "background": "TRANSPARENT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "fixed",
+        "default_background": "false",
+        "scale-x": "2.5",
+        "scale-y": "2.5",
+        "scale-z": "2.5"
     }
 }
