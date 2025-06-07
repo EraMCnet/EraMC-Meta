@@ -1,7 +1,7 @@
 {
-    "STAT.gui.display.lore.24h": {
-        "de-DE": "<br><!i>[grey][era_purple][ARROW]</color> Letzte 24 Stunden: [era_purple][statistic]</color><br>",
-        "en-US": "<br><!i>[grey][era_purple][ARROW]</color> Last 24 hours: [era_purple][statistic]</color><br>"
+    "STAT.gui.display.lore.today": {
+        "de-DE": "<br><!i>[grey][era_purple][ARROW]</color> Heute: [era_purple][statistic]</color><br>",
+        "en-US": "<br><!i>[grey][era_purple][ARROW]</color> Today: [era_purple][statistic]</color><br>"
     },
     "STAT.gui.display.lore.7d": {
         "de-DE": "<br><!i>[grey][era_purple][ARROW]</color> Letzte 7 Tage: [era_purple][statistic]</color><br>",
@@ -19,9 +19,9 @@
         "de-DE": "<br><!i>[grey][era_purple][ARROW]</color> Insgesamt: [era_purple][statistic]</color><br>",
         "en-US": "<br><!i>[grey][era_purple][ARROW]</color> All time: [era_purple][statistic]</color><br>"
     },
-    "STAT.gui.display.stat.24h": {
-        "de-DE": "<!i>[era_purple]Letzte 24 Stunden</color>",
-        "en-US": "<!i>[era_purple]Last 24 Hours</color>"
+    "STAT.gui.display.stat.today": {
+        "de-DE": "<!i>[era_purple]Heute</color>",
+        "en-US": "<!i>[era_purple]Today</color>"
     },
     "STAT.gui.display.stat.7d": {
         "de-DE": "<!i>[era_purple]Letzte 7 Tage</color>",
