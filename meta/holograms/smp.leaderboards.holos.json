@@ -44,5 +44,28 @@
         "scale-x": "1.0",
         "scale-y": "1.0",
         "scale-z": "1.0"
+    },
+    "holo.leaderboard.playtime.spawn.1": {
+        "de-DE": "[mint_green]ᴛᴏᴘ ꜱᴘɪᴇʟᴢᴇɪᴛ</color><br>[mint_green]#1</color> <dark_grey>|</dark_grey> <white>[player-1]</white> [grey]-</color> [mint_green][entry-1]</color><br>[mint_green]#2</color> <dark_grey>|</dark_grey> <white>[player-2]</white> [grey]-</color> [mint_green][entry-2]</color><br>[mint_green]#3</color> <dark_grey>|</dark_grey> <white>[player-3]</white> [grey]-</color> [mint_green][entry-3]</color><br>[mint_green]#4</color> <dark_grey>|</dark_grey> <white>[player-4]</white> [grey]-</color> [mint_green][entry-4]</color><br>[mint_green]#5</color> <dark_grey>|</dark_grey> <white>[player-5]</white> [grey]-</color> [mint_green][entry-5]</color><br>[mint_green]#6</color> <dark_grey>|</dark_grey> <white>[player-6]</white> [grey]-</color> [mint_green][entry-6]</color><br>[mint_green]#7</color> <dark_grey>|</dark_grey> <white>[player-7]</white> [grey]-</color> [mint_green][entry-7]</color><br>[mint_green]#8</color> <dark_grey>|</dark_grey> <white>[player-8]</white> [grey]-</color> [mint_green][entry-8]</color><br>[mint_green]#9</color> <dark_grey>|</dark_grey> <white>[player-9]</white> [grey]-</color> [mint_green][entry-9]</color><br>[mint_green]#10</color> <dark_grey>|</dark_grey> <white>[player-10]</white> [grey]-</color> [mint_green][entry-10]</color><br><dark_grey>-</dark_grey><br>[mint_green]#[self-position]</color> <dark_grey>|</dark_grey> <white>[player-self]</white> [grey]-</color> [mint_green][entry-self]",
+        "en-US": "[mint_green]ᴛᴏᴘ ᴘʟᴀʏᴛɪᴍᴇ</color><br>[mint_green]#1</color> <dark_grey>|</dark_grey> <white>[player-1]</white> [grey]-</color> [mint_green][entry-1]</color><br>[mint_green]#2</color> <dark_grey>|</dark_grey> <white>[player-2]</white> [grey]-</color> [mint_green][entry-2]</color><br>[mint_green]#3</color> <dark_grey>|</dark_grey> <white>[player-3]</white> [grey]-</color> [mint_green][entry-3]</color><br>[mint_green]#4</color> <dark_grey>|</dark_grey> <white>[player-4]</white> [grey]-</color> [mint_green][entry-4]</color><br>[mint_green]#5</color> <dark_grey>|</dark_grey> <white>[player-5]</white> [grey]-</color> [mint_green][entry-5]</color><br>[mint_green]#6</color> <dark_grey>|</dark_grey> <white>[player-6]</white> [grey]-</color> [mint_green][entry-6]</color><br>[mint_green]#7</color> <dark_grey>|</dark_grey> <white>[player-7]</white> [grey]-</color> [mint_green][entry-7]</color><br>[mint_green]#8</color> <dark_grey>|</dark_grey> <white>[player-8]</white> [grey]-</color> [mint_green][entry-8]</color><br>[mint_green]#9</color> <dark_grey>|</dark_grey> <white>[player-9]</white> [grey]-</color> [mint_green][entry-9]</color><br>[mint_green]#10</color> <dark_grey>|</dark_grey> <white>[player-10]</white> [grey]-</color> [mint_green][entry-10]</color><br><dark_grey>-</dark_grey><br>[mint_green]#[self-position]</color> <dark_grey>|</dark_grey> <white>[player-self]</white> [grey]-</color> [mint_green][entry-self]",
+        "location": {
+            "x": 20441.500,
+            "y": 221.6,
+            "z": 20250.500,
+            "world": "world"
+        },
+        "yaw": "",
+        "pitch": "",
+        "alignment": "center",
+        "background": "TRANSPARENT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "vertical",
+        "default_background": "false",
+        "scale-x": "1.0",
+        "scale-y": "1.0",
+        "scale-z": "1.0"
     }
 }
