@@ -44,5 +44,28 @@
         "scale-x": "2.5",
         "scale-y": "2.5",
         "scale-z": "2.5"
+    },
+    "holo.spawn.area.mace.spawn.1": {
+        "de-DE": "<b>[red]MACE PVP</color>",
+        "en-US": "<b>[red]MACE PVP</color>",
+        "location": {
+            "x": 20410.5,
+            "y": 220,
+            "z": 20193.0,
+            "world": "world"
+        },
+        "yaw": 90.0,
+        "pitch": 0.0,
+        "alignment": "center",
+        "background": "TRANSPARENT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "fixed",
+        "default_background": "false",
+        "scale-x": "2.5",
+        "scale-y": "2.5",
+        "scale-z": "2.5"
     }
 }
