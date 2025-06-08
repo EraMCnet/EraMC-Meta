@@ -290,5 +290,25 @@
     "CLAN.command.setting.description.success": {
         "de-DE": "[grey]Du hast die [era_purple]Clan Beschreibung</color> erfolgreich auf [era_purple]\"[description]\"</color> geändert!</color>",
         "en-US": "[grey]You have successfully changed the [era_purple]clan description</color> to [era_purple]\"[description]\"!</color></color>"
+    },
+    "CLAN.command.ban.error.not.in.clan": {
+        "de-DE": "[grey]Du bist [red]in keinem</color> Clan!</color>",
+        "en-US": "[grey]You are [red]not in</color> a clan!</color>"
+    },
+    "CLAN.command.ban.error.no.permission": {
+        "de-DE": "[grey]Du musst der Clan [red]Owner</color> oder ein Clan <red>Admin</color> sein um das zu tun!</color>",
+        "en-US": "[grey]You must be the clan [red]owner</color> or a clan <red>admin</color> to do that!</color>"
+    },
+    "CLAN.command.ban.error.already.banned": {
+        "de-DE": "[grey][era_purple][player]</color> ist [red]bereits</color> gebannt!</color>",
+        "en-US": "[grey][era_purple][player]</color> is [red]already</color> banned!</color>"
+    },
+    "CLAN.command.ban.success": {
+        "de-DE": "[grey]Du hast [era_purple][player]</color> [green]erfolgreich</color> aus deinem Clan gebannt!</color>",
+        "en-US": "[grey]You have successfully banned [era_purple][player]</color> from your clan!</color>"
+    },
+    "CLAN.ban.info": {
+        "de-DE": "[grey][era_purple][player]</color> hat dich aus dem Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) gebannt!</color>",
+        "en-US": "[grey][era_purple][player]</color> has banned you from the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>)!</color>"
     }
 }
