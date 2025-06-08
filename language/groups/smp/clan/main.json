@@ -310,5 +310,21 @@
     "CLAN.ban.info": {
         "de-DE": "[grey][era_purple][player]</color> hat dich aus dem Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) gebannt!</color>",
         "en-US": "[grey][era_purple][player]</color> has banned you from the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>)!</color>"
+    },
+    "CLAN.command.unban.error.not.in.clan": {
+        "de-DE": "[grey]Du bist [red]in keinem</color> Clan!</color>",
+        "en-US": "[grey]You are [red]not in</color> a clan!</color>"
+    },
+    "CLAN.command.unban.error.no.permission": {
+        "de-DE": "[grey]Du musst der Clan [red]Owner</color> oder ein Clan <red>Admin</color> sein um das zu tun!</color>",
+        "en-US": "[grey]You must be the clan [red]owner</color> or a clan <red>admin</color> to do that!</color>"
+    },
+    "CLAN.command.unban.error.not.banned": {
+        "de-DE": "[grey][era_purple][player]</color> ist [red]nicht</color> gebannt!</color>",
+        "en-US": "[grey][era_purple][player]</color> is [red]not</color> banned!</color>"
+    },
+    "CLAN.command.unban.success": {
+        "de-DE": "[grey]Du hast [era_purple][player]</color> [green]erfolgreich</color> aus deinem Clan entbannt!</color>",
+        "en-US": "[grey]You have successfully unbanned [era_purple][player]</color> from your clan!</color>"
     }
 }
