@@ -1,13 +1,13 @@
 {
-    "CLAN.command.create.error.name.lenght": {
+    "CLAN.command.create.error.name.length": {
         "de-DE": "[grey]Der Clan Name darf [red]nicht länger</color> als [era_purple]16 Zeichen</color> sein!</color>",
         "en-US": "[grey]The clan name [red]can't be longer</color> than [era_purple]16 characters!</color></color>"
     },
-    "CLAN.command.create.error.tagline.lenght": {
+    "CLAN.command.create.error.tagline.length": {
         "de-DE": "[grey]Die Clan Tagline darf [red]nicht länger</color> als [era_purple]8 Zeichen</color> sein!</color>",
         "en-US": "[grey]The clan tagline [red]can't be longer</color> than [era_purple]8 characters!</color></color>"
     },
-    "CLAN.command.create.error.tag.lenght": {
+    "CLAN.command.create.error.tag.length": {
         "de-DE": "[grey]Der Clan Tag darf [red]nicht länger</color> als [era_purple]12 Zeichen</color> sein!</color>",
         "en-US": "[grey]The clan tag [red]can't be longer</color> than [era_purple]12 characters!</color></color>"
     },
@@ -275,7 +275,7 @@
         "de-DE": "[grey]Die Clan Tagline [red][tagline]</color> ist bereits vergeben!</color>",
         "en-US": "[grey]The clan tagline [red][tagline]</color> is already taken!</color>"
     },
-    "CLAN.command.setting.error.description.lenght": {
+    "CLAN.command.setting.error.description.length": {
         "de-DE": "[grey]Die Clan Beschreibung darf [red]nicht länger</color> als [era_purple]64 Zeichen</color> sein!</color>",
         "en-US": "[grey]The clan description [red]can't be longer</color> than [era_purple]64 characters!</color></color>"
     },
