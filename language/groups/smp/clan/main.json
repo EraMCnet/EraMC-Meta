@@ -143,9 +143,9 @@
         "de-DE": "[grey]Du musst der Clan [red]Owner</color> sein um das zu tun!</color>",
         "en-US": "[grey]You must be the clan [red]owner</color> to do that!</color>"
     },
-    "CLAN.command.kick.error.owner": {
-        "de-DE": "[grey]Du kannst den Clan [red]Owner</color> nicht kicken!</color>",
-        "en-US": "[grey]You can't kick the clan [red]owner</color>!</color>"
+    "CLAN.command.kick.error.admin": {
+        "de-DE": "[grey]Du kannst <red>Clan Admins</color> oder den <dark_red>Clan Owner</color> [red]nicht</color> kicken!</color>",
+        "en-US": "[grey]You [red]can't</color> kick <red>clan admins</color> or the <dark_red>clan owner!</color></color>"
     },
     "CLAN.command.role.error.self": {
         "de-DE": "[grey]Du kannst deine eigene Rolle [red]nicht ändern!</color></color>",
@@ -312,8 +312,8 @@
         "en-US": "[grey]You have successfully banned [era_purple][player]</color> from your clan!</color>"
     },
     "CLAN.ban.info": {
-        "de-DE": "[grey][era_purple][player]</color> hat dich aus dem Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) gebannt!</color>",
-        "en-US": "[grey][era_purple][player]</color> has banned you from the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>)!</color>"
+        "de-DE": "[grey]Du bist aus dem Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) [red]gebannt!</color></color>",
+        "en-US": "[grey]You have been banned from the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>)!</color></color>"
     },
     "CLAN.command.unban.error.not.in.clan": {
         "de-DE": "[grey]Du bist [red]in keinem</color> Clan!</color>",
