@@ -303,6 +303,10 @@
         "de-DE": "[grey][era_purple][player]</color> ist [red]bereits</color> gebannt!</color>",
         "en-US": "[grey][era_purple][player]</color> is [red]already</color> banned!</color>"
     },
+    "CLAN.command.ban.error.clan.admin": {
+        "de-DE": "[grey]Du kannst <red>Clan Admins</color> oder den <dark_red>Clan Owner</color> [red]nicht</color> bannen!</color>",
+        "en-US": "[grey]You [red]can't</color> ban <red>clan admins</color> or the <dark_red>clan owner!</color></color>"
+    },
     "CLAN.command.ban.success": {
         "de-DE": "[grey]Du hast [era_purple][player]</color> [green]erfolgreich</color> aus deinem Clan gebannt!</color>",
         "en-US": "[grey]You have successfully banned [era_purple][player]</color> from your clan!</color>"
