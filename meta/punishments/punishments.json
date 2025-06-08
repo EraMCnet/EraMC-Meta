@@ -36,7 +36,7 @@
             "permanent"
         ]
     },
-    "SPAmomoING": {
+    "SPAMMING": {
         "de-DE": "Spamming",
         "en-US": "Spamming",
         "permission": "eramc.punish.mute.spamming",
@@ -116,7 +116,7 @@
             "3mo"
         ]
     },
-    "REAL_moONEY_TRADING": {
+    "REAL_MONEY_TRADING": {
         "de-DE": "Echtgeldhandel",
         "en-US": "Trading with real money",
         "permission": "eramc.punish.ban.real_money_trading",
@@ -192,7 +192,7 @@
             "permanent"
         ]
     },
-    "BEGGING_FOR_RANK_OR_EXTRA_PERmoS": {
+    "BEGGING_FOR_RANK_OR_EXTRA_PERMS": {
         "de-DE": "Betteln um Rang oder extra Rechte",
         "en-US": "Begging for rank or extra permissions",
         "permission": "eramc.punish.mute.begging_for_rank_or_extra_perms",
@@ -206,7 +206,7 @@
             "1w"
         ]
     },
-    "BYPASSING_PUNISHmoENTS": {
+    "BYPASSING_PUNISHMENTS": {
         "de-DE": "Umgehen von Strafen",
         "en-US": "Bypassing punishments",
         "permission": "eramc.punish.ban.bypassing_punishments",
@@ -239,7 +239,7 @@
             "permanent"
         ]
     },
-    "COmoBAT_EVADING": {
+    "COMBAT_EVADING": {
         "de-DE": "Combat-Evading",
         "en-US": "Combat Evading",
         "permission": "eramc.punish.ban.combat_evading",
