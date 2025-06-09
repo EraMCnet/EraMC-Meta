@@ -70,5 +70,21 @@
     "CLAN.admin.command.info.error.not.in.clan" : {
         "de-DE": "[grey]Der Spieler [era_purple][player]</color> ist nicht in keinem Clan.</color>",
         "en-US": "[grey]The player [era_purple][player]</color> is not in a clan.</color>"
+    },
+    "CLAN.admin.command.verify.error.already.verified": {
+        "de-DE": "[grey]Der Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) ist bereits [green]verifiziert.</color></color>",
+        "en-US": "[grey]The clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) is already [green]verified.</color></color>"
+    },
+    "CLAN.admin.command.verify.success": {
+        "de-DE": "[grey]Du hast den Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) erfolgreich [green]verifiziert.</color></color>",
+        "en-US": "[grey]You have successfully [green]verified</color> the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>).</color>"
+    },
+    "CLAN.admin.command.unverify.error.not.verified": {
+        "de-DE": "[grey]Der Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) ist nicht [green]verifiziert.</color></color>",
+        "en-US": "[grey]The clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) is not [green]verified.</color></color>"
+    },
+    "CLAN.admin.command.unverify.success": {
+        "de-DE": "[grey]Du hast den Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) erfolgreich [red]de-verified.</color></color>",
+        "en-US": "[grey]You have successfully [red]unverified</color> the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>).</color>"
     }
 }
