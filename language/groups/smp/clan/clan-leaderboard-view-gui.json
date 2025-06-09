@@ -27,10 +27,6 @@
         "de-DE": "<i:false><br><i:false>[mint_green_dark][ROUNDDOT][grey] Klicke, um die Seite zu aktualisieren<br><i:false>",
         "en-US": "<i:false><br><i:false>[mint_green_dark][ROUNDDOT][grey] Click to update the page<br><i:false>"
     },
-    "CLAN.leaderboard.view.clan.self.lore": {
-        "de-DE": "<i:false><br><i:false>[mint_green_dark][ROUNDDOT][grey] Kopfgeld: [mint_green_dark]$[bounty]<br><i:false>",
-        "en-US": "<i:false><br><i:false>[mint_green_dark][ROUNDDOT][grey] Bounty: [mint_green_dark]$[bounty]<br><i:false>"
-    },
     "CLAN.leaderboard.view.page.sort.lore.highest": {
         "de-DE": "<i:false><br><i:false>[mint_green_dark]> Beste zuerst<br><i:false>[grey]  Schlechteste zuerst<br><br><i:false>[mint_green_dark]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
         "en-US": "<i:false><br><i:false>[mint_green_dark]> Best first<br><i:false>[grey]  Worst first<br><br><i:false>[mint_green_dark]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
