@@ -4,7 +4,7 @@
         "en-US": "[grey]You have successfully [red]deleted</color> the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>)."
     },
     "CLAN.admin.command.delete.error.not.found": {
-        "de-DE": "[red]Der Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) konnte nicht gefunden werden.",
-        "en-US": "[red]The clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) could not be found."
+        "de-DE": "[red]Der Clan [era_purple][clan]</color> konnte nicht gefunden werden.",
+        "en-US": "[red]The clan [era_purple][name]</color> could not be found."
     }
 }
