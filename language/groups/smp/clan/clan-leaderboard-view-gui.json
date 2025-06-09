@@ -1,7 +1,7 @@
 {
     "CLAN.leaderobard.view.lore": {
-        "de-DE": "<br><!i>[grey][mint_green_dark][ARROW]</color> Wert: [mint_green_dark][value]</color><br>[grey]<!i>[mint_green_dark][ARROW]</color> Position: [mint_green_dark]#[position]</color><br><br>[grey]<!i>[mint_green_dark][ROUNDDOT]</color>Klicke, um mehr über diesen Clan zu erfahren.<br>",
-        "en-US": "<br><!i>[grey][mint_green_dark][ARROW]</color> Value: [mint_green_dark][value]</color><br>[grey]<!i>[mint_green_dark][ARROW]</color> Position: [mint_green_dark]#[position]</color><br><br>[grey]<!i>[mint_green_dark][ROUNDDOT]</color>Click to learn more about this clan.<br>"
+        "de-DE": "<br><!i>[grey][mint_green_dark][ARROW]</color> Wert: [mint_green_dark][value]</color><br>[grey]<!i>[mint_green_dark][ARROW]</color> Position: [mint_green_dark]#[position]</color><br><br>[grey]<!i>[mint_green_dark][ROUNDDOT]</color> Klicke, um mehr über diesen Clan zu erfahren.<br>",
+        "en-US": "<br><!i>[grey][mint_green_dark][ARROW]</color> Value: [mint_green_dark][value]</color><br>[grey]<!i>[mint_green_dark][ARROW]</color> Position: [mint_green_dark]#[position]</color><br><br>[grey]<!i>[mint_green_dark][ROUNDDOT]</color> Click to learn more about this clan.<br>"
     },
     "CLAN.leaderboard.view.page.previous": {
         "de-DE": "<i:false>[mint_green_dark]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
