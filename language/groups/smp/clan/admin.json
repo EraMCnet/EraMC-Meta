@@ -7,7 +7,7 @@
         "de-DE": "[grey]Du hast den Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) erfolgreich [red]gelöscht.</color></color>",
         "en-US": "[grey]You have successfully [red]deleted</color> the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>).</color>"
     },
-    "CLAN.admin.command.setting.name.change.success": {
+    "CLAN.admin.command.setting.name.success": {
         "de-DE": "[grey]Du hast den Namen des Clans [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) erfolgreich auf [era_purple][new_name]#[tagline]</color> geändert.</color>",
         "en-US": "[grey]You have successfully changed the name of the clan[era_purple][name]#[tagline]</color> ([era_purple][id]</color>) to [era_purple][new_name]#[tagline].</color></color>"
     },
@@ -15,7 +15,7 @@
         "de-DE": "[red]Der Clanname [era_purple][new_name]</color> ist [red]bereits vergeben.</color<</color>",
         "en-US": "[red]The clan name [era_purple][new_name]</color> is [red]already taken.</color></color>"
     },
-    "CLAN.admin.command.setting.tagline.change.success": {
+    "CLAN.admin.command.setting.tagline.success": {
         "de-DE": "[grey]Du hast den Tagline des Clans [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) erfolgreich auf [era_purple][new_tagline]</color> geändert.</color>",
         "en-US": "[grey]You have successfully changed the tagline of the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) to [era_purple][new_tagline]</color>.</color>"
     },
