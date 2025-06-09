@@ -136,8 +136,8 @@
         "en-US": "[grey][era_purple][name]</color> is [red]not</color> in your clan!</color>"
     },
     "CLAN.command.role.error.invalid.role": {
-        "de-DE": "[grey]Die Rolle [red][role]</color> ist ungültig! Gültige Rollen sind: [era_purple]Admin, Member</color></color>",
-        "en-US": "[grey]The role [red][role]</color> is invalid! Valid roles are: [era_purple]Admin, Member</color></color>"
+        "de-DE": "[grey]Die Rolle [red][role]</color> ist ungültig! Gültige Rollen sind: [era_purple]admin, member</color></color>",
+        "en-US": "[grey]The role [red][role]</color> is invalid! Valid roles are: [era_purple]admin, member</color></color>"
     },
     "CLAN.command.role.error.no.permission": {
         "de-DE": "[grey]Du musst der Clan [red]Owner</color> sein um das zu tun!</color>",

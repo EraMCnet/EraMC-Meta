@@ -48,8 +48,8 @@
         "en-US": "[grey]You have given the player [era_purple][player]</color> the role [era_purple][role]</color>.</color>"
     },
     "CLAN.admin.command.role.error.not.found": {
-        "de-DE": "[grey]Die Rolle [red][role]</color> ist ungültig! Gültige Rollen sind: [era_purple]Admin, Member</color></color>",
-        "en-US": "[grey]The role [red][role]</color> is invalid! Valid roles are: [era_purple]Admin, Member</color></color>"
+        "de-DE": "[grey]Die Rolle [red][role]</color> ist ungültig! Gültige Rollen sind: [era_purple]admin, member</color></color>",
+        "en-US": "[grey]The role [red][role]</color> is invalid! Valid roles are: [era_purple]admin, member</color></color>"
     },
     "CLAN.admin.command.setowner.success": {
         "de-DE": "[grey]Du hast [era_purple][player]</color> erfolgreich zum neuen Besitzer des Clans [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) gemacht.</color>",
