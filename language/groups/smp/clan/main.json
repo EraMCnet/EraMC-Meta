@@ -330,5 +330,17 @@
     "CLAN.command.unban.success": {
         "de-DE": "[grey]Du hast [era_purple][player]</color> [green]erfolgreich</color> aus deinem Clan entbannt!</color>",
         "en-US": "[grey]You have successfully unbanned [era_purple][player]</color> from your clan!</color>"
+    },
+    "CLAN.command.join.error.already.in.clan": {
+        "de-DE": "[grey]Du bist [red]bereits</color> in einem Clan!</color>",
+        "en-US": "[grey]You are [red]already</color> in a clan!</color>"
+    },
+    "CLAN.command.join.error.closed.or.invite.only": {
+        "de-DE": "[grey]Der Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) ist [red]geschlossen,</color> nur für Spieler mit einer Einladung oder nur für Spieler, die eine [era_purple]Beitrittsanfrage</color> gesendet haben!</color>",
+        "en-US": "[grey]The clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) is [red]closed,</color> invite only or only for players who have sent a [era_purple]join request!</color></color>"
+    },
+    "CLAN.command.join.success": {
+        "de-DE": "[grey]Du bist dem Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) [green]erfolgreich</color> beigetreten!</color>",
+        "en-US": "[grey]You have successfully joined the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>)!</color>"
     }
 }
