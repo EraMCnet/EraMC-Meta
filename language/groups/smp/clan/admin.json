@@ -43,13 +43,17 @@
         "de-DE": "[grey]Du bist dem Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) erfolgreich beigetreten.</color>",
         "en-US": "[grey]You have successfully joined the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>).</color>"
     },
-    "CLAN.admin.command.role.success": {
+    "CLAN.admin.command.setrole.success": {
         "de-DE": "[grey]Du hast dem Spieler [era_purple][player]</color> die Rolle [era_purple][role]</color> gegeben.</color>",
         "en-US": "[grey]You have given the player [era_purple][player]</color> the role [era_purple][role]</color>.</color>"
     },
-    "CLAN.admin.command.role.error.not.found": {
+    "CLAN.admin.command.setrole.error.not.found": {
         "de-DE": "[grey]Die Rolle [red][role]</color> ist ungültig! Gültige Rollen sind: [era_purple]admin, member</color></color>",
         "en-US": "[grey]The role [red][role]</color> is invalid! Valid roles are: [era_purple]admin, member</color></color>"
+    },
+    "CLAN.admin.command.setrole.errorowner": {
+        "de-DE": "[grey]Du kannst die Rolle vom [era_purple]Clan Owner</color> nicht ändern!</color>",
+        "en-US": "[grey]You cannot change the role of the [era_purple]clan owner!</color></color>"
     },
     "CLAN.admin.command.setowner.success": {
         "de-DE": "[grey]Du hast [era_purple][player]</color> erfolgreich zum neuen Besitzer des Clans [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) gemacht.</color>",
