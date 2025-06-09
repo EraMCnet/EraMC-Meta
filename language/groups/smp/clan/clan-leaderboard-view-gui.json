@@ -1,0 +1,42 @@
+{
+    "CLAN.leaderobard.view.lore": {
+        "de-DE": "<br><!i>[mint_green_dark][ARROW]</color> Wert: [mint_green_dark][value]</color><br><!i>[mint_green_dark][ARROW]</color> Position: [mint_green_dark]#[position]</color><br><br><!i>[mint_green_dark][ROUNDDOT]</color>Klicke, um mehr über diesen Clan zu erfahren.<br>",
+        "en-US": "<br><!i>[mint_green_dark][ARROW]</color> Value: [mint_green_dark][value]</color><br><!i>[mint_green_dark][ARROW]</color> Position: [mint_green_dark]#[position]</color><br><br><!i>[mint_green_dark][ROUNDDOT]</color>Click to learn more about this clan.<br>"
+    },
+    "CLAN.leaderboard.view.page.previous": {
+        "de-DE": "<i:false>[mint_green_dark]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[mint_green_dark]ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ"
+    },
+    "CLAN.leaderboard.view.page.update": {
+        "de-DE": "<i:false>[mint_green_dark]ᴀᴋᴛᴜᴀʟʟɪꜱɪᴇʀᴇɴ",
+        "en-US": "<i:false>[mint_green_dark]ᴜᴘᴅᴀᴛᴇ"
+    },
+    "CLAN.leaderboard.view.page.next": {
+        "de-DE": "<i:false>[mint_green_dark]ɴäᴄʜꜱᴛᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[mint_green_dark]ɴᴇxᴛ ᴘᴀɢᴇ"
+    },
+    "CLAN.leaderboard.view.page.sort": {
+        "de-DE": "<i:false>[green]ꜱᴏʀᴛɪᴇʀᴇɴ",
+        "en-US": "<i:false>[green]ꜱᴏʀᴛ"
+    },
+    "CLAN.leaderboard.view.page.navigate.lore": {
+        "de-DE": "<i:false><br><i:false>[mint_green_dark][ROUNDDOT][grey] Klicke, zum navigieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[mint_green_dark][ROUNDDOT][grey] Click to navigate<br><i:false>"
+    },
+    "CLAN.leaderboard.view.page.update.lore": {
+        "de-DE": "<i:false><br><i:false>[mint_green_dark][ROUNDDOT][grey] Klicke, um die Seite zu aktualisieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[mint_green_dark][ROUNDDOT][grey] Click to update the page<br><i:false>"
+    },
+    "CLAN.leaderboard.view.clan.self.lore": {
+        "de-DE": "<i:false><br><i:false>[mint_green_dark][ROUNDDOT][grey] Kopfgeld: [mint_green_dark]$[bounty]<br><i:false>",
+        "en-US": "<i:false><br><i:false>[mint_green_dark][ROUNDDOT][grey] Bounty: [mint_green_dark]$[bounty]<br><i:false>"
+    },
+    "CLAN.leaderboard.view.page.sort.lore.highest": {
+        "de-DE": "<i:false><br><i:false>[mint_green_dark]> Beste zuerst<br><i:false>[grey]  Schlechteste zuerst<br><br><i:false>[mint_green_dark]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[mint_green_dark]> Best first<br><i:false>[grey]  Worst first<br><br><i:false>[mint_green_dark]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "CLAN.leaderboard.view.page.sort.lore.lowest": {
+        "de-DE": "<i:false><br><i:false>[grey]  Beste zuerst<br><i:false>[mint_green_dark]> Schlechteste zuerst<br><br><i:false>[mint_green_dark]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  Best first<br><i:false>[mint_green_dark]> Worst first<br><br><i:false>[mint_green_dark]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    }
+}
