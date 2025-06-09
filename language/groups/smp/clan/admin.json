@@ -51,7 +51,7 @@
         "de-DE": "[grey]Die Rolle [red][role]</color> ist ungültig! Gültige Rollen sind: [era_purple]admin, member</color></color>",
         "en-US": "[grey]The role [red][role]</color> is invalid! Valid roles are: [era_purple]admin, member</color></color>"
     },
-    "CLAN.admin.command.setrole.errorowner": {
+    "CLAN.admin.command.setrole.error.owner": {
         "de-DE": "[grey]Du kannst die Rolle vom [era_purple]Clan Owner</color> nicht ändern!</color>",
         "en-US": "[grey]You cannot change the role of the [era_purple]clan owner!</color></color>"
     },
