@@ -30,5 +30,33 @@
     "CLAN.admin.command.setting.tag.success": {
         "de-DE": "[grey]Du hast den Tag des Clans [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) erfolgreich auf [era_purple][new_tag]</color> geändert.</color>",
         "en-US": "[grey]You have successfully changed the tag of the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) to [era_purple][new_tag]</color>.</color>"
+    },
+    "CLAN.admin.command.join.error.already.in.other.clan": {
+        "de-DE": "[grey]Du bist bereits in einem anderen Clan.</color>",
+        "en-US": "[grey]You are already in another clan.</color>"
+    },
+    "CLAN.admin.command.join.error.already.in.clan": {
+        "de-DE": "[grey]Du bist bereits im Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>).</color>",
+        "en-US": "[grey]You are already in the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>).</color>"
+    },
+    "CLAN.admin.command.join.success": {
+        "de-DE": "[grey]Du bist dem Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) erfolgreich beigetreten.</color>",
+        "en-US": "[grey]You have successfully joined the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>).</color>"
+    },
+    "CLAN.admin.command.role.success": {
+        "de-DE": "[grey]Du hast dem Spieler [era_purple][player]</color> die Rolle [era_purple][role]</color> gegeben.</color>",
+        "en-US": "[grey]You have given the player [era_purple][player]</color> the role [era_purple][role]</color>.</color>"
+    },
+    "CLAN.admin.command.role.error.not.found": {
+        "de-DE": "[grey]Die Rolle [red][role]</color> ist ungültig! Gültige Rollen sind: [era_purple]Admin, Member</color></color>",
+        "en-US": "[grey]The role [red][role]</color> is invalid! Valid roles are: [era_purple]Admin, Member</color></color>"
+    },
+    "CLAN.admin.command.setowner.success": {
+        "de-DE": "[grey]Du hast [era_purple][player]</color> erfolgreich zum neuen Besitzer des Clans [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) gemacht.</color>",
+        "en-US": "[grey]You have successfully made [era_purple][player]</color> the new owner of the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>).</color>"
+    },
+    "CLAN.admin.error.player.not.in.clan": {
+        "de-DE": "[grey]Der Spieler [era_purple][player]</color> ist nicht im Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>).</color>",
+        "en-US": "[grey]The player [era_purple][player]</color> is not in the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>).</color>"
     }
 }
