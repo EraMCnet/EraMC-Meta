@@ -15,6 +15,10 @@
         "de-DE": "[grey]Der Clanname [era_purple][new_name]</color> ist [red]bereits vergeben.</color></color>",
         "en-US": "[grey]The clan name [era_purple][new_name]</color> is [red]already taken.</color></color>"
     },
+    "CLAN.admin.command.setting.description.success": {
+        "de-DE": "[grey]Du hast die Beschreibung des Clans [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) erfolgreich auf [era_purple]\"[new_description]\"</color> geändert.</color>",
+        "en-US": "[grey]You have successfully changed the description of the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) to [era_purple]\"[new_description]\"</color>.</color>"
+    },
     "CLAN.admin.command.setting.tagline.success": {
         "de-DE": "[grey]Du hast den Tagline des Clans [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) erfolgreich auf [era_purple][new_tagline]</color> geändert.</color>",
         "en-US": "[grey]You have successfully changed the tagline of the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) to [era_purple][new_tagline]</color>.</color>"
@@ -22,5 +26,9 @@
     "CLAN.admin.command.setting.tagline.error.exists": {
         "de-DE": "[grey]Die Tagline [era_purple][new_tagline]</color> ist [red]bereits vergeben.</color></color>",
         "en-US": "[grey]The tagline [era_purple][new_tagline]</color> is [red]already taken.</color></color>"
+    },
+    "CLAN.admin.command.setting.tag.success": {
+        "de-DE": "[grey]Du hast den Tag des Clans [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) erfolgreich auf [era_purple][new_tag]</color> geändert.</color>",
+        "en-US": "[grey]You have successfully changed the tag of the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) to [era_purple][new_tag]</color>.</color>"
     }
 }
