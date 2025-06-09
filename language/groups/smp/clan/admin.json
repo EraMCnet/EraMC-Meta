@@ -66,5 +66,9 @@
     "CLAN.admin.command.info.player": {
         "de-DE": "[grey]Clan Informationen über [era_purple][player]:</color><br>    [DOT] [era_purple]Clan Name:</color> [clan_name]<br>    [DOT] [era_purple]Clan ID:</color> [clan_id]<br>    [DOT] [era_purple]Clan Tagline:</color> [clan_tagline]<br>    [DOT] [era_purple]Clan Tag:</color> [clan_tag]<br>    [DOT] [era_purple]Rolle:</color> [clan_role]<br>    [DOT] [era_purple]Clan Owner:</color> [clan_owner]<br>    [DOT] [era_purple]Mitglieder:</color> [clan_members]</color>",
         "en-US": "[grey]Clan information about [era_purple][player]:</color><br>    [DOT] [era_purple]Clan Name:</color> [clan_name]<br>    [DOT] [era_purple]Clan ID:</color> [clan_id]<br>    [DOT] [era_purple]Clan Tagline:</color> [clan_tagline]<br>    [DOT] [era_purple]Clan Tag:</color> [clan_tag]<br>    [DOT] [era_purple]Clan Owner:</color> [clan_owner]<br>    [DOT] [era_purple]Members:</color> [clan_members]</color>"
+    },
+    "CLAN.admin.command.info.error.not.in.clan" : {
+        "de-DE": "[grey]Der Spieler [era_purple][player]</color> ist nicht in keinem Clan.</color>",
+        "en-US": "[grey]The player [era_purple][player]</color> is not in a clan.</color>"
     }
 }
