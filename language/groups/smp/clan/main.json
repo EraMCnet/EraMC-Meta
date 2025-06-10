@@ -342,5 +342,9 @@
     "CLAN.command.join.success": {
         "de-DE": "[grey]Du bist dem Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) [green]erfolgreich</color> beigetreten!</color>",
         "en-US": "[grey]You have successfully joined the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>)!</color>"
+    },
+    "CLAN.command.info.player": {
+        "de-DE": "[grey][era_purple]Clan Info</color>:</color><br>    [DOT] [era_purple]Clan Name:</color> [clan_name]<br>    [DOT] [era_purple]Clan ID:</color> [clan_id]<br>    [DOT] [era_purple]Clan Tagline:</color> [clan_tagline]<br>    [DOT] [era_purple]Clan Tag:</color> [clan_tag]<br>    [DOT] [era_purple]Clan Owner:</color> [clan_owner]<br>    [DOT] [era_purple]Mitglieder:</color> [clan_members]<br>    [DOT] [era_purple]Beschreibung:</color> [clan_description]</color>",
+        "en-US": "[grey][era_purple]Clan Info</color>:</color><br>    [DOT] [era_purple]Clan Name:</color> [clan_name]<br>    [DOT] [era_purple]Clan ID:</color> [clan_id]<br>    [DOT] [era_purple]Clan Tagline:</color> [clan_tagline]<br>    [DOT] [era_purple]Clan Tag:</color> [clan_tag]<br>    [DOT] [era_purple]Clan Owner:</color> [clan_owner]<br>    [DOT] [era_purple]Members:</color> [clan_members]<br>    [DOT] [era_purple]Description:</color> [clan_description]</color>"
     }
 }
