@@ -1,5 +1,5 @@
 {
-    "ILLEGAL_CLIENT_moODIFICATIONS": {
+    "ILLEGAL_CLIENT_MODIFICATIONS": {
         "de-DE": "Illegale Client-moodifikationen",
         "en-US": "Illegal Client moodifications",
         "permission": "eramc.punish.ban.illegal_client_modifications",
@@ -7,7 +7,8 @@
         "durations": [
             "1mo",
             "3mo",
-            "6mo"
+            "6mo",
+            "permanent"
         ]
     },
     "OFFENSIVE_LANGUAGE": {
@@ -138,7 +139,7 @@
             "1mo"
         ]
     },
-    "Racism": {
+    "RACISM": {
         "de-DE": "Rassismus",
         "en-US": "Racism",
         "permission": "eramc.punish.ban.Racism",
