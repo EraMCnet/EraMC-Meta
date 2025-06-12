@@ -346,5 +346,25 @@
     "CLAN.command.info.player": {
         "de-DE": "[grey][era_purple]Clan Info</color>:</color><br>    [DOT] [era_purple]Clan Name:</color> [clan_name]<br>    [DOT] [era_purple]Clan ID:</color> [clan_id]<br>    [DOT] [era_purple]Clan Tagline:</color> [clan_tagline]<br>    [DOT] [era_purple]Clan Tag:</color> [clan_tag]<br>    [DOT] [era_purple]Clan Owner:</color> [clan_owner]<br>    [DOT] [era_purple]Mitglieder:</color> [clan_members]<br>    [DOT] [era_purple]Beschreibung:</color> [clan_description]</color>",
         "en-US": "[grey][era_purple]Clan Info</color>:</color><br>    [DOT] [era_purple]Clan Name:</color> [clan_name]<br>    [DOT] [era_purple]Clan ID:</color> [clan_id]<br>    [DOT] [era_purple]Clan Tagline:</color> [clan_tagline]<br>    [DOT] [era_purple]Clan Tag:</color> [clan_tag]<br>    [DOT] [era_purple]Clan Owner:</color> [clan_owner]<br>    [DOT] [era_purple]Members:</color> [clan_members]<br>    [DOT] [era_purple]Description:</color> [clan_description]</color>"
+    },
+    "CLAN.command.type.error.not.in.clan": {
+        "de-DE": "[grey]Du bist [red]in keinem</color> Clan!</color>",
+        "en-US": "[grey]You are [red]not in</color> a clan!</color>"
+    },
+    "CLAN.command.type.error.no.permission": {
+        "de-DE": "[grey]Du musst der Clan [red]Owner</color> sein um das zu tun!</color>",
+        "en-US": "[grey]You must be the clan [red]owner</color> to do that!</color>"
+    },
+    "CLAN.command.type.success.open": {
+        "de-DE": "[grey]Du hast den [era_purple]Clan Typ</color> erfolgreich auf [era_purple]offen</color> geändert! [era_purple]Jeder</color> kann diesem [era_purple]Clan</color> nun [era_purple]beitreten,</color> [red]ohne</color> das er [era_purple]eingeladen</color> wurde oder eine [era_purple]Beitrittsanfrage</color> gesendet hat.</color>",
+        "en-US": "[grey]You have successfully changed the [era_purple]clan type</color> to [era_purple]open</color>! [era_purple]Anyone</color> can now [era_purple]join</color> this [era_purple]clan</color> [red]without</color> being [era_purple]invited</color> or sending a [era_purple]join request</color>.</color>"
+    },
+    "CLAN.command.type.success.invite-only": {
+        "de-DE": "[grey]Du hast den [era_purple]Clan Typ</color> erfolgreich auf [era_purple]nur Einladungen</color> geändert! Nur Spieler, die [era_purple]eingeladen</color> wurden oder eine [era_purple]Beitrittsanfrage</color> gesendet haben, können in deinen Clan.</color>",
+        "en-US": "[grey]You have successfully changed the [era_purple]clan type</color> to [era_purple]invite only</color>! Only players who have been [era_purple]invited</color> or sent a [era_purple]join request</color> can join your clan.</color>"
+    },
+    "CLAN.command.type.success.closed": {
+        "de-DE": "[grey]Du hast den [era_purple]Clan Typ</color> erfolgreich auf [era_purple]geschlossen</color> geändert! Nur Spieler, die [era_purple]eingelanden</color> wurden, können in deinen Clan.</color>",
+        "en-US": "[grey]You have successfully changed the [era_purple]clan type</color> to [era_purple]closed</color>! Only players who have been [era_purple]invited</color> can join your clan.</color>"
     }
 }
