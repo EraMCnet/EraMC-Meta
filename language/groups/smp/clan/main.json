@@ -144,8 +144,8 @@
         "en-US": "[grey]You must be the clan [red]owner</color> to do that!</color>"
     },
     "CLAN.command.kick.error.admin": {
-        "de-DE": "[grey]Du kannst <red>Clan Admins</color> oder den <dark_red>Clan Owner</color> [red]nicht</color> kicken!</color>",
-        "en-US": "[grey]You [red]can't</color> kick <red>clan admins</color> or the <dark_red>clan owner!</color></color>"
+        "de-DE": "[grey]Du kannst <red>Clan Admins</red> oder den <dark_red>Clan Owner</dark_red> [red]nicht</color> kicken!</color>",
+        "en-US": "[grey]You [red]can't</color> kick <red>clan admins</red> or the <dark_red>clan owner!</dark_red></color>"
     },
     "CLAN.command.role.error.self": {
         "de-DE": "[grey]Du kannst deine eigene Rolle [red]nicht ändern!</color></color>",
