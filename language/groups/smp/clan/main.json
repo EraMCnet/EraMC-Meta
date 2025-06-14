@@ -339,9 +339,13 @@
         "de-DE": "[grey]Du bist [red]bereits</color> in einem Clan!</color>",
         "en-US": "[grey]You are [red]already</color> in a clan!</color>"
     },
-    "CLAN.command.join.error.closed.or.invite-only": {
-        "de-DE": "[grey]Der Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) ist [red]geschlossen,</color> nur Spieler mit einer Einladung oder Spieler, die eine [era_purple]Beitrittsanfrage</color> gesendet haben können diesem Clan beitreten!</color>",
-        "en-US": "[grey]The clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) is [red]closed,</color> only players with an invitation or players who have sent a [era_purple]join request</color> can join this clan!</color>"
+    "CLAN.command.join.error.closed": {
+        "de-DE": "[grey]Nur Spieler, die eine [era_purple]Einladung</color> bekommen haben, können dem [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) Clan beitreten!</color>",
+        "en-US": "[grey]Only players who have received an [era_purple]invitation</color> can join the [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) clan!</color>"
+    },
+    "CLAN.command.join.error.invite-only": {
+        "de-DE": "[grey]Nur Spieler, die eine [era_purple]Einladung</color> bekommen haben oder eine [era_purple]Beitrittsanfrage</color> gestellt haben, können dem [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) Clan beitreten!</color>",
+        "en-US": "[grey]Only players who have received an [era_purple]invitation</color> or sent a [era_purple]join request</color> can join the [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) clan!</color>"
     },
     "CLAN.command.join.success": {
         "de-DE": "[grey]Du bist dem Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) [green]erfolgreich</color> beigetreten!</color>",
