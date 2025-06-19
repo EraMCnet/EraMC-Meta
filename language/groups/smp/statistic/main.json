@@ -55,7 +55,7 @@
         "de-DE": "<!i>[pastel_red]<b>SCHADEN VERURSACHT</color>",
         "en-US": "<!i>[pastel_red]<b>DAMAGE DEALT</color>"
     },
-    "STATS.gui.select.stat.blocks-traveled": {
+    "STAT.gui.select.stat.blocks-traveled": {
         "de-DE": "<!i>[smooth_green]<b>BLÖCKE GEREIST</color>",
         "en-US": "<!i>[smooth_green]<b>BLOCKS TRAVELED</color>"
     },
