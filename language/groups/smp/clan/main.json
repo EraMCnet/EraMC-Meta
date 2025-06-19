@@ -271,6 +271,10 @@
         "de-DE": "[grey]Der Clan Name [red][name]</color> ist bereits vergeben!</color>",
         "en-US": "[grey]The clan name [red][name]</color> is already taken!</color>"
     },
+    "CLAN.error.not.found": {
+        "de-DE": "[grey]Der Clan [red][clan]</color> existiert [red]nicht!</color></color>",
+        "en-US": "[grey]The clan [red]clan]</color> does [red]not</color> exist!</color></color>"
+    },
     "CLAN.error.tagline.taken": {
         "de-DE": "[grey]Die Clan Tagline [red][tagline]</color> ist bereits vergeben!</color>",
         "en-US": "[grey]The clan tagline [red][tagline]</color> is already taken!</color>"
@@ -387,6 +391,10 @@
         "de-DE": "[grey][era_purple][name]</color> hat keine [era_purple]Beitrittsanfrage</color> an deinen Clan gesendet!</color>",
         "en-US": "[grey][era_purple][name]</color> has not sent a [era_purple]join request</color> to your clan!</color>"
     },
+    "CLAN.command.joinrequest.accept.error.no.permission": {
+        "de-DE": "[grey]Du musst der Clan [red]Owner</color> oder ein Clan <red>Admin</red> sein um das zu tun!</color>",
+        "en-US": "[grey]You must be the clan [red]owner</color> or a clan <red>admin</red> to do that!</color>"
+    },  
     "CLAN.command.joinrequest.accept.success": {
         "de-DE": "[grey]Du hast die [era_purple]Beitrittsanfrage</color> von [era_purple][name]</color> [green]erfolgreich</color> angenommen!</color>",
         "en-US": "[grey]You have [green]suceessfully</color> accepted the [era_purple]join request</color> of [era_purple][name]</color>!</color>"
