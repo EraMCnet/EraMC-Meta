@@ -4,7 +4,7 @@
         "en-US": "[grey][mint_green_dark][amount]x</color> [mint_green_dark][item]</color> is worth [mint_green_dark]$[money]!</color></color>"
     },
     "WORTH.item.lore.line": {
-        "de-DE": "<br><!i>[grey]Itemwert:</color> [mint_green_dark]$[money]</color>",
-        "en-US": "<br><!i>[grey]Worth:</color> [mint_green_dark]$[money]</color>"
+        "de-DE": "<!i>[grey]Itemwert:</color> [mint_green_dark]$[money]</color>",
+        "en-US": "<!i>[grey]Worth:</color> [mint_green_dark]$[money]</color>"
     }
 }
