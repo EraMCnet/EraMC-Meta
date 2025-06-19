@@ -1,0 +1,10 @@
+{
+    "CLAN.profile.title": {
+        "de-DE": "<!i>Clanprofile > [clan]",
+        "en-US": "<!i>Clan Profile > [clan]"
+    },
+    "CLAN.profile.item.info.lore": {
+        "de-DE": "<br><!i>",
+        "en-US": "<br><!i>"
+    } 
+}

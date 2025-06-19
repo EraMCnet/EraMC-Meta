@@ -55,6 +55,10 @@
         "de-DE": "<!i>[pastel_red]<b>SCHADEN VERURSACHT</color>",
         "en-US": "<!i>[pastel_red]<b>DAMAGE DEALT</color>"
     },
+    "STATS.gui.select.stats.blocks-traveled": {
+        "de-DE": "<!i>[smooth_green]<b>BLÖCKE GEREIST</color>",
+        "en-US": "<!i>[smooth_green]<b>BLOCKS TRAVELED</color>"
+    },
     "STAT.name.kills": {
         "de-DE": "kills",
         "en-US": "kills"
@@ -106,5 +110,9 @@
     "STAT.name.damage-dealt": {
         "de-DE": "verursachter schaden",
         "en-US": "damage dealt"
+    },
+    "STAT.name.blocks-traveled": {
+        "de-DE": "gereiste blöcke",
+        "en-US": "blocks traveled"
     }
 }
