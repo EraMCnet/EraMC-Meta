@@ -132,8 +132,8 @@
         "en-US": "[grey][prefix] Punishment ID: [era_purple][id]</color><br>[prefix] Reason: [era_purple][reason]</color></color>"
     },
     "GENERAL.history.timed.gui.lore": {
-        "de-DE": "<i:false>[grey][dot] ID: [era_purple][id]</color><br><i:false>[grey][dot] Executor: [era_purple][executor]</color><br><i:false>[grey][dot] Grund: [era_purple][reason]</color><br><i:false>[grey][dot] Servergruppe: [era_purple][servergroup]</color><br><i:false>[grey][dot] Dauer: [era_purple][duration]</color><br><i:false>[grey][dot] Aktiv: [grey]<b>[active]</b></color></color>",
-        "en-US": "<i:false>[grey][dot] ID: [era_purple][id]</color><br><i:false>[grey][dot] Executor: [era_purple][executor]</color><br><i:false>[grey][dot] Reason: [era_purple][reason]</color><br><i:false>[grey][dot] Servergroup: [era_purple][servergroup]</color><br><i:false>[grey][dot] Duration: [era_purple][duration]</color><br><i:false>[grey][dot] Active: [grey]<b>[active]</b></color></color>"
+        "de-DE": "<i:false>[grey][dot] ID: [era_purple][id]</color><br><i:false>[grey][dot] Executor: [era_purple][executor]</color><br><i:false>[grey][dot] Grund: [era_purple][reason]</color><br><i:false>[grey][dot] Servergruppe: [era_purple][servergroup]</color><br><i:false>[grey][dot] Dauer: [era_purple][duration]</color><br><i:false>[grey][dot] Aufgehoben von: [grey]<b>[unpunisher]</b></color><br><i:false>[grey][dot] Aktiv: [grey]<b>[active]</b></color></color>",
+        "en-US": "<i:false>[grey][dot] ID: [era_purple][id]</color><br><i:false>[grey][dot] Executor: [era_purple][executor]</color><br><i:false>[grey][dot] Reason: [era_purple][reason]</color><br><i:false>[grey][dot] Servergroup: [era_purple][servergroup]</color><br><i:false>[grey][dot] Duration: [era_purple][duration]</color><br><i:false>[grey][dot] Unpunished by: [grey]<b>[unpunisher]</b></color><br><i:false>[grey][dot] Active: [grey]<b>[active]</b></color></color>"
     },
     "GENERAL.history.kicks.gui.lore": {
         "de-DE": "<i:false>[grey][dot] ID: [era_purple][id]</color><br><i:false>[grey][dot] Executor: [era_purple][executor]</color><br><i:false>[grey][dot] Grund: [era_purple][reason]</color>",
