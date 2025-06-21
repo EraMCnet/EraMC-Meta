@@ -1,0 +1,10 @@
+{
+    "TELEPORT.success": {
+        "de-DE": "[grey]Du hast dich zur [red]letzten Position</color> von [era_purple][player] teleportiert!</color></color>",
+        "en-US": "[grey]You have teleported to [red]the last position</color> of [era_purple][player]!</color></color>"
+    },
+    "TELEPORT.error.not-found": {
+        "de-DE": "[grey]Die [red]letzte Position</color> von [era_purple][player]</color> ist [red]nicht</color> gespeichert oder wurde nie gesetzt!</color>",
+        "en-US": "[grey]The [red]last position</color> of [era_purple][player]</color> is [red]not</color> saved or was never set!</color>"
+    }
+}

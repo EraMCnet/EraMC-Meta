@@ -1,0 +1,6 @@
+{
+    "TELEPORT.player.success": {
+        "de-DE": "[grey]Du hast dich [green]erfolgreich</color> zu [era_purple][player]</color> teleportiert!</color>",
+        "en-US": "[grey]You have [green]successfully</color> teleported to [era_purple][player]!</color></color>"
+    }
+}
