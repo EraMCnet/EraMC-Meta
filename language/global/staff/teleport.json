@@ -1,6 +1,18 @@
 {
-    "TELEPORT.player.success": {
-        "de-DE": "[grey]Du hast dich [green]erfolgreich</color> zu [era_purple][player]</color> teleportiert!</color>",
-        "en-US": "[grey]You have [green]successfully</color> teleported to [era_purple][player]!</color></color>"
+    "TELEPORT.success": {
+        "de-DE": "[grey]Du hast dich [green]erfolgreich</color> zu [era_purple][target]</color> teleportiert!</color>",
+        "en-US": "[grey]You have [green]successfully</color> teleported to [era_purple][target]!</color></color>"
+    },
+    "TELEPORT.other.success": {
+        "de-DE": "[grey]Du hast [era_purple][player]</color> [green]erfolgreich</color> zu [era_purple][target]</color> teleportiert!</color>",
+        "en-US": "[grey]You have [green]successfully</color> teleported [era_purple][player]</color> to [era_purple][target]!</color></color>"
+    },
+    "TELEPORT.fail": {
+        "de-DE": "[grey]Beim [era_purple]teleportieren</color> ist ein [red]Fehler</color> aufgetreten!</color>",
+        "en-US": "[grey]An [red]error</color> occurred while [era_purple]teleporting!</color></color>"
+    },
+    "TELEPORT.other.fail": {
+        "de-DE": "[grey]Beim [era_purple]teleportieren</color> von [era_purple][player]</color> ist ein [red]Fehler</color> aufgetreten!</color>",
+        "en-US": "[grey]An [red]error</color> occurred while [era_purple]teleporting</color> [era_purple][player]!</color></color></color>"
     }
 }
