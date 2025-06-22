@@ -267,8 +267,12 @@
         "de-DE": "[grey]Du musst [red][time]</color> warten, bevor du diesen [era_purple]Command</color> erneut verwenden kannst!</color>",
         "en-US": "[grey]You have to wait [red][time]</color> before you can use this [era_purple]command</color> again!</color>"
     },
-    "ERROR.generic.teleport": {
+    "ERROR.generic.teleport.self": {
         "de-DE": "[grey]Beim [era_purple]teleportieren</color> ist ein [red]Fehler</color> aufgetreten! Bitte kontaktieren den Discord-Ticketsupport: [era_purple]discord.gg/eramc</color></color>",
         "en-US": "[grey]An error occurred while [era_purple]teleporting</color>! Please contact the Discord ticket support: [era_purple]discord.gg/eramc</color></color>"
+    },
+    "ERROR.generic.teleport.target": {
+        "de-DE": "[grey]Beim [era_purple]teleportieren</color> von [era_purple][target]</color> ist ein [red]Fehler</color> aufgetreten! Bitte kontaktieren den Discord-Ticketsupport: [era_purple]discord.gg/eramc</color></color>",
+        "en-US": "[grey]An error occurred while [era_purple]teleporting</color> [era_purple][target]!</color> Please contact the Discord ticket support: [era_purple]discord.gg/eramc</color></color>"
     }
 }
