@@ -24,8 +24,8 @@
         "en-US": "[grey]The number you specified is [red]invalid!</color></color>"
     },
     "ERROR.unknown": {
-        "de-DE": "[grey]Ein unbekannter [red]Fehler</color> ist aufgetreten! Bitte kontaktieren den Discord-Ticketsupport. [era_purple]discord.gg/eramc</color></color>",
-        "en-US": "[grey]An unknown [red]error</color> occurred! Please contact the Discord ticket support. [era_purple]discord.gg/eramc</color></color>"
+        "de-DE": "[grey]Ein unbekannter [red]Fehler</color> ist aufgetreten! Bitte kontaktieren den Discord-Ticketsupport: [era_purple]discord.gg/eramc</color></color>",
+        "en-US": "[grey]An unknown [red]error</color> occurred! Please contact the Discord ticket support: [era_purple]discord.gg/eramc</color></color>"
     },
     "GENERAL.you": {
         "de-DE": "Du",
@@ -244,8 +244,8 @@
         "en-US": "[amount] years"
     },
     "ERROR.time.format.invalid": {
-        "de-DE": "[grey]Die Zeit die du angegeben hast ist ungültig! Bitte nutze das Format [era_purple]2s</color> für 2 Sekunden, [era_purple]5m</color> für 5 Minuten oder [era_purple]6h</color> für 6 Stunden, [era_purple]5d</color> für 5 Tage, [era_purple]3M</color> für 3 Monate oder [era_purple]2y</color> für 2 Jahre.</color>",
-        "en-US": "[grey]The time you specified is invalid! Please use the format [era_purple]2s</color> for 2 seconds, [era_purple]5m</color> for 5 minutes or [era_purple]6h</color> for 6 hours, [era_purple]5d</color> for 5 days, [era_purple]3M</color> for 3 months or [era_purple]2y</color> for 2 years.</color>"
+        "de-DE": "[grey]Die Zeit die du angegeben hast ist ungültig! Bitte nutze das Format [era_purple]2s</color> für 2 Sekunden, [era_purple]5m</color> für 5 Minuten oder [era_purple]6h</color> für 6 Stunden, [era_purple]5d</color> für 5 Tage, [era_purple]3mo</color> für 3 Monate oder [era_purple]2y</color> für 2 Jahre.</color>",
+        "en-US": "[grey]The time you specified is invalid! Please use the format [era_purple]2s</color> for 2 seconds, [era_purple]5m</color> for 5 minutes or [era_purple]6h</color> for 6 hours, [era_purple]5d</color> for 5 days, [era_purple]3mo</color> for 3 months or [era_purple]2y</color> for 2 years.</color>"
     },
     "GENERAL.yes": {
         "de-DE": "Ja",
@@ -266,5 +266,9 @@
     "COMMAND.cooldown": {
         "de-DE": "[grey]Du musst [red][time]</color> warten, bevor du diesen [era_purple]Command</color> erneut verwenden kannst!</color>",
         "en-US": "[grey]You have to wait [red][time]</color> before you can use this [era_purple]command</color> again!</color>"
+    },
+    "ERROR.generic.teleport": {
+        "de-DE": "[grey]Beim [era_purple]teleportieren</color> ist ein [red]Fehler</color> aufgetreten! Bitte kontaktieren den Discord-Ticketsupport: [era_purple]discord.gg/eramc</color></color>",
+        "en-US": "[grey]An error occurred while [era_purple]teleporting</color>! Please contact the Discord ticket support: [era_purple]discord.gg/eramc</color></color>"
     }
 }
