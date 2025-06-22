@@ -4,7 +4,7 @@
         "en-US": "<!i>Clan Profile > [clan]"
     },
     "CLAN.profile.item.info.lore": {
-        "de-DE": "<br><!i>",
+        "de-DE": "<br><!i>[era_purple][ROUNDDOT]</color>Clan Name: [era_purple][clan_name]</color><br><!i>",
         "en-US": "<br><!i>"
     } 
 }

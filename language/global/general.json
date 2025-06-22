@@ -4,12 +4,12 @@
         "en-US": "[grey]You [red]don't have</color> the [era_purple]permission</color> to do that!</color>"
     },
     "ERROR.player.offline": {
-        "de-DE": "[grey]Dieser Spieler ist aktuell [red]offline!</color></color>",
-        "en-US": "[grey]This player is currently [red]offline!</color></color>"
+        "de-DE": "[grey][era_purple][player]</color> ist aktuell [red]offline!</color></color>",
+        "en-US": "[grey][era_purple][player]</color> is currently [red]offline!</color></color>"
     },
     "ERROR.player.notfound": {
-        "de-DE": "[grey]Dieser Spieler hat noch [red]nie</color> auf [era_purple]EraMC</color> gespielt!</color>",
-        "en-US": "[grey]This player has [red]never</color> played on [era_purple]EraMC</color> before!</color>"
+        "de-DE": "[grey][era_purple][player]</color> hat noch [red]nie</color> auf [era_purple]EraMC</color> gespielt!</color>",
+        "en-US": "[grey][era_purple][player]</color> has [red]never</color> played on [era_purple]EraMC</color> before!</color>"
     },
     "ERROR.command.notfound": {
         "de-DE": "[grey]Der Command [era_purple]/[command]</color> existiert [red]nicht!</color> </color>",
