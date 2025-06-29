@@ -278,5 +278,9 @@
     "ERROR.specific.teleport.self": {
         "de-DE": "[grey]Du kannst dich [red]nicht</color> zu dir selber teleportieren!</color>",
         "en-US": "[grey]You [red]can't</color> teleport to yourself!</color>"
+    },
+    "ERROR.specific.teleport.target.self": {
+        "de-DE": "[grey]Du kannst [era_purple][target]</color> [red]nicht</color> zu sich selbst teleportieren!</color>",
+        "en-US": "[grey]You [red]can't</color> teleport [era_purple][target]</color> to themselves!</color>"
     }
 }

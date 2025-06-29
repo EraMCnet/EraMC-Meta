@@ -4,7 +4,15 @@
         "en-US": "<!i>Clan Profile > [clan]"
     },
     "CLAN.profile.item.info.lore": {
-        "de-DE": "<br><!i>[era_purple][ROUNDDOT]</color>Clan Name: [era_purple][clan_name]</color><br><!i>",
-        "en-US": "<br><!i>"
-    } 
+        "de-DE": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Name: [era_purple][clan_name]</color><br><!i>[grey][era_purple][ROUNDDOT]</color> Tagline: [era_purple][clan_tagline]</color><br><!i>[grey][era_purple][ROUNDDOT]</color> Clan Tag: [era_purple][clan_tag]</color><br><!i>[grey][era_purple][ROUNDDOT]</color> Clan Owner: [era_purple][clan_owner]</color><br><!i>[grey][era_purple][ROUNDDOT]</color> Mitglieder: [era_purple][clan_members]</color><br>",
+        "en-US": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Name: [era_purple][clan_name]</color><br><!i>[grey][era_purple][ROUNDDOT]</color> Tagline: [era_purple][clan_tagline]</color><br><!i>[grey][era_purple][ROUNDDOT]</color> Clan Tag: [era_purple][clan_tag]</color><br><!i>[grey][era_purple][ROUNDDOT]</color> Clan Owner: [era_purple][clan_owner]</color><br><!i>[grey][era_purple][ROUNDDOT]</color> Members: [era_purple][clan_members]</color><br>"
+    },
+    "CLAN.profile.item.members.name": {
+        "de-DE": "<!i>[era_purple]Mitglieder",
+        "en-US": "<!i>[era_purple]Members"
+    },
+    "CLAN.profile.item.members.lore": {
+        "de-DE": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Klicke, um die Mitglieder des Clans [era_purple][name]#[tagline]</color> zu sehen.<br>",
+        "en-US": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Click to see the members of clan [era_purple][name]#[tagline]</color>.<br>"
+    }
 }
