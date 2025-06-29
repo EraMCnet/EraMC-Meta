@@ -1,6 +1,6 @@
 {
     "CLAN.profile.title": {
-        "de-DE": "<!i>Clanprofile > [clan]",
+        "de-DE": "<!i>Clanprofil > [clan]",
         "en-US": "<!i>Clan Profile > [clan]"
     },
     "CLAN.profile.item.info.lore": {
@@ -14,5 +14,21 @@
     "CLAN.profile.item.members.lore": {
         "de-DE": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Klicke, um die Mitglieder des Clans [era_purple][name]#[tagline]</color> zu sehen.<br>",
         "en-US": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Click to see the members of clan [era_purple][name]#[tagline]</color>.<br>"
+    },
+    "CLAN.profile.item.join.name": {
+        "de-DE": "<!i>[green]Beitreten",
+        "en-US": "<!i>[green]Join"
+    },
+    "CLAN.profile.item.join.lore": {
+        "de-DE": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Klicke, um dem Clan [era_purple][name]#[tagline]</color> beizutreten.<br>",
+        "en-US": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Click to join clan [era_purple][name]#[tagline]</color>.<br>"
+    },
+    "CLAN.profile.item.joinrequest.name": {
+        "de-DE": "<!i>[green]Beitrittsanfrage",
+        "en-US": "<!i>[green]Join Request"
+    },
+    "CLAN.profile.item.joinrequest.lore": {
+        "de-DE": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Klicke, um eine Beitrittsanfrage an den Clan [era_purple][name]#[tagline]</color> zu senden.<br>",
+        "en-US": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Click to send a join request to clan [era_purple][name]#[tagline]</color>.<br>"
     }
 }

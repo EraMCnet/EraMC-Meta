@@ -1,6 +1,6 @@
 {
-    "ALERT.success.send": {
-        "de-DE": "[grey]Deine [era_purple]Nachricht</color> wurde <color:#4bfb00>erfolgreich</color> an jeden Spieler gesendet!</color>",
-        "en-US": "[grey]Your [era_purple]message</color> has been <color:#4bfb00>successfully</color> sent to every player!</color>"
+    "ALERT.announcement": {
+        "en-US": "Announcement",
+        "de-DE": "Ankündigung"
     }
 }

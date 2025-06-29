@@ -1,0 +1,38 @@
+{
+    "CLAN.discovery.gui.title": {
+        "de-DE": "<i:false>ᴋᴏᴘꜰɢᴇʟᴅ",
+        "en-US": "<i:false>ʙᴏᴜɴᴛʏ"
+    },
+    "CLAN.discovery.gui.page.previous": {
+        "de-DE": "<i:false>[blue]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[blue]ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ"
+    },
+    "CLAN.discovery.gui.page.update": {
+        "de-DE": "<i:false>[blue]ᴀᴋᴛᴜᴀʟʟɪꜱɪᴇʀᴇɴ",
+        "en-US": "<i:false>[blue]ᴜᴘᴅᴀᴛᴇ"
+    },
+    "CLAN.discovery.gui.page.next": {
+        "de-DE": "<i:false>[blue]ɴäᴄʜꜱᴛᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[blue]ɴᴇxᴛ ᴘᴀɢᴇ"
+    },
+    "CLAN.discovery.gui.page.sort": {
+        "de-DE": "<i:false>[blue]ꜱᴏʀᴛɪᴇʀᴇɴ",
+        "en-US": "<i:false>[blue]ꜱᴏʀᴛ"
+    },
+    "CLAN.discovery.gui.page.navigate.lore": {
+        "de-DE": "<i:false><br><i:false>[blue][ROUNDDOT][grey] Klicke, zum navigieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[blue][ROUNDDOT][grey] Click to navigate<br><i:false>"
+    },
+    "CLAN.discovery.gui.page.update.lore": {
+        "de-DE": "<i:false><br><i:false>[blue][ROUNDDOT][grey] Klicke, um die Seite zu aktualisieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[blue][ROUNDDOT][grey] Click to update the page<br><i:false>"
+    },
+    "CLAN.discovery.gui.page.sort.lore.most-members": {
+        "de-DE": "<i:false><br><i:false>[blue]> Meiste Mitglieder<br><i:false>[grey]  Wenigste Mitglieder<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[blue]> Most members<br><i:false>[grey]  Least members<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "CLAN.discovery.gui.page.sort.lore.least-members": {
+        "de-DE": "<i:false><br><i:false>[grey]  Most members<br><i:false>[blue]> Least members<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  Highest<br><i:false>[blue]> Lowest<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    }
+}
