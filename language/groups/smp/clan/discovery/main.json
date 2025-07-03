@@ -20,12 +20,12 @@
         "en-US": "<i:false><br><i:false>[blue][ROUNDDOT][grey] Click to navigate<br><i:false>"
     },
     "CLAN.discovery.gui.page.sort.lore.most-members": {
-        "de-DE": "<i:false><br><i:false>[blue]> Meiste Mitglieder<br><i:false>[grey]  Wenigste Mitglieder<br><i:false>[blue]  Älteste<br><i:false>[grey]  Neuste<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
-        "en-US": "<i:false><br><i:false>[blue]> Most members<br><i:false>[grey]  Least members<br><i:false>[blue]  Älteste<br><i:false>[grey]  Neuste<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+        "de-DE": "<i:false><br><i:false>[blue]> Meiste Mitglieder<br><i:false>[grey]  Wenigste Mitglieder<br><i:false>[grey]  Älteste<br><i:false>[grey]  Neuste<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[blue]> Most members<br><i:false>[grey]  Least members<br><i:false>[grey]  Älteste<br><i:false>[grey]  Neuste<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     },
     "CLAN.discovery.gui.page.sort.lore.least-members": {
-        "de-DE": "<i:false><br><i:false>[grey]  Most members<br><i:false>[blue]> Least members<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
-        "en-US": "<i:false><br><i:false>[grey]  Highest<br><i:false>[blue]> Lowest<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+        "de-DE": "<i:false><br><i:false>[grey]  Meiste Mitglieder<br><i:false>[blue]> Wenigste Mitglieder<br><i:false>[grey]  Älteste<br><i:false>[grey]  Neuste<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  Most members<br><i:false>[blue]> Least members<br><i:false>[grey]  Älteste<br><i:false>[grey]  Neuste<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     },
     "CLAN.discovery.gui.page.sort.lore.oldest": {
         "de-DE": "<i:false><br><i:false>[grey]  Meiste Mitglieder<br><i:false>[grey]  Wenigste Mitglieder<br><i:false>[blue]> Älteste<br><i:false>[grey]  Neuste<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
