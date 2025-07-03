@@ -30,5 +30,17 @@
     "CLAN.profile.item.joinrequest.lore": {
         "de-DE": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Klicke, um eine Beitrittsanfrage an den Clan [era_purple][name]#[tagline]</color> zu senden.<br>",
         "en-US": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Click to send a join request to clan [era_purple][name]#[tagline]</color>.<br>"
+    },
+    "CLAN.profile.page.previous": {
+        "de-DE": "<i:false>[era_purple]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[era_purple]ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ"
+    },
+    "CLAN.profile.page.next": {
+        "de-DE": "<i:false>[era_purple]ɴäᴄʜꜱᴛᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[era_purple]ɴᴇxᴛ ᴘᴀɢᴇ"
+    },
+    "CLAN.profile.page.navigate.lore": {
+        "de-DE": "<i:false><br><i:false>[era_purple][ROUNDDOT][grey] Klicke, zum navigieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[era_purple][ROUNDDOT][grey] Click to navigate<br><i:false>"
     }
 }
