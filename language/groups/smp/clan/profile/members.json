@@ -1,0 +1,22 @@
+{
+    "CLAN.profile.members.title": {
+        "de-DE": "<!i>Clanprofil > [clan] > Mitglieder",
+        "en-US": "<!i>Clan Profile > [clan] > Mitglieder"
+    },
+    "CLAN.profile.members.page.previous": {
+        "de-DE": "<i:false>[blue]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[blue]ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ"
+    },
+    "CLAN.profile.members.page.next": {
+        "de-DE": "<i:false>[blue]ɴäᴄʜꜱᴛᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[blue]ɴᴇxᴛ ᴘᴀɢᴇ"
+    },
+    "CLAN.profile.members.page.navigate.lore": {
+        "de-DE": "<i:false><br><i:false>[blue][ROUNDDOT][grey] Klicke, zum navigieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[blue][ROUNDDOT][grey] Click to navigate<br><i:false>"
+    },
+    "CLAN.profile.members.item.lore": {
+        "de-DE": "<br><i:false>[blue][ROUNDDOT][grey] Rolle: [clan_member_role]<br>",
+        "en-US": "<br><i:false>[blue][ROUNDDOT][grey] Role: [clan_member_role]<br>"
+    }
+}
