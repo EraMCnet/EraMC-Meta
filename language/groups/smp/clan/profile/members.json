@@ -1,7 +1,7 @@
 {
     "CLAN.profile.members.title": {
-        "de-DE": "<!i>Clanprofil > [clan] > Mitglieder",
-        "en-US": "<!i>Clan Profile > [clan] > Mitglieder"
+        "de-DE": "<!i>Clanprofil > [clan]",
+        "en-US": "<!i>Clan Profile > [clan]"
     },
     "CLAN.profile.members.page.previous": {
         "de-DE": "<i:false>[blue]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
