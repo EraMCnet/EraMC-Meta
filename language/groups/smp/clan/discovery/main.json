@@ -20,24 +20,24 @@
         "en-US": "<i:false><br><i:false>[blue][ROUNDDOT][grey] Click to navigate<br><i:false>"
     },
     "CLAN.discovery.gui.page.sort.lore.most-members": {
-        "de-DE": "<i:false><br><i:false>[blue]> Meiste Mitglieder<br><i:false>[grey]  Wenigste Mitglieder<br><i:false>[grey]  Älteste<br><i:false>[grey]  Neuste<br><i:false>[grey]  Verifiziert<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "de-DE": "<i:false><br><i:false>[blue]> Meiste Mitglieder<br><i:false>[grey]  Wenigste Mitglieder<br><i:false>[grey]  Älteste<br><i:false>[grey]  Neuste<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
         "en-US": "<i:false><br><i:false>[blue]> Most members<br><i:false>[grey]  Least members<br><i:false>[grey]  Älteste<br><i:false>[grey]  Neuste<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     },
     "CLAN.discovery.gui.page.sort.lore.least-members": {
-        "de-DE": "<i:false><br><i:false>[grey]  Meiste Mitglieder<br><i:false>[blue]> Wenigste Mitglieder<br><i:false>[grey]  Älteste<br><i:false>[grey]  Neuste<br><i:false>[grey]  Verifiziert<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
-        "en-US": "<i:false><br><i:false>[grey]  Most members<br><i:false>[blue]> Least members<br><i:false>[grey]  Älteste<br><i:false>[grey]  Neuste<br><i:false>[grey]  Verified<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+        "de-DE": "<i:false><br><i:false>[grey]  Meiste Mitglieder<br><i:false>[blue]> Wenigste Mitglieder<br><i:false>[grey]  Älteste<br><i:false>[grey]  Neuste<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  Most members<br><i:false>[blue]> Least members<br><i:false>[grey]  Älteste<br><i:false>[grey]  Neuste<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     },
     "CLAN.discovery.gui.page.sort.lore.oldest": {
-        "de-DE": "<i:false><br><i:false>[grey]  Meiste Mitglieder<br><i:false>[grey]  Wenigste Mitglieder<br><i:false>[blue]> Älteste<br><i:false>[grey]  Neuste<br><i:false>[grey]  Verifiziert<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
-        "en-US": "<i:false><br><i:false>[grey]  Most members<br><i:false>[grey]  Least members<br><i:false>[blue]> Oldest<br><i:false>[grey]  Newest<br><i:false>[grey]  Verified<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+        "de-DE": "<i:false><br><i:false>[grey]  Meiste Mitglieder<br><i:false>[grey]  Wenigste Mitglieder<br><i:false>[blue]> Älteste<br><i:false>[grey]  Neuste<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  Most members<br><i:false>[grey]  Least members<br><i:false>[blue]> Oldest<br><i:false>[grey]  Newest<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     },
     "CLAN.discovery.gui.page.sort.lore.newest": {
-        "de-DE": "<i:false><br><i:false>[grey]  Meiste Mitglieder<br><i:false>[grey]  Wenigste Mitglieder<br><i:false>[grey]  Älteste<br><i:false>[blue]> Neuste<br><i:false>[grey]  Verifiziert<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
-        "en-US": "<i:false><br><i:false>[grey]  Most members<br><i:false>[grey]  Least members<br><i:false>[grey]  Oldest<br><i:false>[blue]> Newest<br><i:false>[grey]  Verified<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+        "de-DE": "<i:false><br><i:false>[grey]  Meiste Mitglieder<br><i:false>[grey]  Wenigste Mitglieder<br><i:false>[grey]  Älteste<br><i:false>[blue]> Neuste<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  Most members<br><i:false>[grey]  Least members<br><i:false>[grey]  Oldest<br><i:false>[blue]> Newest<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     },
     "CLAN.discovery.gui.page.sort.lore.verified": {
-        "de-DE": "<i:false><br><i:false>[grey]  Meiste Mitglieder<br><i:false>[grey]  Wenigste Mitglieder<br><i:false>[grey]  Älteste<br><i:false>[grey]  Neuste<br><i:false>[blue]> Verifiziert<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
-        "en-US": "<i:false><br><i:false>[grey]  Most members<br><i:false>[grey]  Least members<br><i:false>[grey]  Oldest<br><i:false>[grey]  Newest<br><i:false>[blue]> Verified<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+        "de-DE": "<i:false><br><i:false>[grey]  Meiste Mitglieder<br><i:false>[grey]  Wenigste Mitglieder<br><i:false>[grey]  Älteste<br><i:false>[grey]  Neuste<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  Most members<br><i:false>[grey]  Least members<br><i:false>[grey]  Oldest<br><i:false>[grey]  Newest<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     },
     "CLAN.discovery.gui.clan.item.lore": {
         "de-DE": "<br><!i>[grey][mint_green_dark][ARROW]</color> Clan Owner: [mint_green_dark][clan_owner]</color><br><!i>[grey][mint_green_dark][ARROW]</color> Clan Tag: [mint_green_dark][clan_tag]</color><br><!i>[grey][mint_green_dark][ARROW]</color> Verifiziert: [clan_verified]<br><br>[grey]<!i>[mint_green_dark][ROUNDDOT]</color> Klicke, um mehr über diesen Clan zu erfahren.<br>",
