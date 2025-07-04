@@ -70,5 +70,9 @@
     "AH.command.sell.sucess": {
         "de-DE": "[green]Du hast [mint_green_light][amount]x</color> [mint_green_dark][item]</color> im [green]Auktionshaus</color> verkauft!</color>",
         "en-US": "[green]You have sold [mint_green_light][amount]x</color> [mint_green_dark][item]</color> in the [green]Auction House!</color></color>"
+    },
+    "AH.command.sell.error.item.invalid": {
+        "de-DE": "[grey]Dieses Item kannst du [red]nicht</color> verkaufen</color>",
+        "en-US": "[grey]The item you want to sell is invalid.</color>"
     }
 }
