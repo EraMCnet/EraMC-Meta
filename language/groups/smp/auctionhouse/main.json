@@ -67,7 +67,7 @@
         "de-DE": "[grey]Du hast das Limit von [red][limit]</color> Items im [green]Auktionshaus</color> erreicht. Bitte warte bis jemand Items [green]von dir kauft</color> oder [red]entferne</color> Items von dir wieder aus dem [green]Auktionshaus.</color></color>",
         "en-US": "[grey]You have reached the limit of [red][limit]</color> items in the [green]Auction House</color>. Please wait until someone [green]buys your items</color> or [red]remove</color> items from the [green]Auction House.</color></color>"
     },
-    "AH.command.sell.sucess": {
+    "AH.command.sell.success": {
         "de-DE": "[green]Du hast [mint_green_light][amount]x</color> [mint_green_dark][item]</color> im [green]Auktionshaus</color> verkauft!</color>",
         "en-US": "[green]You have sold [mint_green_light][amount]x</color> [mint_green_dark][item]</color> in the [green]Auction House!</color></color>"
     },
