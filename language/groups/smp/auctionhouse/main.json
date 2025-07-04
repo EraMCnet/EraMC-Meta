@@ -1,0 +1,74 @@
+{
+    "AH.gui.main.title": {
+        "de-DE": "<!i>Auktionshaus",
+        "en-US": "<!i>Auction House"
+    },
+    "AH.item.display.lore": {
+        "de-DE": "<!i>[original-item-lore<br><br><!i>[grey][green][ROUNDDOT]</color> Verkäufer: [green][seller]</color><br>><!i>[grey][green][ROUNDDOT]</color> Preis: [green][price]</color><br><!i>[grey][green][ROUNDDOT]</color> Läuft ab in: [green][time]</color><br><br><!i>[grey][green][arrow]</color> Klicke, um das Item zu kaufen.<br>",
+        "en-US": "<!i>[original-item-lore<br><br><!i>[grey][green][ROUNDDOT]</color> Seller: [green][seller]</color><br><!i>[grey][green][ROUNDDOT]</color> Price: [green][price]</color><br><!i>[grey][green][ROUNDDOT]</color> Expires in: [green][time]</color><br><br><!i>[grey][green][arrow]</color> Click to buy this item.<br>"
+    },
+    "AH.nav.own.items.name": {
+        "de-DE": "<!i>[green]ᴅᴇɪɴᴇ ɪᴛᴇᴍꜱ</color>",
+        "en-US": "<!i>[green]ʏᴏᴜʀ ɪᴛᴇᴍꜱ</color>"
+    },
+    "AH.nav.own.items.lore": {
+        "de-DE": "<!i>[grey][green][ROUNDDOT]</color> Klicke, um deine Items anzusehen</color>",
+        "en-US": "<!i>[grey][green][ROUNDDOT]</color> Click to view your items</color>"
+    },
+    "AH.nav.item.sort.name": {
+        "de-DE": "<!i>[blue]ꜱᴏʀᴛɪᴇʀᴇɴ</color>",
+        "en-US": "<!i>[blue]ꜱᴏʀᴛɪᴇʀᴇɴ</color>"
+    },
+    "AH.nav.item.sort.most-expensive": {
+        "de-DE": "<i:false><br><i:false>[blue]> Teuerste zuerst<br><i:false>[grey]  Günstigeste zuerst<br><i:false>[grey]  Neuste zuerst<br><i:false>[grey]  Älteste zuerst<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[blue]> Most expensive first<br><i:false>[grey]  Least expensive first<br><i:false>[grey]  Newest first<br><i:false>[grey]  Oldest first<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "AH.nav.item.sort.least-expensive": {
+        "de-DE": "<i:false><br><i:false>[grey]  Teuerste zuerst<br><i:false>[blue]> Günstigeste zuerst<br><i:false>[grey]  Neuste zuerst<br><i:false>[grey]  Älteste zuerst<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  Most expensive first<br><i:false>[blue]> Least expensive first<br><i:false>[grey]  Newest first<br><i:false>[grey]  Oldest first<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "AH.nav.item.sort.newest": {
+        "de-DE": "<i:false><br><i:false>[grey]  Teuerste zuerst<br><i:false>[grey]  Günstigeste zuerst<br><i:false>[blue]> Neuste<br><i:false>[grey]  Älteste<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  Most expensive first<br><i:false>[grey]  Least expensive first<br><i:false>[blue]> Newest<br><i:false>[grey]  Oldest<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "AH.nav.item.sort.oldest": {
+        "de-DE": "<i:false><br><i:false>[grey]  Teuerste zuerst<br><i:false>[grey]  Günstigeste zuerst<br><i:false>[grey]  Neuste<br><i:false>[blue]> Älteste<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  Most expensive first<br><i:false>[grey]  Least expensive first<br><i:false>[grey]  Newest<br><i:false>[blue]> Oldest<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "AH.nav.pagination.previous": {
+        "de-DE": "<i:false>[blue]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[blue]ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ"
+    },
+    "AH.nav.pagination.next": {
+        "de-DE": "<i:false>[blue]ɴäᴄʜꜱᴛᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[blue]ɴᴇxᴛ ᴘᴀɢᴇ"
+    },
+    "AH.nav.pagination.navigate.lore": {
+        "de-DE": "<i:false><br><i:false>[blue][ROUNDDOT][grey] Klicke, zum navigieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[blue][ROUNDDOT][grey] Click to navigate<br><i:false>"
+    },
+    "AH.nav.pagination.update": {
+        "de-DE": "<i:false>[blue]ᴀᴋᴛᴜᴀʟʟɪꜱɪᴇʀᴇɴ",
+        "en-US": "<i:false>[blue]ᴜᴘᴅᴀᴛᴇ"
+    },
+    "AH.nav.pagination.update.lore": {
+        "de-DE": "<i:false><br><i:false>[blue][ROUNDDOT][grey] Klicke, um die Seite zu aktualisieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[blue][ROUNDDOT][grey] Click to update the page<br><i:false>"
+    },
+    "AH.nav.info.item.limit.name": {
+        "de-DE": "<!i>[pastel_red]ɪᴛᴇᴍ ʟɪᴍɪᴛ",
+        "en-US": "<!i>[pastel_red]ɪᴛᴇᴍ ʟɪᴍɪᴛ"
+    },
+    "AH.nav.info.item.limit.lore": {
+        "de-DE": "<br><!i>[green][ROUNDDOT]</color> Du hast aktuell [green][selled-items]</color> / [yellow][limit]</color> Items im Auktionshaus.<br><br><!i>[grey][green][ARROW]</color> Verkaufe Items mit <green>/ah sell</color><br>",
+        "en-US": "<br><!i>[green][ROUNDDOT]</color> You currently have [green][selled-items]</color> / [yellow][limit]</color> items in the auction house.<br><br><!i>[grey][green][ARROW]</color> Sell items with <green>/ah sell</color><br>"
+    },
+    "AH.command.sell.error.limit": {
+        "de-DE": "[grey]Du hast das Limit von [red][limit]</color> Items im [green]Auktionshaus</color> erreicht. Bitte warte bis jemand Items [green]von dir kauft</color> oder [red]entferne</color> Items von dir wieder aus dem [green]Auktionshaus.</color></color>",
+        "en-US": "[grey]You have reached the limit of [red][limit]</color> items in the [green]Auction House</color>. Please wait until someone [green]buys your items</color> or [red]remove</color> items from the [green]Auction House.</color></color>"
+    },
+    "AH.command.sell.sucess": {
+        "de-DE": "[green]Du hast [mint_green_light][amount]x</color> [mint_green_dark][item]</color> im [green]Auktionshaus</color> verkauft!</color>",
+        "en-US": "[green]You have sold [mint_green_light][amount]x</color> [mint_green_dark][item]</color> in the [green]Auction House!</color></color>"
+    }
+}
