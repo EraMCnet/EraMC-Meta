@@ -74,5 +74,9 @@
     "AH.command.sell.error.item.invalid": {
         "de-DE": "[grey]Dieses Item kannst du [red]nicht</color> verkaufen!</color>",
         "en-US": "[grey]You [red]cannot</color> sell this item!</color>"
+    },
+    "AH.command.sell.error.price.invalid": {
+        "de-DE": "[grey]Der angegebene [mint_green_light]Preis</color> ist [red]ungültig!</color></color>",
+        "en-US": "[grey]The specified [mint_green_light]price</color> is [red]invalid!</color></color>"
     }
 }
