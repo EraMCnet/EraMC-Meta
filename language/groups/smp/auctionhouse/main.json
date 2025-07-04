@@ -68,8 +68,8 @@
         "en-US": "[grey]You have reached the limit of [red][limit]</color> items in the [green]Auction House</color>. Please wait until someone [green]buys your items</color> or [red]remove</color> items from the [green]Auction House.</color></color>"
     },
     "AH.command.sell.success": {
-        "de-DE": "[green]Du hast [mint_green_light][amount]x</color> [mint_green_dark][item]</color> für [mint_green_dark]$[price]</color> in das [green]Auktionshaus</color> gepackt!</color>",
-        "en-US": "[green]You have put [mint_green_light][amount]x</color> [mint_green_dark][item]</color> for [mint_green_dark]$[price]</color> in the [green]Auction House</color>!</color>"
+        "de-DE": "[grey]Du hast [mint_green_light][amount]x</color> [mint_green_dark][item]</color> für [mint_green_dark]$[price]</color> in das [green]Auktionshaus</color> gepackt!</color>",
+        "en-US": "[grey]You have put [mint_green_light][amount]x</color> [mint_green_dark][item]</color> for [mint_green_dark]$[price]</color> in the [green]Auction House</color>!</color>"
     },
     "AH.command.sell.error.item.invalid": {
         "de-DE": "[grey]Dieses Item kannst du [red]nicht</color> verkaufen!</color>",
