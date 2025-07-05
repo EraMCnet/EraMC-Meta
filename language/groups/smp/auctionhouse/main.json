@@ -4,8 +4,8 @@
         "en-US": "<!i>Auction House"
     },
     "AH.item.display.lore": {
-        "de-DE": "<!i>[original-item-lore<br><br><!i>[grey][green][ROUNDDOT]</color> Verkäufer: [green][seller]</color><br>><!i>[grey][green][ROUNDDOT]</color> Preis: [green][price]</color><br><!i>[grey][green][ROUNDDOT]</color> Läuft ab in: [green][time]</color><br><br><!i>[grey][green][arrow]</color> Klicke, um das Item zu kaufen.<br>",
-        "en-US": "<!i>[original-item-lore<br><br><!i>[grey][green][ROUNDDOT]</color> Seller: [green][seller]</color><br><!i>[grey][green][ROUNDDOT]</color> Price: [green][price]</color><br><!i>[grey][green][ROUNDDOT]</color> Expires in: [green][time]</color><br><br><!i>[grey][green][arrow]</color> Click to buy this item.<br>"
+        "de-DE": "<!i>[grey][green][ROUNDDOT]</color> Verkäufer: [green][seller]</color><br>><!i>[grey][green][ROUNDDOT]</color> Preis: [green][price]</color><br><!i>[grey][green][ROUNDDOT]</color> Läuft ab in: [green][time]</color><br><br><!i>[grey][green][arrow]</color> Klicke, um das Item zu kaufen.<br>",
+        "en-US": "<!i>[grey][green][ROUNDDOT]</color> Seller: [green][seller]</color><br><!i>[grey][green][ROUNDDOT]</color> Price: [green][price]</color><br><!i>[grey][green][ROUNDDOT]</color> Expires in: [green][time]</color><br><br><!i>[grey][green][arrow]</color> Click to buy this item.<br>"
     },
     "AH.nav.own.items.name": {
         "de-DE": "<!i>[green]ᴅᴇɪɴᴇ ɪᴛᴇᴍꜱ</color>",
