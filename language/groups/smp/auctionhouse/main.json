@@ -78,5 +78,25 @@
     "AH.command.sell.error.price.invalid": {
         "de-DE": "[grey]Der angegebene [mint_green_light]Preis</color> ist [red]ungültig!</color></color>",
         "en-US": "[grey]The specified [mint_green_light]price</color> is [red]invalid!</color></color>"
+    },
+    "AH.item.remove.already.remove": {
+        "de-DE": "[grey]Dieses Item kannst du [red]nicht</color> mehr entfernen, da es [red]bereits entfernt wurde</color> oder [red]gekauft wurde.</color></color>",
+        "en-US": "[grey]You [red]cannot</color> remove this item anymore, as it has [red]already been removed</color> or [red]bought.</color></color>"
+    },
+    "AH.item.buy.already.bought": {
+        "de-DE": "[grey]Dieses Item kannst du [red]nicht</color> mehr kaufen, da es [red]bereits gekauft wurde</color> oder [red]entfernt wurde.</color></color>",
+        "en-US": "[grey]You [red]cannot</color> buy this item anymore, as it has [red]already been bought</color> or [red]removed.</color></color>"
+    },
+    "AH.item.buy.success": {
+        "de-DE": "[grey]Du hast [mint_green_light][amount]x</color> [mint_green_dark][item]</color> für [mint_green_dark]$[price]</color> im [green]Auktionshaus</color> gekauft!</color>",
+        "en-US": "[grey]You have bought [mint_green_light][amount]x</color> [mint_green_dark][item]</color> for [mint_green_dark]$[price]</color> in the [green]Auction House</color>!</color>"
+    },
+    "AH.item.buy.success.notify.seller": {
+        "de-DE": "[grey][mint_green_dark][player]</color> hat [mint_green_light][amount]x</color> [mint_green_dark][item]</color> für [mint_green_dark]$[price]</color> von dir aus dem [green]Auktionshaus</color> gekauft!</color>",
+        "en-US": "[grey][mint_green_dark][player]</color> has bought [mint_green_light][amount]x</color> [mint_green_dark][item]</color> for [mint_green_dark]$[price]</color> from you in the [green]Auction House!</color></color>"
+    },
+    "AH.item.remove.success": {
+        "de-DE": "[grey]Du hast [mint_green_light][amount]x</color> [mint_green_dark][item]</color> aus dem [green]Auktionshaus</color> entfernt!</color>",
+        "en-US": "[grey]You have removed [mint_green_light][amount]x</color> [mint_green_dark][item]</color> from the [green]Auction House</color>!</color>"
     }
 }
