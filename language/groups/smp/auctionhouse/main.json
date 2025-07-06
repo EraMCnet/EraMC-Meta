@@ -79,7 +79,7 @@
         "de-DE": "[grey]Der angegebene [mint_green_light]Preis</color> ist [red]ungültig!</color></color>",
         "en-US": "[grey]The specified [mint_green_light]price</color> is [red]invalid!</color></color>"
     },
-    "AH.item.remove.already.remove": {
+    "AH.item.remove.already.removed": {
         "de-DE": "[grey]Dieses Item kannst du [red]nicht</color> mehr entfernen, da es [red]bereits entfernt wurde</color> oder [red]gekauft wurde.</color></color>",
         "en-US": "[grey]You [red]cannot</color> remove this item anymore, as it has [red]already been removed</color> or [red]bought.</color></color>"
     },
