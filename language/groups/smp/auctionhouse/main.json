@@ -95,6 +95,10 @@
         "de-DE": "[grey][mint_green_dark][player]</color> hat [mint_green_light][amount]x</color> [mint_green_dark][item]</color> für [mint_green_dark]$[price]</color> von dir aus dem [green]Auktionshaus</color> gekauft!</color>",
         "en-US": "[grey][mint_green_dark][player]</color> has bought [mint_green_light][amount]x</color> [mint_green_dark][item]</color> for [mint_green_dark]$[price]</color> from you in the [green]Auction House!</color></color>"
     },
+    "AH.item.remove.error.inventory.full": {
+        "de-DE": "[grey]Dein Inventar ist [red]voll</color>! Bitte räume etwas Platz, um das Item zu entfernen.</color>",
+        "en-US": "[grey]Your inventory is [red]full</color>! Please make some space to remove the item.</color>"
+    },
     "AH.item.remove.success": {
         "de-DE": "[grey]Du hast [mint_green_light][amount]x</color> [mint_green_dark][item]</color> aus dem [green]Auktionshaus</color> entfernt!</color>",
         "en-US": "[grey]You have removed [mint_green_light][amount]x</color> [mint_green_dark][item]</color> from the [green]Auction House</color>!</color>"
