@@ -91,6 +91,10 @@
         "de-DE": "[grey]Dein Inventar ist [red]voll</color>! Bitte werfe etwas weg, um das Item zu kaufen.</color>",
         "en-US": "[grey]Your inventory is [red]full</color>! Please make some space to buy the item.</color>"
     },
+    "AH.item.buy.error.not.enough.money": {
+        "de-DE": "[grey]Du hast nicht genug [mint_green_light]Geld</color>! Du benötigst [mint_green_dark]$[price]</color> um dieses Item zu kaufen.</color>",
+        "en-US": "[grey]You do not have enough [mint_green_light]money</color>! You need [mint_green_dark]$[price]</color> to buy this item.</color>"
+    },
     "AH.item.buy.success": {
         "de-DE": "[grey]Du hast [mint_green_light][amount]x</color> [mint_green_dark][item]</color> für [mint_green_dark]$[price]</color> im [green]Auktionshaus</color> gekauft!</color>",
         "en-US": "[grey]You have bought [mint_green_light][amount]x</color> [mint_green_dark][item]</color> for [mint_green_dark]$[price]</color> in the [green]Auction House</color>!</color>"
