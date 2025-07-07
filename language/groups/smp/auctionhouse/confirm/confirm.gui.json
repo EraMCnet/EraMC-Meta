@@ -1,0 +1,22 @@
+{
+    "AH.confirm.title": {
+        "de-DE": "<!i>Kauf bestätigen",
+        "en-US": "<!i>Confirm Purchase"
+    },
+    "AH.confirm.confirm": {
+        "de-DE": "<i:false>[green]ʙᴇꜱᴛäᴛɪɢᴇɴ</color>",
+        "en-US": "<i:false>[green]ᴄᴏɴꜰɪʀᴍ</color>"
+    },
+    "AH.confirm.cancel": {
+        "de-DE": "<i:false>[red]ᴀʙʙʀᴇᴄʜᴇɴ</color>",
+        "en-US": "<i:false>[red]ᴄᴀɴᴄᴇʟ</color>"
+    },
+    "AH.confirm.cancel.lore": {
+        "de-DE": "<br><i:false>[red][ROUNDDOT]</color> [grey]Klicke zum [red]abbrechen</color></color><br>",
+        "en-US": "<br><i:false>[red][ROUNDDOT]</color> [grey]Click to [red]cancel</color></color><br>"
+    },
+    "AH.confirm.confirm.lore": {
+        "de-DE": "<br><i:false>[green][ROUNDDOT]</color> [grey]Klicke, um  [mint_green_light][amount]x</color> [mint_green_dark][item]</color> für [mint_green_dark]$[price]</color> zu kaufen</color><br>",
+        "en-US": "<br><i:false>[green][ROUNDDOT]</color> [grey]Click to buy [mint_green_light][amount]x</color> [mint_green_dark][item]</color> for [mint_green_dark]$[price]</color></color><br>"
+    }
+}
