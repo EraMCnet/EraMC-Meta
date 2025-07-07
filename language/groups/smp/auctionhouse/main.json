@@ -87,6 +87,10 @@
         "de-DE": "[grey]Dieses Item kannst du [red]nicht</color> mehr kaufen, da es [red]bereits gekauft wurde</color> oder [red]entfernt wurde.</color></color>",
         "en-US": "[grey]You [red]cannot</color> buy this item anymore, as it has [red]already been bought</color> or [red]removed.</color></color>"
     },
+    "AH.item.buy.error.inventory.full": {
+        "de-DE": "[grey]Dein Inventar ist [red]voll</color>! Bitte werfe etwas weg, um das Item zu kaufen.</color>",
+        "en-US": "[grey]Your inventory is [red]full</color>! Please make some space to buy the item.</color>"
+    },
     "AH.item.buy.success": {
         "de-DE": "[grey]Du hast [mint_green_light][amount]x</color> [mint_green_dark][item]</color> für [mint_green_dark]$[price]</color> im [green]Auktionshaus</color> gekauft!</color>",
         "en-US": "[grey]You have bought [mint_green_light][amount]x</color> [mint_green_dark][item]</color> for [mint_green_dark]$[price]</color> in the [green]Auction House</color>!</color>"
@@ -96,7 +100,7 @@
         "en-US": "[grey][mint_green_dark][player]</color> has bought [mint_green_light][amount]x</color> [mint_green_dark][item]</color> for [mint_green_dark]$[price]</color> from you in the [green]Auction House!</color></color>"
     },
     "AH.item.remove.error.inventory.full": {
-        "de-DE": "[grey]Dein Inventar ist [red]voll</color>! Bitte räume etwas Platz, um das Item zu entfernen.</color>",
+        "de-DE": "[grey]Dein Inventar ist [red]voll</color>! Bitte werfe etwas weg, um das Item zu entfernen.</color>",
         "en-US": "[grey]Your inventory is [red]full</color>! Please make some space to remove the item.</color>"
     },
     "AH.item.remove.success": {
