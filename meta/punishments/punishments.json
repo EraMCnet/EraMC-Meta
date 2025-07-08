@@ -1,8 +1,8 @@
 {
-    "ILLEGAL_CLIENT_MODIFICATIONS": {
-        "de-DE": "Illegale Client-moodifikationen",
-        "en-US": "Illegal Client moodifications",
-        "permission": "eramc.punish.ban.illegal_client_modifications",
+    "CHEATING": {
+        "de-DE": "Cheating",
+        "en-US": "Cheating",
+        "permission": "eramc.punish.ban.cheating",
         "type": ["ban"],
         "durations": [
             "1mo",
@@ -22,7 +22,8 @@
             "12h",
             "1d",
             "3d",
-            "1w"
+            "1w",
+            "30d"
         ]
     },
     "NS_IDEOLOGY_CONTENT": {
@@ -31,6 +32,17 @@
         "permission": "eramc.punish.ban.ns_ideology_content",
         "type": ["ban"],
         "durations": [
+            "permanent"
+        ]
+    },
+    "NSFW_CONTENT": {
+        "de-DE": "Verbreitung von NSFW-Inhalten",
+        "en-US": "Distribution of NSFW Content",
+        "permission": "eramc.punish.ban.nsfw_content",
+        "type": ["ban", "mute"],
+        "durations": [
+            "1w",
+            "2w",
             "1mo",
             "3mo",
             "6mo",
@@ -59,7 +71,9 @@
         "durations": [
             "1d",
             "3d",
-            "1w"
+            "1w",
+            "2w",
+            "1mo"
         ]
     },
     "UNNECESSARY_OVERLOADING_SERVER": {
@@ -68,53 +82,18 @@
         "permission": "eramc.punish.ban.unnecessary_overloading_server",
         "type": ["ban"],
         "durations": [
-            "1w",
-            "2w",
-            "1mo",
-            "3mo",
-            "6mo"
+            "6mo",
+            "1y",
+            "permanent"
         ]
     },
-    "ALT_ACCOUNT_USING": {
-        "de-DE": "Nutzen eines Alt-Accounts",
-        "en-US": "Using of an Alt-Account",
-        "permission": "eramc.punish.ban.alt_account_using",
+    "BAN_EVASION": {
+        "de-DE": "Banumgehung",
+        "en-US": "Ban Evasion",
+        "permission": "eramc.punish.ban.ban_evasion",
         "type": ["ban"],
         "durations": [
-            "1d",
-            "3d",
-            "1w",
-            "2w",
-            "1mo"
-        ]
-    },
-    "NOT_ALLOWED_SKIN": {
-        "de-DE": "Nicht erlaubter Skin",
-        "en-US": "Not allowed Skin",
-        "permission": "eramc.punish.ban.not_allowed_skin",
-        "type": ["ban", "kick"],
-        "durations": [
-            "1d",
-            "3d",
-            "1w",
-            "2w",
-            "1mo",
-            "3mo",
-            "6mo"
-        ]
-    },
-    "GRIEFING": {
-        "de-DE": "Griefing",
-        "en-US": "Griefing",
-        "permission": "eramc.punish.ban.griefing",
-        "type": ["ban"],
-        "durations": [
-            "1d",
-            "3d",
-            "1w",
-            "2w",
-            "1mo",
-            "3mo"
+            "permanent"
         ]
     },
     "REAL_MONEY_TRADING": {
@@ -132,11 +111,7 @@
         "permission": "eramc.punish.ban.cross_server_trading",
         "type": ["ban"],
         "durations": [
-            "1d",
-            "3d",
-            "1w",
-            "2w",
-            "1mo"
+            "permanent"
         ]
     },
     "RACISM": {
@@ -145,18 +120,17 @@
         "permission": "eramc.punish.ban.Racism",
         "type": ["ban"],
         "durations": [
-            "1d",
-            "3d",
-            "1w",
-            "2w",
-            "1mo"
+            "1mo",
+            "6mo",
+            "1y",
+            "permanent"
         ]
     },
     "ADVERTISING": {
         "de-DE": "Werbung",
         "en-US": "Advertising",
         "permission": "eramc.punish.ban.advertising",
-        "type": ["ban"],
+        "type": ["ban", "mute"],
         "durations": [
             "1d",
             "3d",
@@ -180,15 +154,10 @@
         "permission": "eramc.punish.ban.bug_abuse",
         "type": ["ban"],
         "durations": [
-            "1h",
-            "2h",
-            "12h",
-            "1d",
             "3d",
             "1w",
             "2w",
             "1mo",
-            "3mo",
             "6mo",
             "permanent"
         ]
@@ -205,21 +174,6 @@
             "1d",
             "3d",
             "1w"
-        ]
-    },
-    "BYPASSING_PUNISHMENTS": {
-        "de-DE": "Umgehen von Strafen",
-        "en-US": "Bypassing punishments",
-        "permission": "eramc.punish.ban.bypassing_punishments",
-        "type": ["ban"],
-        "durations": [
-            "1d",
-            "3d",
-            "1w",
-            "2w",
-            "1mo",
-            "2mo",
-            "6mo"
         ]
     },
     "DOXXING": {
@@ -247,7 +201,83 @@
         "type": ["ban"],
         "durations": [
             "2d",
-            "4d"
+            "4d",
+            "1mo"
+        ]
+    },
+    "EXTREMIST_CONTENT": {
+        "de-DE": "Extremistische Inhalte",
+        "en-US": "Extremist Content",
+        "permission": "eramc.punish.ban.extremist_content",
+        "type": ["ban"],
+        "durations": [
+            "permanent"
+        ]
+    },
+    "BOT_ACCOUNT": {
+        "de-DE": "Bot-Account",
+        "en-US": "Bot Account",
+        "permission": "eramc.punish.ban.bot_account",
+        "type": ["ban"],
+        "durations": [
+            "permanent"
+        ]
+    },
+    "HARASSMENT": {
+        "de-DE": "Belästigung",
+        "en-US": "Harassment",
+        "permission": "eramc.punish.ban.harassment",
+        "type": ["ban"],
+        "durations": [
+            "1mo",
+            "6mo",
+            "1y",
+            "permanent"
+        ]
+    },
+    "IMPERSONATION": {
+        "de-DE": "Impersonation",
+        "en-US": "Impersonation",
+        "permission": "eramc.punish.ban.impersonation",
+        "type": ["ban"],
+        "durations": [
+            "1mo",
+            "6mo",
+            "1y",
+            "permanent"
+        ]
+    },
+    "DANGEROUS_CONTENT": {
+        "de-DE": "Gefährliche Inhalte",
+        "en-US": "Dangerous Content",
+        "permission": "eramc.punish.ban.dangerous_content",
+        "type": ["ban"],
+        "durations": [
+            "1mo",
+            "6mo",
+            "1y",
+            "permanent"
+        ]
+    },
+    "CONSPIRACY": {
+        "de-DE": "Verschwörungstheorien",
+        "en-US": "Conspiracy Theories",
+        "permission": "eramc.punish.ban.conspiracy",
+        "type": ["ban"],
+        "durations": [
+            "permanent"
+        ]
+    },
+    "THREATS": {
+        "de-DE": "Bedrohungen",
+        "en-US": "Threats",
+        "permission": "eramc.punish.ban.threats",
+        "type": ["ban"],
+        "durations": [
+            "1mo",
+            "6mo",
+            "1y",
+            "permanent"
         ]
     }
 }
