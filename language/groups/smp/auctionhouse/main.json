@@ -1,7 +1,7 @@
 {
     "AH.gui.main.title": {
-        "de-DE": "<!i>Auktionshaus",
-        "en-US": "<!i>Auction House"
+        "de-DE": "<!i>ᴀᴜᴋᴛɪᴏɴꜱʜᴀᴜꜱ",
+        "en-US": "<!i>ᴀᴜᴄᴛɪᴏɴ ʜᴏᴜꜱᴇ"
     },
     "AH.item.display.lore": {
         "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Verkäufer: [green][seller]</color><br><!i>[grey][green][ROUNDDOT]</color> Preis: [green]$[price]</color><br><!i>[grey][green][ROUNDDOT]</color> Läuft ab: [green][time]</color><br><br><!i>[grey][green][ARROW]</color> Klicke, um das Item zu kaufen.<br>",
