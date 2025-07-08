@@ -16,7 +16,7 @@
         "en-US": "<br><i:false>[red][ROUNDDOT]</color> [grey]Click to [red]cancel</color></color><br>"
     },
     "AH.confirm.confirm.lore": {
-        "de-DE": "<br><i:false>[green][ROUNDDOT]</color> [grey]Klicke, um  [mint_green_light][amount]x</color> [mint_green_dark][item]</color> für [mint_green_dark]$[price]</color> zu kaufen</color><br>",
+        "de-DE": "<br><i:false>[green][ROUNDDOT]</color> [grey]Klicke, um [mint_green_light][amount]x</color> [mint_green_dark][item]</color> für [mint_green_dark]$[price]</color> zu kaufen</color><br>",
         "en-US": "<br><i:false>[green][ROUNDDOT]</color> [grey]Click to buy [mint_green_light][amount]x</color> [mint_green_dark][item]</color> for [mint_green_dark]$[price]</color></color><br>"
     }
 }
