@@ -12,8 +12,8 @@
         "en-US": "<!i>[green]ʏᴏᴜʀ ɪᴛᴇᴍꜱ</color>"
     },
     "AH.nav.own.items.lore": {
-        "de-DE": "<!i>[grey][green][ROUNDDOT]</color> Klicke, um deine Items anzusehen</color>",
-        "en-US": "<!i>[grey][green][ROUNDDOT]</color> Click to view your items</color>"
+        "de-DE": "<!i>[grey][green][ROUNDDOT]</color> Klicke, um [green]deine Items</color> anzusehen</color>",
+        "en-US": "<!i>[grey][green][ROUNDDOT]</color> Click to view [green]your items</color></color>"
     },
     "AH.nav.item.sort.name": {
         "de-DE": "<!i>[blue]ꜱᴏʀᴛɪᴇʀᴇɴ</color>",
