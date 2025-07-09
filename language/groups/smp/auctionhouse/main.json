@@ -60,8 +60,8 @@
         "en-US": "<!i>[pastel_red]ɪᴛᴇᴍ ʟɪᴍɪᴛ"
     },
     "AH.nav.info.item.limit.lore": {
-        "de-DE": "<br><!i>[green][ROUNDDOT]</color> Du hast aktuell [green][selled-items]</color> / [yellow][limit]</color> Items im Auktionshaus.<br><br><!i>[grey][green][ARROW]</color> Verkaufe Items mit <green>/ah sell</color><br>",
-        "en-US": "<br><!i>[green][ROUNDDOT]</color> You currently have [green][selled-items]</color> / [yellow][limit]</color> items in the auction house.<br><br><!i>[grey][green][ARROW]</color> Sell items with <green>/ah sell</color><br>"
+        "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Du hast aktuell [green][selled-items]</color> / [yellow][limit]</color> Items im [green]Auktionshaus.<br><br><!i>[grey][green][ARROW]</color> Verkaufe Items mit [green]/ah sell</color><br>",
+        "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> You currently have [green][selled-items]</color> / [yellow][limit]</color> items in the [green]auction house.<br><br><!i>[grey][green][ARROW]</color> Sell items with [green]/ah sell</color><br>"
     },
     "AH.command.sell.error.limit": {
         "de-DE": "[grey]Du hast das Limit von [red][limit]</color> Items im [green]Auktionshaus</color> erreicht. Bitte warte bis jemand Items [green]von dir kauft</color> oder [red]entferne</color> Items von dir wieder aus dem [green]Auktionshaus.</color></color>",
