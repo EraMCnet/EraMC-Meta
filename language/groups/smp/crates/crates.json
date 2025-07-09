@@ -7,13 +7,17 @@
         "de-DE": "Gold Crate",
         "en-US": "Gold Crate"
     },
+    "cherry": {
+        "de-DE": "Cherry Crate",
+        "en-US": "Cherry Crate"
+    },
     "amethyst": {
         "de-DE": "Amethyst Crate",
         "en-US": "Amethyst Crate"
     },
     "GUI.lore.chance": {
-        "de-DE": "<br><!i>[era_purple][ROUNDDOT]</color> [grey]Chance:</color> [era_purple][chance]%",
-        "en-US": "<br><!i>[era_purple][ROUNDDOT]</color> [grey]Chance:</color> [era_purple][chance]%"
+        "de-DE": "<br><br><!i>[era_purple][ARROW]</color> [grey]Chance:</color> [era_purple][chance]%",
+        "en-US": "<br><br><!i>[era_purple][ARROW]</color> [grey]Chance:</color> [era_purple][chance]%"
     },
     "GUI.page.navigate.lore": {
         "de-DE": "<i:false><br><i:false>[era_purple][ROUNDDOT][grey] Klicke, zum navigieren<br><i:false>",
