@@ -1,10 +1,10 @@
 {
     "AH.item.bought.lore": {
-        "de-DE": "<br><!i><!i>[grey][green][ROUNDDOT]</color> Verkäufer: [green][seller]</color><br>[grey][green][ROUNDDOT]</color> Käufer: [green][buyer]</color><br>[grey][green][ROUNDDOT]</color> Preis: [green]$[price]</color><br><!i>[grey][green][ROUNDDOT]</color> Gekauft am: [green][date]</color><br>",
-        "en-US": "<br><!i><!i>[grey][green][ROUNDDOT]</color> Seller: [green][seller]</color><br>[grey][green][ROUNDDOT]</color> Buyer: [green][buyer]</color><br>[grey][green][ROUNDDOT]</color> Price: [green]$[price]</color><br><!i>[grey][green][ROUNDDOT]</color> Bought on: [green][date]</color><br>"
+        "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Verkäufer: [green][seller]</color><br><!i>[grey][green][ROUNDDOT]</color> Käufer: [green][buyer]</color><br><!i>[grey][green][ROUNDDOT]</color> Preis: [green]$[price]</color><br><!i>[grey][green][ROUNDDOT]</color> Gekauft am: [green][date]</color><br>",
+        "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Seller: [green][seller]</color><br>[grey][green][ROUNDDOT]</color> Buyer: [green][buyer]</color><br>[grey][green][ROUNDDOT]</color> Price: [green]$[price]</color><br><!i>[grey][green][ROUNDDOT]</color> Bought on: [green][date]</color><br>"
     },
     "AH.item.selled.lore": {
-        "de-DE": "<br><!i><!i>[grey][green][ROUNDDOT]</color> Verkäufer: [green][seller]</color><br>[grey][green][ROUNDDOT]</color> Käufer: [green][buyer]</color><br>[grey][green][ROUNDDOT]</color> Preis: [green]$[price]</color><br><!i>[grey][green][ROUNDDOT]</color> Verkauft am: [green][date]</color><br>",
-        "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Seller: [green][seller]</color><br>[grey][green][ROUNDDOT]</color> Buyer: [green][buyer]</color><br><!i>[grey][green][ROUNDDOT]</color> Price: [green]$[price]</color><br><!i>[grey][green][ROUNDDOT]</color> Sold on: [green][date]</color><br>"
+        "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Verkäufer: [green][seller]</color><br><!i>[grey][green][ROUNDDOT]</color> Käufer: [green][buyer]</color><br><!i>[grey][green][ROUNDDOT]</color> Preis: [green]$[price]</color><br><!i>[grey][green][ROUNDDOT]</color> Verkauft am: [green][date]</color><br>",
+        "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Seller: [green][seller]</color><br><!i>[grey][green][ROUNDDOT]</color> Buyer: [green][buyer]</color><br><!i>[grey][green][ROUNDDOT]</color> Price: [green]$[price]</color><br><!i>[grey][green][ROUNDDOT]</color> Sold on: [green][date]</color><br>"
     }
 }
