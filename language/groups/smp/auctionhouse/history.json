@@ -1,0 +1,18 @@
+{
+    "AH.item.buyed.lore": {
+        "de-DE": "<br><!i><!i>[grey][green][ROUNDDOT]</color> Verkäufer: [green][seller]</color><br>[grey][green][ROUNDDOT]</color> Käufer: [green][buyer]</color><br>[grey][green][ROUNDDOT]</color> Preis: [green]$[price]</color><br><!i>[grey][green][ROUNDDOT]</color> Gekauft am: [green][date]</color><br>",
+        "en-US": "<br><!i><!i>[grey][green][ROUNDDOT]</color> Seller: [green][seller]</color><br>[grey][green][ROUNDDOT]</color> Buyer: [green][buyer]</color><br>[grey][green][ROUNDDOT]</color> Price: [green]$[price]</color><br><!i>[grey][green][ROUNDDOT]</color> Bought on: [green][date]</color><br>"
+    },
+    "AH.item.selled.lore": {
+        "de-DE": "<br><!i><!i>[grey][green][ROUNDDOT]</color> Verkäufer: [green][seller]</color><br>[grey][green][ROUNDDOT]</color> Käufer: [green][buyer]</color><br>[grey][green][ROUNDDOT]</color> Preis: [green]$[price]</color><br><!i>[grey][green][ROUNDDOT]</color> Verkauft am: [green][date]</color><br>",
+        "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Seller: [green][seller]</color><br>[grey][green][ROUNDDOT]</color> Buyer: [green][buyer]</color><br><!i>[grey][green][ROUNDDOT]</color> Price: [green]$[price]</color><br><!i>[grey][green][ROUNDDOT]</color> Sold on: [green][date]</color><br>"
+    },
+    "AH.back.name": {
+        "de-DE": "<!i>[red]ᴢᴜʀüᴄᴋ",
+        "en-US": "<!i>[red]ʙᴀᴄᴋ"
+    },
+    "AH.back.lore": {
+        "de-DE": "<!i><br><!i>[grey][green][ARROW]</color> Klicke, um zum [green]Auktionshaus</color> zurückzukehren.<br>",
+        "en-US": "<!i><br><!i>[grey][green][ARROW]</color> Click to return to the [green]Auction House.</color><br>"
+    }
+}
