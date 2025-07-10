@@ -23,6 +23,14 @@
         "de-DE": "[grey]Du hast die [era_purple]TPA here</color> von [era_purple][player]</color> angenommen!</color>",
         "en-US": "[grey]You've accepted the [era_purple]TPA here</color> from [era_purple][player]!</color>"
     },
+    "TPA.request.accept.other": {
+        "de-DE": "[grey][era_purple][player]</color> hat deine [era_purple]TPA</color> angenommen!</color>",
+        "en-US": "[grey][era_purple][player]</color> has accepted your [era_purple]TPA</color>!</color>"
+    },
+    "TPAHERE.request.accept.other": {
+        "de-DE": "[grey][era_purple][player]</color> hat deine [era_purple]TPA here</color> angenommen!</color>",
+        "en-US": "[grey][era_purple][player]</color> has accepted your [era_purple]TPA here</color>!</color>"
+    },
     "TPA.request.denied": {
         "de-DE": "[grey]Du hast die [era_purple]TPA</color> von [era_purple][player]</color> abgelehnt!</color>",
         "en-US": "[grey]You've denied the [era_purple]TPA</color> from [era_purple][player]!</color>"
