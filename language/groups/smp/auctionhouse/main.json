@@ -110,5 +110,9 @@
     "AH.item.remove.success": {
         "de-DE": "[grey]Du hast [mint_green_light][amount]x</color> [mint_green_dark][item]</color> aus dem [green]Auktionshaus</color> entfernt!</color>",
         "en-US": "[grey]You have removed [mint_green_light][amount]x</color> [mint_green_dark][item]</color> from the [green]Auction House</color>!</color>"
+    },
+    "AH.item.buy.error.expired": {
+        "de-DE": "[grey]Dieses Item ist [red]abgelaufen</color> und kann nicht mehr gekauft werden!</color>",
+        "en-US": "[grey]This item has [red]expired</color> and cannot be bought anymore!</color>"
     }
 }
