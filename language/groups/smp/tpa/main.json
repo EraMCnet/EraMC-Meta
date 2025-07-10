@@ -1,66 +1,130 @@
 {
     "TPA.request.send": {
-        "de-DE": "[grey]Du hast eine [era_purple]TPA</color> and [era_purple][player]</color> gesendet!</color>",
+        "de-DE": "[grey]Du hast eine [era_purple]TPA</color> an [era_purple][player]</color> gesendet!</color>",
         "en-US": "[grey]You've sent a [era_purple]TPA</color> request to [era_purple][player]!</color></color>"
+    },
+    "TPAHERE.request.send": {
+        "de-DE": "[grey]Du hast eine [era_purple]TPA here</color> an [era_purple][player]</color> gesendet!</color>",
+        "en-US": "[grey]You've sent a [era_purple]TPA here</color> request to [era_purple][player]!</color></color>"
     },
     "TPA.request.receive": {
         "de-DE": "[grey][era_purple][player]</color> hat dir eine [era_purple]TPA</color> gesendet!<br>                         <color:#4bfb00><b><click:run_command:'/tpaccept'>[ANNEHMEN]</click></b></color> - <color:#FF0000><b><click:run_command:'/tpdeny'>[ABLEHNEN]</click></b></color></color>",
         "en-US": "[grey][era_purple][player]</color> has sent you a [era_purple]TPA!</color><br>                         <color:#4bfb00><b><click:run_command:'/tpaccept'>[ACCEPT]</click></b></color> - <color:#FF0000><b><click:run_command:'/tpdeny'>[DENY]</click></b></color></color>"
     },
+    "TPAHERE.request.receive": {
+        "de-DE": "[grey][era_purple][player]</color> hat dir eine [era_purple]TPA here</color> gesendet!<br>                         <color:#4bfb00><b><click:run_command:'/tpaccept'>[ANNEHMEN]</click></b></color> - <color:#FF0000><b><click:run_command:'/tpdeny'>[ABLEHNEN]</click></b></color></color>",
+        "en-US": "[grey][era_purple][player]</color> has sent you a [era_purple]TPA here!</color><br>                         <color:#4bfb00><b><click:run_command:'/tpaccept'>[ACCEPT]</click></b></color> - <color:#FF0000><b><click:run_command:'/tpdeny'>[DENY]</click></b></color></color>"
+    },
     "TPA.request.accept": {
         "de-DE": "[grey]Du hast die [era_purple]TPA</color> von [era_purple][player]</color> angenommen!</color>",
         "en-US": "[grey]You've accepted the [era_purple]TPA</color> from [era_purple][player]!</color>"
+    },
+    "TPAHERE.request.accept": {
+        "de-DE": "[grey]Du hast die [era_purple]TPA here</color> von [era_purple][player]</color> angenommen!</color>",
+        "en-US": "[grey]You've accepted the [era_purple]TPA here</color> from [era_purple][player]!</color>"
     },
     "TPA.request.denied": {
         "de-DE": "[grey]Du hast die [era_purple]TPA</color> von [era_purple][player]</color> abgelehnt!</color>",
         "en-US": "[grey]You've denied the [era_purple]TPA</color> from [era_purple][player]!</color>"
     },
+    "TPAHERE.request.denied": {
+        "de-DE": "[grey]Du hast die [era_purple]TPA here</color> von [era_purple][player]</color> abgelehnt!</color>",
+        "en-US": "[grey]You've denied the [era_purple]TPA here</color> from [era_purple][player]!</color>"
+    },
     "TPA.request.cancel": {
         "de-DE": "[grey]Du hast die [era_purple]TPA</color> an [era_purple][player]</color> abgebrochen!</color>",
         "en-US": "[grey]You've cancelled the [era_purple]TPA</color> to [era_purple][player]!</color>"
+    },
+    "TPAHERE.request.cancel": {
+        "de-DE": "[grey]Du hast die [era_purple]TPA here</color> an [era_purple][player]</color> abgebrochen!</color>",
+        "en-US": "[grey]You've cancelled the [era_purple]TPA here</color> to [era_purple][player]!</color>"
     },
     "TPA.request.timeout": {
         "de-DE": "[grey]Die [era_purple]TPA</color> an [era_purple][player]</color> ist abgelaufen!</color>",
         "en-US": "[grey]The [era_purple]TPA</color> to [era_purple][player] has expired!</color>"
     },
+    "TPAHERE.request.timeout": {
+        "de-DE": "[grey]Die [era_purple]TPA here</color> an [era_purple][player]</color> ist abgelaufen!</color>",
+        "en-US": "[grey]The [era_purple]TPA here</color> to [era_purple][player] has expired!</color>"
+    },
     "TPA.request.timeout.other": {
         "de-DE": "[grey]Die [era_purple]TPA</color> von [era_purple][player]</color> ist abgelaufen!</color>",
-        "en-US": "[grey]The [era_purple]TPA</color> von [era_purple][player] has expired!</color>"
+        "en-US": "[grey]The [era_purple]TPA</color> from [era_purple][player] has expired!</color>"
+    },
+    "TPAHERE.request.timeout.other": {
+        "de-DE": "[grey]Die [era_purple]TPA here</color> von [era_purple][player]</color> ist abgelaufen!</color>",
+        "en-US": "[grey]The [era_purple]TPA here</color> from [era_purple][player] has expired!</color>"
     },
     "TPA.request.teleport": {
         "de-DE": "[grey]Du wurdest zu [era_purple][player]</color> teleportiert!</color>",
         "en-US": "[grey]You've been teleported to [era_purple][player]!</color>"
     },
+    "TPAHERE.request.teleport": {
+        "de-DE": "[grey][era_purple][player]</color> wurde zu dir teleportiert!</color>",
+        "en-US": "[grey][era_purple][player]</color> has been teleported to you!</color>"
+    },
     "TPA.request.denied.other": {
         "de-DE": "[grey][era_purple][player]</color> hat deine [era_purple]TPA</color> abgelehnt!</color>",
         "en-US": "[grey][era_purple][player]</color> has denied your [era_purple]TPA</color>!</color>"
+    },
+    "TPAHERE.request.denied.other": {
+        "de-DE": "[grey][era_purple][player]</color> hat deine [era_purple]TPA here</color> abgelehnt!</color>",
+        "en-US": "[grey][era_purple][player]</color> has denied your [era_purple]TPA here</color>!</color>"
     },
     "TPA.request.cancel.other": {
         "de-DE": "[grey][era_purple][player]</color> hat die [era_purple]TPA</color> abgebrochen!</color>",
         "en-US": "[grey][era_purple][player]</color> has cancelled the [era_purple]TPA</color>!</color>"
     },
+    "TPAHERE.request.cancel.other": {
+        "de-DE": "[grey][era_purple][player]</color> hat die [era_purple]TPA here</color> abgebrochen!</color>",
+        "en-US": "[grey][era_purple][player]</color> has cancelled the [era_purple]TPA here</color>!</color>"
+    },
     "TPA.no.request": {
         "de-DE": "[grey]Du hast keine [era_purple]TPA</color> Anfragen!</color>",
         "en-US": "[grey]You have no [era_purple]TPA</color> requests!</color>"
+    },
+    "TPAHERE.no.request": {
+        "de-DE": "[grey]Du hast keine [era_purple]TPA here</color> Anfragen!</color>",
+        "en-US": "[grey]You have no [era_purple]TPA here</color> requests!</color>"
     },
     "TPA.request.already.sent": {
         "de-DE": "[grey]Du hast bereits eine [era_purple]TPA</color> Anfrage an [era_purple][player]</color> gesendet!</color>",
         "en-US": "[grey]You've already sent a [era_purple]TPA</color> request to [era_purple][player]!</color>"
     },
+    "TPAHERE.request.already.sent": {
+        "de-DE": "[grey]Du hast bereits eine [era_purple]TPA here</color> Anfrage an [era_purple][player]</color> gesendet!</color>",
+        "en-US": "[grey]You've already sent a [era_purple]TPA here</color> request to [era_purple][player]!</color>"
+    },
     "TPA.request.already.other": {
         "de-DE": "[grey][era_purple][player]</color> hat bereits eine [era_purple]TPA</color> Anfrage an dich gesendet!</color>",
         "en-US": "[grey][era_purple][player]</color> has already sent a [era_purple]TPA</color> request to you!</color>"
+    },
+    "TPAHERE.request.already.other": {
+        "de-DE": "[grey][era_purple][player]</color> hat bereits eine [era_purple]TPA here</color> Anfrage an dich gesendet!</color>",
+        "en-US": "[grey][era_purple][player]</color> has already sent a [era_purple]TPA here</color> request to you!</color>"
     },
     "TPA.request.already.from.other": {
         "de-DE": "[grey][era_purple][player]</color> hat bereits eine [era_purple]TPA</color> Anfrage von jemand anderem erhalten!</color>",
         "en-US": "[grey][era_purple][player]</color> has already received a [era_purple]TPA</color> request from someone else!</color>"
     },
+    "TPAHERE.request.already.from.other": {
+        "de-DE": "[grey][era_purple][player]</color> hat bereits eine [era_purple]TPA here</color> Anfrage von jemand anderem erhalten!</color>",
+        "en-US": "[grey][era_purple][player]</color> has already received a [era_purple]TPA here</color> request from someone else!</color>"
+    },
     "TPA.request.error.self": {
         "de-DE": "[grey]Du kannst dir nicht selber eine [era_purple]TPA</color> senden!</color",
         "en-US": "[grey]you can not send yourself a [era_purple]TPA!</color></color"
     },
+    "TPAHERE.request.error.self": {
+        "de-DE": "[grey]Du kannst dir nicht selber eine [era_purple]TPA here</color> senden!</color",
+        "en-US": "[grey]you can not send yourself a [era_purple]TPA here!</color></color"
+    },
     "TPA.request.not.multiple": {
         "de-DE": "[grey]Du kannst nur eine [era_purple]TPA</color> Anfrage gleichzeitig senden!</color>",
         "en-US": "[grey]You can only send one [era_purple]TPA</color> request at a time!</color>"
+    },
+    "TPAHERE.request.not.multiple": {
+        "de-DE": "[grey]Du kannst nur eine [era_purple]TPA here</color> Anfrage gleichzeitig senden!</color>",
+        "en-US": "[grey]You can only send one [era_purple]TPA here</color> request at a time!</color>"
     }
 }
