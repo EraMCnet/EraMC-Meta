@@ -47,14 +47,6 @@
         "de-DE": "[grey]Die [era_purple]TPA here</color> an [era_purple][player]</color> ist abgelaufen!</color>",
         "en-US": "[grey]The [era_purple]TPA here</color> to [era_purple][player] has expired!</color>"
     },
-    "TPA.request.timeout.other": {
-        "de-DE": "[grey]Die [era_purple]TPA</color> von [era_purple][player]</color> ist abgelaufen!</color>",
-        "en-US": "[grey]The [era_purple]TPA</color> from [era_purple][player] has expired!</color>"
-    },
-    "TPAHERE.request.timeout.other": {
-        "de-DE": "[grey]Die [era_purple]TPA here</color> von [era_purple][player]</color> ist abgelaufen!</color>",
-        "en-US": "[grey]The [era_purple]TPA here</color> from [era_purple][player] has expired!</color>"
-    },
     "TPA.request.teleport": {
         "de-DE": "[grey]Du wurdest zu [era_purple][player]</color> teleportiert!</color>",
         "en-US": "[grey]You've been teleported to [era_purple][player]!</color>"
@@ -79,14 +71,6 @@
         "de-DE": "[grey][era_purple][player]</color> hat die [era_purple]TPA here</color> abgebrochen!</color>",
         "en-US": "[grey][era_purple][player]</color> has cancelled the [era_purple]TPA here</color>!</color>"
     },
-    "TPA.no.request": {
-        "de-DE": "[grey]Du hast keine [era_purple]TPA</color> Anfragen!</color>",
-        "en-US": "[grey]You have no [era_purple]TPA</color> requests!</color>"
-    },
-    "TPAHERE.no.request": {
-        "de-DE": "[grey]Du hast keine [era_purple]TPA here</color> Anfragen!</color>",
-        "en-US": "[grey]You have no [era_purple]TPA here</color> requests!</color>"
-    },
     "TPA.request.already.sent": {
         "de-DE": "[grey]Du hast bereits eine [era_purple]TPA</color> Anfrage an [era_purple][player]</color> gesendet!</color>",
         "en-US": "[grey]You've already sent a [era_purple]TPA</color> request to [era_purple][player]!</color>"
@@ -95,36 +79,24 @@
         "de-DE": "[grey]Du hast bereits eine [era_purple]TPA here</color> Anfrage an [era_purple][player]</color> gesendet!</color>",
         "en-US": "[grey]You've already sent a [era_purple]TPA here</color> request to [era_purple][player]!</color>"
     },
-    "TPA.request.already.other": {
-        "de-DE": "[grey][era_purple][player]</color> hat bereits eine [era_purple]TPA</color> Anfrage an dich gesendet!</color>",
-        "en-US": "[grey][era_purple][player]</color> has already sent a [era_purple]TPA</color> request to you!</color>"
+    "TP.request.accept.error.no.requests": {
+        "de-DE": "[grey]Du hast keine [era_purple]Teleport-Anfragen</color>, die du annehmen könntest!</color>",
+        "en-US": "[grey]You have no [era_purple]Teleport-Anfrage</color> requests to accept!</color>"
     },
-    "TPAHERE.request.already.other": {
-        "de-DE": "[grey][era_purple][player]</color> hat bereits eine [era_purple]TPA here</color> Anfrage an dich gesendet!</color>",
-        "en-US": "[grey][era_purple][player]</color> has already sent a [era_purple]TPA here</color> request to you!</color>"
+    "TP.error.move": {
+        "de-DE": "[grey]Der Teleportationsvorgang wurde [red]abgebrochen,</color> da du dich bewegt hast!</color>",
+        "en-US": "[grey]The teleportation process was [red]cancelled</color> because you moved!</color>"
     },
-    "TPA.request.already.from.other": {
-        "de-DE": "[grey][era_purple][player]</color> hat bereits eine [era_purple]TPA</color> Anfrage von jemand anderem erhalten!</color>",
-        "en-US": "[grey][era_purple][player]</color> has already received a [era_purple]TPA</color> request from someone else!</color>"
+    "TP.teleport.in": {
+        "de-DE": "[grey]ᴅᴜ ᴡɪʀꜱᴛ ɪɴ [era_purple][duration] ꜱᴇᴋᴜɴᴅᴇɴ</color> ᴛᴇʟᴇᴘᴏʀᴛɪᴇʀᴛ</color>",
+        "en-US": "[grey]ʏᴏᴜ ᴀʀᴇ ɢᴏɪɴɢ ᴛᴏ ʙᴇ ᴛᴇʟᴇᴘᴏʀᴛᴇᴅ ɪɴ [era_purple][duration] ꜱᴇᴄᴏɴᴅꜱ</color></color>"
     },
-    "TPAHERE.request.already.from.other": {
-        "de-DE": "[grey][era_purple][player]</color> hat bereits eine [era_purple]TPA here</color> Anfrage von jemand anderem erhalten!</color>",
-        "en-US": "[grey][era_purple][player]</color> has already received a [era_purple]TPA here</color> request from someone else!</color>"
+    "TP.actionbar.teleported": {
+        "de-DE": "[green]ᴅᴜ ᴡᴜʀᴅᴇꜱᴛ ᴛᴇʟᴇᴘᴏʀᴛɪᴇʀᴛ</color>",
+        "en-US": "[green]ʏᴏᴜ ʜᴀᴠᴇ ʙᴇᴇɴ ᴛᴇʟᴇᴘᴏʀᴛᴇᴅ</color>"
     },
-    "TPA.request.error.self": {
-        "de-DE": "[grey]Du kannst dir nicht selber eine [era_purple]TPA</color> senden!</color",
-        "en-US": "[grey]you can not send yourself a [era_purple]TPA!</color></color"
-    },
-    "TPAHERE.request.error.self": {
-        "de-DE": "[grey]Du kannst dir nicht selber eine [era_purple]TPA here</color> senden!</color",
-        "en-US": "[grey]you can not send yourself a [era_purple]TPA here!</color></color"
-    },
-    "TPA.request.not.multiple": {
-        "de-DE": "[grey]Du kannst nur eine [era_purple]TPA</color> Anfrage gleichzeitig senden!</color>",
-        "en-US": "[grey]You can only send one [era_purple]TPA</color> request at a time!</color>"
-    },
-    "TPAHERE.request.not.multiple": {
-        "de-DE": "[grey]Du kannst nur eine [era_purple]TPA here</color> Anfrage gleichzeitig senden!</color>",
-        "en-US": "[grey]You can only send one [era_purple]TPA here</color> request at a time!</color>"
+    "TP.actionbar.teleport.cancelled": {
+        "de-DE": "[red]ᴅᴇʀ ᴛᴇʟᴇᴘᴏʀᴛ ᴡᴜʀᴅᴇ ᴀʙɢᴇʙʀᴏᴄʜᴇɴ</color>",
+        "en-US": "[red]ᴛʜᴇ ᴛᴇʟᴇᴘᴏʀᴛ ᴡᴀꜱ ᴄᴀɴᴄᴇʟʟᴇᴅ</color>"
     }
 }
