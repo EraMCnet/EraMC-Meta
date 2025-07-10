@@ -120,8 +120,6 @@
         "permission": "eramc.punish.ban.Racism",
         "type": ["ban"],
         "durations": [
-            "6mo",
-            "1y",
             "permanent"
         ]
     },
