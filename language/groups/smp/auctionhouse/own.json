@@ -1,0 +1,18 @@
+{
+    "AH.gui.own-items.title": {
+        "de-DE": "<!i>ᴅᴇɪɴᴇ ɪᴛᴇᴍꜱ",
+        "en-US": "<!i>ʏᴏᴜʀ ɪᴛᴇᴍꜱ"
+    },
+    "AH.item.display.lore": {
+        "de-DE": "<br><!i><!i>[grey][green][ROUNDDOT]</color> Preis: [green]$[price]</color><br><!i>[grey][green][ROUNDDOT]</color> Läuft ab: [green][time]</color><br><br><!i>[grey][green][ARROW]</color> Klicke, um das Item zu [red]entfernen.<br>",
+        "en-US": "<br><!i><!i>[grey][green][ROUNDDOT]</color> Price: [green]$[price]</color><br><!i>[grey][green][ROUNDDOT]</color> Expires: [green][time]</color><br><br><!i>[grey][green][ARROW]</color> Click to [red]remove</color> this item.<br>"
+    },
+    "AH.back.name": {
+        "de-DE": "<!i>[red]ᴢᴜʀüᴄᴋ",
+        "en-US": "<!i>[red]ʙᴀᴄᴋ"
+    },
+    "AH.back.lore": {
+        "de-DE": "<!i><br><!i>[grey][green][ARROW]</color> Klicke, um zum [green]Auktionshaus</color> zurückzukehren.<br>",
+        "en-US": "<!i><br><!i>[grey][green][ARROW]</color> Click to return to the [green]Auction House.</color><br>"
+    }
+}
