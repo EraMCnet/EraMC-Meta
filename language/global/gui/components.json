@@ -36,12 +36,12 @@
         "en-US": "<i:false>[grey]Page [era_purple][page]</color> of [era_purple][lastpage]</color></color>"
     },
     "GUI.back.name": {
-        "de-DE": "<i:false>[red]Zurück</color>",
-        "en-US": "<i:false>[red]Back</color>"
+        "de-DE": "<!i>[red]ᴢᴜʀüᴄᴋ",
+        "en-US": "<!i>[red]ʙᴀᴄᴋ"
     },
     "GUI.back.lore": {
-        "de-DE": "<i:false><br><!i>[red][ROUNDDOT]</color> [grey]Klicke, um zurückzugehen<br>",
-        "en-US": "<i:false><br><!i>[red][ROUNDDOT]</color> [grey]Click to go back<br>"
+        "de-DE": "<i:false><br><!i>[red][ARROW]</color> [grey]Klicke, um zurückzugehen<br>",
+        "en-US": "<i:false><br><!i>[red][ARROW]</color> [grey]Click to go back<br>"
     },
     "GUI.page.previous": {
         "de-DE": "<i:false>[era_purple]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
