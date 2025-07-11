@@ -18,9 +18,9 @@
         "text_opacity": "255",
         "billboard": "fixed",
         "default_background": "false",
-        "scale-x": "2.5",
-        "scale-y": "2.5",
-        "scale-z": "2.5"
+        "scale-x": "5",
+        "scale-y": "5",
+        "scale-z": "5"
     },
     "holo.spawn.area.afk.spawn.2": {
         "de-DE": "<b>[mint_green_dark]AFK BEREICH</color>",
@@ -41,9 +41,9 @@
         "text_opacity": "255",
         "billboard": "fixed",
         "default_background": "false",
-        "scale-x": "2.5",
-        "scale-y": "2.5",
-        "scale-z": "2.5"
+        "scale-x": "5",
+        "scale-y": "5",
+        "scale-z": "5"
     },
     "holo.spawn.area.sword.spawn.1": {
         "de-DE": "<b>[red]SWORD PVP</color>",
@@ -64,9 +64,9 @@
         "text_opacity": "255",
         "billboard": "fixed",
         "default_background": "false",
-        "scale-x": "2.5",
-        "scale-y": "2.5",
-        "scale-z": "2.5"
+        "scale-x": "5",
+        "scale-y": "5",
+        "scale-z": "5"
     },
     "holo.spawn.area.sword.spawn.2": {
         "de-DE": "<b>[red]SWORD PVP</color>",
@@ -87,9 +87,9 @@
         "text_opacity": "255",
         "billboard": "fixed",
         "default_background": "false",
-        "scale-x": "2.5",
-        "scale-y": "2.5",
-        "scale-z": "2.5"
+        "scale-x": "5",
+        "scale-y": "5",
+        "scale-z": "5"
     },
     "holo.spawn.area.mace.spawn.1": {
         "de-DE": "<b>[red]MACE PVP</color>",
@@ -110,9 +110,9 @@
         "text_opacity": "255",
         "billboard": "fixed",
         "default_background": "false",
-        "scale-x": "2.5",
-        "scale-y": "2.5",
-        "scale-z": "2.5"
+        "scale-x": "5",
+        "scale-y": "5",
+        "scale-z": "5"
     },
     "holo.spawn.area.mace.spawn.2": {
         "de-DE": "<b>[red]MACE PVP</color>",
@@ -133,9 +133,9 @@
         "text_opacity": "255",
         "billboard": "fixed",
         "default_background": "false",
-        "scale-x": "2.5",
-        "scale-y": "2.5",
-        "scale-z": "2.5"
+        "scale-x": "5",
+        "scale-y": "5",
+        "scale-z": "5"
     },
     "holo.spawn.crate.cherry.spawn.1": {
         "de-DE": "<color:#fc477e><b>CHERRY CRATE</b></color><br><white><color:#fc477e>ᴋʟɪᴄᴋᴇɴ</color> ᴢᴜᴍ öꜰꜰɴᴇɴ</white>",
