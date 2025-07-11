@@ -155,10 +155,7 @@
         "shadow": "true",
         "text_opacity": "255",
         "billboard": "vertical",
-        "default_background": "false",
-        "scale-x": "2.5",
-        "scale-y": "2.5",
-        "scale-z": "2.5"
+        "default_background": "false"
     },
     "holo.spawn.crate.cherry.spawn.2": {
         "de-DE": "<color:#fc477e><b>CHERRY CRATE</b></color><br><white><color:#fc477e>ᴋʟɪᴄᴋᴇɴ</color> ᴢᴜᴍ öꜰꜰɴᴇɴ</white>",
@@ -178,10 +175,7 @@
         "shadow": "true",
         "text_opacity": "255",
         "billboard": "vertical",
-        "default_background": "false",
-        "scale-x": "2.5",
-        "scale-y": "2.5",
-        "scale-z": "2.5"
+        "default_background": "false"
     },
     "holo.spawn.crate.gold.spawn.1": {
         "de-DE": "<color:#fede00><b>GOLD CRATE</b></color><br><white><color:#fede00>ᴋʟɪᴄᴋᴇɴ</color> ᴢᴜᴍ öꜰꜰɴᴇɴ</white>",
@@ -201,10 +195,7 @@
         "shadow": "true",
         "text_opacity": "255",
         "billboard": "vertical",
-        "default_background": "false",
-        "scale-x": "2.5",
-        "scale-y": "2.5",
-        "scale-z": "2.5"
+        "default_background": "false"
     },
     "holo.spawn.crate.gold.spawn.2": {
         "de-DE": "<color:#fede00><b>GOLD CRATE</b></color><br><white><color:#fede00>ᴋʟɪᴄᴋᴇɴ</color> ᴢᴜᴍ öꜰꜰɴᴇɴ</white>",
@@ -224,10 +215,7 @@
         "shadow": "true",
         "text_opacity": "255",
         "billboard": "vertical",
-        "default_background": "false",
-        "scale-x": "2.5",
-        "scale-y": "2.5",
-        "scale-z": "2.5"
+        "default_background": "false"
     },
     "holo.spawn.crate.emerald.spawn.1": {
         "de-DE": "<color:#4bfb00><b>EMERALD CRATE</b></color><br><white><color:#4bfb00>ᴋʟɪᴄᴋᴇɴ</color> ᴢᴜᴍ öꜰꜰɴᴇɴ</white>",
@@ -247,10 +235,7 @@
         "shadow": "true",
         "text_opacity": "255",
         "billboard": "vertical",
-        "default_background": "false",
-        "scale-x": "2.5",
-        "scale-y": "2.5",
-        "scale-z": "2.5"
+        "default_background": "false"
     },
     "holo.spawn.crate.emerald.spawn.2": {
         "de-DE": "<color:#4bfb00><b>EMERALD CRATE</b></color><br><white><color:#4bfb00>ᴋʟɪᴄᴋᴇɴ</color> ᴢᴜᴍ öꜰꜰɴᴇɴ</white>",
@@ -270,10 +255,7 @@
         "shadow": "true",
         "text_opacity": "255",
         "billboard": "vertical",
-        "default_background": "false",
-        "scale-x": "2.5",
-        "scale-y": "2.5",
-        "scale-z": "2.5"
+        "default_background": "false"
     },
     "holo.spawn.crate.amethyst.spawn.1": {
         "de-DE": "<color:#9F56FF><b>AMETHYST CRATE</b></color><br><white><color:#9F56FF>ᴋʟɪᴄᴋᴇɴ</color> ᴢᴜᴍ öꜰꜰɴᴇɴ</white>",
@@ -293,10 +275,7 @@
         "shadow": "true",
         "text_opacity": "255",
         "billboard": "vertical",
-        "default_background": "false",
-        "scale-x": "2.5",
-        "scale-y": "2.5",
-        "scale-z": "2.5"
+        "default_background": "false"
     },
     "holo.spawn.crate.amethyst.spawn.2": {
         "de-DE": "<color:#9F56FF><b>AMETHYST CRATE</b></color><br><white><color:#9F56FF>ᴋʟɪᴄᴋᴇɴ</color> ᴢᴜᴍ öꜰꜰɴᴇɴ</white>",
@@ -316,9 +295,6 @@
         "shadow": "true",
         "text_opacity": "255",
         "billboard": "vertical",
-        "default_background": "false",
-        "scale-x": "2.5",
-        "scale-y": "2.5",
-        "scale-z": "2.5"
+        "default_background": "false"
     }
 }
