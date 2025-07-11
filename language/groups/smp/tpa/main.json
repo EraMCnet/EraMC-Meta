@@ -100,8 +100,8 @@
         "en-US": "[grey]You have no [era_purple]teleport requests</color> to cancel!</color>"
     },
     "TP.request.cancel.error.no.request": {
-        "de-DE": "[grey]Du hast keine [era_purple]Teleport-Anfrage</color> von [era_purple][player]</color>, die du abbrechen könntest!</color>",
-        "en-US": "[grey]You have no [era_purple]teleport request</color> from [era_purple][player]</color> to cancel!</color>"
+        "de-DE": "[grey]Du hast keine [era_purple]Teleport-Anfrage</color> an [era_purple][player]</color> gesendet, die du abbrechen könntest!</color>",
+        "en-US": "[grey]You have no [era_purple]teleport request</color> to [era_purple][player]</color> that you can cancel!</color>"
     },
     "TP.error.move": {
         "de-DE": "[grey]Der Teleportationsvorgang wurde [red]abgebrochen,</color> da du dich bewegt hast!</color>",
