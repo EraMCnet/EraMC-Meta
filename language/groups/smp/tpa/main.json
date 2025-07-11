@@ -122,5 +122,17 @@
     "TP.error.already.teleporting": {
         "de-DE": "[grey]Du wirst bereits [era_purple]teleportiert!</color></color>",
         "en-US": "[grey]You are already being [era_purple]teleported!</color></color>"
+    },
+    "TPA.toggle.enabled": {
+        "de-DE": "[grey]Du hast [era_purple]Teleport-Anfragen</color> jetzt [green]aktiviert!</color></color>",
+        "en-US": "[grey]You have [era_purple]teleport requests</color> now [green]enabled!</color></color>"
+    },
+    "TPA.toggle.disabled": {
+        "de-DE": "[grey]Du hast [era_purple]Teleport-Anfragen</color> jetzt [red]deaktiviert!</color></color>",
+        "en-US": "[grey]You have [era_purple]teleport requests</color> now [red]disabled!</color></color>"
+    },
+    "TPA.toggle.info": {
+        "de-DE": "[grey][era_purple][player]</color> hat [era_purple]Teleport-Anfragen</color> [red]deaktiviert!</color></color>",
+        "en-US": "[grey][era_purple][player]</color> has [era_purple]teleport requests</color> [red]disabled!</color></color>"
     }
 }
