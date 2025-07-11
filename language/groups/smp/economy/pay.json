@@ -12,7 +12,7 @@
         "en-US": "[grey][era_purple][player]</color> has payed you [yellow]$[amount]</color>!</color>"
     },
     "PAY.error.min": {
-        "de-DE": "[grey]Du musst mindestens [yellow]$50</color> überweisen!</color>",
-        "en-US": "[grey]You must pay at least [yellow]$50</color>!</color>"
+        "de-DE": "[grey]Du musst mindestens [yellow]$[amount]</color> überweisen!</color>",
+        "en-US": "[grey]You must pay at least [yellow]$[amount]</color>!</color>"
     }
 }
