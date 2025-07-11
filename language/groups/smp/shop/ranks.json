@@ -1,0 +1,34 @@
+{
+    "VIP.lore": {
+        "de-DE": "<br><!i>[grey]<color:#005cfa>[ROUNDDOT]</color> Klicke, um den <color:#005cfa>VIP Rang</color> für <color:#005cfa>14 Tage</color> zu erhalten.<br><br><!i>[grey]<color:#005cfa>[ARROW]</color> Du brauchst [gem_purple]500 Gems</color> um den Rang zu kaufen.<br>",
+        "en-US": "<br><!i>[grey]<color:#005cfa>[ROUNDDOT]</color> Click to get the <color:#005cfa>VIP Rank</color> for <color:#005cfa>14 days</color>.<br><br><!i>[grey]<color:#005cfa>[ARROW]</color> You need [gem_purple]500 Gems</color> to buy the rank.<br>"
+    },
+    "VIP+.lore": {
+        "de-DE": "<br><!i>[grey]<color:#ff9100>[ROUNDDOT]</color> Klicke, um den <color:#005cfa>VIP<color:#ff9100>+</color> Rang</color> für <color:#ff9100>14 Tage</color> zu erhalten.<br><br><!i>[grey]<color:#ff9100>[ARROW]</color> Du brauchst [gem_purple]1000 Gems</color> um den Rang zu kaufen.<br>",
+        "en-US": "<br><!i>[grey]<color:#ff9100>[ROUNDDOT]</color> Click to get the <color:#005cfa>VIP<color:#ff9100>+</color> Rank</color> for <color:#ff9100>14 days</color>.<br><br><!i>[grey]<color:#ff9100>[ARROW]</color> You need [gem_purple]1000 Gems</color> to buy the rank.<br>"
+    },
+    "VIP.buy.success": {
+        "de-DE": "[grey]Du hast den <color:#005cfa>VIP Rang</color> für <color:#005cfa>+14 Tage</color> erhalten!</color>",
+        "en-US": "[grey]You have received the <color:#005cfa>VIP Rank</color> for <color:#005cfa>+14 days!</color></color>"
+    },
+    "VIP+.buy.success": {
+        "de-DE": "[grey]Du hast den <color:#005cfa>VIP<color:#ff9100>+</color> Rang</color> für <color:#ff9100>+14 Tage</color> erhalten!</color>",
+        "en-US": "[grey]You have received the <color:#005cfa>VIP<color:#ff9100>+</color> Rank</color> for <color:#ff9100>+14 days!</color></color>"
+    },
+    "VIP.buy.error.not.enough.gems": {
+        "de-DE": "[red]Du hast nicht genug [gem_purple]Gems</color> um den <color:#005cfa>VIP Rang</color> zu kaufen!</color>",
+        "en-US": "[red]You do not have enough [gem_purple]Gems</color> to buy the <color:#005cfa>VIP Rank!</color></color>"
+    },
+    "VIP+.buy.error.not.enough.gems": {
+        "de-DE": "[red]Du hast nicht genug [gem_purple]Gems</color> um den <color:#005cfa>VIP<color:#ff9100>+</color> Rang</color> zu kaufen!</color>",
+        "en-US": "[red]You do not have enough [gem_purple]Gems</color> to buy the <color:#005cfa>VIP<color:#ff9100>+</color> Rank!</color></color>"
+    },
+    "VIP.rank": {
+        "de-DE": "<!i><color:#005cfa><b>VIP</b> Rang</color>",
+        "en-US": "<!i><color:#005cfa><b>VIP</b> Rank</color>"
+    },
+    "VIP+.rank": {
+        "de-DE": "<!i><color:#005cfa><b>VIP</b><color:#005cfa><color:#ff9100>+ Rang</color></color></color>",
+        "en-US": "<!i><color:#005cfa><b>VIP</b><color:#005cfa><color:#ff9100>+ Rank</color></color></color>"
+    }
+}
