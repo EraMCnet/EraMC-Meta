@@ -3,7 +3,7 @@
         "de-DE": "[grey]Du hast [red]nicht</color> genug [yellow]Geld,</color> um [era_purple][player]</color> [yellow]$[amount]</color> überwiesen!</color>",
         "en-US": "[grey]You [red]do not</color> have enough [yellow]money</color> to do that!</color>"
     },
-    "PAY.succes": {
+    "PAY.success": {
         "de-DE": "[grey]Du hast [era_purple][player]</color> [green]erfolgreich</color> [yellow]$[amount]</color> überwiesen!</color>",
         "en-US": "[grey]You have [green]sucessfully</color> payed [era_purple][player]</color> [yellow]$[amount]!</color></color>"
     },
