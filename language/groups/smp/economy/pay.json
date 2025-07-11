@@ -14,5 +14,9 @@
     "PAY.error.min": {
         "de-DE": "[grey]Du musst mindestens [yellow]$[amount]</color> überweisen!</color>",
         "en-US": "[grey]You must pay at least [yellow]$[amount]</color>!</color>"
+    },
+    "PAY.error.number.invalid": {
+        "de-DE": "[grey]Die eingegebene Zahl ist [red]ungültig!</color></color>",
+        "en-US": "[grey]The entered number is [red]invalid!</color></color>"
     }
 }
