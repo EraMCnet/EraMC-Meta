@@ -31,13 +31,21 @@
         "de-DE": "[grey][era_purple][player]</color> hat deine [era_purple]TPA here</color> angenommen!</color>",
         "en-US": "[grey][era_purple][player]</color> has accepted your [era_purple]TPA here</color>!</color>"
     },
-    "TPA.request.denied": {
+    "TPA.request.deny": {
         "de-DE": "[grey]Du hast die [era_purple]TPA</color> von [era_purple][player]</color> abgelehnt!</color>",
         "en-US": "[grey]You've denied the [era_purple]TPA</color> from [era_purple][player]!</color>"
     },
-    "TPAHERE.request.denied": {
+    "TPAHERE.request.deny": {
         "de-DE": "[grey]Du hast die [era_purple]TPA here</color> von [era_purple][player]</color> abgelehnt!</color>",
         "en-US": "[grey]You've denied the [era_purple]TPA here</color> from [era_purple][player]!</color>"
+    },
+    "TPA.request.deny.other": {
+        "de-DE": "[grey][era_purple][player]</color> hat deine [era_purple]TPA</color> abgelehnt!</color>",
+        "en-US": "[grey][era_purple][player]</color> has denied your [era_purple]TPA</color>!</color>"
+    },
+    "TPAHERE.request.deny.other": {
+        "de-DE": "[grey][era_purple][player]</color> hat deine [era_purple]TPA here</color> abgelehnt!</color>",
+        "en-US": "[grey][era_purple][player]</color> has denied your [era_purple]TPA here</color>!</color>"
     },
     "TPA.request.cancel": {
         "de-DE": "[grey]Du hast die [era_purple]TPA</color> an [era_purple][player]</color> abgebrochen!</color>",
@@ -62,22 +70,6 @@
     "TPAHERE.request.teleport": {
         "de-DE": "[grey][era_purple][player]</color> wurde zu dir teleportiert!</color>",
         "en-US": "[grey][era_purple][player]</color> has been teleported to you!</color>"
-    },
-    "TPA.request.denied.other": {
-        "de-DE": "[grey][era_purple][player]</color> hat deine [era_purple]TPA</color> abgelehnt!</color>",
-        "en-US": "[grey][era_purple][player]</color> has denied your [era_purple]TPA</color>!</color>"
-    },
-    "TPAHERE.request.denied.other": {
-        "de-DE": "[grey][era_purple][player]</color> hat deine [era_purple]TPA here</color> abgelehnt!</color>",
-        "en-US": "[grey][era_purple][player]</color> has denied your [era_purple]TPA here</color>!</color>"
-    },
-    "TPA.request.cancel.other": {
-        "de-DE": "[grey][era_purple][player]</color> hat die [era_purple]TPA</color> abgebrochen!</color>",
-        "en-US": "[grey][era_purple][player]</color> has cancelled the [era_purple]TPA</color>!</color>"
-    },
-    "TPAHERE.request.cancel.other": {
-        "de-DE": "[grey][era_purple][player]</color> hat die [era_purple]TPA here</color> abgebrochen!</color>",
-        "en-US": "[grey][era_purple][player]</color> has cancelled the [era_purple]TPA here</color>!</color>"
     },
     "TPA.request.already.sent": {
         "de-DE": "[grey]Du hast bereits eine [era_purple]TPA</color> Anfrage an [era_purple][player]</color> gesendet!</color>",
