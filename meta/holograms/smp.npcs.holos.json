@@ -22,6 +22,29 @@
         "scale-y": "1.0",
         "scale-z": "1.0"
     },
+    "holo.npc.ah.spawn.2": {
+        "de-DE": "<b>[green]AUKTIONSHAUS</color></b><br>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ öꜰꜰɴᴇɴ</color>",
+        "en-US": "<b>[green]AUCTIONHOUSE</color></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ</color>",
+        "location": {
+            "x": -19991.500,
+            "y": 214,
+            "z": -20007.500,
+            "world": "world"
+        },
+        "yaw": "",
+        "pitch": "",
+        "alignment": "center",
+        "background": "TRANSPARENT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "vertical",
+        "default_background": "false",
+        "scale-x": "1.0",
+        "scale-y": "1.0",
+        "scale-z": "1.0"
+    },
     "holo.npc.shop.spawn.1": {
         "de-DE": "<b>[yellow]SHOP</color></b><br>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ öꜰꜰɴᴇɴ</color>",
         "en-US": "<b>[yellow]SHOP</color></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ</color>",
@@ -29,6 +52,29 @@
             "x": 20400.500,
             "y": 222,
             "z": 20236.500,
+            "world": "world"
+        },
+        "yaw": "",
+        "pitch": "",
+        "alignment": "center",
+        "background": "TRANSPARENT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "vertical",
+        "default_background": "false",
+        "scale-x": "1.0",
+        "scale-y": "1.0",
+        "scale-z": "1.0"
+    },
+    "holo.npc.shop.spawn.2": {
+        "de-DE": "<b>[yellow]SHOP</color></b><br>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ öꜰꜰɴᴇɴ</color>",
+        "en-US": "<b>[yellow]SHOP</color></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ</color>",
+        "location": {
+            "x": -19971.500,
+            "y": 215,
+            "z": -19993.500,
             "world": "world"
         },
         "yaw": "",
@@ -68,6 +114,29 @@
         "scale-y": "1.0",
         "scale-z": "1.0"
     },
+    "holo.npc.keys.spawn.2": {
+        "de-DE": "<b>[purple]CRATE KEYS</color></b><br>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ öꜰꜰɴᴇɴ</color>",
+        "en-US": "<b>[purple]SHOP</color></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ</color>",
+        "location": {
+            "x": -19981.500,
+            "y": 215,
+            "z": -19950.500,
+            "world": "world"
+        },
+        "yaw": "",
+        "pitch": "",
+        "alignment": "center",
+        "background": "TRANSPARENT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "vertical",
+        "default_background": "false",
+        "scale-x": "1.0",
+        "scale-y": "1.0",
+        "scale-z": "1.0"
+    },
     "holo.npc.ranks.spawn.1": {
         "de-DE": "<b>[eramc_gradient]RANG SHOP</gradient></b><br>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ öꜰꜰɴᴇɴ</color>",
         "en-US": "<b>[eramc_gradient]RANK SHOP</gradient></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ</color>",
@@ -91,6 +160,29 @@
         "scale-y": "1.0",
         "scale-z": "1.0"
     },
+    "holo.npc.ranks.spawn.2": {
+        "de-DE": "<b>[eramc_gradient]RANG SHOP</gradient></b><br>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ öꜰꜰɴᴇɴ</color>",
+        "en-US": "<b>[eramc_gradient]RANK SHOP</gradient></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ</color>",
+        "location": {
+            "x": -20022.500,
+            "y": 217,
+            "z": -19980.500,
+            "world": "world"
+        },
+        "yaw": "",
+        "pitch": "",
+        "alignment": "center",
+        "background": "TRANSPARENT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "vertical",
+        "default_background": "false",
+        "scale-x": "1.0",
+        "scale-y": "1.0",
+        "scale-z": "1.0"
+    },
     "holo.npc.tutorial.spawn.1": {
         "de-DE": "<b>[green]TUTORIAL</color></b><br>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ ᴀɴꜱᴇʜᴇɴ</color>",
         "en-US": "<b>[green]TUTORIAL</color></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ</color>",
@@ -98,6 +190,29 @@
             "x": 20399.500,
             "y": 221,
             "z": 20246.500,
+            "world": "world"
+        },
+        "yaw": "",
+        "pitch": "",
+        "alignment": "center",
+        "background": "TRANSPARENT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "vertical",
+        "default_background": "false",
+        "scale-x": "1.0",
+        "scale-y": "1.0",
+        "scale-z": "1.0"
+    },
+    "holo.npc.tutorial.spawn.2": {
+        "de-DE": "<b>[green]TUTORIAL</color></b><br>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ ᴀɴꜱᴇʜᴇɴ</color>",
+        "en-US": "<b>[green]TUTORIAL</color></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ</color>",
+        "location": {
+            "x": -19973.500,
+            "y": 215,
+            "z": -19978.500,
             "world": "world"
         },
         "yaw": "",
