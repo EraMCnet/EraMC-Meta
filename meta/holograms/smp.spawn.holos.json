@@ -96,7 +96,7 @@
         "en-US": "<b><color:#fede00><b>GOLD CRATE</b></color><br><white><color:#fede00>ᴄʟɪᴄᴋ</color> ᴛᴏ ᴏᴘᴇɴ</white>",
         "location": {
             "x": 20390.5,
-            "y": 222,
+            "y": 221,
             "z": 20286.5,
             "world": "world"
         },
@@ -119,7 +119,7 @@
         "en-US": "<b><color:#4bfb00><b>EMERALD CRATE</b></color><br><white><color:#4bfb00>ᴄʟɪᴄᴋ</color> ᴛᴏ ᴏᴘᴇɴ</white>",
         "location": {
             "x": 20387.5,
-            "y": 222,
+            "y": 221,
             "z": 20285.5,
             "world": "world"
         },
@@ -138,12 +138,12 @@
         "scale-z": "2.5"
     },
     "holo.spawn.crate.amethyst.spawn.1": {
-        "de-DE": "<b><color:#9F56FF><b>AMETHYST CRATE</b></color><br><white><color:#9F56FF>ᴋʟɪᴄᴋᴇɴ</color> ᴢᴜᴍ öꜰꜰɴᴇɴ</white>",
-        "en-US": "<b><color:#9F56FF><b>AMETHYST CRATE</b></color><br><white><color:#9F56FF>ᴄʟɪᴄᴋ</color> ᴛᴏ ᴏᴘᴇɴ</white>",
+        "de-DE": "<b><color:#9F56FF><b>AMETHYST CRATE</b></color><br><r><white><color:#9F56FF>ᴋʟɪᴄᴋᴇɴ</color> ᴢᴜᴍ öꜰꜰɴᴇɴ</white>",
+        "en-US": "<b><color:#9F56FF><b>AMETHYST CRATE</b></color><br><r><white><color:#9F56FF>ᴄʟɪᴄᴋ</color> ᴛᴏ ᴏᴘᴇɴ</white>",
         "location": {
             "x": 20385.5,
-            "y": 222,
-            "z": 20283.5,
+            "y": 221,
+            "z": 20282.5,
             "world": "world"
         },
         "yaw": "",
