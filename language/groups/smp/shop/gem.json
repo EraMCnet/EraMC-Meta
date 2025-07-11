@@ -1,15 +1,15 @@
 {
     "GOLD.lore": {
-        "de-DE": "<br><!i>[grey][yellow][ROUNDDOT]</color> Klicke, um einen [yellow]Gold Key</color> zu kaufen.<br><br><!i>[grey][yellow][ARROW]</color> Du brauchst [gem_purple]500 Gems</color> um den Key zu kaufen.<br>",
-        "en-US": "<br><!i>[grey][yellow][ROUNDDOT]</color> Click to buy a [yellow]Gold Key</color>.<br><br><!i>[grey][yellow][ARROW]</color> You need [gem_purple]500 Gems</color> to buy the key.<br>"
+        "de-DE": "<br><!i>[grey][yellow][ROUNDDOT]</color> Klicke, um einen [yellow]Gold Key</color> zu kaufen.<br><br><!i>[grey][yellow][ARROW]</color> Du brauchst [gem_purple]750 Gems</color> um den Key zu kaufen.<br>",
+        "en-US": "<br><!i>[grey][yellow][ROUNDDOT]</color> Click to buy a [yellow]Gold Key</color>.<br><br><!i>[grey][yellow][ARROW]</color> You need [gem_purple]750 Gems</color> to buy the key.<br>"
     },
     "EMERALD.lore": {
-        "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Klicke, um einen [green]Emerald Key</color> zu kaufen.<br><br><!i>[grey][green][ARROW]</color> Du brauchst [gem_purple]750 Gems</color> um den Key zu kaufen.<br>",
-        "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Click to buy a [green]Emerald Key</color>.<br><br><!i>[grey][green][ARROW]</color> You need [gem_purple]750 Gems</color> to buy the key.<br>"
+        "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Klicke, um einen [green]Emerald Key</color> zu kaufen.<br><br><!i>[grey][green][ARROW]</color> Du brauchst [gem_purple]1000 Gems</color> um den Key zu kaufen.<br>",
+        "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Click to buy a [green]Emerald Key</color>.<br><br><!i>[grey][green][ARROW]</color> You need [gem_purple]1000 Gems</color> to buy the key.<br>"
     },
     "AMETHYST.lore": {
-        "de-DE": "<br><!i>[grey]<color:#9d55fc>[ROUNDDOT]</color> Klicke, um einen <color:#9d55fc>Amethyst Key</color> zu kaufen.<br><br><!i>[grey]<color:#9d55fc>[ARROW]</color> Du brauchst [gem_purple]1250 Gems</color> um den Key zu kaufen.<br>",
-        "en-US": "<br><!i>[grey]<color:#9d55fc>[ROUNDDOT]</color> Click to buy a <color:#9d55fc>Amethyst Key</color>.<br><br><!i>[grey]<color:#9d55fc>[ARROW]</color> You need [gem_purple]1250 Gems</color> to buy the key.<br>"
+        "de-DE": "<br><!i>[grey]<color:#9d55fc>[ROUNDDOT]</color> Klicke, um einen <color:#9d55fc>Amethyst Key</color> zu kaufen.<br><br><!i>[grey]<color:#9d55fc>[ARROW]</color> Du brauchst [gem_purple]1500 Gems</color> um den Key zu kaufen.<br>",
+        "en-US": "<br><!i>[grey]<color:#9d55fc>[ROUNDDOT]</color> Click to buy a <color:#9d55fc>Amethyst Key</color>.<br><br><!i>[grey]<color:#9d55fc>[ARROW]</color> You need [gem_purple]1500 Gems</color> to buy the key.<br>"
     }, 
     "GOLD.buy.success": {
         "de-DE": "[grey]Du hast [purple]1x</color> [yellow]Gold Key</color> gekauft!</color>",
