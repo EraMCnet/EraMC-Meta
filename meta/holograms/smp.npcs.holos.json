@@ -27,7 +27,7 @@
         "en-US": "<b>[green]AUCTIONHOUSE</color></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ</color>",
         "location": {
             "x": -19991.500,
-            "y": 214,
+            "y": 215,
             "z": -20007.500,
             "world": "world"
         },
@@ -73,7 +73,7 @@
         "en-US": "<b>[yellow]SHOP</color></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ</color>",
         "location": {
             "x": -19971.500,
-            "y": 215,
+            "y": 216,
             "z": -19993.500,
             "world": "world"
         },
@@ -165,7 +165,7 @@
         "en-US": "<b>[eramc_gradient]RANK SHOP</gradient></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ</color>",
         "location": {
             "x": -20022.500,
-            "y": 217,
+            "y": 219,
             "z": -19980.500,
             "world": "world"
         },

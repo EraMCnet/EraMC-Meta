@@ -27,7 +27,7 @@
         "en-US": "<b>[mint_green_dark]AFK AREA</color>",
         "location": {
             "x": -19925.5,
-            "y": 213,
+            "y": 215,
             "z": -19973.0,
             "world": "world"
         },
@@ -73,8 +73,8 @@
         "en-US": "<b>[red]SWORD PVP</color>",
         "location": {
             "x": -19995.5,
-            "y": 212,
-            "z": -20040.0,
+            "y": 214,
+            "z": -20041.0,
             "world": "world"
         },
         "yaw": -90.0,
@@ -119,7 +119,7 @@
         "en-US": "<b>[red]MACE PVP</color>",
         "location": {
             "x": -19961.5,
-            "y": 212,
+            "y": 214,
             "z": -20035.5,
             "world": "world"
         },
@@ -302,9 +302,9 @@
         "de-DE": "<color:#9F56FF><b>AMETHYST CRATE</b></color><br><white><color:#9F56FF>ᴋʟɪᴄᴋᴇɴ</color> ᴢᴜᴍ öꜰꜰɴᴇɴ</white>",
         "en-US": "<color:#9F56FF><b>AMETHYST CRATE</b></color><br><white><color:#9F56FF>ᴄʟɪᴄᴋ</color> ᴛᴏ ᴏᴘᴇɴ</white>",
         "location": {
-            "x": -19985.5,
+            "x": -19987.5,
             "y": 215.5,
-            "z": -19943.5,
+            "z": -19946.5,
             "world": "world"
         },
         "yaw": "",
