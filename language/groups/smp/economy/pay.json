@@ -10,5 +10,9 @@
     "PAY.success.other": {
         "de-DE": "[grey][era_purple][player]</color> hat dir [yellow]$[amount]</color> überwiesen!</color>",
         "en-US": "[grey][era_purple][player]</color> has payed you [yellow]$[amount]</color>!</color>"
+    },
+    "PAY.error.min.50": {
+        "de-DE": "[grey]Du musst mindestens [yellow]$50</color> überweisen!</color>",
+        "en-US": "[grey]You must pay at least [yellow]$50</color>!</color>"
     }
 }
