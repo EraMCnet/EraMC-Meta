@@ -117,7 +117,7 @@
     "RACISM": {
         "de-DE": "Rassismus",
         "en-US": "Racism",
-        "permission": "eramc.punish.ban.Racism",
+        "permission": "eramc.punish.ban.racism",
         "type": ["ban"],
         "durations": [
             "permanent"
