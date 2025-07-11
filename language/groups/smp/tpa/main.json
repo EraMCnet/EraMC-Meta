@@ -87,6 +87,14 @@
         "de-DE": "[grey]Du hast keine [era_purple]Teleport-Anfrage</color> von [era_purple][player]</color>, die du annehmen könntest!</color>",
         "en-US": "[grey]You have no [era_purple]teleport request</color> from [era_purple][player]</color> to accept!</color>"
     },
+    "TP.request.deny.error.no.requests": {
+        "de-DE": "[grey]Du hast keine [era_purple]Teleport-Anfragen</color>, die du ablehnen könntest!</color>",
+        "en-US": "[grey]You have no [era_purple]teleport requests</color> to deny!</color>"
+    },
+    "TP.request.deny.error.no.request": {
+        "de-DE": "[grey]Du hast keine [era_purple]Teleport-Anfrage</color> von [era_purple][player]</color>, die du ablehnen könntest!</color>",
+        "en-US": "[grey]You have no [era_purple]teleport request</color> from [era_purple][player]</color> to deny!</color>"
+    },
     "TP.error.move": {
         "de-DE": "[grey]Der Teleportationsvorgang wurde [red]abgebrochen,</color> da du dich bewegt hast!</color>",
         "en-US": "[grey]The teleportation process was [red]cancelled</color> because you moved!</color>"
