@@ -67,5 +67,97 @@
         "scale-x": "2.5",
         "scale-y": "2.5",
         "scale-z": "2.5"
+    },
+    "holo.spawn.crate.cherry.spawn.1": {
+        "de-DE": "<b><color:#fc477e><b>CHERRY CRATE</b></color><br><white><color:#fc477e>ᴋʟɪᴄᴋᴇɴ</color> ᴢᴜᴍ öꜰꜰɴᴇɴ</white>",
+        "en-US": "<b><color:#fc477e><b>CHERRY CRATE</b></color><br><white><color:#fc477e>ᴄʟɪᴄᴋ</color> ᴛᴏ ᴏᴘᴇɴ</white>",
+        "location": {
+            "x": 20393.5,
+            "y": 222,
+            "z": 20285.5,
+            "world": "world"
+        },
+        "yaw": "",
+        "pitch": "",
+        "alignment": "center",
+        "background": "TRANSPARENT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "vertical",
+        "default_background": "false",
+        "scale-x": "2.5",
+        "scale-y": "2.5",
+        "scale-z": "2.5"
+    },
+    "holo.spawn.crate.gold.spawn.1": {
+        "de-DE": "<b><color:#fede00><b>GOLD CRATE</b></color><br><white><color:#fede00>ᴋʟɪᴄᴋᴇɴ</color> ᴢᴜᴍ öꜰꜰɴᴇɴ</white>",
+        "en-US": "<b><color:#fede00><b>GOLD CRATE</b></color><br><white><color:#fede00>ᴄʟɪᴄᴋ</color> ᴛᴏ ᴏᴘᴇɴ</white>",
+        "location": {
+            "x": 20390.5,
+            "y": 222,
+            "z": 20286.5,
+            "world": "world"
+        },
+        "yaw": "",
+        "pitch": "",
+        "alignment": "center",
+        "background": "TRANSPARENT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "vertical",
+        "default_background": "false",
+        "scale-x": "2.5",
+        "scale-y": "2.5",
+        "scale-z": "2.5"
+    },
+    "holo.spawn.crate.emerald.spawn.1": {
+        "de-DE": "<b><color:#4bfb00><b>EMERALD CRATE</b></color><br><white><color:#4bfb00>ᴋʟɪᴄᴋᴇɴ</color> ᴢᴜᴍ öꜰꜰɴᴇɴ</white>",
+        "en-US": "<b><color:#4bfb00><b>EMERALD CRATE</b></color><br><white><color:#4bfb00>ᴄʟɪᴄᴋ</color> ᴛᴏ ᴏᴘᴇɴ</white>",
+        "location": {
+            "x": 20387.5,
+            "y": 222,
+            "z": 20285.5,
+            "world": "world"
+        },
+        "yaw": "",
+        "pitch": "",
+        "alignment": "center",
+        "background": "TRANSPARENT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "vertical",
+        "default_background": "false",
+        "scale-x": "2.5",
+        "scale-y": "2.5",
+        "scale-z": "2.5"
+    },
+    "holo.spawn.crate.amethyst.spawn.1": {
+        "de-DE": "<b><color:#9F56FF><b>AMETHYST CRATE</b></color><br><white><color:#9F56FF>ᴋʟɪᴄᴋᴇɴ</color> ᴢᴜᴍ öꜰꜰɴᴇɴ</white>",
+        "en-US": "<b><color:#9F56FF><b>AMETHYST CRATE</b></color><br><white><color:#9F56FF>ᴄʟɪᴄᴋ</color> ᴛᴏ ᴏᴘᴇɴ</white>",
+        "location": {
+            "x": 20385.5,
+            "y": 222,
+            "z": 20283.5,
+            "world": "world"
+        },
+        "yaw": "",
+        "pitch": "",
+        "alignment": "center",
+        "background": "TRANSPARENT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "vertical",
+        "default_background": "false",
+        "scale-x": "2.5",
+        "scale-y": "2.5",
+        "scale-z": "2.5"
     }
 }
