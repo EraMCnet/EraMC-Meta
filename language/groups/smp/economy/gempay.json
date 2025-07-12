@@ -1,0 +1,22 @@
+{
+    "PAY.error.not.enough.gems": {
+        "de-DE": "[grey]Du hast [red]nicht</color> genug [gem_purple]Gems,</color> um [era_purple][player]</color> [gem_purple][STAR] [amount]</color> überwiesen!</color>",
+        "en-US": "[grey]You [red]do not</color> have enough [gem_purple]gems</color> to do that!</color>"
+    },
+    "PAY.success": {
+        "de-DE": "[grey]Du hast [era_purple][player]</color> [green]erfolgreich</color> [gem_purple][STAR] [amount]</color> überwiesen!</color>",
+        "en-US": "[grey]You have [green]sucessfully</color> payed [era_purple][player]</color> [gem_purple][STAR] [amount]!</color></color>"
+    },
+    "PAY.success.other": {
+        "de-DE": "[grey][era_purple][player]</color> hat dir [gem_purple][STAR] [amount]</color> überwiesen!</color>",
+        "en-US": "[grey][era_purple][player]</color> has payed you [gem_purple][STAR] [amount]</color>!</color>"
+    },
+    "PAY.error.min": {
+        "de-DE": "[grey]Du musst mindestens [gem_purple][STAR] [amount]</color> überweisen!</color>",
+        "en-US": "[grey]You must pay at least [gem_purple][STAR] [amount]</color>!</color>"
+    },
+    "PAY.error.number.invalid": {
+        "de-DE": "[grey]Die eingegebene Zahl ist [red]ungültig!</color></color>",
+        "en-US": "[grey]The entered number is [red]invalid!</color></color>"
+    }
+}
