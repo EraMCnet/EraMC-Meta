@@ -1,0 +1,50 @@
+{
+    "GUI.title": {
+        "de-DE": "<!i>Sellhistory",
+        "en-US": "<!i>Sellhistory"
+    },
+    "GUI.nav.item.sort.name": {
+        "de-DE": "<!i>[blue]ꜱᴏʀᴛɪᴇʀᴇɴ</color>",
+        "en-US": "<!i>[blue]ꜱᴏʀᴛɪᴇʀᴇɴ</color>"
+    },
+    "GUI.nav.item.sort.most-expensive": {
+        "de-DE": "<i:false><br><i:false>[grey]  Neuste zuerst<br><i:false>[grey]  Älteste zuerst<br><i:false>[blue]> Teuerste zuerst<br><i:false>[grey]  Günstigeste zuerst<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  Newest first<br><i:false>[grey]  Oldest first<br><i:false>[blue]> Most expensive first<br><i:false>[grey]  Least expensive first<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "GUI.nav.item.sort.least-expensive": {
+        "de-DE": "<i:false><br><i:false>[grey]  Neuste zuerst<br><i:false>[grey]  Älteste zuerst<br><i:false>[grey]  Teuerste zuerst<br><i:false>[blue]> Günstigeste zuerst<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  Newest first<br><i:false>[grey]  Oldest first<br><i:false>[grey]  Most expensive first<br><i:false>[blue]> Least expensive first<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "GUI.nav.item.sort.newest": {
+        "de-DE": "<i:false><br><i:false>[blue]> Neuste zuerst<br><i:false>[grey]  Älteste zuerst<br><i:false>[grey]  Teuerste zuerst<br><i:false>[grey]  Günstigeste zuerst<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[blue]> Newest first<br><i:false>[grey]  Oldest first<br><i:false>[grey]  Most expensive first<br><i:false>[grey]  Least expensive first<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "GUI.nav.item.sort.oldest": {
+        "de-DE": "<i:false><br><i:false>[grey]  Neuste zuerst<br><i:false>[blue]> Älteste zuerst<br><i:false>[grey]  Teuerste zuerst<br><i:false>[grey]  Günstigeste zuerst<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  Newest first<br><i:false>[blue]> Oldest first<br><i:false>[grey]  Most expensive first<br><i:false>[grey]  Least expensive first<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "GUI.nav.pagination.previous": {
+        "de-DE": "<i:false>[blue]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[blue]ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ"
+    },
+    "GUI.nav.pagination.next": {
+        "de-DE": "<i:false>[blue]ɴäᴄʜꜱᴛᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[blue]ɴᴇxᴛ ᴘᴀɢᴇ"
+    },
+    "GUI.nav.pagination.navigate.lore": {
+        "de-DE": "<i:false><br><i:false>[blue][ROUNDDOT][grey] Klicke, zum navigieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[blue][ROUNDDOT][grey] Click to navigate<br><i:false>"
+    },
+    "GUI.nav.pagination.update": {
+        "de-DE": "<i:false>[blue]ᴀᴋᴛᴜᴀʟʟɪꜱɪᴇʀᴇɴ",
+        "en-US": "<i:false>[blue]ᴜᴘᴅᴀᴛᴇ"
+    },
+    "GUI.nav.pagination.update.lore": {
+        "de-DE": "<i:false><br><i:false>[blue][ROUNDDOT][grey] Klicke, um die Seite zu aktualisieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[blue][ROUNDDOT][grey] Click to update the page<br><i:false>"
+    },
+    "AH.item.bought.lore": {
+        "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Preis: [green]$[price]</color><br><!i>[grey][green][ROUNDDOT]</color> Gekauft am: [green][date]</color><br>",
+        "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Price: [green]$[price]</color><br><!i>[grey][green][ROUNDDOT]</color> Bought on: [green][date]</color><br>"
+    }
+}
