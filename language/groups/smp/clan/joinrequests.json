@@ -1,0 +1,26 @@
+{
+    "GUI.title": {
+        "de-DE": "<!i>Clan Joinrequests",
+        "en-US": "<!i>Clan Joinrequests"
+    },
+    "GUI.nav.pagination.previous": {
+        "de-DE": "<i:false>[era_purple]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[era_purple]ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ"
+    },
+    "GUI.nav.pagination.next": {
+        "de-DE": "<i:false>[era_purple]ɴäᴄʜꜱᴛᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[era_purple]ɴᴇxᴛ ᴘᴀɢᴇ"
+    },
+    "GUI.nav.pagination.navigate.lore": {
+        "de-DE": "<i:false><br><i:false>[era_purple][ROUNDDOT][grey] Klicke, zum navigieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[era_purple][ROUNDDOT][grey] Click to navigate<br><i:false>"
+    },
+    "GUI.nav.pagination.update": {
+        "de-DE": "<i:false>[era_purple]ᴀᴋᴛᴜᴀʟʟɪꜱɪᴇʀᴇɴ",
+        "en-US": "<i:false>[era_purple]ᴜᴘᴅᴀᴛᴇ"
+    },
+    "GUI.nav.pagination.update.lore": {
+        "de-DE": "<i:false><br><i:false>[era_purple][ROUNDDOT][grey] Klicke, um die Seite zu aktualisieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[era_purple][ROUNDDOT][grey] Click to update the page<br><i:false>"
+    }
+}
