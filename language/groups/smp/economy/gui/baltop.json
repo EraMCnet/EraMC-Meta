@@ -1,0 +1,42 @@
+{
+    "GUI.title": {
+        "de-DE": "<!i>ʙᴀʟᴛᴏᴘ",
+        "en-US": "<!i>ʙᴀʟᴛᴏᴘ"
+    },
+    "GUI.nav.item.sort.name": {
+        "de-DE": "<!i>[yellow]ꜱᴏʀᴛɪᴇʀᴇɴ</color>",
+        "en-US": "<!i>[yellow]ꜱᴏʀᴛɪᴇʀᴇɴ</color>"
+    },
+    "GUI.nav.item.sort.most": {
+        "de-DE": "<i:false><br><i:false>[yellow]> Höchste zuerst<br><i:false>[grey]  Wenigste zuerst<br><br><i:false>[yellow]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[yellow]> Most expensive first<br><i:false>[grey]  Least expensive first<br><br><i:false>[yellow]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "GUI.nav.item.sort.least": {
+        "de-DE": "<i:false><br><i:false>[grey]  Höchste zuerst<br><i:false>[yellow]> Wenigste zuerst<br><br><i:false>[yellow]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  Most expensive first<br><i:false>[yellow]> Least expensive first<br><br><i:false>[yellow]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "GUI.nav.pagination.previous": {
+        "de-DE": "<i:false>[yellow]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[yellow]ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ"
+    },
+    "GUI.nav.pagination.next": {
+        "de-DE": "<i:false>[yellow]ɴäᴄʜꜱᴛᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[yellow]ɴᴇxᴛ ᴘᴀɢᴇ"
+    },
+    "GUI.nav.pagination.navigate.lore": {
+        "de-DE": "<i:false><br><i:false>[yellow][ROUNDDOT][grey] Klicke, zum navigieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[yellow][ROUNDDOT][grey] Click to navigate<br><i:false>"
+    },
+    "GUI.nav.pagination.update": {
+        "de-DE": "<i:false>[yellow]ᴀᴋᴛᴜᴀʟʟɪꜱɪᴇʀᴇɴ",
+        "en-US": "<i:false>[yellow]ᴜᴘᴅᴀᴛᴇ"
+    },
+    "GUI.nav.pagination.update.lore": {
+        "de-DE": "<i:false><br><i:false>[yellow][ROUNDDOT][grey] Klicke, um die Seite zu aktualisieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[yellow][ROUNDDOT][grey] Click to update the page<br><i:false>"
+    },
+    "GUI.player.display": {
+        "de-DE": "<br><!i>[grey][yellow][ROUNDDOT]</color> Kontostand: [yellow]$[baltop]</color><br>",
+        "en-US": "<br><!i>[grey][yellow][ROUNDDOT]</color> Balance: [yellow]$[baltop]</color><br>"
+    }
+}
