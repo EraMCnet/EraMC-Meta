@@ -1,10 +1,10 @@
 {
     "BAL.self": {
-        "de-DE": "[grey]Du hast aktuell [green]$[balance]</color> Geld!</color>",
-        "en-US": "[grey]You currently have [green]$[balance]</color> money!</color>"
+        "de-DE": "[grey]Dein Kontostand: [green]$[balance]</color></color>",
+        "en-US": "[grey]Your balance: [green]$[balance]</color></color>"
     },
     "BAL.other": {
-        "de-DE": "[grey]$[name] hat aktuell [green]$[balance]</color> Geld!</color>",
-        "en-US": "[grey]$[name] currently has [green]$[balance]</color> money!</color>"
+        "de-DE": "[grey]Kontostand von [green][player]:</color> $[balance]</color>",
+        "en-US": "[grey]Balance of [green][player]:</color> $[balance]</color>"
     }
 }
