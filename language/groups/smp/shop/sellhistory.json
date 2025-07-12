@@ -44,7 +44,7 @@
         "en-US": "<i:false><br><i:false>[blue][ROUNDDOT][grey] Click to update the page<br><i:false>"
     },
     "GUI.item.display": {
-        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Preis: [blue]$[price]</color><br><!i>[grey][blue][ROUNDDOT]</color> Gekauft am: [blue][date]</color><br>",
-        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Price: [blue]$[price]</color><br><!i>[grey][blue][ROUNDDOT]</color> Bought on: [blue][date]</color><br>"
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Preis: [blue]$[price]</color><br><!i>[grey][blue][ROUNDDOT]</color> Verkauft am: [blue][date]</color><br>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Price: [blue]$[price]</color><br><!i>[grey][blue][ROUNDDOT]</color> Sold on: [blue][date]</color><br>"
     }
 }
