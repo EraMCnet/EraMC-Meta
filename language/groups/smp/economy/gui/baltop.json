@@ -36,7 +36,7 @@
         "en-US": "<i:false><br><i:false>[yellow][ROUNDDOT][grey] Click to update the page<br><i:false>"
     },
     "GUI.player.display": {
-        "de-DE": "<br><!i>[grey][yellow][ROUNDDOT]</color> Kontostand: [yellow]$[baltop]</color><br>",
-        "en-US": "<br><!i>[grey][yellow][ROUNDDOT]</color> Balance: [yellow]$[baltop]</color><br>"
+        "de-DE": "<br><!i>[grey][yellow][ROUNDDOT]</color> Kontostand: [yellow]$[money]</color><br>",
+        "en-US": "<br><!i>[grey][yellow][ROUNDDOT]</color> Balance: [yellow]$[money]</color><br>"
     }
 }
