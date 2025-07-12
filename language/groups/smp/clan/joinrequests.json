@@ -22,5 +22,9 @@
     "GUI.nav.pagination.update.lore": {
         "de-DE": "<i:false><br><i:false>[era_purple][ROUNDDOT][grey] Klicke, um die Seite zu aktualisieren<br><i:false>",
         "en-US": "<i:false><br><i:false>[era_purple][ROUNDDOT][grey] Click to update the page<br><i:false>"
+    },
+    "GUI.player.lore": {
+        "de-DE": "<br><i:false>[era_purple][ROUNDDOT]</color> [grey][era_purple]Linksklick</color> um die [era_purple]Beitrittsanfrage</color> [green]anzunehmen</color></color><br><i:false>[era_purple][ROUNDDOT]</color> [grey][era_purple]Rechtsklick</color> um die [era_purple]Beitrittsanfrage</color> [red]abzulehnen</color></color><br>",
+        "en-US": "<br><i:false>[era_purple][ROUNDDOT]</color> [grey][era_purple]Left Click</color> to [green]accept</color> the [era_purple]join request</color></color><br><i:false>[era_purple][ROUNDDOT]</color> [grey][era_purple]Right Click</color> to [red]decline</color> the [era_purple]join request</color></color><br>"
     }
 }
