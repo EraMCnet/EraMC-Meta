@@ -114,5 +114,9 @@
     "AH.item.buy.error.expired": {
         "de-DE": "[grey]Dieses Item ist [red]abgelaufen</color> und kann nicht mehr gekauft werden!</color>",
         "en-US": "[grey]This item has [red]expired</color> and cannot be bought anymore!</color>"
+    },
+    "AH.sell.error.to.expensive": {
+        "de-DE": "[grey]Der angegebene [mint_green_light]Preis</color> ist [red]zu hoch</color>! Du kannst Items nur für maximal [mint_green_dark]$[max-price]</color> verkaufen.</color>",
+        "en-US": "[grey]The specified [mint_green_light]price</color> is [red]too high</color>! You can only sell items for a maximum of [mint_green_dark]$[max-price]</color>.</color>"
     }
 }
