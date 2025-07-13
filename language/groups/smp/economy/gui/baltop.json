@@ -40,8 +40,8 @@
         "en-US": "<br><!i>[grey][yellow][ROUNDDOT]</color> Balance: [yellow]$[money]</color><br>"
     },
     "GUI.player.display.self.lore": {
-        "de-DE": "<br><!i>[grey][yellow][ARROW]</color> Deine Position: [yellow]$[position]</color><br><br><!i>[grey][yellow][ROUNDDOT]</color> Dein Kontostand: [yellow]$[money]</color><br>",
-        "en-US": "<br><!i>[grey][yellow][ARROW]</color> Your position: [yellow]$[position]</color><br><br><!i>[grey][yellow][ROUNDDOT]</color> Your balance: [yellow]$[money]</color><br>"
+        "de-DE": "<br><!i>[grey][yellow][ARROW]</color> Deine Position: [yellow][position]</color><br><br><!i>[grey][yellow][ROUNDDOT]</color> Dein Kontostand: [yellow]$[money]</color><br>",
+        "en-US": "<br><!i>[grey][yellow][ARROW]</color> Your position: [yellow][position]</color><br><br><!i>[grey][yellow][ROUNDDOT]</color> Your balance: [yellow]$[money]</color><br>"
     },
     "GUI.player.display.self.name": {
         "de-DE": "<!i>[yellow]ᴅᴇɪɴ ᴋᴏɴᴛᴏꜱᴛᴀɴᴅ</color>",
