@@ -276,5 +276,14 @@
             "1y",
             "permanent"
         ]
+    },
+    "SAFETY_BAN": {
+        "de-DE": "Sicherheits-Ban",
+        "en-US": "Safety Ban",
+        "permission": "eramc.punish.ban.safety_ban",
+        "type": ["ban"],
+        "durations": [
+            "permanent"
+        ]
     }
 }
