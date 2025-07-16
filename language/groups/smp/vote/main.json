@@ -8,7 +8,7 @@
         "en-US": "<br>[prefix] [grey][era_purple][player]</color> has [era_purple]voted</color> for the server and claimed a [green]free</color> [yellow]reward</color>! [grey]<click:run_command:'/vote'>(<u>/vote</u>)</click></color></color><br>"
     },
     "VOTE.command.info": {
-        "de-DE": "[grey]Wenn du für den Server [era_purple]abstimmst</color>, erhältst du eine [green]kostenlose</color> [yellow]Belohnung</color>! Du kannst <click:open_url:'https://minecraft-server.eu/vote/index/23490'>hier klicken</click> um für [era_purple]EraMC.net</color> zu [era_purple]voten!</color></color>",
-        "en-US": "[grey]When you [era_purple]vote</color> for the server, you receive a [green]free</color> [yellow]reward</color>! You can <click:open_url:'https://minecraft-server.eu/vote/index/23490'>click here</click> to [era_purple]vote for EraMC.net</color>!</color></color>"
+        "de-DE": "[grey]Wenn du für den Server [era_purple]abstimmst</color>, erhältst du eine [green]kostenlose</color> [yellow]Belohnung<!/color> Du kannst [blue]<click:open_url:'https://minecraft-server.eu/vote/index/23490'>hier klicken</click></color> um für [era_purple]EraMC.net</color> zu [era_purple]voten!</color></color>",
+        "en-US": "[grey]When you [era_purple]vote</color> for the server, you receive a [green]free</color> [yellow]reward!</color> You can [blue]<click:open_url:'https://minecraft-server.eu/vote/index/23490'>click here</click></color> to [era_purple]vote for EraMC.net</color>!</color></color>"
     }
 }
