@@ -1,0 +1,10 @@
+{
+    "VOTE.self.notify": {
+        "de-DE": "[grey]Danke für deinen [era_purple]Vote!</color> Als [yellow]Belohnung</color> erhältst du [gem_purple][STAR] 50 Gems</color> und <color:#fc4c6c>2 Cherry Keys!</color></color>",
+        "en-US": "[grey]Thank you for your [era_purple]vote!</color> As a [yellow]reward</color>, you receive [gem_purple][STAR] 50 Gems</color> and <color:#fc4c6c>2 Cherry Keys!</color></color>"
+    },
+    "VOTE.global.notify": {
+        "de-DE": "<br>[prefix] [grey][era_purple][player]</color> hat für den Server [era_purple]abgestimmt</color> und sich eine [green]kostenlose</color> [yellow]Belohnung</color> abgeholt! [grey]<click:run_command:'/vote'>(<u>/vote</u>)</click></color></color><br>",
+        "en-US": "<br>[prefix] [grey][era_purple][player]</color> has [era_purple]voted</color> for the server and claimed a [green]free</color> [yellow]reward</color>! [grey]<click:run_command:'/vote'>(<u>/vote</u>)</click></color></color><br>"
+    }
+}
