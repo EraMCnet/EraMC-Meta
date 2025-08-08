@@ -43,6 +43,10 @@
         "en-US": "[grey]You [red]don't</color> have [red]permission</color> to use [era_purple]permanent</color> punishments!</color>",
         "de-DE": "[grey]Du [red]hast</color> keine [red]Berechtigung</color> um [era_purple]permanente</color> Strafen zu verwenden!</color>"
     },
+    "ERROR.command.offend.auto.reason-invalid": {
+        "en-US": "[grey]The reason [era_purple][reason]</color> is [red]not a valid reason!</color></color>",
+        "de-DE": "[grey]Der Grund [era_purple][reason]</color> ist [red]kein gültiger Grund!</color></color>"
+    },
     "SUCCESS.command.offend.auto.duration": {
         "en-US": "[grey]You've [green]successfuly</color> [red]offended</color> the player [era_purple][player]</color> with reason [era_purple][reason]</color> and duration [era_purple][duration]</color>. This was [era_purple][player]</color> [yellow][offend-score].</color> punishment for the selected reason. This punishment is using the type [era_purple][type]</color>.</color>",
         "de-DE": "[grey]Du hast den Spieler [era_purple][player]</color> mit dem Grund [era_purple][reason]</color> und der Dauer [era_purple][duration]</color> [green]erfolgreich</color> [red]bestraft</color>. Dies war [era_purple][player]</color> [yellow][offend-score]te</color> Strafe für den ausgewählten Grund. Diese Bestrafung benutzt den Bestrafungstypen [era_purple][type]</color>.</color>"
