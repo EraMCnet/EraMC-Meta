@@ -31,6 +31,10 @@
         "en-US": "[grey]You [red]don't</color> have [red]permission</color> to use [era_purple]custom</color> reasons!</color>",
         "de-DE": "[grey]Du [red]hast</color> keine [red]Berechtigung</color> um [era_purple]benutzerdefinierte</color> Gründe zu verwenden!</color>"
     },
+    "ERROR.command.offend.auto.custom-reason": {
+        "en-US": "[grey]You [red]can't use custom reasons</color> for auto punishments!</color>",
+        "de-DE": "[grey]Du [red]kannst keine benutzerdefinierten Gründe</color> für automatische Strafen verwenden!</color>"
+    },
     "ERROR.command.offend.perms.reason": {
         "en-US": "[grey]You [red]don't</color> have [red]permission</color> to use the reason [era_purple][reason]</color>!</color>",
         "de-DE": "[grey]Du [red]hast</color> keine [red]Berechtigung</color> um den Grund [era_purple][reason]</color> zu verwenden!</color>"
