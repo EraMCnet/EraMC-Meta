@@ -2,288 +2,571 @@
     "CHEATING": {
         "de-DE": "Cheating",
         "en-US": "Cheating",
-        "permission": "eramc.punish.ban.cheating",
-        "type": ["ban"],
+        "permission": "eramc.punish.offend.cheating",
         "durations": [
-            "1mo",
-            "3mo",
-            "6mo",
-            "permanent"
+            {
+                "weight": 1,
+                "duration": "1mo",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "3mo",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "6mo",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "permanent",
+                "type": "ban"
+            }
         ]
     },
     "OFFENSIVE_LANGUAGE": {
         "de-DE": "Beleidigende Sprache",
         "en-US": "Offensive Language",
-        "permission": "eramc.punish.mute.offensive_language",
-        "type": ["mute", "ban"],
+        "permission": "eramc.punish.offend.offensive_language",
         "durations": [
-            "1h",
-            "3h",
-            "12h",
-            "1d",
-            "3d",
-            "1w",
-            "30d"
+            {
+                "weight": 1,
+                "duration": "3h",
+                "type": "mute"
+            },
+            {
+                "weight": 2,
+                "duration": "12h",
+                "type": "mute"
+            },
+            {
+                "weight": 3,
+                "duration": "1d",
+                "type": "mute"
+            },
+            {
+                "weight": 4,
+                "duration": "3d",
+                "type": "mute"
+            },
+            {
+                "weight": 5,
+                "duration": "1w",
+                "type": "ban"
+            },
+            {
+                "weight": 6,
+                "duration": "2w",
+                "type": "ban"
+            },
+            {
+                "weight": 7,
+                "duration": "1mo",
+                "type": "ban"
+            }
         ]
     },
     "NS_IDEOLOGY_CONTENT": {
         "de-DE": "Verbreitung nationalsozialistischer Inhalte",
         "en-US": "Distribution of National Socialist Content",
-        "permission": "eramc.punish.ban.ns_ideology_content",
-        "type": ["ban"],
+        "permission": "eramc.punish.offend.ns_ideology_content",
         "durations": [
-            "permanent"
+            {
+                "weight": 1,
+                "duration": "permanent",
+                "type": "ban"
+            }
         ]
     },
     "NSFW_CONTENT": {
         "de-DE": "Verbreitung von NSFW-Inhalten",
         "en-US": "Distribution of NSFW Content",
-        "permission": "eramc.punish.ban.nsfw_content",
-        "type": ["ban", "mute"],
+        "permission": "eramc.punish.offend.nsfw_content",
         "durations": [
-            "1w",
-            "2w",
-            "1mo",
-            "3mo",
-            "6mo",
-            "permanent"
+            {
+                "weight": 1,
+                "duration": "1d",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "1w",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "2w",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "1mo",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "permanent",
+                "type": "ban"
+            }
         ]
     },
     "SPAMMING": {
         "de-DE": "Spamming",
         "en-US": "Spamming",
-        "permission": "eramc.punish.mute.spamming",
+        "permission": "eramc.punish.offend.spamming",
         "type": ["mute", "kick"],
         "durations": [
-            "1h",
-            "3h",
-            "12h",
-            "1d",
-            "3d",
-            "1w"
+            {
+                "weight": 1,
+                "type": "kick"
+            },
+            {
+                "weight": 2,
+                "duration": "1h",
+                "type": "mute"
+            },
+            {
+                "weight": 3,
+                "duration": "12h",
+                "type": "mute"
+            },
+            {
+                "weight": 4,
+                "duration": "1d",
+                "type": "mute"
+            },
+            {
+                "weight": 5,
+                "duration": "3d",
+                "type": "mute"
+            },
+            {
+                "weight": 6,
+                "duration": "1w",
+                "type": "ban"
+            }
         ]
     },
     "TROLLING": {
         "de-DE": "Trolling",
         "en-US": "Trolling",
-        "permission": "eramc.punish.mute.trolling",
-        "type": ["ban"],
+        "permission": "eramc.punish.offend.trolling",
         "durations": [
-            "1d",
-            "3d",
-            "1w",
-            "2w",
-            "1mo"
+            {
+                "weight": 1,
+                "duration": "1d",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "3d",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "1w",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "2w",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "1mo",
+                "type": "ban"
+            }
         ]
     },
     "UNNECESSARY_OVERLOADING_SERVER": {
         "de-DE": "Unnötiges auslasten des Servers",
         "en-US": "Unnecessary overloading the Server",
-        "permission": "eramc.punish.ban.unnecessary_overloading_server",
-        "type": ["ban"],
+        "permission": "eramc.punish.offend.unnecessary_overloading_server",
         "durations": [
-            "6mo",
-            "1y",
-            "permanent"
+            {
+                "weight": 1,
+                "duration": "6mo",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "1y",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "permanent",
+                "type": "ban"
+            }
         ]
     },
     "BAN_EVASION": {
         "de-DE": "Banumgehung",
         "en-US": "Ban Evasion",
-        "permission": "eramc.punish.ban.ban_evasion",
-        "type": ["ban"],
+        "permission": "eramc.punish.offend.ban_evasion",
         "durations": [
-            "permanent"
+            {
+                "weight": 1,
+                "duration": "permanent",
+                "type": "ban"
+            }
         ]
     },
     "REAL_MONEY_TRADING": {
         "de-DE": "Echtgeldhandel",
         "en-US": "Trading with real money",
-        "permission": "eramc.punish.ban.real_money_trading",
-        "type": ["ban"],
+        "permission": "eramc.punish.offend.real_money_trading",
         "durations": [
-            "permanent"
+            {
+                "weight": 1,
+                "duration": "permanent",
+                "type": "ban"
+            }
         ]
     },
     "CROSS_SERVER_TRADING": {
         "de-DE": "Cross-Server Trading",
         "en-US": "Cross-Server Trading",
-        "permission": "eramc.punish.ban.cross_server_trading",
-        "type": ["ban"],
+        "permission": "eramc.punish.offend.cross_server_trading",
         "durations": [
-            "permanent"
+            {
+                "weight": 1,
+                "duration": "permanent",
+                "type": "ban"
+            }
         ]
     },
     "RACISM": {
         "de-DE": "Rassismus",
         "en-US": "Racism",
-        "permission": "eramc.punish.ban.racism",
-        "type": ["ban"],
+        "permission": "eramc.punish.offend.racism",
         "durations": [
-            "permanent"
+            {
+                "weight": 1,
+                "duration": "permanent",
+                "type": "ban"
+            }
         ]
     },
     "ADVERTISING": {
         "de-DE": "Werbung",
         "en-US": "Advertising",
-        "permission": "eramc.punish.ban.advertising",
-        "type": ["ban", "mute"],
-        "durations": [
-            "1d",
-            "3d",
-            "1w",
-            "2w",
-            "1mo"
+        "permission": "eramc.punish.offend.advertising",
+        "duration": [
+            {
+                "weight": 1,
+                "duration": "1d",
+                "type": "mute"
+            },
+            {
+                "weight": 2,
+                "duration": "3d",
+                "type": "mute"
+            },
+            {
+                "weight": 3,
+                "duration": "1w",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "2w",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "1mo",
+                "type": "ban"
+            }
         ]
     },
     "ACCOUNT_SELLING": {
         "de-DE": "Accountverkauf",
         "en-US": "Account selling",
-        "permission": "eramc.punish.ban.account_selling",
-        "type": ["ban"],
+        "permission": "eramc.punish.offend.account_selling",
         "durations": [
-            "permanent"
+            {
+                "weight": 1,
+                "duration": "permanent",
+                "type": "ban"
+            }
         ]
     },
     "BUG_ABUSE": {
         "de-DE": "Bug-Abuse",
         "en-US": "Bug Abuse",
-        "permission": "eramc.punish.ban.bug_abuse",
-        "type": ["ban"],
+        "permission": "eramc.punish.offend.bug_abuse",
         "durations": [
-            "3d",
-            "1w",
-            "2w",
-            "1mo",
-            "6mo",
-            "permanent"
+            {
+                "weight": 1,
+                "duration": "1mo",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "6mo",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "permanent",
+                "type": "ban"
+            }
+        ]
+    },
+    "DUPING": {
+        "de-DE": "Duping",
+        "en-US": "Duping",
+        "permission": "eramc.punish.offend.duping",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "permanent",
+                "type": "ban"
+            }
         ]
     },
     "BEGGING_FOR_RANK_OR_EXTRA_PERMS": {
         "de-DE": "Betteln um Rang oder extra Rechte",
         "en-US": "Begging for rank or extra permissions",
-        "permission": "eramc.punish.mute.begging_for_rank_or_extra_perms",
-        "type": ["mute", "kick"],
+        "permission": "eramc.punish.offend.begging_for_rank_or_extra_perms",
+        "type": ["mute"],
         "durations": [
-            "1h",
-            "3h",
-            "12h",
-            "1d",
-            "3d",
-            "1w"
+            {
+                "weight": 1,
+                "duration": "1h",
+                "type": "mute"
+            },
+            {
+                "weight": 2,
+                "duration": "3h",
+                "type": "mute"
+            },
+            {
+                "weight": 3,
+                "duration": "12h",
+                "type": "mute"
+            },
+            {
+                "weight": 4,
+                "duration": "1d",
+                "type": "mute"
+            },
+            {
+                "weight": 5,
+                "duration": "3d",
+                "type": "mute"
+            },
+            {
+                "weight": 6,
+                "duration": "1w",
+                "type": "ban"
+            }
         ]
     },
     "DOXXING": {
         "de-DE": "Doxxing",
         "en-US": "Doxxing",
-        "permission": "eramc.punish.ban.doxxing",
-        "type": ["ban"],
+        "permission": "eramc.punish.offend.doxxing",
         "durations": [
-            "permanent"
+            {
+                "weight": 1,
+                "duration": "permanent",
+                "type": "ban"
+            }
         ]
     },
     "HAUSVERBOT": {
         "de-DE": "Hausverbot",
         "en-US": "Excluded from playing",
-        "permission": "eramc.punish.ban.hausverbot",
-        "type": ["ban"],
+        "permission": "eramc.punish.offend.hausverbot",
         "durations": [
-            "permanent"
+            {
+                "weight": 1,
+                "duration": "permanent",
+                "type": "ban"
+            }
         ]
     },
     "COMBAT_EVADING": {
         "de-DE": "Combat-Evading",
         "en-US": "Combat Evading",
-        "permission": "eramc.punish.ban.combat_evading",
-        "type": ["ban"],
+        "permission": "eramc.punish.offend.combat_evading",
         "durations": [
-            "2d",
-            "4d",
-            "1mo"
+            {
+                "weight": 1,
+                "duration": "2d",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "4d",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "14d",
+                "type": "ban"
+            }
         ]
     },
     "EXTREMIST_CONTENT": {
         "de-DE": "Extremistische Inhalte",
         "en-US": "Extremist Content",
-        "permission": "eramc.punish.ban.extremist_content",
-        "type": ["ban"],
+        "permission": "eramc.punish.offend.extremist_content",
         "durations": [
-            "permanent"
+            {
+                "weight": 1,
+                "duration": "permanent",
+                "type": "ban"
+            }
         ]
     },
     "BOT_ACCOUNT": {
         "de-DE": "Bot-Account",
         "en-US": "Bot Account",
-        "permission": "eramc.punish.ban.bot_account",
-        "type": ["ban"],
+        "permission": "eramc.punish.offend.bot_account",
         "durations": [
-            "permanent"
+            {
+                "weight": 1,
+                "duration": "permanent",
+                "type": "ban"
+            }
         ]
     },
     "HARASSMENT": {
         "de-DE": "Belästigung",
         "en-US": "Harassment",
-        "permission": "eramc.punish.ban.harassment",
-        "type": ["ban"],
+        "permission": "eramc.punish.offend.harassment",
         "durations": [
-            "1mo",
-            "6mo",
-            "1y",
-            "permanent"
+            {
+                "weight": 1,
+                "duration": "1mo",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "6mo",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "1y",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "permanent",
+                "type": "ban"
+            }
         ]
     },
     "IMPERSONATION": {
         "de-DE": "Impersonation",
         "en-US": "Impersonation",
-        "permission": "eramc.punish.ban.impersonation",
-        "type": ["ban"],
+        "permission": "eramc.punish.offend.impersonation",
         "durations": [
-            "1mo",
-            "6mo",
-            "1y",
-            "permanent"
+            {
+                "weight": 1,
+                "duration": "1mo",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "6mo",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "1y",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "permanent",
+                "type": "ban"
+            }
         ]
     },
     "DANGEROUS_CONTENT": {
         "de-DE": "Gefährliche Inhalte",
         "en-US": "Dangerous Content",
-        "permission": "eramc.punish.ban.dangerous_content",
-        "type": ["ban"],
+        "permission": "eramc.punish.offend.dangerous_content",
         "durations": [
-            "1mo",
-            "6mo",
-            "1y",
-            "permanent"
+            {
+                "weight": 1,
+                "duration": "1mo",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "6mo",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "1y",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "permanent",
+                "type": "ban"
+            }
         ]
     },
     "CONSPIRACY": {
         "de-DE": "Verschwörungstheorien",
         "en-US": "Conspiracy Theories",
-        "permission": "eramc.punish.ban.conspiracy",
-        "type": ["ban"],
+        "permission": "eramc.punish.offend.conspiracy",
         "durations": [
-            "permanent"
+            {
+                "weight": 1,
+                "duration": "permanent",
+                "type": "ban"
+            }
         ]
     },
     "THREATS": {
         "de-DE": "Bedrohungen",
         "en-US": "Threats",
-        "permission": "eramc.punish.ban.threats",
-        "type": ["ban"],
+        "permission": "eramc.punish.offend.threats",
         "durations": [
-            "1mo",
-            "6mo",
-            "1y",
-            "permanent"
+            {
+                "weight": 1,
+                "duration": "1mo",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "6mo",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "1y",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "permanent",
+                "type": "ban"
+            }
         ]
     },
     "SAFETY_BAN": {
         "de-DE": "Sicherheits-Ban",
         "en-US": "Safety Ban",
-        "permission": "eramc.punish.ban.safety_ban",
-        "type": ["ban"],
+        "permission": "eramc.punish.offend.safety_ban",
         "durations": [
-            "permanent"
+            {
+                "weight": 1,
+                "duration": "permanent",
+                "type": "ban"
+            }
         ]
     }
 }

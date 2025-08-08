@@ -8,139 +8,55 @@
         "de-DE": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>DU WURDEST GEBANNT!</b></color><br><br>[era_purple]Moderator:</color> [grey][executor]</color><br>[era_purple]Grund:</color> [grey][reason]</color><br>[era_purple]Dauer:</color> [grey][duration]</color><br><br>[grey]Bitte kontaktiere unser [era_purple]Supportteam</color> wenn du denkst dass das ein [darker_red]Fehler</color> ist.<br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u></color>"
     },
     "PUNISH.mute": {
-        "en-US": "<br>[darker_red]<b>YOU GOT MUTED!</b></color><br><br>[era_purple]Moderator:</color> [grey][executor]</color><br>[era_purple]Reason:</color> [grey][reason]</color><br>[era_purple]Duration:</color> [grey][duration]</color><br>[era_purple]Servergroup:</color> [grey][servergroup]</color><br>",
-        "de-DE": "<br>[darker_red]<b>DU WURDEST GEMUTED!</b></color><br><blue>[era_purple]Moderator:</color> [grey][executor]</color><br>[era_purple]Grund:</color> [grey][reason]</color><br>[era_purple]Länge:</color> [grey][duration]</color><br>[era_purple]Servergruppe:</color> [grey][servergroup]</color><br>"
+        "en-US": "<br>[darker_red]<b>YOU GOT MUTED!</b></color><br><br>[era_purple]Moderator:</color> [grey][executor]</color><br>[era_purple]Reason:</color> [grey][reason]</color><br>[era_purple]Duration:</color> [grey][duration]</color><br>",
+        "de-DE": "<br>[darker_red]<b>DU WURDEST GEMUTED!</b></color><br><blue>[era_purple]Moderator:</color> [grey][executor]</color><br>[era_purple]Grund:</color> [grey][reason]</color><br>[era_purple]Länge:</color> [grey][duration]</color><br>"
     },
     "ERROR.connect.vpn": {
         "en-US": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>VPN DETECTED!</b></color><br><br>[grey]It seems like you are using a [darker_red]VPN</color> to hide your IP adress. This is [darker_red]not allowed</color> on our server.</color><br><br>[grey]Please contact our [era_purple]support team</color> if you think this is a [darker_red]mistake.</color><br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u></color>",
         "de-DE": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>VPN DETECTED!</b></color><br><br>[grey]Es sieht so aus als würdest du ein [darker_red]VPN</color> verwendet um deine IP-Adresse zu verstecken. Das ist auf diesem Server [darker_red]nicht erlaubt.</color></color><br><br>[grey]Bitte kontaktiere unser [era_purple]Supportteam</color> wenn du denkst dass das ein [darker_red]Fehler</color> ist.<br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u></color>"
     },
-    "PUNISH.command.general.error.reason.notfound": {
-        "en-US": "[grey]The reason [era_purple][reason]</color> [red]does not exist</color> in the list of available reasons for punishments.</color>",
-        "de-DE": "[grey]Der Grund [era_purple][reason]</color> [red]existiert nicht</color> in der Liste der verfügbaren Gründe für Bestrafungen.</color>"
+    "ERROR.command.offend.perms.further-action": {
+        "en-US": "[grey]It seems like you [red]can't take further moderative action</color> on [era_purple]this player!</color> Please ask a [yellow]higher ranked staff member</color> to [era_purple]further offend this player!</color></color>",
+        "de-DE": "[grey]Es sieht so aus als ob du [red]keine weiteren moderativen Aktionen</color> auf [era_purple]diesem Spieler</color> durchführen kannst! Bitte frage einen [yellow]höheren Staff Member</color> um [era_purple]weitere Maßnahmen gegen diesen Spieler</color> zu ergreifen!</color></color>"
     },
-    "PUNISH.command.admin.wipe": {
-        "en-US": "[grey][green]Successfully</color> wiped all punishments for the player [era_purple][player]!</color></color>",
-        "de-DE": "[grey]Alle Bestrafungen für den Spieler [era_purple][player]</color> wurden [green]erfolgreich</color> gelöscht!</color>"
+    "ERROR.command.offend.perms.punishment-type": {
+        "en-US": "[grey]You [red]don't</color> have [red]permission</color> to use this [red]punishment type!</color></color>",
+        "de-DE": "[grey]Du [red]hast</color> keine [red]Berechtigung</color> um diesen [red]Bestrafungstypen</color> zu verwenden!</color></color>"
     },
-    "PUNISH.command.error.not.punishable": {
-        "en-US": "[grey]You [red]can't</color> punish this player because he has a higher position in the [yellow]punishment hierarchy.</color></color>",
-        "de-DE": "[grey]Du [red]kannst</color> diesen Spieler nicht bestrafen, da er eine höhere Position in der [yellow]Bestrafungshierarchie</color> hat.</color>"
+    "ERROR.command.offend.perms.custom-duration": {
+        "en-US": "[grey]You [red]don't</color> have [red]permission</color> to use [era_purple]custom</color> durations!</color>",
+        "de-DE": "[grey]Du [red]hast</color> keine [red]Berechtigung</color> um [era_purple]benutzerdefinierte</color> Zeiträume zu verwenden!</color>"
     },
-    "PUNISH.command.reason.list": {
-        "en-US": "[grey]Available reasons for punishments:</color><br>[reasons]",
-        "de-DE": "[grey]Verfügbare Gründe für Bestrafungen:</color><br>[reasons]"
+    "ERROR.command.offend.perms.custom-reason": {
+        "en-US": "[grey]You [red]don't</color> have [red]permission</color> to use [era_purple]custom</color> reasons!</color>",
+        "de-DE": "[grey]Du [red]hast</color> keine [red]Berechtigung</color> um [era_purple]benutzerdefinierte</color> Gründe zu verwenden!</color>"
     },
-    "PUNISH.command.kick": {
-        "en-US": "[grey][green]Successfully</color> kicked the player [era_purple][player]</color> from the server with reason [era_purple][reason]!</color></color>",
-        "de-DE": "[grey]Der Spieler [era_purple][player]</color> wurde [green]erfolgreich</color> mit dem Grund [era_purple][reason]</color> vom Server gekickt!</color>"
+    "ERROR.command.offend.perms.reason": {
+        "en-US": "[grey]You [red]don't</color> have [red]permission</color> to use the reason [era_purple][reason]</color>!</color>",
+        "de-DE": "[grey]Du [red]hast</color> keine [red]Berechtigung</color> um den Grund [era_purple][reason]</color> zu verwenden!</color>"
     },
-    "PUNISH.command.mute": {
-        "en-US": "[grey][green]Successfully</color> muted the player [era_purple][player]</color> for [era_purple][duration]</color> and with reason [era_purple][reason]!</color></color>",
-        "de-DE": "[grey]Der Spieler [era_purple][player]</color> wurde [green]erfolgreich</color> für [era_purple][duration]</color> und mit dem Grund [era_purple][reason]</color> stummgeschaltet!</color>"
+    "ERROR.command.offend.perms.permanent": {
+        "en-US": "[grey]You [red]don't</color> have [red]permission</color> to use [era_purple]permanent</color> punishments!</color>",
+        "de-DE": "[grey]Du [red]hast</color> keine [red]Berechtigung</color> um [era_purple]permanente</color> Strafen zu verwenden!</color>"
     },
-    "PUNISH.command.ban": {
-        "en-US": "[grey][green]Successfully</color> banned the player [era_purple][player]</color> for [era_purple][duration]</color> and with reason [era_purple][reason]!</color></color>",
-        "de-DE": "[grey]Der Spieler [era_purple][player]</color> wurde [green]erfolgreich</color> für [era_purple][duration]</color> und mit dem Grund [era_purple][reason]</color> gebannt!</color>"
+    "SUCCESS.command.offend.auto.duration": {
+        "en-US": "[grey]You've [green]successfuly</color> [red]offended</color> the player [era_purple][player]</color> with reason [era_purple][reason]</color> and duration [era_purple][duration]</color>. This was [era_purple][player]</color> [yellow][offend-score].</color> punishment for the selected reason. This punishment is using the type [era_purple][type]</color>.</color>",
+        "de-DE": "[grey]Du hast den Spieler [era_purple][player]</color> mit dem Grund [era_purple][reason]</color> und der Dauer [era_purple][duration]</color> [green]erfolgreich</color> [red]bestraft</color>. Dies war [era_purple][player]</color> [yellow][offend-score]te</color> Strafe für den ausgewählten Grund. Diese Bestrafung benutzt den Bestrafungstypen [era_purple][type]</color>.</color>"
     },
-    "PUNISH.command.unpunish.ban": {
-        "en-US": "[grey]You [green]successfully</color> unbanned the player [era_purple][player]!</color></color>",
-        "de-DE": "[grey]Der Spieler [era_purple][player]</color> wurde [green]erfolgreich</color> entbannt!</color>"
+    "SUCCESS.command.offend.auto": {
+        "en-US": "[grey]You've [green]successfuly</color> [red]offended</color> the player [era_purple][player]</color> with reason [era_purple][reason]</color>. This was [era_purple][player]</color> [yellow][offend-score].</color> punishment for the selected reason. This punishment is using the type [era_purple][type]</color>.</color>",
+        "de-DE": "[grey]Du hast den Spieler [era_purple][player]</color> mit dem Grund [era_purple][reason]</color> und der Dauer [era_purple][duration]</color>. Dies war [era_purple][player]</color> [yellow][offend-score]te</color> Strafe für den ausgewählten Grund. Diese Bestrafung benutzt den Bestrafungstypen [era_purple][type]</color>.</color>"
     },
-    "PUNISH.command.unpunish.mute": {
-        "en-US": "[grey]You [green]successfully</color> unmuted the player [era_purple][player]!</color></color>",
-        "de-DE": "[grey]Der Spieler [era_purple][player]</color> wurde [green]erfolgreich</color> entstummschaltet!</color>"
+    "SUCCESS.command.offend.custom.duration": {
+        "en-US": "[grey]You've [green]successfuly</color> [red]offended</color> the player [era_purple][player]</color> with reason [era_purple][reason]</color> and duration [era_purple][duration]</color>. This punishment is using the type [era_purple][type]</color>.</color>",
+        "de-DE": "[grey]Du hast den Spieler [era_purple][player]</color> mit dem Grund [era_purple][reason]</color> und der Dauer [era_purple][duration]</color> [green]erfolgreich</color> [red]bestraft</color>. Diese Bestrafung benutzt den Bestrafungstypen [era_purple][type]</color>.</color>"
     },
-    "PUNISH.history": {
-        "en-US": "[grey]Punishment history for [era_purple][player]:</color></color><br>",
-        "de-DE": "[grey]Bestrafungshistorie für [era_purple][player]:</color></color><br>"
+    "SUCCESS.command.offend.custom": {
+        "en-US": "[grey]You've [green]successfuly</color> [red]offended</color> the player [era_purple][player]</color> with reason [era_purple][reason]</color>. This punishment is using the type [era_purple][type]</color>.</color>",
+        "de-DE": "[grey]Du hast den Spieler [era_purple][player]</color> mit dem Grund [era_purple][reason]</color> [green]erfolgreich</color> [red]bestraft</color>. Diese Bestrafung benutzt den Bestrafungstypen [era_purple][type]</color>.</color>"
     },
-    "PUNISH.alts.user": {
-        "en-US": "[grey]Users with the same [era_purple]IP-Address</color> as [era_purple][player]:</color></color><br>",
-        "de-DE": "[grey]Benutzer mit der gleichen [era_purple]IP-Adresse</color> wie [era_purple][player]:</color></color><br>"
-    },
-    "PUNISH.alts.ip": {
-        "en-US": "[grey]Users with the same [era_purple]IP-Address</color> as [era_purple][ip]:</color></color><br>",
-        "de-DE": "[grey]Benutzer mit der gleichen [era_purple]IP-Adresse</color> wie [era_purple][ip]:</color></color><br>"
-    },
-    "PUNISH.alts.general": {
-        "en-US": "[grey]Users with the same [era_purple]IP-Address:</color></color><br>",
-        "de-DE": "[grey]Benutzer mit der gleichen [era_purple]IP-Adresse:</color></color><br>"
-    },
-    "PUNISH.alts.none": {
-        "en-US": "[grey]There are [red]no</color> users with the same IP-Address as [era_purple][player]</color> on this server.</color>",
-        "de-DE": "[grey]Es gibt [red]keine</color> Benutzer mit der gleichen IP-Adresse wie [era_purple][player]</color> auf diesem Server.</color>"
-    },
-    "PUNISH.alts.none.ip": {
-        "en-US": "[grey]There are [red]no</color> users with the same IP-Address as [era_purple][ip]</color> on this server.</color>",
-        "de-DE": "[grey]Es gibt [red]keine</color> Benutzer mit der gleichen IP-Adresse wie [era_purple][ip]</color> auf diesem Server.</color>"
-    },
-    "PUNISH.alts.none.general": {
-        "en-US": "[grey]There are [red]no</color> users with the same IP-Address on this server.</color>",
-        "de-DE": "[grey]Es gibt [red]keine</color> Benutzer mit der gleichen IP-Adresse auf diesem Server.</color>"
-    },
-    "PUNISH.ban.notify": {
-        "en-US": "[grey][era_purple][executor]</color> [red]<b>BANNED</b></color> [era_purple][player]!</color></color>",
-        "de-DE": "[grey][era_purple][executor]</color> hat [era_purple][player]</color> [red]<b>GEBANNT!</b></color></color>"
-    },
-    "PUNISH.kick.notify": {
-        "en-US": "[grey][era_purple][executor]</color> [red]kicked</color> [era_purple][player]!</color></color>",
-        "de-DE": "[grey][era_purple][executor]</color> hat [era_purple][player]</color> [red]gekickt!</color></color>"
-    },
-    "PUNISH.mute.notify": {
-        "en-US": "[grey][era_purple][executor]</color> [red]MUTED</color> [era_purple][player]!</color></color>",
-        "de-DE": "[grey][era_purple][executor]</color> hat [era_purple][player]</color> [red]gemuted!</color></color>"
-    },
-    "PUNISH.unban.notify": {
-        "en-US": "[grey][era_purple][executor]</color> [green]unbanned</color> [era_purple][player]</color> on servergroup [era_purple][servergroup]!</color></color>",
-        "de-DE": "[grey][era_purple][executor]</color> hat [era_purple][player]</color> auf der Servergruppe [era_purple][servergroup]</color> [green]entbannt!</color></color>"
-    },
-    "PUNISH.unmute.notify": {
-        "en-US": "[grey][era_purple][executor]</color> [green]unmuted</color> [era_purple][player]</color> on servergroup [era_purple][servergroup]!</color></color>",
-        "de-DE": "[grey][era_purple][executor]</color> hat [era_purple][player]</color> auf der Servergruppe [era_purple][servergroup]</color> [green]entstummschaltet!</color></color>"
-    },
-    "ERROR.punish.already.punished": {
-        "en-US": "[grey]The player [era_purple][player]</color> does [red]already have</color> an active punishment of type [era_purple][type].</color></color>",
-        "de-DE": "[grey]Der Spieler [era_purple][player]</color> hat [red]bereits</color> eine aktive Bestrafung des Typs [era_purple][type].</color></color>"
-    },
-    "ERROR.punish.not.punished": {
-        "en-US": "[grey]The player [era_purple][player]</color> does [red]not have</color> an active punishment of type [era_purple][type].</color></color>",
-        "de-DE": "[grey]Der Spieler [era_purple][player]</color> hat [red]keine</color> aktive Bestrafung des Typs [era_purple][type].</color></color>"
-    },
-    "ERROR.duration.custom.permission": {
-        "en-US": "[grey]You [red]do not</color> have the permission to use [era_purple]custom durations</color> for punishments.</color>",
-        "de-DE": "[grey]Du [red]hast nicht</color> die Berechtigung, [era_purple]benutzerdefinierte Dauern</color> für Bestrafungen zu verwenden.</color>"
-    },
-    "ERROR.reason.custom.permission": {
-        "en-US": "[grey]You [red]do not</color> have the permission to use [era_purple]custom reasons</color> for punishments.</color>",
-        "de-DE": "[grey]Du [red]hast nicht</color> die Berechtigung, [era_purple]benutzerdefinierte Gründe</color> für Bestrafungen zu verwenden.</color>"
-    },
-    "ERROR.duration.perma.perms": {
-        "en-US": "[grey]You [red]do not</color> have the permission to use [era_purple]permanent durations</color> for punishments.</color>",
-        "de-DE": "[grey]Du [red]hast nicht</color> die Berechtigung, [era_purple]permanente Dauern</color> für Bestrafungen zu verwenden.</color>"
-    },
-    "ERROR.history.empty": {
-        "en-US": "[grey]The player [era_purple][player]</color> has [red]no</color> punishment history.</color>",
-        "de-DE": "[grey]Der Spieler [era_purple][player]</color> hat [red]keine</color> Bestrafungshistorie.</color>"
-    },
-    "GENERAL.history.timed": {
-        "de-DE": "[grey][prefix] Punishment ID: [era_purple][id]</color><br>[prefix] Grund: [era_purple][reason]</color><br>[prefix] Dauer: [era_purple][duration]</color></color>",
-        "en-US": "[grey][prefix] Punishment ID: [era_purple][id]</color><br>[prefix] Reason: [era_purple][reason]</color><br>[prefix] Duration: [era_purple][duration]</color></color>"
-    },
-    "GENERAL.history.kicks": {
-        "de-DE": "[grey][prefix] Punishment ID: [era_purple][id]</color><br>[prefix] Grund: [era_purple][reason]</color></color>",
-        "en-US": "[grey][prefix] Punishment ID: [era_purple][id]</color><br>[prefix] Reason: [era_purple][reason]</color></color>"
-    },
-    "GENERAL.history.timed.gui.lore": {
-        "de-DE": "<i:false>[grey][dot] ID: [era_purple][id]</color><br><i:false>[grey][dot] Executor: [era_purple][executor]</color><br><i:false>[grey][dot] Grund: [era_purple][reason]</color><br><i:false>[grey][dot] Servergruppe: [era_purple][servergroup]</color><br><i:false>[grey][dot] Dauer: [era_purple][duration]</color><br><i:false>[grey][dot] Aufgehoben von: [era_purple][unpunisher]</color><br><i:false>[grey][dot] Aktiv: [grey]<b>[active]</b></color></color>",
-        "en-US": "<i:false>[grey][dot] ID: [era_purple][id]</color><br><i:false>[grey][dot] Executor: [era_purple][executor]</color><br><i:false>[grey][dot] Reason: [era_purple][reason]</color><br><i:false>[grey][dot] Servergroup: [era_purple][servergroup]</color><br><i:false>[grey][dot] Duration: [era_purple][duration]</color><br><i:false>[grey][dot] Unpunished by: [era_purple][unpunisher]</color><br><i:false>[grey][dot] Active: [grey]<b>[active]</b></color></color>"
-    },
-    "GENERAL.history.kicks.gui.lore": {
-        "de-DE": "<i:false>[grey][dot] ID: [era_purple][id]</color><br><i:false>[grey][dot] Executor: [era_purple][executor]</color><br><i:false>[grey][dot] Grund: [era_purple][reason]</color>",
-        "en-US": "<i:false>[grey][dot] ID: [era_purple][id]</color><br><i:false>[grey][dot] Executor: [era_purple][executor]</color><br><i:false>[grey][dot] Reason: [era_purple][reason]</color>"
-    },
-    "PUNISH.servergroup.not.exists": {
-        "en-US": "[grey]The servergroup [era_purple][servergroup]</color> does [red]not exist!</color></color>",
-        "de-DE": "[grey]Die Servergruppe [era_purple][servergroup]</color> existiert [red]nicht!</color></color>"
+    "ERROR.command.offend.type.duration.not-supported": {
+        "en-US": "[grey]The selected [era_purple]punishment type</color> does not support setting a duration!</color>",
+        "de-DE": "[grey]Der ausgewählte [era_purple]Bestrafungstyp</color> unterstützt die ausgewählte [era_purple]Dauer</color> nicht! Bitte wähle einen anderen [era_purple]Bestrafungstyp</color> oder eine andere [era_purple]Dauer</color>."
     }
 }
