@@ -23,6 +23,10 @@
         "en-US": "[grey]You [red]don't</color> have [red]permission</color> to use this [red]punishment type!</color></color>",
         "de-DE": "[grey]Du [red]hast</color> keine [red]Berechtigung</color> um diesen [red]Bestrafungstypen</color> zu verwenden!</color></color>"
     },
+    "ERROR.command.offend.highest-reached": {
+        "en-US": "[grey]You [red]can't</color> punish [era_purple][player]</color> any further, because the player already has a [yellow]higher</color> or [darker_red]the highest</color> [red]punishment.</color></color>",
+        "de-DE": "[grey]Du [red]kannst</color> den Spieler [era_purple][player]</color> nicht weiter bestrafen, da der Spieler bereits eine [yellow]höhere</color> oder [darker_red]die höchste</color> [red]Strafe</color> hat!</color></color>"
+    },
     "ERROR.command.offend.perms.custom-duration": {
         "en-US": "[grey]You [red]don't</color> have [red]permission</color> to use [era_purple]custom</color> durations!</color>",
         "de-DE": "[grey]Du [red]hast</color> keine [red]Berechtigung</color> um [era_purple]benutzerdefinierte</color> Zeiträume zu verwenden!</color>"
