@@ -31,6 +31,10 @@
         "en-US": "[grey]You [red]don't</color> have [red]permission</color> to use [era_purple]custom</color> durations!</color>",
         "de-DE": "[grey]Du [red]hast</color> keine [red]Berechtigung</color> um [era_purple]benutzerdefinierte</color> Zeiträume zu verwenden!</color>"
     },
+    "ERROR.command.offend.duration-invalid": {
+        "en-US": "[grey]The duration [era_purple][duration]</color> is [red]not a valid duration!</color></color>",
+        "de-DE": "[grey]Die Dauer [era_purple][duration]</color> ist [red]keine gültige Dauer!</color></color>"
+    },
     "ERROR.command.offend.perms.custom-reason": {
         "en-US": "[grey]You [red]don't</color> have [red]permission</color> to use [era_purple]custom</color> reasons!</color>",
         "de-DE": "[grey]Du [red]hast</color> keine [red]Berechtigung</color> um [era_purple]benutzerdefinierte</color> Gründe zu verwenden!</color>"
