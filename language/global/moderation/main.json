@@ -1,15 +1,15 @@
 {
     "PUNISH.kick": {
-        "en-US": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>YOU GOT KICKED!</b></color><br><br>[era_purple]Moderator:</color> [grey][executor]</color><br>[era_purple]Reason:</color> [grey][reason]</color><br><br>[grey]Please contact our [era_purple]support team</color> if you think this is a [darker_red]mistake.</color><br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u></color>",
-        "de-DE": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>DU WURDEST GEKICKT!</b></color><br><br>[era_purple]Moderator:</color> [grey][executor]</color><br>[era_purple]Grund:</color> [grey][reason]</color><br><br>[grey]Bitte kontaktiere unser [era_purple]Supportteam</color> wenn du denkst dass das ein [darker_red]Fehler</color> ist.<br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u></color>"
+        "en-US": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>YOU GOT KICKED!</b></color><br><br>[darker_red]Case ID:</color> [grey][id]</color><br><br>[era_purple]Moderator:</color> [grey][executor]</color><br>[era_purple]Reason:</color> [grey][reason]</color><br><br>[grey]Please contact our [era_purple]support team</color> if you think this is a [darker_red]mistake.</color><br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u></color>",
+        "de-DE": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>DU WURDEST GEKICKT!</b></color><br><br>[darker_red]Case ID:</color> [grey][id]</color><br><br>[era_purple]Moderator:</color> [grey][executor]</color><br>[era_purple]Grund:</color> [grey][reason]</color><br><br>[grey]Bitte kontaktiere unser [era_purple]Supportteam</color> wenn du denkst dass das ein [darker_red]Fehler</color> ist.<br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u></color>"
     },
     "PUNISH.ban": {
-        "en-US": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>YOU GOT BANNED!</b></color><br><br>[era_purple]Moderator:</color> [grey][executor]</color><br>[era_purple]Reason:</color> [grey][reason]</color><br>[era_purple]Duration:</color> [grey][duration]</color><br><br>[grey]Please contact our [era_purple]support team</color> if you think this is a [darker_red]mistake.</color><br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u></color>",
-        "de-DE": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>DU WURDEST GEBANNT!</b></color><br><br>[era_purple]Moderator:</color> [grey][executor]</color><br>[era_purple]Grund:</color> [grey][reason]</color><br>[era_purple]Dauer:</color> [grey][duration]</color><br><br>[grey]Bitte kontaktiere unser [era_purple]Supportteam</color> wenn du denkst dass das ein [darker_red]Fehler</color> ist.<br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u></color>"
+        "en-US": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>YOU GOT BANNED!</b></color><br><br>[darker_red]Case ID:</color> [grey][id]</color><br><br>[era_purple]Moderator:</color> [grey][executor]</color><br>[era_purple]Reason:</color> [grey][reason]</color><br>[era_purple]Duration:</color> [grey][duration]</color><br><br>[grey]Please contact our [era_purple]support team</color> if you think this is a [darker_red]mistake.</color><br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u></color>",
+        "de-DE": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>DU WURDEST GEBANNT!</b></color><br><br>[darker_red]Case ID:</color> [grey][id]</color><br><br>[era_purple]Moderator:</color> [grey][executor]</color><br>[era_purple]Grund:</color> [grey][reason]</color><br>[era_purple]Dauer:</color> [grey][duration]</color><br><br>[grey]Bitte kontaktiere unser [era_purple]Supportteam</color> wenn du denkst dass das ein [darker_red]Fehler</color> ist.<br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u></color>"
     },
     "PUNISH.mute": {
-        "en-US": "<br>[darker_red]<b>YOU GOT MUTED!</b></color><br><br>[era_purple]Moderator:</color> [grey][executor]</color><br>[era_purple]Reason:</color> [grey][reason]</color><br>[era_purple]Duration:</color> [grey][duration]</color><br>",
-        "de-DE": "<br>[darker_red]<b>DU WURDEST GEMUTED!</b></color><br><blue>[era_purple]Moderator:</color> [grey][executor]</color><br>[era_purple]Grund:</color> [grey][reason]</color><br>[era_purple]Länge:</color> [grey][duration]</color><br>"
+        "en-US": "<br>[darker_red]<b>YOU GOT MUTED!</b></color><br><br>[darker_red]Case ID:</color> [grey][id]</color><br>[era_purple]Moderator:</color> [grey][executor]</color><br>[era_purple]Reason:</color> [grey][reason]</color><br>[era_purple]Duration:</color> [grey][duration]</color><br>",
+        "de-DE": "<br>[darker_red]<b>DU WURDEST GEMUTET!</b></color><br><br>[darker_red]Case ID:</color> [grey][id]</color><br>[era_purple]Moderator:</color> [grey][executor]</color><br>[era_purple]Grund:</color> [grey][reason]</color><br>[era_purple]Dauer:</color> [grey][duration]</color><br>"
     },
     "ERROR.connect.vpn": {
         "en-US": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>VPN DETECTED!</b></color><br><br>[grey]It seems like you are using a [darker_red]VPN</color> to hide your IP adress. This is [darker_red]not allowed</color> on our server.</color><br><br>[grey]Please contact our [era_purple]support team</color> if you think this is a [darker_red]mistake.</color><br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u></color>",
@@ -59,6 +59,10 @@
         "en-US": "[grey]The reason [era_purple][reason]</color> is [red]not a valid reason!</color></color>",
         "de-DE": "[grey]Der Grund [era_purple][reason]</color> ist [red]kein gültiger Grund!</color></color>"
     },
+    "ERROR.command.offend.type.duration.not-supported": {
+        "en-US": "[grey]The selected [era_purple]punishment type</color> does not support setting a duration!</color>",
+        "de-DE": "[grey]Der ausgewählte [era_purple]Bestrafungstyp</color> unterstützt die ausgewählte [era_purple]Dauer</color> nicht! Bitte wähle einen anderen [era_purple]Bestrafungstyp</color> oder eine andere [era_purple]Dauer</color>."
+    },
     "SUCCESS.command.offend.auto.duration": {
         "en-US": "[grey]You've [green]successfuly</color> [red]punished</color> the player [era_purple][player]</color> with reason [era_purple][reason]</color> and duration [era_purple][duration]</color>. This was [era_purple][player-format]</color> [yellow][offend-score].</color> punishment for the selected reason. This punishment is using the type [era_purple][type]</color>.</color>",
         "de-DE": "[grey]Du hast den Spieler [era_purple][player]</color> mit dem Grund [era_purple][reason]</color> und der Dauer [era_purple][duration]</color> [green]erfolgreich</color> [red]bestraft</color>. Dies war [era_purple][player-format]</color> [yellow][offend-score]te</color> Strafe für den ausgewählten Grund. Diese Bestrafung benutzt den Bestrafungstypen [era_purple][type]</color>.</color>"
@@ -75,8 +79,16 @@
         "en-US": "[grey]You've [green]successfuly</color> [red]punished</color> the player [era_purple][player]</color> with reason [era_purple][reason]</color>. This punishment is using the type [era_purple][type]</color>.</color>",
         "de-DE": "[grey]Du hast den Spieler [era_purple][player]</color> mit dem Grund [era_purple][reason]</color> [green]erfolgreich</color> [red]bestraft</color>. Diese Bestrafung benutzt den Bestrafungstypen [era_purple][type]</color>.</color>"
     },
-    "ERROR.command.offend.type.duration.not-supported": {
-        "en-US": "[grey]The selected [era_purple]punishment type</color> does not support setting a duration!</color>",
-        "de-DE": "[grey]Der ausgewählte [era_purple]Bestrafungstyp</color> unterstützt die ausgewählte [era_purple]Dauer</color> nicht! Bitte wähle einen anderen [era_purple]Bestrafungstyp</color> oder eine andere [era_purple]Dauer</color>."
+    "SUCCESS.command.pardon": {
+        "en-US": "[grey]You've [green]successfuly</color> [red]pardoned</color> the player [era_purple][player]</color> with type [era_purple][type]</color>.</color>",
+        "de-DE": "[grey]Du hast die Strafe von [era_purple][player]</color> mit dem Typen [era_purple][type]</color> [green]erfolgreich</color> [red]entfernt</color>.</color>"
+    },
+    "INFO.notify.staff.punishment": {
+        "en-US": "[grey][era_purple][executor]</color> punished the player [darker_red][player]</color> with type [red][type]</color>!<br>[grey][prefix] Punishment ID: [era_purple][id]</color><br>[prefix] Reason: [era_purple][reason]</color><br>[prefix] Duration: [era_purple][duration]</color></color></color>",
+        "de-DE": "[grey][era_purple][executor]</color> hat den Spieler [darker_red][player]</color> mit dem Typen [red][type]</color> bestraft!<br>[grey][prefix] Bestrafungs-ID: [era_purple][id]</color><br>[prefix] Grund: [era_purple][reason]</color><br>[prefix] Dauer: [era_purple][duration]</color></color></color>"
+    },
+    "INFO.notify.staff.punishment.revoke": {
+        "en-US": "[grey][era_purple][executor]</color> revoked the punishment [darker_red]#[id]</color> of the player [era_purple][player]</color>!</color>",
+        "de-DE": "[grey][era_purple][executor]</color> hat die Strafe [darker_red]#[id]</color> des Spielers [era_purple][player]</color> aufgehoben!</color>"
     }
 }
