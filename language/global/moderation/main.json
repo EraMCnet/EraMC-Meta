@@ -94,5 +94,13 @@
     "INFO.notify.staff.punishment.revoke": {
         "en-US": "[grey][era_purple][executor]</color> revoked the punishment [darker_red]#[id]</color> of the player [era_purple][player]</color> with type [red][type]</color>!</color>",
         "de-DE": "[grey][era_purple][executor]</color> hat die Strafe [darker_red]#[id]</color> des Spielers [era_purple][player]</color> mit dem Typen [red][type]</color> aufgehoben!</color>"
+    },
+    "ALTS.user": {
+        "en-US": "[grey]Users with the same [era_purple]IP-Address</color> as [era_purple][player]:</color></color><br>",
+        "de-DE": "[grey]Benutzer mit der gleichen [era_purple]IP-Adresse</color> wie [era_purple][player]:</color></color><br>"
+    },
+    "ALTS.ip": {
+        "en-US": "[grey]Users with the same [era_purple]IP-Address</color> as [era_purple][ip]:</color></color><br>",
+        "de-DE": "[grey]Benutzer mit der gleichen [era_purple]IP-Adresse</color> wie [era_purple][ip]:</color></color><br>"
     }
 }
