@@ -19,6 +19,10 @@
         "en-US": "[grey]It seems like you [red]can't take further moderative action</color> on [era_purple]this player!</color> Please ask a [yellow]higher ranked staff member</color> to [era_purple]further offend this player!</color></color>",
         "de-DE": "[grey]Es sieht so aus als ob du [red]keine weiteren moderativen Aktionen</color> auf [era_purple]diesem Spieler</color> durchführen kannst! Bitte frage einen [yellow]höheren Staff Member</color> um [era_purple]weitere Maßnahmen gegen diesen Spieler</color> zu ergreifen!</color></color>"
     },
+    "ERROR.command.pardon.no-punishment": {
+        "en-US": "[grey]The player [era_purple][player]</color> has no [red]punishments</color> to pardon!</color>",
+        "de-DE": "[grey]Der Spieler [era_purple][player]</color> hat keine [red]Strafen</color> die rückgängig gemacht werden können!</color>"
+    },
     "ERROR.command.offend.perms.punishment-type": {
         "en-US": "[grey]You [red]don't</color> have [red]permission</color> to use this [red]punishment type!</color></color>",
         "de-DE": "[grey]Du [red]hast</color> keine [red]Berechtigung</color> um diesen [red]Bestrafungstypen</color> zu verwenden!</color></color>"
