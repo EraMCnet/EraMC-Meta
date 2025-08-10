@@ -92,7 +92,7 @@
         "de-DE": "[grey][era_purple][executor]</color> hat den Spieler [darker_red][player]</color> mit dem Typen [red][type]</color> bestraft!<br>[grey][prefix] Bestrafungs-ID: [era_purple][id]</color><br>[prefix] Grund: [era_purple][reason]</color><br>[prefix] Dauer: [era_purple][duration]</color></color></color>"
     },
     "INFO.notify.staff.punishment.revoke": {
-        "en-US": "[grey][era_purple][executor]</color> revoked the punishment [darker_red]#[id]</color> of the player [era_purple][player]</color>!</color>",
-        "de-DE": "[grey][era_purple][executor]</color> hat die Strafe [darker_red]#[id]</color> des Spielers [era_purple][player]</color> aufgehoben!</color>"
+        "en-US": "[grey][era_purple][executor]</color> revoked the punishment [darker_red]#[id]</color> of the player [era_purple][player]</color> with type [red][type]</color>!</color>",
+        "de-DE": "[grey][era_purple][executor]</color> hat die Strafe [darker_red]#[id]</color> des Spielers [era_purple][player]</color> mit dem Typen [red][type]</color> aufgehoben!</color>"
     }
 }
