@@ -87,6 +87,10 @@
         "en-US": "[grey]You've [green]successfuly</color> [red]pardoned</color> the player [era_purple][player]</color> with type [era_purple][type]</color>.</color>",
         "de-DE": "[grey]Du hast die Strafe von [era_purple][player]</color> mit dem Typen [era_purple][type]</color> [green]erfolgreich</color> [red]entfernt</color>.</color>"
     },
+    "ERROR.command.offend.perms.hierarchy": {
+        "en-US": "[grey]You [red]can't</color> punish this player because he has a higher position in the [yellow]punishment hierarchy.</color></color>",
+        "de-DE": "[grey]Du [red]kannst</color> diesen Spieler nicht bestrafen, da er eine höhere Position in der [yellow]Bestrafungshierarchie</color> hat.</color>"
+    },
     "INFO.notify.staff.punishment": {
         "en-US": "[grey][era_purple][executor]</color> punished the player [darker_red][player]</color> with type [red][type]</color>!<br>[grey][prefix] Punishment ID: [era_purple][id]</color><br>[prefix] Reason: [era_purple][reason]</color><br>[prefix] Duration: [era_purple][duration]</color></color></color>",
         "de-DE": "[grey][era_purple][executor]</color> hat den Spieler [darker_red][player]</color> mit dem Typen [red][type]</color> bestraft!<br>[grey][prefix] Bestrafungs-ID: [era_purple][id]</color><br>[prefix] Grund: [era_purple][reason]</color><br>[prefix] Dauer: [era_purple][duration]</color></color></color>"
