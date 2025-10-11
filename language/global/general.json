@@ -27,6 +27,10 @@
         "de-DE": "[grey]Ein unbekannter [red]Fehler</color> ist aufgetreten! Bitte kontaktieren den Discord-Ticketsupport: [era_purple]discord.gg/eramc</color></color>",
         "en-US": "[grey]An unknown [red]error</color> occurred! Please contact the Discord ticket support: [era_purple]discord.gg/eramc</color></color>"
     },
+    "ERROR.unknown.msg": {
+        "de-DE": "[grey]Ein unbekannter [red]Fehler</color> ist aufgetreten! Bitte kontaktieren den Discord-Ticketsupport: [era_purple]discord.gg/eramc</color> ([pastel_red][msg]</color>)</color>",
+        "en-US": "[grey]An unknown [red]error</color> occurred! Please contact the Discord ticket support: [era_purple]discord.gg/eramc</color> ([pastel_red][msg]</color>)</color>"
+    },
     "GENERAL.you": {
         "de-DE": "Du",
         "en-US": "You"
