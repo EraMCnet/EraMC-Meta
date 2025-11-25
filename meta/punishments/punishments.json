@@ -246,6 +246,11 @@
         "durations": [
             {
                 "weight": 1,
+                "duration": "30d",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
                 "duration": "permanent",
                 "type": "ban"
             }
