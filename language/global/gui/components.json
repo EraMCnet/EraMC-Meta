@@ -4,56 +4,32 @@
         "en-US": "<i:false>[green]Next Page</color>"
     },
     "PAGE.next.disabled": {
-        "de-DE": "<i:false>[red]Nächste Seite</color>",
-        "en-US": "<i:false>[red]Next Page</color>"
+        "de-DE": "<i:false>[grey]Nächste Seite</color>",
+        "en-US": "<i:false>[grey]Next Page</color>"
     },
     "PAGE.previous.enabled": {
         "de-DE": "<i:false>[green]Vorherige Seite</color>",
         "en-US": "<i:false>[green]Previous Page</color>"
     },
     "PAGE.previous.disabled": {
-        "de-DE": "<i:false>[red]Vorherige Seite</color>",
-        "en-US": "<i:false>[red]Previous Page</color>"
-    },
-    "PAGE.first.enabled": {
-        "de-DE": "<i:false>[green]Erste Seite</color>",
-        "en-US": "<i:false>[green]First Page</color>"
-    },
-    "PAGE.first.disabled": {
-        "de-DE": "<i:false>[red]Erste Seite</color>",
-        "en-US": "<i:false>[red]First Page</color>"
-    },
-    "PAGE.last.enabled": {
-        "de-DE": "<i:false>[green]Letzte Seite</color>",
-        "en-US": "<i:false>[green]Last Page</color>"
-    },
-    "PAGE.last.disabled": {
-        "de-DE": "<i:false>[red]Letzte Seite</color>",
-        "en-US": "<i:false>[red]Last Page</color>"
+        "de-DE": "<i:false>[grey]Vorherige Seite</color>",
+        "en-US": "<i:false>[grey]Previous Page</color>"
     },
     "PAGE.info.lore": {
         "de-DE": "<br><i:false><!i>[era_purple][ROUNDDOT]</color> [grey]Seite [era_purple][page]</color> von [era_purple][lastpage]</color></color><br>",
         "en-US": "<br><i:false><!i>[era_purple][ROUNDDOT]</color> [grey]Page [era_purple][page]</color> of [era_purple][lastpage]</color></color><br>"
     },
     "PAGE.info.name": {
-        "de-DE": "<i:false>[era_purple]ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ</color>",
-        "en-US": "<i:false>[era_purple]ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ</color>"
+        "de-DE": "<i:false>[era_purple]Information</color>",
+        "en-US": "<i:false>[era_purple]Information</color>"
     },
     "GUI.back.name": {
-        "de-DE": "<!i>[red]ᴢᴜʀüᴄᴋ",
-        "en-US": "<!i>[red]ʙᴀᴄᴋ"
+        "de-DE": "<!i>[red]Zurück",
+        "en-US": "<!i>[red]Back"
     },
     "GUI.back.lore": {
         "de-DE": "<i:false><br><!i>[red][ARROW]</color> [grey]Klicke, um zurückzugehen<br>",
         "en-US": "<i:false><br><!i>[red][ARROW]</color> [grey]Click to go back<br>"
-    },
-    "GUI.page.previous": {
-        "de-DE": "<i:false>[era_purple]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
-        "en-US": "<i:false>[era_purple]ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ"
-    },
-    "GUI.page.next": {
-        "de-DE": "<i:false>[era_purple]ɴäᴄʜꜱᴛᴇ ꜱᴇɪᴛᴇ",
-        "en-US": "<i:false>[era_purple]ɴᴇxᴛ ᴘᴀɢᴇ"
     },
     "GUI.page.navigate.lore": {
         "de-DE": "<i:false><br><i:false>[era_purple][ROUNDDOT][grey] Klicke, zum navigieren<br><i:false>",
