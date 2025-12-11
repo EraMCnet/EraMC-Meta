@@ -32,8 +32,8 @@
         "en-US": "<i:false>[red]Last Page</color>"
     },
     "PAGE.info.lore": {
-        "de-DE": "<br><i:false><!i>[era_purple][ARROW]</color> [grey]Seite [era_purple][page]</color> von [era_purple][lastpage]</color></color><br>",
-        "en-US": "<br><i:false><!i>[era_purple][ARROW]</color> [grey]Page [era_purple][page]</color> of [era_purple][lastpage]</color></color><br>"
+        "de-DE": "<br><i:false><!i>[era_purple][ROUNDDOT]</color> [grey]Seite [era_purple][page]</color> von [era_purple][lastpage]</color></color><br>",
+        "en-US": "<br><i:false><!i>[era_purple][ROUNDDOT]</color> [grey]Page [era_purple][page]</color> of [era_purple][lastpage]</color></color><br>"
     },
     "PAGE.info.name": {
         "de-DE": "<i:false>[era_purple]ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ</color>",
