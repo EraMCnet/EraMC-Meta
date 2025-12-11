@@ -259,6 +259,14 @@
         "de-DE": "Nein",
         "en-US": "No"
     },
+    "GENERAL.enabled": {
+        "de-DE": "Aktiviert",
+        "en-US": "Enabled"
+    },
+    "GENERAL.disabled": {
+        "de-DE": "Deaktiviert",
+        "en-US": "Disabled"
+    },
     "GENERAL.command.discord": {
         "de-DE": "[grey]Trete unserem [era_purple]Discord-Server</color> bei:<br><br>[era_purple]<click:open_url:'https://discord.gg/eramc'><hover:show_text:'[era_purple]Klicke hier, um den Link in deinem Browser zu öffnen!</color>'>discord.gg/eramc</hover></click></color></color><br>",
         "en-US": "[grey]Join our [era_purple]Discord server:</color><br><br>[era_purple]<click:open_url:'https://discord.gg/eramc'><hover:show_text:'[era_purple]Click here to open the link in your browser!</color>'>discord.gg/eramc</hover></click></color></color><br>"
