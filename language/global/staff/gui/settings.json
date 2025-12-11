@@ -9,19 +9,27 @@
     },
     "SETTING.silentjoin.name": {
         "de-DE": "<!i>Stiller Beitritt",
-        "en-US": "<!i>Silent Join"
+        "en-US": "<!i>Silent join"
     },
     "SETTING.silentquit.name": {
         "de-DE": "<!i>Stilles Verlassen",
-        "en-US": "<!i>Silent Quit"
+        "en-US": "<!i>Silent quit"
     },
     "SETTING.autovanish.name": {
-        "de-DE": "<!i>Auto-Vanish",
-        "en-US": "<!i>Auto-Vanish"
+        "de-DE": "<!i>Auto Vanish beim Beitritt",
+        "en-US": "<!i>Auto vanish on join"
+    },
+    "SETTING.notifications.name": {
+        "de-DE": "<!i>Benachrichtigungen",
+        "en-US": "<!i>Notifications"
+    },
+    "SETTING.other.name": {
+        "de-DE": "<!i>Andere Einstellungen",
+        "en-US": "<!i>Other settings"
     },
     "SETTING.staffchat.name": {
         "de-DE": "<!i>Staffchat",
-        "en-US": "<!i>Staff Chat"
+        "en-US": "<!i>Staff chat"
     },
     "SETTING.notify.join.name": {
         "de-DE": "<!i>Join notify",
@@ -46,6 +54,14 @@
     "SETTING.notify.quit.lore": {
         "de-DE": "<br><!i>[BLUE][ARROW]</color> [grey]Klicke, um zu sehen wenn jemand das [era_purple]Netzwerk</color> verlässt!</color><br><br>[grey][state]</color>",
         "en-US": "<br><!i>[BLUE][ARROW]</color> [grey]Click to see when someone leaves the [era_purple]network</color>!</color><br><br>[grey][state]</color>"
+    },
+    "SETTING.notifications.lore": {
+        "de-DE": "<br><!i>[BLUE][ARROW]</color> [grey]Klicke, um Benachrichtigungen zu [green]aktivieren</color> oder zu [red]deaktivieren</color></color><br>",
+        "en-US": "<br><!i>[BLUE][ARROW]</color> [grey]Click to [green]enable</color> or [red]disable</color> notifications</color></color><br>"
+    },
+    "SETTING.other.lore": {
+        "de-DE": "<br><!i>[BLUE][ARROW]</color> [grey]Klicke, um andere Einstellungen zu [green]aktivieren</color> oder zu [red]deaktivieren</color></color><br>",
+        "en-US": "<br><!i>[BLUE][ARROW]</color> [grey]Click to [green]enable</color> or [red]disable</color> other settings</color></color><br>"
     },
     "SETTING.toggle.lore": {
         "de-DE": "<br><!i>[BLUE][ARROW]</color> [grey]Klicke, um diese [blue]Einstellung</color> zu [green]aktivieren</color> oder zu [red]deaktivieren</color></color><br><br>[grey][state]</color>",
