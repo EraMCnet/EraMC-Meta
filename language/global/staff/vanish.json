@@ -1,0 +1,14 @@
+{
+    "VANISH.enable": {
+        "de-DE": "[grey]Du bist jetzt [green]unsichtbar</color> für [yellow]andere Spieler</color>!</color>",
+        "en-US": "[grey]You are now [green]invisible</color> to [yellow]other players</color>!</color>"
+    },
+    "VANISH.disable": {
+        "de-DE": "[grey]Du bist jetzt [red]sichtbar</color> für [yellow]andere Spieler</color>!</color>",
+        "en-US": "[grey]You are now [red]visible</color> to [yellow]other players</color>!</color>"
+    },
+    "VANISH.bossbar": {
+        "de-DE": "<b>[grey]Du bist aktuell [green]unsichtbar</color></color>",
+        "en-US": "<b>[grey]You are currently [green]invisible</color></color>"
+    }
+}
