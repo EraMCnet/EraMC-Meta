@@ -114,5 +114,17 @@
     "HISTORY.kicks.gui.lore": {
         "de-DE": "<br><!i>[grey][darker_red][ROUNDDOT]</color> Case-ID: [darker_red][id]</color></color><br><!i>[grey][darker_red][ROUNDDOT]</color> Executor: [darker_red][executor]</color></color><br><!i>[grey][darker_red][ROUNDDOT]</color> Grund: [darker_red][reason]</color></color><br>",
         "en-US": "<br><!i>[grey][darker_red][ROUNDDOT]</color> Case-ID: [darker_red][id]</color></color><br><!i>[grey][darker_red][ROUNDDOT]</color> Executor: [darker_red][executor]</color></color><br><!i>[grey][darker_red][ROUNDDOT]</color> Reason: [darker_red][reason]</color></color><br>"
+    },
+    "ADMIN.command.deleteByExecutor": {
+        "de-DE": "[grey]Du hast [green]erfolgreich</color> alle [darker_red]Strafen</color> [red]gelöscht</color>, die von [era_purple][executor]</color> verhängt wurden!</color>",
+        "en-US": "[grey]You've [green]successfuly</color> [red]deleted</color> all [darker_red]punishments</color> that were issued by [era_purple][executor]</color>!</color>"
+    },
+    "ADMIN.command.clearAllPunishmentsOfUser": {
+        "de-DE": "[grey]Du hast [green]erfolgreich</color> alle [darker_red]Strafen</color> von [era_purple][player]</color> [red]gelöscht</color>!</color>",
+        "en-US": "[grey]You've [green]successfuly</color> [red]deleted</color> all [darker_red]punishments</color> of [era_purple][player]</color>!</color>"
+    },
+    "ADMIN.command.deleteById": {
+        "de-DE": "[grey]Du hast die Strafe von [era_purple][player]</color> mit der ID [darker_red]#[id]</color> [green]erfolgreich</color> [red]gelöscht</color>!</color>",
+        "en-US": "[grey]You've [green]successfuly</color> [red]deleted</color> the punishment of [era_purple][player]</color> with the ID [darker_red]#[id]</color>!</color>"
     }
 }
