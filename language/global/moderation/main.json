@@ -130,5 +130,29 @@
     "ADMIN.command.deleteById.error.not-found": {
         "de-DE": "[grey]Es wurde keine Strafe mit der ID [darker_red]#[id]</color> gefunden!</color>",
         "en-US": "[grey]No punishment with the ID [darker_red]#[id]</color> was found!</color>"
+    },
+    "GUI.nav.sort.name": {
+        "de-DE": "<!i>[blue]ꜱᴏʀᴛɪᴇʀᴇɴ</color>",
+        "en-US": "<!i>[blue]ꜱᴏʀᴛɪᴇʀᴇɴ</color>"
+    },
+    "GUI.nav.sort.all": {
+        "de-DE": "<i:false><br><i:false>[blue]> Alle<br><i:false>[grey]  Nur aktive Bestrafungen<br><i:false>[grey]  Nur abgelaufene Bestrafungen<br><i:false>[grey]  Neuste zuerst<br><i:false>[grey]  Älteste zuerst<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[blue]> All<br><i:false>[grey]  Only active punishments<br><i:false>[grey]  Only expired punishments<br><i:false>[grey]  Newest first<br><i:false>[grey]  Oldest first<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "GUI.nav.sort.active": {
+        "de-DE": "<i:false><br><i:false>[grey]  Alle<br><i:false>[blue]> Nur aktive Bestrafungen<br><i:false>[grey]  Nur abgelaufene Bestrafungen<br><i:false>[grey]  Neuste zuerst<br><i:false>[grey]  Älteste zuerst<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  All<br><i:false>[blue]> Only active punishments<br><i:false>[grey]  Only expired punishments<br><i:false>[grey]  Newest first<br><i:false>[grey]  Oldest first<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "GUI.nav.sort.expired": {
+        "de-DE": "<i:false><br><i:false>[grey]  Alle<br><i:false>[grey]  Nur aktive Bestrafungen<br><i:false>[blue]> Nur abgelaufene Bestrafungen<br><i:false>[grey]  Neuste zuerst<br><i:false>[grey]  Älteste zuerst<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  All<br><i:false>[grey]  Only active punishments<br><i:false>[blue]> Only expired punishments<br><i:false>[grey]  Newest first<br><i:false>[grey]  Oldest first<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "GUI.nav.sort.newest": {
+        "de-DE": "<i:false><br><i:false>[grey]  Alle<br><i:false>[grey]  Nur aktive Bestrafungen<br><i:false>[grey]  Nur abgelaufene Bestrafungen<br><i:false>[blue]> Neuste zuerst<br><i:false>[grey]  Älteste zuerst<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  All<br><i:false>[grey]  Only active punishments<br><i:false>[grey]  Only expired punishments<br><i:false>[blue]> Newest first<br><i:false>[grey]  Oldest first<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "GUI.nav.sort.oldest": {
+        "de-DE": "<i:false><br><i:false>[grey]  Alle<br><i:false>[grey]  Nur aktive Bestrafungen<br><i:false>[grey]  Nur abgelaufene Bestrafungen<br><i:false>[grey]  Neuste zuerst<br><i:false>[blue]> Älteste zuerst<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  All<br><i:false>[grey]  Only active punishments<br><i:false>[grey]  Only expired punishments<br><i:false>[grey]  Newest first<br><i:false>[blue]> Oldest first<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     }
 }
