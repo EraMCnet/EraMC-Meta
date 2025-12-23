@@ -13,7 +13,15 @@
     },
     "ERROR.connect.vpn": {
         "en-US": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>VPN DETECTED!</b></color><br><br>[grey]It seems like you are using a [darker_red]VPN</color> to hide your IP adress. This is [darker_red]not allowed</color> on our server.</color><br><br>[grey]Please contact our [era_purple]support team</color> if you think this is a [darker_red]mistake.</color><br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u></color>",
-        "de-DE": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>VPN DETECTED!</b></color><br><br>[grey]Es sieht so aus als würdest du ein [darker_red]VPN</color> verwendet um deine IP-Adresse zu verstecken. Das ist auf diesem Server [darker_red]nicht erlaubt.</color></color><br><br>[grey]Bitte kontaktiere unser [era_purple]Supportteam</color> wenn du denkst dass das ein [darker_red]Fehler</color> ist.<br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u></color>"
+        "de-DE": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>VPN ERKANNT!</b></color><br><br>[grey]Es sieht so aus als würdest du ein [darker_red]VPN</color> verwendet um deine IP-Adresse zu verstecken. Das ist auf diesem Server [darker_red]nicht erlaubt.</color></color><br><br>[grey]Bitte kontaktiere unser [era_purple]Supportteam</color> wenn du denkst dass das ein [darker_red]Fehler</color> ist.<br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u></color>"
+    },
+    "ERROR.connect.ip-blacklisted": {
+        "en-US": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>YOUR IP IS BLACKLISTED!</b></color><br><br>[grey]It seems like you're ip is [darker_red]BLACKLISTED</color> on this server.</color><br><br>[grey]Please contact our [era_purple]support team</color> if you think this is a [darker_red]mistake.</color><br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u></color>",
+        "de-DE": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>DEINE IP IST GEBLACKLISTED!</b></color><br><br>[grey]Es sieht so aus als ob deine IP-Adresse auf diesem Server [darker_red]geblacklisted</color> ist.</color><br><br>[grey]Bitte kontaktiere unser [era_purple]Supportteam</color> wenn du denkst dass das ein [darker_red]Fehler</color> ist.<br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u></color>"
+    },
+    "ERROR.connect.asn-blacklisted": {
+        "en-US": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>YOUR ASN IS BLACKLISTED!</b></color><br><br>[grey]It seems like you're asn is [darker_red]BLACKLISTED</color> on this server.</color><br><br>[grey]Please contact our [era_purple]support team</color> if you think this is a [darker_red]mistake.</color><br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u></color>",
+        "de-DE": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>DEIN ASN IST GEBLACKLISTED!</b></color><br><br>[grey]Es sieht so aus als ob der ASN ausgehend von deiner IP-Adresse auf diesem Server [darker_red]geblacklisted</color> ist.</color><br><br>[grey]Bitte kontaktiere unser [era_purple]Supportteam</color> wenn du denkst dass das ein [darker_red]Fehler</color> ist.<br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u></color>"
     },
     "ERROR.command.offend.perms.further-action": {
         "en-US": "[grey]It seems like you [red]can't take further moderative action</color> on [era_purple]this player!</color> Please ask a [yellow]higher ranked staff member</color> to [era_purple]further offend this player!</color></color>",
