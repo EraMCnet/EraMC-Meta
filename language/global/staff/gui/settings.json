@@ -36,35 +36,35 @@
         "en-US": "<!i>Join notify"
     },
     "SETTING.notify.join.lore": {
-        "de-DE": "<br><!i>[BLUE][ARROW]</color> [grey]Klicke, um zu sehen wenn jemand das [era_purple]Netzwerk</color> betritt!</color><br><br>[grey][state]</color>",
-        "en-US": "<br><!i>[BLUE][ARROW]</color> [grey]Click to see when someone joins the [era_purple]network</color>!</color><br><br>[grey][state]</color>"
+        "de-DE": "<br><!i>[blue][ARROW]</color> [grey]Klicke, um zu sehen wenn jemand das [era_purple]Netzwerk</color> betritt!</color><br><br>[grey][state]</color>",
+        "en-US": "<br><!i>[blue][ARROW]</color> [grey]Click to see when someone joins the [era_purple]network</color>!</color><br><br>[grey][state]</color>"
     },
     "SETTING.notify.serverswitch.name": {
         "de-DE": "<!i>Server switch notify",
         "en-US": "<!i>Server switch notify"
     },
     "SETTING.notify.serverswitch.lore": {
-        "de-DE": "<br><!i>[BLUE][ARROW]</color> [grey]Klicke, um zu sehen wenn jemand auf einen anderen [era_purple]Server</color> geht!</color><br><br>[grey][state]</color>",
-        "en-US": "<br><!i>[BLUE][ARROW]</color> [grey]Click to see when someone switches to another [era_purple]server</color>!</color><br><br>[grey][state]</color>"
+        "de-DE": "<br><!i>[blue][ARROW]</color> [grey]Klicke, um zu sehen wenn jemand auf einen anderen [era_purple]Server</color> geht!</color><br><br>[grey][state]</color>",
+        "en-US": "<br><!i>[blue][ARROW]</color> [grey]Click to see when someone switches to another [era_purple]server</color>!</color><br><br>[grey][state]</color>"
     },
     "SETTING.notify.quit.name": {
         "de-DE": "<!i>Quit notify",
         "en-US": "<!i>Quit notify"
     },
     "SETTING.notify.quit.lore": {
-        "de-DE": "<br><!i>[BLUE][ARROW]</color> [grey]Klicke, um zu sehen wenn jemand das [era_purple]Netzwerk</color> verlässt!</color><br><br>[grey][state]</color>",
-        "en-US": "<br><!i>[BLUE][ARROW]</color> [grey]Click to see when someone leaves the [era_purple]network</color>!</color><br><br>[grey][state]</color>"
+        "de-DE": "<br><!i>[blue][ARROW]</color> [grey]Klicke, um zu sehen wenn jemand das [era_purple]Netzwerk</color> verlässt!</color><br><br>[grey][state]</color>",
+        "en-US": "<br><!i>[blue][ARROW]</color> [grey]Click to see when someone leaves the [era_purple]network</color>!</color><br><br>[grey][state]</color>"
     },
     "SETTING.notifications.lore": {
-        "de-DE": "<br><!i>[BLUE][ARROW]</color> [grey]Klicke, um Benachrichtigungen zu [green]aktivieren</color> oder zu [red]deaktivieren</color></color><br>",
-        "en-US": "<br><!i>[BLUE][ARROW]</color> [grey]Click to [green]enable</color> or [red]disable</color> notifications</color></color><br>"
+        "de-DE": "<br><!i>[blue][ARROW]</color> [grey]Klicke, um Benachrichtigungen zu [green]aktivieren</color> oder zu [red]deaktivieren</color></color><br>",
+        "en-US": "<br><!i>[blue][ARROW]</color> [grey]Click to [green]enable</color> or [red]disable</color> notifications</color></color><br>"
     },
     "SETTING.other.lore": {
-        "de-DE": "<br><!i>[BLUE][ARROW]</color> [grey]Klicke, um andere Einstellungen zu [green]aktivieren</color> oder zu [red]deaktivieren</color></color><br>",
-        "en-US": "<br><!i>[BLUE][ARROW]</color> [grey]Click to [green]enable</color> or [red]disable</color> other settings</color></color><br>"
+        "de-DE": "<br><!i>[blue][ARROW]</color> [grey]Klicke, um andere Einstellungen zu [green]aktivieren</color> oder zu [red]deaktivieren</color></color><br>",
+        "en-US": "<br><!i>[blue][ARROW]</color> [grey]Click to [green]enable</color> or [red]disable</color> other settings</color></color><br>"
     },
     "SETTING.toggle.lore": {
-        "de-DE": "<br><!i>[BLUE][ARROW]</color> [grey]Klicke, um diese [blue]Einstellung</color> zu [green]aktivieren</color> oder zu [red]deaktivieren</color></color><br><br>[grey][state]</color>",
-        "en-US": "<br><!i>[BLUE][ARROW]</color> [grey]Click to [green]enable</color> or [red]disable</color> this [blue]setting</color></color><br><br>[grey][state]</color>"
+        "de-DE": "<br><!i>[blue][ARROW]</color> [grey]Klicke, um diese [blue]Einstellung</color> zu [green]aktivieren</color> oder zu [red]deaktivieren</color></color><br><br>[grey][state]</color>",
+        "en-US": "<br><!i>[blue][ARROW]</color> [grey]Click to [green]enable</color> or [red]disable</color> this [blue]setting</color></color><br><br>[grey][state]</color>"
     }
 }
