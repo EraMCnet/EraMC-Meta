@@ -56,12 +56,12 @@
         "en-US": "<br><!i>[blue][ARROW]</color> [grey]Click to see when someone leaves the [era_purple]network</color>!</color><br><br>[grey][state]</color>"
     },
     "SETTING.notifications.lore": {
-        "de-DE": "<br><!i>[blue][ARROW]</color> [grey]Klicke, um Benachrichtigungen zu [green]aktivieren</color> oder zu [red]deaktivieren</color></color><br>",
-        "en-US": "<br><!i>[blue][ARROW]</color> [grey]Click to [green]enable</color> or [red]disable</color> notifications</color></color><br>"
+        "de-DE": "<br><!i>[blue][ARROW]</color> [grey]Klicke, um Benachrichtigungen zu [green]aktivieren</color> oder zu [red]deaktivieren</color><br>",
+        "en-US": "<br><!i>[blue][ARROW]</color> [grey]Click to [green]enable</color> or [red]disable</color> notifications</color><br>"
     },
     "SETTING.other.lore": {
-        "de-DE": "<br><!i>[blue][ARROW]</color> [grey]Klicke, um andere Einstellungen zu [green]aktivieren</color> oder zu [red]deaktivieren</color></color><br>",
-        "en-US": "<br><!i>[blue][ARROW]</color> [grey]Click to [green]enable</color> or [red]disable</color> other settings</color></color><br>"
+        "de-DE": "<br><!i>[blue][ARROW]</color> [grey]Klicke, um andere Einstellungen zu [green]aktivieren</color> oder zu [red]deaktivieren</color><br>",
+        "en-US": "<br><!i>[blue][ARROW]</color> [grey]Click to [green]enable</color> or [red]disable</color> other settings</color><br>"
     },
     "SETTING.toggle.lore": {
         "de-DE": "<br><!i>[blue][ARROW]</color> [grey]Klicke, um diese [blue]Einstellung</color> zu [green]aktivieren</color> oder zu [red]deaktivieren</color></color><br><br>[grey][state]</color>",
