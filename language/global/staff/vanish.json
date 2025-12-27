@@ -8,7 +8,7 @@
         "en-US": "[grey]You are now [red]visible</color> to [yellow]other players</color>!</color>"
     },
     "VANISH.bossbar": {
-        "de-DE": "<b>[grey]Du bist aktuell [green]unsichtbar</color></color>",
-        "en-US": "<b>[grey]You are currently [green]invisible</color></color>"
+        "de-DE": "[grey]Du bist aktuell [green]unsichtbar</color></color>",
+        "en-US": "[grey]You are currently [green]invisible</color></color>"
     }
 }
