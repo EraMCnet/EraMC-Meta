@@ -1,7 +1,7 @@
 {
     "GUI.title": {
-        "de-DE": "<i:false>[era_purple]Lobby-Selector</color>",
-        "en-US": "<i:false>[era_purple]Lobby-Selector</color>"
+        "de-DE": "<i:false>Lobby-Selector</color>",
+        "en-US": "<i:false>Lobby-Selector</color>"
     },
     "ITEM.lobby.lore.here": {
         "de-DE": "<i:false>[grey]Du befindest dich aktuell auf [era_purple]dieser</color> Lobby!</color>",
