@@ -5,7 +5,7 @@
     },
     "ITEM.lobby.lore.here": {
         "de-DE": "<br><i:false>[grey]Du befindest dich aktuell auf [era_purple]dieser</color> Lobby!</color><br>",
-        "en-US": "<br><i:false>[grey]You are currently connectet to [era_purple]this</color> lobby!</color><br>"
+        "en-US": "<br><i:false>[grey]You are currently connected to [era_purple]this</color> lobby!</color><br>"
     },
     "ITEM.lobby.lore.connect": {
         "de-DE": "<br><i:false>[grey]<br><i:false>[grey]Aktuell sind [era_purple][players] Spieler</color> mit [era_purple][lobby]</color> verbunden<br><br><i:false>[grey][era_purple][Klicke, um dich zu verbinden]</color></color>",
