@@ -8,7 +8,7 @@
         "en-US": "<br><i:false>[grey]You are currently connected to [era_purple]this</color> lobby!</color><br>"
     },
     "ITEM.lobby.lore.connect": {
-        "de-DE": "<br><i:false>[grey]<br><i:false>[grey]Aktuell sind [era_purple][players] Spieler</color> mit [era_purple][lobby]</color> verbunden<br><br><i:false>[grey][era_purple][Klicke, um dich zu verbinden]</color></color>",
-        "en-US": "<br><i:false>[grey]<br><i:false>[grey]Currently [era_purple][players] players</color> are connected to [era_purple][lobby]</color><br><br><i:false>[grey][era_purple][Click to connect]</color></color>"
+        "de-DE": "<br><i:false>[grey]<i:false>[grey]Aktuell sind [era_purple][players] Spieler</color> mit [era_purple][lobby]</color> verbunden<br><br><i:false>[grey][era_purple][Klicke, um dich zu verbinden]</color></color>",
+        "en-US": "<br><i:false>[grey]<i:false>[grey]Currently [era_purple][players] players</color> are connected to [era_purple][lobby]</color><br><br><i:false>[grey][era_purple][Click to connect]</color></color>"
     }
 }
