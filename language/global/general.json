@@ -24,11 +24,11 @@
         "en-US": "[grey]The number you specified is [red]invalid!</color></color>"
     },
     "ERROR.unknown": {
-        "de-DE": "[grey]Ein unbekannter [red]Fehler</color> ist aufgetreten! Bitte kontaktieren den Discord-Ticketsupport: [era_purple]discord.gg/eramc</color></color>",
+        "de-DE": "[grey]Ein unbekannter [red]Fehler</color> ist aufgetreten! Bitte kontaktiere den Discord-Ticketsupport: [era_purple]discord.gg/eramc</color></color>",
         "en-US": "[grey]An unknown [red]error</color> occurred! Please contact the Discord ticket support: [era_purple]discord.gg/eramc</color></color>"
     },
     "ERROR.unknown.msg": {
-        "de-DE": "[grey]Ein unbekannter [red]Fehler</color> ist aufgetreten! Bitte kontaktieren den Discord-Ticketsupport: [era_purple]discord.gg/eramc</color> ([pastel_red][msg]</color>)</color>",
+        "de-DE": "[grey]Ein unbekannter [red]Fehler</color> ist aufgetreten! Bitte kontaktiere den Discord-Ticketsupport: [era_purple]discord.gg/eramc</color> ([pastel_red][msg]</color>)</color>",
         "en-US": "[grey]An unknown [red]error</color> occurred! Please contact the Discord ticket support: [era_purple]discord.gg/eramc</color> ([pastel_red][msg]</color>)</color>"
     },
     "GENERAL.you": {
@@ -38,6 +38,10 @@
     "GENERAL.settings": {
         "de-DE": "Einstellungen",
         "en-US": "Settings"
+    },
+    "GENERAL.profile": {
+        "de-DE": "Profil",
+        "en-US": "Profile"
     },
     "GENERAL.unknown": {
         "de-DE": "Unbekannt",
