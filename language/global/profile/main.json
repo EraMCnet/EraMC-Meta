@@ -1,5 +1,5 @@
 {
-    "ERROR.profile.load.target": {
+    "ERROR.profile.load.other": {
         "de-DE": "[grey]Es ist ein [red]Fehler</color> beim Laden des Profils von [era_purple][target]</color> aufgetreten. Bitte versuche es später erneut, oder öffne ein Ticket auf unserem Discord Server ([blurple]/discord</color>)!</color>",
         "en-US": "[grey]An [red]error</color> occurred while loading the profile of [era_purple][target]</color>. Please try again later, or open a ticket on our Discord server ([blurple]/discord</color>)!</color>"
     },
