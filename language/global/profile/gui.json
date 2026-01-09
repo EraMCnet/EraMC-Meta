@@ -12,8 +12,8 @@
         "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to view this player's [blue]MCTiers statistics</color>.</color><br>"
     },
     "MCTIERS.gamemode.lore": {
-        "de-DE": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> Aktueller Rang: [blue][rank]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Peak Rang: [blue][peak_rank]</color></color><br>",
-        "en-US": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> Current Rank: [blue][rank]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Peak Rank: [blue][peak_rank]</color></color><br>"
+        "de-DE": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> Aktueller Rang: [blue][rank]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Peak Rang: [blue][peak_rank]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Erhalten: [blue][attained]</color></color><br>",
+        "en-US": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> Current Rank: [blue][rank]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Peak Rank: [blue][peak_rank]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Attained: [blue][attained]</color></color><br>"
     },
     "MCTIIERS.profile.lore": {
         "de-DE": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> Discord-ID: [blue][discordid]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Region: [blue][region]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Punkte: [blue][points]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Global: [blue]#[overall]</color></color><br>",
