@@ -6,5 +6,9 @@
     "ERROR.profile.load.self": {
         "de-DE": "[grey]Es ist ein [red]Fehler</color> beim Laden deines Profils aufgetreten. Bitte versuche es später erneut, oder öffne ein Ticket auf unserem Discord Server ([blurple]/discord</color>)!</color>",
         "en-US": "[grey]An [red]error</color> occurred while loading your profile. Please try again later, or open a ticket on our Discord server ([blurple]/discord</color>)!</color>"
+    },
+    "ERROR.profile.private": {
+        "de-DE": "[grey]Das Profil von [era_purple][target]</color> ist [red]privat</color>. Du kannst dieses Profil nicht ansehen.</color>",
+        "en-US": "[grey]The profile of [era_purple][target]</color> is [red]private</color>. You cannot view this profile.</color>"
     }
 }
