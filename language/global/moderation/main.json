@@ -12,8 +12,16 @@
         "de-DE": "<br>[darker_red]<b>DU WURDEST GEMUTET!</b></color><br><br>[darker_red]Case ID:</color> [grey]#[id]</color><br>[era_purple]Moderator:</color> [grey][executor]</color><br>[era_purple]Grund:</color> [grey][reason]</color><br>[era_purple]Dauer:</color> [grey][duration]</color><br>"
     },
     "ERROR.connect.vpn": {
-        "en-US": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>VPN DETECTED!</b></color><br><br>[grey]It seems like you are using a [darker_red]VPN</color> to hide your IP adress. This is [darker_red]not allowed</color> on our server.</color><br><br>[grey]Please contact our [era_purple]support team</color> if you think this is a [darker_red]mistake.</color><br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u></color>",
-        "de-DE": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>VPN DETECTED!</b></color><br><br>[grey]Es sieht so aus als würdest du ein [darker_red]VPN</color> verwendet um deine IP-Adresse zu verstecken. Das ist auf diesem Server [darker_red]nicht erlaubt.</color></color><br><br>[grey]Bitte kontaktiere unser [era_purple]Supportteam</color> wenn du denkst dass das ein [darker_red]Fehler</color> ist.<br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u></color>"
+        "en-US": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>VPN DETECTED!</b></color><br><br>[grey]It seems like you are using a [darker_red]VPN</color> to hide your IP adress. This is [darker_red]not allowed</color> on our server.</color><br><br>[grey]Please contact our [era_purple]support team</color> if you think this is a [darker_red]mistake.</color><br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u><br>[IP: [era_purple][ip]</color>, ASN: [era_purple][asn]</color>, ISP: [era_purple][isp]</color>, Flags: [era_purple][flags]</color>]</color>",
+        "de-DE": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>VPN ERKANNT!</b></color><br><br>[grey]Es sieht so aus als würdest du ein [darker_red]VPN</color> verwendet um deine IP-Adresse zu verstecken. Das ist auf diesem Server [darker_red]nicht erlaubt.</color></color><br><br>[grey]Bitte kontaktiere unser [era_purple]Supportteam</color> wenn du denkst dass das ein [darker_red]Fehler</color> ist.<br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u><br>[IP: [era_purple][ip]</color>, ASN: [era_purple][asn]</color>, ISP: [era_purple][isp]</color>, Flags: [era_purple][flags]</color>]</color>"
+    },
+    "ERROR.connect.ip-blacklisted": {
+        "en-US": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>YOUR IP IS BLACKLISTED!</b></color><br><br>[grey]It seems like you're ip is [darker_red]BLACKLISTED</color> on this server.</color><br><br>[grey]Please contact our [era_purple]support team</color> if you think this is a [darker_red]mistake.</color><br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u><br>[IP: [era_purple][ip]</color>, ASN: [era_purple][asn]</color>, ISP: [era_purple][isp]</color>]</color>",
+        "de-DE": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>DEINE IP IST GEBLACKLISTED!</b></color><br><br>[grey]Es sieht so aus als ob deine IP-Adresse auf diesem Server [darker_red]geblacklisted</color> ist.</color><br><br>[grey]Bitte kontaktiere unser [era_purple]Supportteam</color> wenn du denkst dass das ein [darker_red]Fehler</color> ist.<br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u><br>[IP: [era_purple][ip]</color>, ASN: [era_purple][asn]</color>, ISP: [era_purple][isp]</color>]</color>"
+    },
+    "ERROR.connect.asn-blacklisted": {
+        "en-US": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>YOUR ASN IS BLACKLISTED!</b></color><br><br>[grey]It seems like you're asn is [darker_red]BLACKLISTED</color> on this server.</color><br><br>[grey]Please contact our [era_purple]support team</color> if you think this is a [darker_red]mistake.</color><br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u><br>[IP: [era_purple][ip]</color>, ASN: [era_purple][asn]</color>, ISP: [era_purple][isp]</color>]</color>",
+        "de-DE": "[era_purple]ᴇʀᴀᴍᴄ</color><br>[darker_red]<b>DEIN ASN IST GEBLACKLISTED!</b></color><br><br>[grey]Es sieht so aus als ob der ASN ausgehend von deiner IP-Adresse auf diesem Server [darker_red]geblacklisted</color> ist.</color><br><br>[grey]Bitte kontaktiere unser [era_purple]Supportteam</color> wenn du denkst dass das ein [darker_red]Fehler</color> ist.<br><br><u>[era_purple]ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴇʀᴀᴍᴄ</color></u><br>[IP: [era_purple][ip]</color>, ASN: [era_purple][asn]</color>, ISP: [era_purple][isp]</color>]</color>"
     },
     "ERROR.command.offend.perms.further-action": {
         "en-US": "[grey]It seems like you [red]can't take further moderative action</color> on [era_purple]this player!</color> Please ask a [yellow]higher ranked staff member</color> to [era_purple]further offend this player!</color></color>",
@@ -114,5 +122,45 @@
     "HISTORY.kicks.gui.lore": {
         "de-DE": "<br><!i>[grey][darker_red][ROUNDDOT]</color> Case-ID: [darker_red][id]</color></color><br><!i>[grey][darker_red][ROUNDDOT]</color> Executor: [darker_red][executor]</color></color><br><!i>[grey][darker_red][ROUNDDOT]</color> Grund: [darker_red][reason]</color></color><br>",
         "en-US": "<br><!i>[grey][darker_red][ROUNDDOT]</color> Case-ID: [darker_red][id]</color></color><br><!i>[grey][darker_red][ROUNDDOT]</color> Executor: [darker_red][executor]</color></color><br><!i>[grey][darker_red][ROUNDDOT]</color> Reason: [darker_red][reason]</color></color><br>"
+    },
+    "ADMIN.command.deleteByExecutor": {
+        "de-DE": "[grey]Du hast [green]erfolgreich</color> alle [darker_red]Strafen</color> [red]gelöscht</color>, die von [era_purple][executor]</color> verhängt wurden!</color>",
+        "en-US": "[grey]You've [green]successfuly</color> [red]deleted</color> all [darker_red]punishments</color> that were issued by [era_purple][executor]</color>!</color>"
+    },
+    "ADMIN.command.clearAllPunishmentsOfUser": {
+        "de-DE": "[grey]Du hast [green]erfolgreich</color> alle [darker_red]Strafen</color> von [era_purple][player]</color> [red]gelöscht</color>!</color>",
+        "en-US": "[grey]You've [green]successfuly</color> [red]deleted</color> all [darker_red]punishments</color> of [era_purple][player]</color>!</color>"
+    },
+    "ADMIN.command.deleteById": {
+        "de-DE": "[grey]Du hast die Strafe von [era_purple][player]</color> mit der ID [darker_red]#[id]</color> [green]erfolgreich</color> [red]gelöscht</color>!</color>",
+        "en-US": "[grey]You've [green]successfuly</color> [red]deleted</color> the punishment of [era_purple][player]</color> with the ID [darker_red]#[id]</color>!</color>"
+    },
+    "ADMIN.command.deleteById.error.not-found": {
+        "de-DE": "[grey]Es wurde keine Strafe mit der ID [darker_red]#[id]</color> gefunden!</color>",
+        "en-US": "[grey]No punishment with the ID [darker_red]#[id]</color> was found!</color>"
+    },
+    "GUI.nav.sort.name": {
+        "de-DE": "<!i>[blue]ꜱᴏʀᴛɪᴇʀᴇɴ</color>",
+        "en-US": "<!i>[blue]ꜱᴏʀᴛɪᴇʀᴇɴ</color>"
+    },
+    "GUI.nav.sort.all": {
+        "de-DE": "<i:false><br><i:false>[blue]> Alle<br><i:false>[grey]  Nur aktive Bestrafungen<br><i:false>[grey]  Nur abgelaufene Bestrafungen<br><i:false>[grey]  Neuste zuerst<br><i:false>[grey]  Älteste zuerst<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[blue]> All<br><i:false>[grey]  Only active punishments<br><i:false>[grey]  Only expired punishments<br><i:false>[grey]  Newest first<br><i:false>[grey]  Oldest first<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "GUI.nav.sort.active": {
+        "de-DE": "<i:false><br><i:false>[grey]  Alle<br><i:false>[blue]> Nur aktive Bestrafungen<br><i:false>[grey]  Nur abgelaufene Bestrafungen<br><i:false>[grey]  Neuste zuerst<br><i:false>[grey]  Älteste zuerst<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  All<br><i:false>[blue]> Only active punishments<br><i:false>[grey]  Only expired punishments<br><i:false>[grey]  Newest first<br><i:false>[grey]  Oldest first<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "GUI.nav.sort.expired": {
+        "de-DE": "<i:false><br><i:false>[grey]  Alle<br><i:false>[grey]  Nur aktive Bestrafungen<br><i:false>[blue]> Nur abgelaufene Bestrafungen<br><i:false>[grey]  Neuste zuerst<br><i:false>[grey]  Älteste zuerst<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  All<br><i:false>[grey]  Only active punishments<br><i:false>[blue]> Only expired punishments<br><i:false>[grey]  Newest first<br><i:false>[grey]  Oldest first<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "GUI.nav.sort.newest": {
+        "de-DE": "<i:false><br><i:false>[grey]  Alle<br><i:false>[grey]  Nur aktive Bestrafungen<br><i:false>[grey]  Nur abgelaufene Bestrafungen<br><i:false>[blue]> Neuste zuerst<br><i:false>[grey]  Älteste zuerst<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  All<br><i:false>[grey]  Only active punishments<br><i:false>[grey]  Only expired punishments<br><i:false>[blue]> Newest first<br><i:false>[grey]  Oldest first<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "GUI.nav.sort.oldest": {
+        "de-DE": "<i:false><br><i:false>[grey]  Alle<br><i:false>[grey]  Nur aktive Bestrafungen<br><i:false>[grey]  Nur abgelaufene Bestrafungen<br><i:false>[grey]  Neuste zuerst<br><i:false>[blue]> Älteste zuerst<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  All<br><i:false>[grey]  Only active punishments<br><i:false>[grey]  Only expired punishments<br><i:false>[grey]  Newest first<br><i:false>[blue]> Oldest first<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     }
 }

@@ -1,2 +1,1 @@
-# Language
-Meta files for the EraMC.net server
+![image](https://cdn.bypixel.dev/raw/lq2eVE.png)
