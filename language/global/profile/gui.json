@@ -8,7 +8,8 @@
         "en-US": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> First seen: [blue][first_seen]</color><br><!i>[grey][blue][ROUNDDOT]</color> Last seen: [blue][last_seen]</color><br><!i>[grey][blue][ROUNDDOT]</color> Last server: [blue][last_server]</color><br><!i>[grey][blue][ROUNDDOT]</color> Favorite Game Mode: [blue][favorite_game_mode]</color><br><!i>[grey][blue][ROUNDDOT]</color> Playtime: [blue][playtime]</color><br><!i>[grey][blue][ROUNDDOT]</color> Level: [blue][level]</color><br><!i>[grey][blue][ROUNDDOT]</color> Description: [blue][description]</color><br>"
     },
     "MAIN.mctiers.lore": {
-        "de-DE": ""
+        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um die [blue]MCTiers Statistiken</color> von diesem Spieler zu sehen.</color><br>",
+        "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to view this player's [blue]MCTiers statistics</color>.</color><br>"
     },
     "MCTIERS.gamemode.lore": {
         "de-DE": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> Aktueller Rang: [blue][rank]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Peak Rang: [blue][peak_rank]</color></color><br>",
