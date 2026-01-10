@@ -10,5 +10,9 @@
     "ERROR.profile.private": {
         "de-DE": "[grey]Das Profil von [era_purple][target]</color> ist [red]privat</color>. Du kannst dieses Profil nicht ansehen.</color>",
         "en-US": "[grey]The profile of [era_purple][target]</color> is [red]private</color>. You cannot view this profile.</color>"
+    },
+    "SUCCESS.profile.report": {
+        "de-DE": "[grey]Du hast das Profil von [era_purple][target]</color> erfolgreich [darker_red]gemeldet</color>. Unser Team wird dies so schnell wie möglich überprüfen.</color>",
+        "en-US": "[grey]You have successfully [darker_red]reported</color> the profile of [era_purple][target]</color>. Our team will review this as soon as possible.</color>"
     }
 }
