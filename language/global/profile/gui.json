@@ -40,8 +40,8 @@
         "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to [red]unfollow</color> this player.</color><br>"
     },
     "MAIN.report.name": {
-        "de-DE": "<!i>[darker_red]Spieler melden</color>",
-        "en-US": "<!i>[darker_red]Report Player</color>"
+        "de-DE": "<!i>[darker_red]Profil melden</color>",
+        "en-US": "<!i>[darker_red]Report profile</color>"
     },
     "MAIN.report.lore": {
         "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um dieses Profil zu [darker_red]melden.</color></color><br>",
