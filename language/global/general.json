@@ -35,6 +35,10 @@
         "de-DE": "Du",
         "en-US": "You"
     },
+    "GENERAL.report": {
+        "de-DE": "Melden",
+        "en-US": "Report"
+    },
     "GENERAL.settings": {
         "de-DE": "Einstellungen",
         "en-US": "Settings"

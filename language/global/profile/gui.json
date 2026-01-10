@@ -66,5 +66,9 @@
     "REPORT.confirm.lore": {
         "de-DE": "<i:false><br><!i>[green][ARROW]</color> [grey]Willst du das Profil von [era_purple][target]</color> wirklich melden?</color><br>",
         "en-US": "<i:false><br><!i>[green][ARROW]</color> [grey]Are you sure you want to report the profile of [era_purple][target]</color>?</color><br>"
+    },
+    "REPORT.info.name": {
+        "de-DE": "<!i>[red]Bist du sicher?</color>",
+        "en-US": "<!i>[red]Are you sure?</color>"
     }
 }
