@@ -34,5 +34,13 @@
     "GUI.page.navigate.lore": {
         "de-DE": "<i:false><br><i:false>[era_purple][ROUNDDOT][grey] Klicke, zum navigieren<br><i:false>",
         "en-US": "<i:false><br><i:false>[era_purple][ROUNDDOT][grey] Click to navigate<br><i:false>"
+    },
+    "GUI.cancel.lore": {
+        "de-DE": "<i:false><br><!i>[red][ARROW]</color> [grey]Klicke, um abzubrechen<br>",
+        "en-US": "<i:false><br><!i>[red][ARROW]</color> [grey]Click to cancel<br>"
+    },
+    "GUI.confirm.lore": {
+        "de-DE": "<i:false><br><!i>[green][ARROW]</color> [grey]Klicke, um zu bestätigen<br>",
+        "en-US": "<i:false><br><!i>[green][ARROW]</color> [grey]Click to confirm<br>"
     }
 }
