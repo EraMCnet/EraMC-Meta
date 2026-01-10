@@ -7,6 +7,46 @@
         "de-DE": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> Zuerst gesehen: [blue][first_seen]</color><br><!i>[grey][blue][ROUNDDOT]</color> Zuletzt gesehen: [blue][last_seen]</color><br><!i>[grey][blue][ROUNDDOT]</color> Letzter Server: [blue][last_server]</color><br><!i>[grey][blue][ROUNDDOT]</color> Lieblings Servergruppe: [blue][favorite_game_mode]</color><br><!i>[grey][blue][ROUNDDOT]</color> Spielzeit: [blue][playtime]</color><br><!i>[grey][blue][ROUNDDOT]</color> Level: [blue][level]</color><br><!i>[grey][blue][ROUNDDOT]</color> Beschreibung: [blue][description]</color><br>",
         "en-US": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> First seen: [blue][first_seen]</color><br><!i>[grey][blue][ROUNDDOT]</color> Last seen: [blue][last_seen]</color><br><!i>[grey][blue][ROUNDDOT]</color> Last server: [blue][last_server]</color><br><!i>[grey][blue][ROUNDDOT]</color> Favorite servergroup: [blue][favorite_game_mode]</color><br><!i>[grey][blue][ROUNDDOT]</color> Playtime: [blue][playtime]</color><br><!i>[grey][blue][ROUNDDOT]</color> Level: [blue][level]</color><br><!i>[grey][blue][ROUNDDOT]</color> Description: [blue][description]</color><br>"
     },
+    "MAIN.like.name": {
+        "de-DE": "<!i>[green]Profil liken</color>",
+        "en-US": "<!i>[green]Like Profile</color>"
+    },
+    "MAIN.like.lore": {
+        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um das Profil von diesem Spieler zu [green]liken.</color></color><br>",
+        "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to [green]like</color> this player's profile.</color><br>"
+    },
+    "MAIN.unlike.name": {
+        "de-DE": "<!i>[red]Profil like entfernen</color>",
+        "en-US": "<!i>[red]Remove profile like</color>"
+    },
+    "MAIN.unlike.lore": {
+        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um deinen [green]Like</color> wieder zu [red]entfernen.</color></color><br>",
+        "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to [red]remove</color> your [green]like</color>.</color><br>"
+    },
+    "MAIN.follow.name": {
+        "de-DE": "<!i>[green]Folgen</color>",
+        "en-US": "<!i>[green]Follow</color>"
+    },
+    "MAIN.follow.lore": {
+        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um diesem Spieler zu [green]folgen.</color></color><br>",
+        "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to [green]follow</color> this player.</color><br>"
+    },
+    "MAIN.unfollow.name": {
+        "de-DE": "<!i>[red]Entfolgen</color>",
+        "en-US": "<!i>[red]Unfollow</color>"
+    },
+    "MAIN.unfollow.lore": {
+        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um diesem Spieler nicht mehr zu [red]folgen.</color></color><br>",
+        "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to [red]unfollow</color> this player.</color><br>"
+    },
+    "MAIN.report.name": {
+        "de-DE": "<!i>[darker_red]Spieler melden</color>",
+        "en-US": "<!i>[darker_red]Report Player</color>"
+    },
+    "MAIN.report.lore": {
+        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um dieses Profil zu [darker_red]melden.</color></color><br>",
+        "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to [darker_red]report</color> this profile.</color><br>"
+    },
     "MAIN.mctiers.lore": {
         "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um die [blue]MCTiers Statistiken</color> von diesem Spieler zu sehen.</color><br>",
         "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to view this player's [blue]MCTiers statistics</color>.</color><br>"
