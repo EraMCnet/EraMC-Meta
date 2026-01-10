@@ -70,5 +70,17 @@
     "REPORT.info.name": {
         "de-DE": "<!i>[red]Bist du sicher?</color>",
         "en-US": "<!i>[red]Are you sure?</color>"
+    },
+    "MAIN.admin.reports.name": {
+        "de-DE": "<!i>[darker_red]Meldungen</color>",
+        "en-US": "<!i>[darker_red]Reports</color>"
+    },
+    "MAIN.admin.reports.lore": {
+        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um alle offenen [darker_red]Meldungen</color> anzusehen.</color><br>",
+        "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to view all open [darker_red]reports</color>.</color><br>"
+    },
+    "REPORTS.gui.title": {
+        "de-DE": "<!i>Offene Profil Meldungen",
+        "en-US": "<!i>Open Profile Reports"
     }
 }

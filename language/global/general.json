@@ -39,6 +39,10 @@
         "de-DE": "Melden",
         "en-US": "Report"
     },
+    "GENERAL.report.noun": {
+        "de-DE": "Meldung",
+        "en-US": "Report"
+    },
     "GENERAL.settings": {
         "de-DE": "Einstellungen",
         "en-US": "Settings"
