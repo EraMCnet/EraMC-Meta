@@ -91,6 +91,14 @@
         "de-DE": "Geld",
         "en-US": "Money"
     },
+    "GENERAL.confirm": {
+        "de-DE": "Bestätigen",
+        "en-US": "Confirm"
+    },
+    "GENERAL.cancel": {
+        "de-DE": "Abbrechen",
+        "en-US": "Cancel"
+    },
     "DATE.relative.minute.less.ago": {
         "de-DE": "vor weniger als einer Minute",
         "en-US": "less than a minute ago"
