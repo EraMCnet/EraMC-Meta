@@ -62,5 +62,9 @@
     "MCTIERS.profile.lore": {
         "de-DE": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> Discord-ID: [blue][discordid]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Region: [blue][region]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Punkte: [blue][points]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Global: [blue]#[overall]</color></color><br>",
         "en-US": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> Discord ID: [blue][discordid]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Region: [blue][region]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Points: [blue][points]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Overall: [blue]#[overall]</color></color><br>"
+    },
+    "REPORT.confirm.lore": {
+        "de-DE": "<i:false><br><!i>[green][ARROW]</color> [grey]Willst du das Profil von [era_purple][target]</color> wirklich melden?</color><br>",
+        "en-US": "<i:false><br><!i>[green][ARROW]</color> [grey]Are you sure you want to report the profile of [era_purple][target]</color>?</color><br>"
     }
 }
