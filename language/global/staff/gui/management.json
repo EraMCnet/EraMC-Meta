@@ -1,12 +1,4 @@
 {
-    "QUARENTINE.name": {
-        "de-DE": "<!i>[era_purple]Quarantäne</color>",
-        "en-US": "<!i>[era_purple]Quarantine</color>"
-    },
-    "QUARENTINE.lore": {
-        "de-DE": "<br><!i>[blue][ARROW]</color> [grey]Klicke, um dieses [blue]Teammitglied</color> in [darker_red]Quarantäne</color> zu versetzen.</color><br><br>[grey][state]</color>",
-        "en-US": "<br><!i>[blue][ARROW]</color> [grey]Click to put this [blue]staff member</color> in [darker_red]quarantine</color>.<br><br>[grey][state]</color>"
-    },
     "RANKS.name": {
         "de-DE": "<!i>[era_purple]Ränge</color>",
         "en-US": "<!i>[era_purple]Ranks</color>"
