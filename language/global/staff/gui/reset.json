@@ -1,0 +1,10 @@
+{
+    "TITLE.confirm": {
+        "de-DE": "<!i>Zurücksetzen bestätigen",
+        "en-US": "<!i>Confirm Reset"
+    },
+    "RESET.success": {
+        "de-DE": "[grey]Du hast [green]erfolgreich</color> die [era_purple]Teameinstellungen</color> von [era_purple][player]</color> zurückgesetzt!</color>",
+        "en-US": "[grey]You've [green]successfully</color> reset the [era_purple]team settings</color> of [era_purple][player]</color>!</color>"
+    }
+}
