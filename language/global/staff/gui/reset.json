@@ -6,5 +6,9 @@
     "RESET.success": {
         "de-DE": "[grey]Du hast [green]erfolgreich</color> die [era_purple]Teameinstellungen</color> von [era_purple][player]</color> zurückgesetzt!</color>",
         "en-US": "[grey]You've [green]successfully</color> reset the [era_purple]team settings</color> of [era_purple][player]</color>!</color>"
+    },
+    "RESET.confirm.lore": {
+        "de-DE": "<i:false><br><!i>[green][ARROW]</color> [grey]Bist du dir sicher das du die [era_purple]Teameinstellungen</color> von [era_purple][player]</color> zurücksetzen möchtest?</color><br>",
+        "en-US": "<i:false><br><!i>[green][ARROW]</color> [grey]Are you sure you want to reset the [era_purple]team settings</color> of [era_purple][player]</color>?</color><br>"
     }
 }
