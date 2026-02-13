@@ -1,0 +1,34 @@
+{
+    "QUARENTINE.name": {
+        "de-DE": "<!i>[era_purple]Quarantäne</color>",
+        "en-US": "<!i>[era_purple]Quarantine</color>"
+    },
+    "QUARENTINE.lore": {
+        "de-DE": "<br><!i>[blue][ARROW]</color> [grey]Klicke, um dieses [blue]Teammitglied</color> in [darker_red]Quarantäne</color> zu versetzen.</color><br><br>[grey][state]</color>",
+        "en-US": "<br><!i>[blue][ARROW]</color> [grey]Click to put this [blue]staff member</color> in [darker_red]quarantine</color>.<br><br>[grey][state]</color>"
+    },
+    "RANKS.name": {
+        "de-DE": "<!i>[era_purple]Ränge</color>",
+        "en-US": "<!i>[era_purple]Ranks</color>"
+    },
+    "RANKS.lore": {
+        "de-DE": "<br><!i>[blue][ARROW]</color> [grey]Klicke, um den [era_purple]Rang</color> dieses [blue]Teammitglieds</color> zu verändern!</color><br>",
+        "en-US": "<br><!i>[blue][ARROW]</color> [grey]Click to change the [era_purple]rank</color> of this [blue]staff member</color>!<br>"
+    },
+    "RESET.name": {
+        "de-DE": "<!i>[era_purple]Zurücksetzen</color>",
+        "en-US": "<!i>[era_purple]Reset</color>"
+    },
+    "RESET.lore": {
+        "de-DE": "<br><!i>[blue][ARROW]</color> [grey]Klicke, um die [blue]Teameinstellungen</color> dieses [blue]Teammitglieds</color> zurückzusetzen.</color><br>",
+        "en-US": "<br><!i>[blue][ARROW]</color> [grey]Click to reset the [blue]staff settings</color> of this [blue]staff member</color>.<br>"
+    },
+    "KICK.name": {
+        "de-DE": "<!i>[era_purple]Kicken</color>",
+        "en-US": "<!i>[era_purple]Kick</color>"
+    },
+    "KICK.lore": {
+        "de-DE": "<br><!i>[blue][ARROW]</color> [grey]Klicke, um dieses [blue]Teammitglied</color> zu kicken.</color><!i><br><br>[red][ARROW]</color> [grey][red]ACHTUNG:</color> Dadurch [darker_red]verliert</color> es sämtliche [red]Rechte</color> und [yellow]Vorteile</color>!</color>",
+        "en-US": "<br><!i>[blue][ARROW]</color> [grey]Click to kick this [blue]staff member</color>.<br><br><!i>[red][ARROW]</color> [grey][red]WARNING:</color> This will [darker_red]remove</color> all [red]permissions</color> and [yellow]benefits</color> from them!</color>"
+    }
+}
