@@ -28,7 +28,7 @@
         "en-US": "<!i>[era_purple]Kick</color>"
     },
     "KICK.lore": {
-        "de-DE": "<br><!i>[blue][ARROW]</color> [grey]Klicke, um dieses [blue]Teammitglied</color> zu kicken.</color><!i><br><br>[red][ARROW]</color> [grey][red]ACHTUNG:</color> Dadurch [darker_red]verliert</color> es sämtliche [red]Rechte</color> und [yellow]Vorteile</color>!</color>",
-        "en-US": "<br><!i>[blue][ARROW]</color> [grey]Click to kick this [blue]staff member</color>.<br><br><!i>[red][ARROW]</color> [grey][red]WARNING:</color> This will [darker_red]remove</color> all [red]permissions</color> and [yellow]benefits</color> from them!</color>"
+        "de-DE": "<br><!i>[blue][ARROW]</color> [grey]Klicke, um dieses [blue]Teammitglied</color> zu [darker_red]kicken.</color></color><!i><br><br>[red][ARROW]</color> [grey][red]ACHTUNG:</color> Dadurch [darker_red]verliert</color> es sämtliche [red]Rechte</color> und [yellow]Vorteile</color>!</color>",
+        "en-US": "<br><!i>[blue][ARROW]</color> [grey]Click to [darker_red]kick</color> this [blue]staff member</color>.<br><br><!i>[red][ARROW]</color> [grey][red]WARNING:</color> This will [darker_red]remove</color> all [red]permissions</color> and [yellow]benefits</color> from them!</color>"
     }
 }
