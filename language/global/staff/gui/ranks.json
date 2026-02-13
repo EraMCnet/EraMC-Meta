@@ -5,6 +5,6 @@
     },
     "SUCCESS.setrank": {
         "de-DE": "[grey]Du hast die [era_purple]Gruppe</color> des Spielers [era_purple][player]</color> auf [era_purple][group]</color> gesetzt!</color>",
-        "en-US": "[grey]You have set the [era_purple]group</color> of the player [era_purple][player]</color> to [era_purple][group]</color>!<br>"
+        "en-US": "[grey]You have set the [era_purple]group</color> of the player [era_purple][player]</color> to [era_purple][group]</color>!"
     }
 }
