@@ -2,5 +2,17 @@
     "ALERT.announcement": {
         "en-US": "Announcement",
         "de-DE": "Ankündigung"
+    },
+    "ALERT.send": {
+        "de-DE": "[grey]Du hast die [era_purple]Ankündigung</color> [green]erfolgreich</color> gesendet!</color>",
+        "en-US": "[grey]You have [green]successfully</color> sent the [era_purple]announcement</color>!</color>"
+    },
+    "ALERT.send.server": {
+        "de-DE": "[grey]Du hast die [era_purple]Ankündigung</color> [green]erfolgreich</color> an den Server [era_purple][server]</color> gesendet!</color>",
+        "en-US": "[grey]You have [green]successfully</color> sent the [era_purple]announcement</color> to the server [era_purple][server]</color>!</color>"
+    },
+    "ALERT.send.group": {
+        "de-DE": "[grey]Du hast die [era_purple]Ankündigung</color> [green]erfolgreich</color> an die Servergruppe [era_purple][group]</color> gesendet!</color>",
+        "en-US": "[grey]You have [green]successfully</color> sent the [era_purple]announcement</color> to the server group [era_purple][group]</color>!</color>"
     }
 }
