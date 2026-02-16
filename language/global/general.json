@@ -11,6 +11,10 @@
         "de-DE": "[grey]Der Server [era_purple][server]</color> existiert [red]nicht!</color></color>",
         "en-US": "[grey]The server [era_purple][server]</color> does [red]not</color> exist!</color></color>"
     },
+    "ERROR.group.notfound": {
+        "de-DE": "[grey]Die Servergruppe [era_purple][group]</color> existiert [red]nicht!</color></color>",
+        "en-US": "[grey]The server group [era_purple][group]</color> does [red]not</color> exist!</color></color>"
+    },
     "ERROR.player.notfound": {
         "de-DE": "[grey][era_purple][player]</color> hat noch [red]nie</color> auf [era_purple]EraMC</color> gespielt!</color>",
         "en-US": "[grey][era_purple][player]</color> has [red]never</color> played on [era_purple]EraMC</color> before!</color>"
