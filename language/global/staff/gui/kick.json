@@ -1,0 +1,10 @@
+{
+    "KICK.confirm.lore": {
+        "de-DE": "<i:false><br><!i>[green][ARROW]</color> [grey]Bist du dir sicher das du den [era_purple]Rang</color> von [era_purple][player]</color> entfernen möchtest?</color><br>",
+        "en-US": "<i:false><br><!i>[green][ARROW]</color> [grey]Are you sure you want to remove the [era_purple]rank</color> of [era_purple][player]</color>?</color><br>"
+    },
+    "RESET.success": {
+        "de-DE": "[grey]Du hast [green]erfolgreich</color> den [era_purple]Rang</color> von [era_purple][player]</color> zurückgesetzt!</color>",
+        "en-US": "[grey]You have [green]successfully</color> reset the [era_purple]rank</color> of [era_purple][player]</color>!</color>"
+    }
+}
