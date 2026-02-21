@@ -103,6 +103,10 @@
         "de-DE": "Abgebrochen",
         "en-US": "Cancelled"
     },
+    "GENERAL.unlocked": {
+        "de-DE": "Freigeschaltet",
+        "en-US": "Unlocked"
+    },
     "GENERAL.rank": {
         "de-DE": "Rang",
         "en-US": "Rank"
@@ -298,6 +302,10 @@
     "GENERAL.disabled": {
         "de-DE": "Deaktiviert",
         "en-US": "Disabled"
+    },
+    "GENERAL.not": {
+        "de-DE": "Nicht",
+        "en-US": "Not"
     },
     "GENERAL.command.discord": {
         "de-DE": "[grey]Trete unserem [era_purple]Discord-Server</color> bei:<br><br>[era_purple]<click:open_url:'https://dc.eramc.net'><hover:show_text:'[era_purple]Klicke hier, um den Link in deinem Browser zu öffnen!</color>'>dc.eramc.net</hover></click></color></color><br>",
