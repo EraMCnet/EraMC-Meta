@@ -1,0 +1,110 @@
+{
+    "BADGE.staff.name": {
+        "de-DE": "Teammitglied",
+        "en-US": "Staff"
+    },
+    "BADGE.staff.description": {
+        "de-DE": "Jemand der aktuell zum EraMC Team gehört.",
+        "en-US": "Someone who is currently part of the EraMC staff team."
+    },
+    "BADGE.staff.description.colorized": {
+        "de-DE": "<br><!i>[grey][era_purple][ARROW]</color> Jemand der aktuell zum [eramc_gradient]EraMC Team</gradient> gehört!</color><br>",
+        "en-US": "<br><!i>[grey][era_purple][ARROW]</color> Someone who is currently part of the [eramc_gradient]EraMC staff team</gradient>!</color><br>"
+    },
+    "BADGE.alumni.name": {
+        "de-DE": "Ehemaliges Teammitglied",
+        "en-US": "Alumni"
+    },
+    "BADGE.alumni.description": {
+        "de-DE": "Jemand der früher zum EraMC Team gehörte.",
+        "en-US": "Someone who was previously part of the EraMC staff team."
+    },
+    "BADGE.alumni.description.colorized": {
+        "de-DE": "<br><!i>[grey][era_purple][ARROW]</color> Jemand der früher zum [eramc_gradient]EraMC Team</gradient> gehörte!</color><br>",
+        "en-US": "<br><!i>[grey][era_purple][ARROW]</color> Someone who was previously part of the [eramc_gradient]EraMC staff team</gradient>!</color><br>"
+    },
+    "BADGE.beta_tester.name": {
+        "de-DE": "Beta Tester",
+        "en-US": "Beta Tester"
+    },
+    "BADGE.beta_tester.description": {
+        "de-DE": "Jemand der an der Beta Testphase von EraMC teilgenommen hat.",
+        "en-US": "Someone who participated in the beta testing phase of EraMC."
+    },
+    "BADGE.beta_tester.description.colorized": {
+        "de-DE": "<br><!i>[grey][era_purple][ARROW]</color> Jemand der an der [yellow]Beta Testphase</color> von [eramc_gradient]EraMC</gradient> teilgenommen hat!</color><br>",
+        "en-US": "<br><!i>[grey][era_purple][ARROW]</color> Someone who participated in the [yellow]beta testing phase</color> of [eramc_gradient]EraMC</gradient>!</color><br>"
+    },
+    "BADGE.early_supporter.name": {
+        "de-DE": "Frühunterstützer",
+        "en-US": "Early Supporter"
+    },
+    "BADGE.early_supporter.description": {
+        "de-DE": "Einer der ersten (finanziellen) Unterstützer von EraMC.",
+        "en-US": "One of the first (financial) supporters of EraMC."
+    },
+    "BADGE.early_supporter.description.colorized": {
+        "de-DE": "<br><!i>[grey][era_purple][ARROW]</color> Einer der ersten [gold_gradient](finanziellen) Unterstützer</gradient> von [eramc_gradient]EraMC</gradient>!</color><br>",
+        "en-US": "<br><!i>[grey][era_purple][ARROW]</color> One of the first [gold_gradient](financial) supporters</gradient> of [eramc_gradient]EraMC</gradient>!</color><br>"
+    },
+    "BADGE.partner.name": {
+        "de-DE": "Partner",
+        "en-US": "Partner"
+    },
+    "BADGE.partner.description": {
+        "de-DE": "Ein Partner von EraMC.",
+        "en-US": "A partner of EraMC."
+    },
+    "BADGE.partner.description.colorized": {
+        "de-DE": "<br><!i>[grey][era_purple][ARROW]</color> Ein [purple]Partner</color> von [eramc_gradient]EraMC</gradient>!</color><br>",
+        "en-US": "<br><!i>[grey][era_purple][ARROW]</color> A [purple]partner</color> of [eramc_gradient]EraMC</gradient>!</color><br>"
+    },
+    "BADGE.community_ambassador.name": {
+        "de-DE": "Community Botschafter",
+        "en-US": "Community Ambassador"
+    },
+    "BADGE.community_ambassador.description": {
+        "de-DE": "Jemand der sich besonders für die Community engagiert.",
+        "en-US": "Someone who is particularly engaged in the community."
+    },
+    "BADGE.community_ambassador.description.colorized": {
+        "de-DE": "<br><!i>[grey][era_purple][ARROW]</color> Jemand der sich besonders für die [yellow]Community</color> engagiert!</color><br>",
+        "en-US": "<br><!i>[grey][era_purple][ARROW]</color> Someone who is particularly engaged in the [yellow]community</color>!</color><br>"
+    },
+    "BADGE.champions_winner.name": {
+        "de-DE": "Champions Gewinner",
+        "en-US": "Champions Winner"
+    },
+    "BADGE.champions_winner.description": {
+        "de-DE": "Jemand der die EraMC Championship gewonnen hat.",
+        "en-US": "Someone who won the EraMC Championship."
+    },
+    "BADGE.champions_winner.description.colorized": {
+        "de-DE": "<br><!i>[grey][era_purple][ARROW]</color> Jemand der die [gold_gradient]EraMC Championship</gradient> gewonnen hat!</color><br>",
+        "en-US": "<br><!i>[grey][era_purple][ARROW]</color> Someone who won the [gold_gradient]EraMC Championship</gradient>!</color><br>"
+    },
+    "BADGE.translator.name": {
+        "de-DE": "Übersetzer",
+        "en-US": "Translator"
+    },
+    "BADGE.translator.description": {
+        "de-DE": "Jemand der EraMC in eine andere Sprache übersetzt hat.",
+        "en-US": "Someone who translated EraMC into another language."
+    },
+    "BADGE.translator.description.colorized": {
+        "de-DE": "<br><!i>[grey][era_purple][ARROW]</color> Jemand der [eramc_gradient]EraMC</gradient> in eine [mint_green_dark]andere Sprache</color> übersetzt hat!</color><br>",
+        "en-US": "<br><!i>[grey][era_purple][ARROW]</color> Someone who translated [eramc_gradient]EraMC</gradient> into [mint_green_dark]another language!</color></color><br>"
+    },
+    "BADGE.bug_hunter.name": {
+        "de-DE": "Bug Jäger",
+        "en-US": "Bug Hunter"
+    },
+    "BADGE.bug_hunter.description": {
+        "de-DE": "Jemand der einen Fehler auf EraMC gefunden und gemeldet hat.",
+        "en-US": "Someone who found and reported a bug on EraMC."
+    },
+    "BADGE.bug_hunter.description.colorized": {
+        "de-DE": "<br><!i>[grey][era_purple][ARROW]</color> Jemand der einen [darker_red]Fehler</color> auf [eramc_gradient]EraMC</gradient> gefunden und gemeldet hat!</color><br>",
+        "en-US": "<br><!i>[grey][era_purple][ARROW]</color> Someone who found and reported a [darker_red]bug</color> on [eramc_gradient]EraMC</gradient>!</color><br>"
+    }
+}
