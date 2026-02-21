@@ -126,5 +126,9 @@
     "REPORT.remove.confirm.lore": {
         "de-DE": "<i:false><br><!i>[green][ARROW]</color> [grey]Möchtest du diese [darker_red]Meldung</color> wirklich [red]entfernen</color>?</color><br>",
         "en-US": "<i:false><br><!i>[green][ARROW]</color> [grey]Are you sure you want to [red]remove</color> this [darker_red]report</color>?</color><br>"
+    },
+    "SOCIALS.social.lore": {
+        "de-DE": "<!i><br><!i>[grey][blue][ARROW]</color> Link: [blue][link]</color><br><grey>(klicken zum kopieren)</grey><br>",
+        "en-US": "<!i><br><!i>[grey][blue][ARROW]</color> Link: [blue][link]</color><br><grey>(click to copy)</grey><br>"
     }
 }
