@@ -14,5 +14,13 @@
     "SUCCESS.profile.report": {
         "de-DE": "[grey]Du hast das Profil von [era_purple][target]</color> erfolgreich [darker_red]gemeldet</color>. Unser Team wird dies so schnell wie möglich überprüfen.</color>",
         "en-US": "[grey]You have successfully [darker_red]reported</color> the profile of [era_purple][target]</color>. Our team will review this as soon as possible.</color>"
+    },
+    "SUCCESS.report.remove": {
+        "de-DE": "[grey]Du hast die [darker_red]Meldung</color> mti der id [darker_red]#[id]</color> [green]erfolgreich</color> entfernt!</color>",
+        "en-US": "[grey]You have [green]successfully</color> removed the [darker_red]report</color> with the id [darker_red]#[id]</color>!</color>"
+    },
+    "ERROR.report.alreadyreported": {
+        "de-DE": "[grey]Du hast das Profil von [era_purple][target]</color> bereits [darker_red]gemeldet</color>. Bitte warte, bis unser Team dies überprüft hat, bevor du es erneut meldest.</color>",
+        "en-US": "[grey]You have already [darker_red]reported</color> the profile of [era_purple][target]</color>. Please wait for our team to review this before reporting it again.</color>"
     }
 }

@@ -126,9 +126,5 @@
     "REPORT.remove.confirm.lore": {
         "de-DE": "<i:false><br><!i>[green][ARROW]</color> [grey]Möchtest du diese [darker_red]Meldung</color> wirklich [red]entfernen</color>?</color><br>",
         "en-US": "<i:false><br><!i>[green][ARROW]</color> [grey]Are you sure you want to [red]remove</color> this [darker_red]report</color>?</color><br>"
-    },
-    "REPORT.remove.success": {
-        "de-DE": "[grey]Du hast die [darker_red]Meldung</color> mti der id [darker_red]#[id]</color> [green]erfolgreich</color> entfernt!</color>",
-        "en-US": "[grey]You have [green]successfully</color> removed the [darker_red]report</color> with the id [darker_red]#[id]</color>!</color>"
     }
 }
