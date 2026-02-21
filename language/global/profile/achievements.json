@@ -4,8 +4,8 @@
         "en-US": "First Join"
     },
     "ACHIEVEMENT.first_join.description": {
-        "de-DE": "Jeder fängt mal klein an, aber jetzt bist du hier! das [eramc_gradient]EraMC Team</color> wünscht dir [gem_purple]viel Spaß</color> auf dem Server!",
-        "en-US": "Everyone starts small, but now you're here! The [eramc_gradient]EraMC Team</color> wishes you [gem_purple]lots of fun</color> on the server!"
+        "de-DE": "Jeder fängt mal klein an, aber jetzt bist du hier! das [eramc_gradient]EraMC Team</gradient> wünscht dir [gem_purple]viel Spaß</color> auf dem Server!",
+        "en-US": "Everyone starts small, but now you're here! The [eramc_gradient]EraMC Team</gradient> wishes you [gem_purple]lots of fun</color> on the server!"
     },
     "ACHIEVEMENT.first_join.requirement": {
         "de-DE": "Tritt [eramc_gradient]dem Server</gradient> zum [green]ersten Mal</color> bei.",
