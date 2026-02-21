@@ -94,5 +94,17 @@
     "REPORT.snapshot.lore": {
         "de-DE": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> Soziale Medien: [blue][socials]</color><br>",
         "en-US": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> Socials: [blue][socials]</color><br>"
+    },
+    "REPORT.remove.name": {
+        "de-DE": "<!i>[green]Meldung entfernen</color>",
+        "en-US": "<!i>[green]Remove report</color>"
+    },
+    "REPORT.remove.lore": {
+        "de-DE": "<!i><br><!i>[grey][blue][ARROW]</color> Klicke hier, um diese Meldung zu entfernen.</color><br>",
+        "en-US": "<!i><br><!i>[grey][blue][ARROW]</color> Click here to remove this report.</color><br>"
+    },
+    "REPORT.remove.confirm.lore": {
+        "de-DE": "<i:false><br><!i>[green][ARROW]</color> [grey]Willst du diese Meldung wirklich entfernen?</color><br>",
+        "en-US": "<i:false><br><!i>[green][ARROW]</color> [grey]Are you sure you want to remove this report?</color><br>"
     }
 }
