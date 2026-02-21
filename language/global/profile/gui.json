@@ -138,5 +138,9 @@
     "SOCIALS.sign.edit.title": {
         "de-DE": "<!i>[blue]Link bearbeiten</color>",
         "en-US": "<!i>[blue]Edit link</color>"
+    },
+    "ACHIEVEMENTS.achievement.percentage": {
+        "de-DE": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> [mint_green_dark][percentage]%</color> der Spieler haben diese [gold_gradient]Errungenschaft!</gradient></color><br>",
+        "en-US": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> [mint_green_dark][percentage]%</color> of players have this [gold_gradient]achievement!</gradient></color><br>"
     }
 }
