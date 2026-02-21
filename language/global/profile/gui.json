@@ -86,5 +86,9 @@
     "REPORT.report.lore": {
         "de-DE": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> Gemeldet von: [blue][reporter]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Datum: [blue][date]</color></color><br>",
         "en-US": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> Reported by: [blue][reporter]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Date: [blue][date]</color></color><br>"
+    },
+    "REPORT.snapshot.name": {
+        "de-DE": "<!i>Profil Snapshot [grey](#[darker_red][id]</color>)</color>",
+        "en-US": "<!i>Profile Snapshot [grey](#[darker_red][id]</color>)</color>"
     }
 }
