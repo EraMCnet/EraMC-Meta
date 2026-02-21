@@ -83,6 +83,14 @@
         "de-DE": "Ich",
         "en-US": "I"
     },
+    "GENERAL.on": {
+        "de-DE": "An",
+        "en-US": "On"
+    },
+    "GENERAL.on.date": {
+        "de-DE": "Am [date]",
+        "en-US": "On [date]"
+    },
     "GENERAL.and": {
         "de-DE": "und",
         "en-US": "and"
