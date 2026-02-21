@@ -52,8 +52,8 @@
         "en-US": "10 Profile Followers"
     },
     "ACHIEVEMENT.profile_10_followers.description": {
-        "de-DE": "GGs, du hast bereits [green]10 Follower</color> auf deinem Profil - das ist eine [orange]tolle Leistung!</color>",
-        "en-US": "GGs, you already have [green]10 followers</color> on your profile - that's a [orange]great achievement!</color>"
+        "de-DE": "GGs, du hast bereits [green]10 Follower [yellow][STAR]</color></color> auf deinem Profil - das ist eine [orange]tolle Leistung!</color>",
+        "en-US": "GGs, you already have [green]10 followers [yellow][STAR]</color></color> on your profile - that's a [orange]great achievement!</color>"
     },
     "ACHIEVEMENT.profile_10_followers.requirement": {
         "de-DE": "Erhalte insgesamt [green]10 Follower</color> auf deinem Profil.",
@@ -64,8 +64,8 @@
         "en-US": "10 Profile Upvotes"
     },
     "ACHIEVEMENT.profile_10_upvotes.description": {
-        "de-DE": "Du hast bereits [green]10 Upvotes</color> auf deinem Profil - sehr schön! Es freut uns zu sehen, dass so viele Leute [gem_purple]dein Profil mögen!</color>",
-        "en-US": "You already have [green]10 upvotes</color> on your profile - very nice! We're glad to see so many people [gem_purple]like your profile!</color>"
+        "de-DE": "Du hast bereits [green]10 Upvotes [darker_red][FLAME]</color></color> auf deinem Profil - sehr schön! Es freut uns zu sehen, dass so viele Leute [gem_purple]dein Profil mögen [HEART]!</color>",
+        "en-US": "You already have [green]10 upvotes [darker_red][FLAME]</color></color> on your profile - very nice! We're glad to see so many people [gem_purple]like [HEART] your profile!</color>"
     },
     "ACHIEVEMENT.profile_10_upvotes.requirement": {
         "de-DE": "Erhalte insgesamt [green]10 Upvotes</color> auf deinem Profil.",
