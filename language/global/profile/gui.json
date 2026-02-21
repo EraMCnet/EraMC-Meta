@@ -90,5 +90,9 @@
     "REPORT.snapshot.name": {
         "de-DE": "<!i>Profil Snapshot [grey](#[darker_red][id]</color>)</color>",
         "en-US": "<!i>Profile Snapshot [grey](#[darker_red][id]</color>)</color>"
+    },
+    "REPORT.snapshot.lore": {
+        "de-DE": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> Soziale Medien: [blue][socials]</color><br>",
+        "en-US": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> Socials: [blue][socials]</color><br><br>"
     }
 }
