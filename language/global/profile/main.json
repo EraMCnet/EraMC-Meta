@@ -22,5 +22,17 @@
     "ERROR.report.alreadyreported": {
         "de-DE": "[grey]Du hast das Profil von [era_purple][target]</color> bereits [darker_red]gemeldet</color>. Bitte warte, bis unser Team dies überprüft hat, bevor du es erneut meldest.</color>",
         "en-US": "[grey]You have already [darker_red]reported</color> the profile of [era_purple][target]</color>. Please wait for our team to review this before reporting it again.</color>"
+    },
+    "SUCCESS.social.link.edit": {
+        "de-DE": "[grey]Du hast den [green]Link</color> für [era_purple][type]</color> erfolgreich auf [green][link]</color> geändert!",
+        "en-US": "[grey]You have successfully changed the [green]link</color> for [era_purple][type]</color> to [green][link]</color>!"
+    },
+    "SUCCESS.social.link.remove": {
+        "de-DE": "[grey]Du hast den [green]Link</color> für [era_purple][type]</color> erfolgreich [red]entfernt</color>!",
+        "en-US": "[grey]You have successfully [red]removed</color> the [green]link</color> for [era_purple][type]</color>!"
+    },
+    "ERROR.social.link.invalid": {
+        "de-DE": "[grey]Der Link [green][link]</color> ist [red]ungültig.</color> Bitte stelle sicher, dass du einen [green]gültigen Link</color> eingibst.</color>",
+        "en-US": "[grey]The link [green][link]</color> is [red]invalid.</color> Please make sure to enter a [green]valid link</color>.</color>"
     }
 }
