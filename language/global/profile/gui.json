@@ -104,8 +104,8 @@
         "en-US": "<!i>Open Profile Reports"
     },
     "REPORT.report.lore": {
-        "de-DE": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> Gemeldet von: [blue][reporter]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Datum: [blue][date]</color></color><br>",
-        "en-US": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> Reported by: [blue][reporter]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Date: [blue][date]</color></color><br>"
+        "de-DE": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> Gemeldet von: [blue][reporter]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Gemeldeter Nutzer: [blue][target]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Datum: [blue][date]</color></color><br>",
+        "en-US": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> Reported by: [blue][reporter]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Reported user: [blue][target]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Date: [blue][date]</color></color><br>"
     },
     "REPORT.snapshot.name": {
         "de-DE": "<!i>[grey]Profil Snapshot [grey](#[darker_red][id]</color>)</color>",
