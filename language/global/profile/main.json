@@ -32,7 +32,7 @@
         "en-US": "[grey]You have successfully [red]removed</color> the [green]link</color> for [era_purple][type]</color>!"
     },
     "SUCCESS.social.link.view": {
-        "de-DE": "<click:open_url:'[url]'>[grey]Der [era_purple][type]</color> [green]Link</color> von [era_purple][player]</color> ist: [green][link]</color> ([blue]klicke zum öffnen</color>)</color></click>",
-        "en-US": "<click:open_url:'[url]'>[grey]The [era_purple][type]</color> [green]link</color> of [era_purple][player]</color> is: [green][link]</color> ([blue]click to open</color>)</color></click>"
+        "de-DE": "<click:open_url:'[url]'>[grey]Der [era_purple][type]</color> [green]Link</color> von [era_purple][player]</color> ist: [mint_green_dark][link]</color> ([blue]klicke zum öffnen</color>)</color></click>",
+        "en-US": "<click:open_url:'[url]'>[grey]The [era_purple][type]</color> [green]link</color> of [era_purple][player]</color> is: [mint_green_dark][link]</color> ([blue]click to open</color>)</color></click>"
     }
 }
