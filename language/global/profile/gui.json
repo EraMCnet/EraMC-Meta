@@ -51,9 +51,29 @@
         "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um die [blue]MCTiers Statistiken</color> von diesem Spieler zu sehen.</color><br>",
         "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to view this player's [blue]MCTiers statistics</color>.</color><br>"
     },
+    "MAIN.socials.name": {
+        "de-DE": "<!i>[blue]Soziale Medien</color>",
+        "en-US": "<!i>[blue]Social Media</color>"
+    },
     "MAIN.socials.lore": {
         "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um die [blue]Sozialen Medien</color> von diesem Spieler zu sehen.</color><br>",
         "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to view this player's [blue]social media</color>.</color><br>"
+    },
+    "MAIN.achievements.name": {
+        "de-DE": "<!i>[blue]Errungenschaften</color>",
+        "en-US": "<!i>[blue]Achievements</color>"
+    },
+    "MAIN.achievements.lore": {
+        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um die [blue]Errungenschaften</color> von diesem Spieler zu sehen.</color><br>",
+        "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to view this player's [blue]achievements</color>.</color><br>"
+    },
+    "MAIN.badges.name": {
+        "de-DE": "<!i>[blue]Abzeichen</color>",
+        "en-US": "<!i>[blue]Badges</color>"
+    },
+    "MAIN.badges.lore": {
+        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um die [blue]Abzeichen</color> von diesem Spieler zu sehen.</color><br>",
+        "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to view this player's [blue]badges</color>.</color><br>"
     },
     "MCTIERS.gamemode.lore": {
         "de-DE": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> Aktueller Rang: [blue][rank]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Peak Rang: [blue][peak_rank]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Erhalten: [blue][attained]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Retired: [blue][retired]</color></color><br>",
