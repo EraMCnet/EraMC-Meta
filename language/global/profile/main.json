@@ -34,5 +34,9 @@
     "SUCCESS.social.link.view": {
         "de-DE": "<click:open_url:'[url]'>[grey]Der [era_purple][type]</color> [green]Link</color> von [era_purple][player]</color> ist: [mint_green_dark][link]</color> ([blue]klicke zum öffnen</color>)</color></click>",
         "en-US": "<click:open_url:'[url]'>[grey]The [era_purple][type]</color> [green]link</color> of [era_purple][player]</color> is: [mint_green_dark][link]</color> ([blue]click to open</color>)</color></click>"
+    },
+    "ERROR.link.edit.blacklisted": {
+        "de-DE": "[grey]Der angegebene [green]Link</color> enthält Wörter, welche [red]verboten</color> sind! Wenn du denkst, dass das ein [red]Fehler</color> ist, öffne ein Ticket auf unserem [blurple]Discord Server!</color> ([blurple]/discord</color>)</color>",
+        "en-US": "[grey]The provided [green]link</color> contains words that are [red]prohibited</color>! If you think this is an [red]error</color>, please open a ticket on our [blurple]Discord server!</color> ([blurple]/discord</color>)</color>"
     }
 }
