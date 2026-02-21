@@ -4,8 +4,8 @@
         "en-US": "[grey]You have been teleported to your home [yellow][home]!</color></color>"
     },
     "HOMES.teleport.error": {
-        "de-DE": "[grey]Während des [yellow]Teleportierens</color> ist ein [red]Fehler</color> aufgetreten. Bitte kontaktiere unseren [yellow]Support.</color> ([era_purple]discord.gg/eramc</color>)</color>",
-        "en-US": "[grey]An error occurred while [yellow]teleporting</color>. Please contact our [yellow]support.</color> ([era_purple]discord.gg/eramc</color>)</color>"
+        "de-DE": "[grey]Während des [yellow]Teleportierens</color> ist ein [red]Fehler</color> aufgetreten. Bitte kontaktiere unseren [yellow]Support.</color> ([era_purple]dc.eramc.net</color>)</color>",
+        "en-US": "[grey]An error occurred while [yellow]teleporting</color>. Please contact our [yellow]support.</color> ([era_purple]dc.eramc.net</color>)</color>"
     },
     "HOMES.teleport.in": {
         "de-DE": "[grey]ᴅᴜ ᴡɪʀꜱᴛ ɪɴ [era_purple][duration] ꜱᴇᴋᴜɴᴅᴇɴ</color> ᴛᴇʟᴇᴘᴏʀᴛɪᴇʀᴛ</color>",
@@ -76,7 +76,7 @@
         "en-US": "[grey]You have [green]successfully</color> teleported to the home [yellow][home]</color> of [yellow][player]!</color></color>"
     },
     "HOMES.admin.teleport.error": {
-        "de-DE": "[grey]Während des [yellow]Teleportierens</color> ist ein [red]Fehler</color> aufgetreten. Bitte kontaktiere einen [yellow]Administrator.</color> ([era_purple]discord.gg/eramc</color>)</color>",
-        "en-US": "[grey]An error occurred while [yellow]teleporting</color>. Please contact our [yellow]support.</color> ([era_purple]discord.gg/eramc</color>)</color>"
+        "de-DE": "[grey]Während des [yellow]Teleportierens</color> ist ein [red]Fehler</color> aufgetreten. Bitte kontaktiere einen [yellow]Administrator.</color> ([era_purple]dc.eramc.net</color>)</color>",
+        "en-US": "[grey]An error occurred while [yellow]teleporting</color>. Please contact our [yellow]support.</color> ([era_purple]dc.eramc.net</color>)</color>"
     }
 }
