@@ -16,8 +16,8 @@
         "en-US": "Hundred Hours Playtime"
     },
     "ACHIEVEMENT.hundred_hours_playtime.description": {
-        "de-DE": "Du hast schon [green]100 Stunden</color> auf [eramc_gradient]EraMC</gradient> verbracht - was eine [green]Leistung</color>! Der Server muss es dir wirklich angetan haben - wir hoffen dass das so bleibt!",
-        "en-US": "You've already spent [green]100 hours</color> on [eramc_gradient]EraMC</gradient> - what an [green]achievement</color>! The server must really have won you over - we hope it stays that way!"
+        "de-DE": "Du hast schon [green]100 Stunden</color> auf [eramc_gradient]EraMC</gradient> verbracht - was eine [green]Leistung</color>!",
+        "en-US": "You've already spent [green]100 hours</color> on [eramc_gradient]EraMC</gradient> - what an [green]achievement</color>!"
     },
     "ACHIEVEMENT.hundred_hours_playtime.requirement": {
         "de-DE": "Verbringe insgesamt [green]100 Stunden</color> auf [eramc_gradient]EraMC.</gradient>",
@@ -28,8 +28,8 @@
         "en-US": "Five Hundred Hours Playtime"
     },
     "ACHIEVEMENT.five_hundred_hours_playtime.description": {
-        "de-DE": "Wow, du hast schon [green]500 Stunden</color> auf [eramc_gradient]EraMC</gradient> verbracht - das ist eine [green]unglaubliche Leistung</color>! Es ist großartig zu sehen, dass du so viel Zeit mit uns verbringst - wir hoffen, dass du weiterhin viel Spaß auf dem Server hast!",
-        "en-US": "Wow, you've already spent [green]500 hours</color> on [eramc_gradient]EraMC</gradient> - that's an [green]incredible achievement</color>! It's great to see that you're spending so much time with us - we hope you continue to have a lot of fun on the server!"
+        "de-DE": "Wow, du hast schon [green]500 Stunden</color> auf [eramc_gradient]EraMC</gradient> verbracht - das ist eine [green]unglaubliche Leistung</color>!",
+        "en-US": "Wow, you've already spent [green]500 hours</color> on [eramc_gradient]EraMC</gradient> - that's an [green]incredible achievement</color>!"
     },
     "ACHIEVEMENT.five_hundred_hours_playtime.requirement": {
         "de-DE": "Verbringe insgesamt [green]500 Stunden</color> auf [eramc_gradient]EraMC.</gradient>",
@@ -40,8 +40,8 @@
         "en-US": "Thousand Hours Playtime"
     },
     "ACHIEVEMENT.thousand_hours_playtime.description": {
-        "de-DE": "Unglaublich, du hast schon [green]1000 Stunden</color> auf [eramc_gradient]EraMC</gradient> verbracht - das ist eine [green]außergewöhnliche Leistung</color>! Es ist fantastisch zu sehen, dass du so viel Zeit mit uns verbringst - wir hoffen, dass du weiterhin viel Spaß auf dem Server hast!",
-        "en-US": "Incredible, you've already spent [green]1000 hours</color> on [eramc_gradient]EraMC</gradient> - that's an [green]extraordinary achievement</color>! It's fantastic to see that you're spending so much time with us - we hope you continue to have a lot of fun on the server!"
+        "de-DE": "Unglaublich, du hast schon [green]1000 Stunden</color> auf [eramc_gradient]EraMC</gradient> verbracht - das ist eine [green]außergewöhnliche Leistung</color>!",
+        "en-US": "Incredible, you've already spent [green]1000 hours</color> on [eramc_gradient]EraMC</gradient> - that's an [green]extraordinary achievement</color>!"
     },
     "ACHIEVEMENT.thousand_hours_playtime.requirement": {
         "de-DE": "Verbringe insgesamt [green]1000 Stunden</color> auf [eramc_gradient]EraMC.</gradient>",
@@ -52,8 +52,8 @@
         "en-US": "10 Profile Followers"
     },
     "ACHIEVEMENT.profile_10_followers.description": {
-        "de-DE": "Du hast bereits [green]10 Follower</color> auf deinem Profil - das ist eine tolle Leistung! Es ist großartig zu sehen, dass du so viele Leute hast, die an deinem Profil interessiert sind - wir hoffen, dass du weiterhin viele Follower bekommst!",
-        "en-US": "You already have [green]10 followers</color> on your profile - that's a great achievement! It's great to see that you have so many people interested in your profile - we hope you continue to gain many followers!"
+        "de-DE": "GGs, du hast bereits [green]10 Follower</color> auf deinem Profil - das ist eine [orange]tolle Leistung!</color>",
+        "en-US": "GGs, you already have [green]10 followers</color> on your profile - that's a [orange]great achievement!</color>"
     },
     "ACHIEVEMENT.profile_10_followers.requirement": {
         "de-DE": "Erhalte insgesamt [green]10 Follower</color> auf deinem Profil.",
@@ -64,8 +64,8 @@
         "en-US": "10 Profile Upvotes"
     },
     "ACHIEVEMENT.profile_10_upvotes.description": {
-        "de-DE": "Du hast bereits [green]10 Upvotes</color> auf deinem Profil - das ist eine tolle Leistung! Es ist großartig zu sehen, dass so viele Leute dein Profil mögen - wir hoffen, dass du weiterhin viele Upvotes bekommst!",
-        "en-US": "You already have [green]10 upvotes</color> on your profile - that's a great achievement! It's great to see that so many people like your profile - we hope you continue to gain many upvotes!"
+        "de-DE": "Du hast bereits [green]10 Upvotes</color> auf deinem Profil - sehr schön! Es freut uns zu sehen, dass so viele Leute [gem_purple]dein Profil mögen!</color>",
+        "en-US": "You already have [green]10 upvotes</color> on your profile - very nice! We're glad to see so many people [gem_purple]like your profile!</color>"
     },
     "ACHIEVEMENT.profile_10_upvotes.requirement": {
         "de-DE": "Erhalte insgesamt [green]10 Upvotes</color> auf deinem Profil.",
