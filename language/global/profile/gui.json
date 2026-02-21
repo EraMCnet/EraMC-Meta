@@ -134,5 +134,9 @@
     "SOCIALS.social.edit.lore": {
         "de-DE": "<!i><br><!i>[grey][blue][ARROW]</color> Link: [blue][link]</color><br><grey>(klicken zum kopieren)</grey><br><br><!i>[grey][blue][ROUNDDOT]</color> [blue]Rechtsklicke</color> hier, um diesen Link zu [green]bearbeiten.</color><br>",
         "en-US": "<!i><br><!i>[grey][blue][ARROW]</color> Link: [blue][link]</color><br><grey>(click to copy)</grey><br><br><!i>[grey][blue][ROUNDDOT]</color> [blue]Right-click</color> here to [green]edit</color> this link.</color><br>"
+    },
+    "SOCIALS.link.book.page": {
+        "de-DE": "<!i><br><!i>[grey][blue][ARROW]</color> Link: [blue][link]</color><br>",
+        "en-US": "<!i><br><!i>[grey][blue][ARROW]</color> Link: [blue][link]</color><br>"
     }
 }
