@@ -87,6 +87,10 @@
         "de-DE": "An",
         "en-US": "On"
     },
+    "GENERAL.aquired": {
+        "de-DE": "Erhalten",
+        "en-US": "Acquired"
+    },
     "GENERAL.on.date": {
         "de-DE": "Am [date]",
         "en-US": "On [date]"
