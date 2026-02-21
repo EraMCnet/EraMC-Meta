@@ -130,5 +130,9 @@
     "SOCIALS.social.lore": {
         "de-DE": "<!i><br><!i>[grey][blue][ARROW]</color> Link: [blue][link]</color><br><grey>(klicken zum kopieren)</grey><br>",
         "en-US": "<!i><br><!i>[grey][blue][ARROW]</color> Link: [blue][link]</color><br><grey>(click to copy)</grey><br>"
+    },
+    "SOCIALS.social.edit.lore": {
+        "de-DE": "<!i><br><!i>[grey][blue][ARROW]</color> Link: [blue][link]</color><br><grey>(klicken zum kopieren)</grey><br><br><!i>[grey][blue][ROUNDDOT]</color> Klicke hier, um diesen Link zu [green]bearbeiten.</color><br>",
+        "en-US": "<!i><br><!i>[grey][blue][ARROW]</color> Link: [blue][link]</color><br><grey>(click to copy)</grey><br><br><!i>[grey][blue][ROUNDDOT]</color> Click here to [green]edit</color> this link.</color><br>"
     }
 }
