@@ -136,7 +136,7 @@
         "en-US": "<!i><br><!i>[grey][blue][ARROW]</color> Link: [blue][link]</color><br><grey>(click to copy)</grey><br><br><!i>[grey][blue][ROUNDDOT]</color> [blue]Right-click</color> here to [green]edit</color> this link.</color><br>"
     },
     "SOCIALS.link.book.page": {
-        "de-DE": "<!i><br><!i>[grey][blue][ARROW]</color> Link: [blue][link]</color><br>",
-        "en-US": "<!i><br><!i>[grey][blue][ARROW]</color> Link: [blue][link]</color><br>"
+        "de-DE": "<!i><br><br><br><!i><b>[purple][link]</color></b><br><br><br><!i>   <b>[green][KLICKEN ZUM ÖFFNEN]</color></b>   <br><br><br>",
+        "en-US": "<!i><br><br><br><!i><b>[purple][link]</color></b><br><br><br><!i>   <b>[green][CLICK TO OPEN]</color></b>   <br><br><br>"
     }
 }
