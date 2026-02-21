@@ -31,8 +31,8 @@
         "de-DE": "[grey]Du hast den [green]Link</color> für [era_purple][type]</color> erfolgreich [red]entfernt</color>!",
         "en-US": "[grey]You have successfully [red]removed</color> the [green]link</color> for [era_purple][type]</color>!"
     },
-    "ERROR.social.link.invalid": {
-        "de-DE": "[grey]Der Link [green][link]</color> ist [red]ungültig.</color> Bitte stelle sicher, dass du einen [green]gültigen Link</color> eingibst.</color>",
-        "en-US": "[grey]The link [green][link]</color> is [red]invalid.</color> Please make sure to enter a [green]valid link</color>.</color>"
+    "SUCCESS.social.link.view": {
+        "de-DE": "<click:open_url:'[url]'>[grey]Der [era_purple][type]</color> [green]Link</color> von [era_purple][player]</color> ist: [green][link]</color> ([blue]klicke zum öffnen</color>)</color></click>",
+        "en-US": "<click:open_url:'[url]'>[grey]The [era_purple][type]</color> [green]link</color> of [era_purple][player]</color> is: [green][link]</color> ([blue]click to open</color>)</color></click>"
     }
 }
