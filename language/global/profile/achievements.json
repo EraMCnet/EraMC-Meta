@@ -12,8 +12,8 @@
         "en-US": "Join [eramc_gradient]the server</gradient> for the [green]first time</color>."
     },
     "ACHIEVEMENT.hundred_hours_playtime.name": {
-        "de-DE": "Hundert Stunden Spielzeit",
-        "en-US": "Hundred Hours Playtime"
+        "de-DE": "Arbeitslos I",
+        "en-US": "Unemployement I"
     },
     "ACHIEVEMENT.hundred_hours_playtime.description": {
         "de-DE": "Du hast schon [green]100 Stunden</color> auf [eramc_gradient]EraMC</gradient> verbracht - was eine [green]Leistung</color>!",
@@ -24,8 +24,8 @@
         "en-US": "Spend a total of [green]100 hours</color> on [eramc_gradient]EraMC.</gradient>"
     },
     "ACHIEVEMENT.five_hundred_hours_playtime.name": {
-        "de-DE": "Fünfhundert Stunden Spielzeit",
-        "en-US": "Five Hundred Hours Playtime"
+        "de-DE": "Arbeitslos II",
+        "en-US": "Unemployement II"
     },
     "ACHIEVEMENT.five_hundred_hours_playtime.description": {
         "de-DE": "Wow, du hast schon [green]500 Stunden</color> auf [eramc_gradient]EraMC</gradient> verbracht - das ist eine [green]unglaubliche Leistung</color>!",
@@ -36,8 +36,8 @@
         "en-US": "Spend a total of [green]500 hours</color> on [eramc_gradient]EraMC.</gradient>"
     },
     "ACHIEVEMENT.thousand_hours_playtime.name": {
-        "de-DE": "Tausend Stunden Spielzeit",
-        "en-US": "Thousand Hours Playtime"
+        "de-DE": "Arbeitslos III",
+        "en-US": "Unemployement III"
     },
     "ACHIEVEMENT.thousand_hours_playtime.description": {
         "de-DE": "Unglaublich, du hast schon [green]1000 Stunden</color> auf [eramc_gradient]EraMC</gradient> verbracht - das ist eine [green]außergewöhnliche Leistung</color>!",
@@ -48,8 +48,8 @@
         "en-US": "Spend a total of [green]1000 hours</color> on [eramc_gradient]EraMC.</gradient>"
     },
     "ACHIEVEMENT.profile_10_followers.name": {
-        "de-DE": "10 Profil Follower",
-        "en-US": "10 Profile Followers"
+        "de-DE": "Road to Influencer I",
+        "en-US": "Road to Influencer I"
     },
     "ACHIEVEMENT.profile_10_followers.description": {
         "de-DE": "GGs, du hast bereits [green]10 Follower [yellow][STAR]</color></color> auf deinem Profil - das ist eine [orange]tolle Leistung!</color>",
@@ -60,8 +60,8 @@
         "en-US": "Gain a total of [green]10 followers</color> on your profile."
     },
     "ACHIEVEMENT.profile_10_upvotes.name": {
-        "de-DE": "10 Profil Upvotes",
-        "en-US": "10 Profile Upvotes"
+        "de-DE": "Community-Liebling I",
+        "en-US": "Community Favorite I"
     },
     "ACHIEVEMENT.profile_10_upvotes.description": {
         "de-DE": "Du hast bereits [green]10 Upvotes [darker_red][FLAME]</color></color> auf deinem Profil - sehr schön! Es freut uns zu sehen, dass so viele Leute [gem_purple]dein Profil mögen [HEART]!</color>",
@@ -70,5 +70,77 @@
     "ACHIEVEMENT.profile_10_upvotes.requirement": {
         "de-DE": "Erhalte insgesamt [green]10 Upvotes</color> auf deinem Profil.",
         "en-US": "Gain a total of [green]10 upvotes</color> on your profile."
+    },
+    "ACHIEVEMENT.payall_1.name": {
+        "de-DE": "Im Dienste des Sozialismus",
+        "en-US": "In Service of Socialism"
+    },
+    "ACHIEVEMENT.payall_1.description": {
+        "de-DE": "Du hast [red]allen Spielern</color> [yellow]Geld</color> geschenkt, [green]gut gemacht,</color> Genosse!",
+        "en-US": "You gave [red]all players</color> [yellow]money</color>, [green]well done,</color> comrade!"
+    },
+    "ACHIEVEMENT.payall_1.requirement": {
+        "de-DE": "Gebe allen Spielern mit dem Befehl [yellow]/payall</color> Geld on the [yellow]Economy SMP</color>.",
+        "en-US": "Give all players money with the command [yellow]/payall</color> on the [yellow]Economy SMP</color>."
+    },
+    "ACHIEVEMENT.all_achievements.name": {
+        "de-DE": "Trophäenjäger",
+        "en-US": "Achievement Hunter"
+    },
+    "ACHIEVEMENT.all_achievements.description": {
+        "de-DE": "Du hast alle Achievements erhalten!",
+        "en-US": "You earned all Achievements! Well done!"
+    },
+    "ACHIEVEMENT.all_achievements.requirement": {
+        "de-DE": "Erhalte [green]alle</color> Achievements.",
+        "en-US": "Collect [green]all</color> achievements."
+    },
+    "ACHIEVEMENT.afk_area_1.name": {
+        "de-DE": "Arbeitszeitbetrug",
+        "en-US": "Time Waste"
+    },
+    "ACHIEVEMENT.afk_area_1.description": {
+        "de-DE": "Wenn man halt nichts besseres zu tun hat...",
+        "en-US": "If you have nothing better to do..."
+    },
+    "ACHIEVEMENT.afk_area_1.requirement": {
+        "de-DE": "Verbringe 5h in der [gem_purple]AFK Area</color> auf dem [yellow]Economy SMP</color>.",
+        "en-US": "Spend 5h in the [gem_purple]AFK Area</color> on the [yellow]Economy SMP</color>."
+    },
+    "ACHIEVEMENT.login_streak_1.name": {
+        "de-DE": "Treuer Spieler I",
+        "en-US": "Dedicated Player I"
+    },
+    "ACHIEVEMENT.login_streak_1.description": {
+        "de-DE": "Du hast es geschafft, [green]3 Tage in Folge</color> auf [eramc_gradient]EraMC</gradient> zu spielen!",
+        "en-US": "You managed to play on [eramc_gradient]EraMC</gradient> for [green]3 days in a row</color>!"
+    },
+    "ACHIEVEMENT.login_streak_1.requirement": {
+        "de-DE": "Spiele [green]3 Tage in Folge</color> auf [eramc_gradient]EraMC.</gradient>",
+        "en-US": "Play on [eramc_gradient]EraMC</gradient> for [green]3 days in a row</color>."
+    },
+    "ACHIEVEMENT.login_streak_2.name": {
+        "de-DE": "Treuer Spieler II",
+        "en-US": "Dedicated Player II"
+    },
+    "ACHIEVEMENT.login_streak_2.description": {
+        "de-DE": "Du hast es geschafft, [green]7 Tage in Folge</color> auf [eramc_gradient]EraMC</gradient> zu spielen!",
+        "en-US": "You managed to play on [eramc_gradient]EraMC</gradient> for [green]7 days in a row</color>!"
+    },
+    "ACHIEVEMENT.login_streak_2.requirement": {
+        "de-DE": "Spiele [green]7 Tage in Folge</color> auf [eramc_gradient]EraMC.</gradient>",
+        "en-US": "Play on [eramc_gradient]EraMC</gradient> for [green]7 days in a row</color>."
+    },
+    "ACHIEVEMENT.login_streak_3.name": {
+        "de-DE": "Treuer Spieler III",
+        "en-US": "Dedicated Player III"
+    },
+    "ACHIEVEMENT.login_streak_3.description": {
+        "de-DE": "Du hast es geschafft, [green]30 Tage in Folge</color> auf [eramc_gradient]EraMC</gradient> zu spielen!",
+        "en-US": "You managed to play on [eramc_gradient]EraMC</gradient> for [green]30 days in a row</color>!"
+    },
+    "ACHIEVEMENT.login_streak_3.requirement": {
+        "de-DE": "Spiele [green]30 Tage in Folge</color> auf [eramc_gradient]EraMC.</gradient>",
+        "en-US": "Play on [eramc_gradient]EraMC</gradient> for [green]30 days in a row</color>."
     }
 }
