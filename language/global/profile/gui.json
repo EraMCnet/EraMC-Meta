@@ -48,8 +48,8 @@
         "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to [darker_red]report</color> this profile.</color><br>"
     },
     "MAIN.mctiers.lore": {
-        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um die [blue]MCTiers Statistiken</color> von diesem Spieler zu sehen.</color><br>",
-        "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to view this player's [blue]MCTiers statistics</color>.</color><br>"
+        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um die [blue]Tier Test Statistiken</color> von diesem Spieler zu sehen.</color><br>",
+        "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to view this player's [blue]Tier test statistics</color>.</color><br>"
     },
     "MAIN.socials.name": {
         "de-DE": "<!i>[blue]Soziale Medien</color>",
@@ -82,6 +82,22 @@
     "MCTIERS.profile.lore": {
         "de-DE": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> Discord-ID: [blue][discordid]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Region: [blue][region]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Punkte: [blue][points]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Global: [blue]#[overall]</color></color><br>",
         "en-US": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> Discord ID: [blue][discordid]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Region: [blue][region]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Points: [blue][points]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Overall: [blue]#[overall]</color></color><br>"
+    },
+    "MCTIERS.provider.change.name": {
+        "de-DE": "<!i>[green]Anbieter wechseln</color>",
+        "en-US": "<!i>[green]Change provider</color>"
+    },
+    "MCTIERS.provider.change.lore.mctiers": {
+        "de-DE": "<i:false><br><i:false>[blue]> MCTiers<br><i:false>[grey]  PVPTiers<br><i:false>[grey]  Subtiers<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[blue]> MCTiers<br><i:false>[grey]  PVPTiers<br><i:false>[grey]  Subtiers<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "MCTIERS.provider.change.lore.pvptiers": {
+        "de-DE": "<i:false><br><i:false>[grey]  MCTiers<br><i:false>[blue]> PVPTiers<br><i:false>[grey]  Subtiers<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  MCTiers<br><i:false>[blue]> PVPTiers<br><i:false>[grey]  Subtiers<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "MCTIERS.provider.change.lore.subtiers": {
+        "de-DE": "<i:false><br><i:false>[grey]  MCTiers<br><i:false>[grey]  PVPTiers<br><i:false>[blue]> Subtiers<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  MCTiers<br><i:false>[grey]  PVPTiers<br><i:false>[blue]> Subtiers<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     },
     "REPORT.confirm.lore": {
         "de-DE": "<i:false><br><!i>[green][ARROW]</color> [grey]Willst du das Profil von [era_purple][target]</color> wirklich melden?</color><br>",
