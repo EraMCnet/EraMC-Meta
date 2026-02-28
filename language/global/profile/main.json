@@ -39,8 +39,12 @@
         "de-DE": "[grey]Der angegebene [green]Link</color> enthält Wörter, welche [red]verboten</color> sind! Wenn du denkst, dass das ein [red]Fehler</color> ist, öffne ein Ticket auf unserem [blurple]Discord Server!</color> ([blurple]/discord</color>)</color>",
         "en-US": "[grey]The provided [green]link</color> contains words that are [red]prohibited</color>! If you think this is an [red]error</color>, please open a ticket on our [blurple]Discord server!</color> ([blurple]/discord</color>)</color>"
     },
-    "ACHIEVEMENT.got": {
+    "ACHIEVEMENT.got.title": {
         "de-DE": "Erfolg freigeschaltet",
         "en-US": "Achievement Unlocked"
+    },
+    "ACHIEVEMENT.got.chat": {
+        "de-DE": "[grey]Du hast den Erfolg [era_gradient][achievement]</gradient> freigeschaltet! Schau in deinem Profil vorbei, um [gold_gradient]deine Erfolge</color> anzusehen. <click:run_command:'/profile'>([yellow]/profile</color>)</click></color>",
+        "en-US": "[grey]You have unlocked the achievement [era_gradient][achievement]</gradient>! Check out your profile to view [gold_gradient]your achievements</color>. <click:run_command:'/profile'>([yellow]/profile</color>)</click></color>"
     }
 }
