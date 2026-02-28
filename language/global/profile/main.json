@@ -52,7 +52,7 @@
         "en-US": "[grey][era_purple][follower]</color> is now following you! You now have [green][follows] [yellow][STAR]</color> followers!</color> <click:run_command:'/profile'>([yellow]/profile</color>)</click></color>"
     },
     "UPVOTE.gained": {
-        "de-DE": "[grey][era_purple][upvoter]</color> hat dein Profil positiv bewertet! Du hast jetzt [orange][upvotes] [yellow][HEART]</color></color> upvotes!</color> <click:run_command:'/profile'>([yellow]/profile</color>)</click></color>",
-        "en-US": "[grey][era_purple][upvoter]</color> has upvoted your profile! You now have [orange][upvotes] [yellow][HEART]</color> upvotes! <click:run_command:'/profile'>([yellow]/profile</color>)</click></color>"
+        "de-DE": "[grey][era_purple][upvoter]</color> hat dein Profil positiv bewertet! Du hast jetzt [orange][upvotes] [gem_purple][HEART]</color></color> upvotes!</color> <click:run_command:'/profile'>([yellow]/profile</color>)</click></color>",
+        "en-US": "[grey][era_purple][upvoter]</color> has upvoted your profile! You now have [orange][upvotes] [gem_purple][HEART]</color> upvotes!</color> <click:run_command:'/profile'>([yellow]/profile</color>)</click></color>"
     }
 }
