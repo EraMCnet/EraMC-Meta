@@ -60,20 +60,20 @@
         "en-US": "<!i>[darker_red]Report profile</color>"
     },
     "MAIN.private.toggle.private.name": {
-        "de-DE": "<!i>[yellow]Profil privat schalten</color>",
-        "en-US": "<!i>[yellow]Toggle private profile</color>"
+        "de-DE": "<!i>[darker_red]Profil privat schalten</color>",
+        "en-US": "<!i>[darker_red]Toggle private profile</color>"
     },
     "MAIN.private.toggle.private.lore": {
-        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um dein Profil [yellow]privat</color> zu schalten.</color><br>",
-        "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to toggle your profile [yellow]private</color>.</color><br>"
+        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um dein Profil [darker_red]privat</color> zu schalten.</color><br>",
+        "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to toggle your profile [darker_red]private</color>.</color><br>"
     },
     "MAIN.private.toggle.public.name": {
-        "de-DE": "<!i>[yellow]Profil öffentlich schalten</color>",
-        "en-US": "<!i>[yellow]Toggle public profile</color>"
+        "de-DE": "<!i>[green]Profil öffentlich schalten</color>",
+        "en-US": "<!i>[green]Toggle public profile</color>"
     },
     "MAIN.private.toggle.public.lore": {
-        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um dein Profil [yellow]öffentlich</color> zu schalten.</color><br>",
-        "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to toggle your profile [yellow]public</color>.</color><br>"
+        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um dein Profil [green]öffentlich</color> zu schalten.</color><br>",
+        "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to toggle your profile [green]public</color>.</color><br>"
     },
     "MAIN.report.lore": {
         "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um dieses Profil zu [darker_red]melden.</color></color><br>",
