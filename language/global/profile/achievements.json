@@ -83,18 +83,6 @@
         "de-DE": "Gebe allen Spielern mit dem Befehl [yellow]/payall</color> Geld on the [yellow]Economy SMP</color>.",
         "en-US": "Give all players money with the command [yellow]/payall</color> on the [yellow]Economy SMP</color>."
     },
-    "ACHIEVEMENT.all_achievements.name": {
-        "de-DE": "Trophäenjäger",
-        "en-US": "Achievement Hunter"
-    },
-    "ACHIEVEMENT.all_achievements.description": {
-        "de-DE": "Du hast alle Achievements erhalten!",
-        "en-US": "You earned all Achievements! Well done!"
-    },
-    "ACHIEVEMENT.all_achievements.requirement": {
-        "de-DE": "Erhalte [green]alle</color> Achievements.",
-        "en-US": "Collect [green]all</color> achievements."
-    },
     "ACHIEVEMENT.afk_area_1.name": {
         "de-DE": "Arbeitszeitbetrug",
         "en-US": "Time Waste"
