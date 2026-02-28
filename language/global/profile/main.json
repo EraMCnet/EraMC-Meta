@@ -46,5 +46,13 @@
     "ACHIEVEMENT.got.chat": {
         "de-DE": "[grey]Du hast den Erfolg [eramc_gradient][achievement]</gradient> [green]freigeschaltet!</color> Schau in [era_purple]deinem Profil</color> vorbei, um [gold_gradient]deine Erfolge</gradient> anzusehen. <click:run_command:'/profile'>([yellow]/profile</color>)</click></color>",
         "en-US": "[grey]You have [green]unlocked</color> the achievement [eramc_gradient][achievement]</gradient>! Check out [era_purple]your profile</color> to view [gold_gradient]your achievements</gradient>. <click:run_command:'/profile'>([yellow]/profile</color>)</click></color>"
+    },
+    "FOLLOWER.gained": {
+        "de-DE": "[grey][era_purple][follower]</color> folgt dir jetzt! Du hast jetzt [gem_purple][follows] [yellow][STAR]</color></color> Follower! <click:run_command:'/profile'>([yellow]/profile</color>)</click></color>",
+        "en-US": "[grey][era_purple][follower]</color> is now following you! You now have [gem_purple][follows] [yellow][STAR]</color> followers! <click:run_command:'/profile'>([yellow]/profile</color>)</click></color>"
+    },
+    "UPVOTE.gained": {
+        "de-DE": "[grey][era_purple][upvoter]</color> hat dein Profil positiv bewertet! Du hast jetzt [gem_purple][upvotes] [yellow][STAR]</color> positive Bewertungen! <click:run_command:'/profile'>([yellow]/profile</color>)</click></color>",
+        "en-US": "[grey][era_purple][upvoter]</color> has upvoted your profile! You now have [gem_purple][upvotes] [yellow][STAR]</color> upvotes! <click:run_command:'/profile'>([yellow]/profile</color>)</click></color>"
     }
 }
