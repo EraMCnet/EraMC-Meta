@@ -36,7 +36,7 @@
         "en-US": "<!i>[red]Unfollow</color>"
     },
     "MAIN.unfollow.lore": {
-        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um diesem Spieler nicht mehr zu [red]folgen.</color></color><br>",
+        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um diesem Spieler [red]nicht</color> mehr zu [red]folgen.</color></color><br>",
         "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to [red]unfollow</color> this player.</color><br>"
     },
     "MAIN.report.name": {
