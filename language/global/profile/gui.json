@@ -59,6 +59,22 @@
         "de-DE": "<!i>[darker_red]Profil melden</color>",
         "en-US": "<!i>[darker_red]Report profile</color>"
     },
+    "MAIN.private.toggle.private.name": {
+        "de-DE": "<!i>[yellow]Profil privat schalten</color>",
+        "en-US": "<!i>[yellow]Toggle private profile</color>"
+    },
+    "MAIN.private.toggle.private.lore": {
+        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um dein Profil [yellow]privat</color> zu schalten.</color><br>",
+        "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to toggle your profile [yellow]private</color>.</color><br>"
+    },
+    "MAIN.private.toggle.public.name": {
+        "de-DE": "<!i>[yellow]Profil öffentlich schalten</color>",
+        "en-US": "<!i>[yellow]Toggle public profile</color>"
+    },
+    "MAIN.private.toggle.public.lore": {
+        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um dein Profil [yellow]öffentlich</color> zu schalten.</color><br>",
+        "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to toggle your profile [yellow]public</color>.</color><br>"
+    },
     "MAIN.report.lore": {
         "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um dieses Profil zu [darker_red]melden.</color></color><br>",
         "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to [darker_red]report</color> this profile.</color><br>"
