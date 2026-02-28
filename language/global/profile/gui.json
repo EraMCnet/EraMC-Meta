@@ -7,37 +7,37 @@
         "de-DE": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> Zuerst gesehen: [blue][first_seen]</color><br><!i>[grey][blue][ROUNDDOT]</color> Zuletzt gesehen: [blue][last_seen]</color><br><!i>[grey][blue][ROUNDDOT]</color> Letzter Server: [blue][last_server]</color><br><!i>[grey][blue][ROUNDDOT]</color> Lieblings Servergruppe: [blue][favorite_game_mode]</color><br><!i>[grey][blue][ROUNDDOT]</color> Spielzeit: [blue][playtime]</color><br><!i>[grey][blue][ROUNDDOT]</color> Level: [blue][level]</color><br>",
         "en-US": "<!i><br><!i>[grey][blue][ROUNDDOT]</color> First seen: [blue][first_seen]</color><br><!i>[grey][blue][ROUNDDOT]</color> Last seen: [blue][last_seen]</color><br><!i>[grey][blue][ROUNDDOT]</color> Last server: [blue][last_server]</color><br><!i>[grey][blue][ROUNDDOT]</color> Favorite servergroup: [blue][favorite_game_mode]</color><br><!i>[grey][blue][ROUNDDOT]</color> Playtime: [blue][playtime]</color><br><!i>[grey][blue][ROUNDDOT]</color> Level: [blue][level]</color><br>"
     },
-    "MAIN.like.name": {
-        "de-DE": "<!i>[green]Profil liken</color>",
-        "en-US": "<!i>[green]Like Profile</color>"
+    "MAIN.upvote.name": {
+        "de-DE": "<!i>[green]Profil upvoten</color>",
+        "en-US": "<!i>[green]Upvote Profile</color>"
     },
-    "MAIN.like.lore": {
-        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um das Profil von diesem Spieler zu [green]liken.</color></color><br>",
-        "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to [green]like</color> this player's profile.</color><br>"
+    "MAIN.upvote.lore": {
+        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um das Profil von diesem Spieler zu [green]upvoten.</color></color><br><br><!i>[grey][green][ROUNDDOT]</color> Aktuelle Upvotes: [green][upvotes]</color> [gem_purple][HEART]</color></color><br>",
+        "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to [green]upvote</color> this player's profile.</color><br><br><!i>[grey][green][ROUNDDOT]</color> Current upvotes: [green][upvotes]</color> [gem_purple][HEART]</color></color><br>"
     },
-    "MAIN.unlike.name": {
-        "de-DE": "<!i>[red]Profil like entfernen</color>",
-        "en-US": "<!i>[red]Remove profile like</color>"
+    "MAIN.unupvote.name": {
+        "de-DE": "<!i>[red]Profil Upvote entfernen</color>",
+        "en-US": "<!i>[red]Remove profile upvote</color>"
     },
-    "MAIN.unlike.lore": {
-        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um deinen [green]Like</color> wieder zu [red]entfernen.</color></color><br>",
-        "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to [red]remove</color> your [green]like</color>.</color><br>"
+    "MAIN.unupvote.lore": {
+        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um deinen [green]Upvote</color> wieder zu [red]entfernen.</color></color><br>",
+        "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to [red]remove</color> your [green]upvote</color>.</color><br>"
     },
     "MAIN.follow.name": {
         "de-DE": "<!i>[green]Folgen</color>",
         "en-US": "<!i>[green]Follow</color>"
     },
     "MAIN.follow.lore": {
-        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um diesem Spieler zu [green]folgen.</color></color><br>",
-        "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to [green]follow</color> this player.</color><br>"
+        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um diesem Spieler zu [green]folgen.</color></color><br><br><!i>[grey][green][ROUNDDOT]</color> Aktuelle Follower: [green][follower]</color> [yellow][STAR]</color></color><br>",
+        "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to [green]follow</color> this player.</color><br><br><!i>[grey][green][ROUNDDOT]</color> Current followers: [green][follower]</color> [yellow][STAR]</color></color><br>"
     },
     "MAIN.unfollow.name": {
         "de-DE": "<!i>[red]Entfolgen</color>",
         "en-US": "<!i>[red]Unfollow</color>"
     },
     "MAIN.unfollow.lore": {
-        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um diesem Spieler [red]nicht</color> mehr zu [red]folgen.</color></color><br>",
-        "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to [red]unfollow</color> this player.</color><br>"
+        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke hier, um diesem Spieler [red]nicht</color> mehr zu [red]folgen.</color></color><br><br><!i>[grey][green][ROUNDDOT]</color> Aktuelle Follower: [green][follower]</color> [yellow][STAR]</color></color><br>",
+        "en-US": "<br><!i>[grey][blue][ARROW]</color> Click here to [red]unfollow</color> this player.</color><br><br><!i>[grey][green][ROUNDDOT]</color> Current followers: [green][follower]</color> [yellow][STAR]</color></color><br>"
     },
     "MAIN.report.name": {
         "de-DE": "<!i>[darker_red]Profil melden</color>",
