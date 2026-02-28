@@ -44,7 +44,7 @@
         "en-US": "Achievement Unlocked"
     },
     "ACHIEVEMENT.got.chat": {
-        "de-DE": "[grey]Du hast den Erfolg [era_gradient][achievement]</gradient> freigeschaltet! Schau in deinem Profil vorbei, um [gold_gradient]deine Erfolge</gradient> anzusehen. <click:run_command:'/profile'>([yellow]/profile</color>)</click></color>",
-        "en-US": "[grey]You have unlocked the achievement [era_gradient][achievement]</gradient>! Check out your profile to view [gold_gradient]your achievements</gradient>. <click:run_command:'/profile'>([yellow]/profile</color>)</click></color>"
+        "de-DE": "<br>[grey]Du hast den Erfolg [era_gradient][achievement]</gradient> [green]freigeschaltet!</color> Schau in [era_purple]deinem Profil</color> vorbei, um [gold_gradient]deine Erfolge</gradient> anzusehen. <click:run_command:'/profile'>([yellow]/profile</color>)</click></color><br>",
+        "en-US": "<br>[grey]You have [green]unlocked/color> the achievement [era_gradient][achievement]</gradient>! Check out [era_purple]your profile</color> to view [gold_gradient]your achievements</gradient>. <click:run_command:'/profile'>([yellow]/profile</color>)</click></color><br>"
     }
 }
