@@ -27,7 +27,7 @@
         "en-US": "[grey]There is already a [gem_purple]voucher</color> with the code [darker_redcodename]</color>!</color>",
         "de-DE": "[grey]Es gibt bereits einen [gem_purple]Gutschein</color> mit dem code [darker_red][code]</color>!</color>"
     },
-    "ERROR.voucher.only_use_on_servergroup": {
+    "ERROR.redeem.only_use_on_servergroup": {
         "en-US": "[grey]This [gem_purple]voucher</color> can only be used on the server group [darker_red][servergroup]</color>!</color>",
         "de-DE": "[grey]Dieser [gem_purple]Gutschein</color> kann nur auf der Servergruppe [darker_red][servergroup]</color> verwendet werden!</color>"
     },
