@@ -11,6 +11,10 @@
         "en-US": "[grey]There is [darker_red]no</color> [gem_purple]voucher</color> with the name [darker_red][name]</color>!</color>",
         "de-DE": "[grey]Es gibt [darker_red]keinen</color> [gem_purple]Gutschein</color> mit dem Namen [darker_red][name]</color>!</color>"
     },
+    "ERROR.voucher_not_found_code": {
+        "en-US": "[grey]There is [darker_red]no</color> [gem_purple]voucher</color> with the code [darker_red][code]</color>!</color>",
+        "de-DE": "[grey]Es gibt [darker_red]keinen</color> [gem_purple]Gutschein</color> mit dem Code [darker_red][code]</color>!</color>"
+    },
     "ERROR.voucher_already_exists": {
         "en-US": "[grey]There is already a [gem_purple]voucher</color> with the name [darker_red][name]</color>!</color>",
         "de-DE": "[grey]Es gibt bereits einen [gem_purple]Gutschein</color> mit dem Namen [darker_red][name]</color>!</color>"
