@@ -27,6 +27,10 @@
         "en-US": "[grey]There is already a [gem_purple]voucher</color> with the code [darker_redcodename]</color>!</color>",
         "de-DE": "[grey]Es gibt bereits einen [gem_purple]Gutschein</color> mit dem code [darker_red][code]</color>!</color>"
     },
+    "SUCCESS.redeem": {
+        "en-US": "[grey][green]Successfully</color> redeemed the [gem_purple]voucher</color> with code [yellow][code]</color>!</color>",
+        "de-DE": "[grey]Du hast den [gem_purple]Gutschein</color> mit dem Code [yellow][code]</color> [green]erfolgreich</color> eingelöst!</color>"
+    },
     "SUCCESS.admin.delete": {
         "en-US": "[grey][green]Successfully</color> [red]deleted</color> the [gem_purple]voucher</color> with name [green][name]</color>!</color>",
         "de-DE": "[grey]Du hast den [gem_purple]Gutschein</color> mit dem Namen [green][name]</color> [green]erfolgreich</color> [red]gelöscht</color>!</color>"
