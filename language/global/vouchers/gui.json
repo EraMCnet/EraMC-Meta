@@ -1,0 +1,6 @@
+{
+    "GUI.admin_list.voucher.lore": {
+        "en-US": "<br><!i>[grey][gem_purple][ROUNDDOT]</color> Code: [gem_purple][code]</color></color><br>[grey][gem_purple][ROUNDDOT]</color> Name: [gem_purple][name]</color></color><br>[grey][gem_purple][ROUNDDOT]</color> Type: [gem_purple][type]</color></color><br>[grey][gem_purple][ROUNDDOT]</color> Uses: [yellow][uses]</color> / [green][max_uses]</color></color><br>[grey][gem_purple][ROUNDDOT]</color> Data: [gem_purple][data]</color></color><br>",
+        "de-DE": "<br><!i>[grey][gem_purple][ROUNDDOT]</color> Code: [gem_purple][code]</color></color><br>[grey][gem_purple][ROUNDDOT]</color> Name: [gem_purple][name]</color></color><br>[grey][gem_purple][ROUNDDOT]</color> Typ: [gem_purple][type]</color></color><br>[grey][gem_purple][ROUNDDOT]</color> Verwendungen: [yellow][uses]</color> / [green][max_uses]</color></color><br>[grey][gem_purple][ROUNDDOT]</color> Daten: [gem_purple][data]</color></color><br>"
+    }
+}
