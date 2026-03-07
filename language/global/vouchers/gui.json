@@ -2,5 +2,9 @@
     "GUI.admin_list.voucher.lore": {
         "en-US": "<br><!i>[grey][gem_purple][ROUNDDOT]</color> Code: [gem_purple][code]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Name: [gem_purple][name]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Expires: [gem_purple][expiration]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Type: [gem_purple][type]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Uses: [yellow][uses]</color> / [green][max_uses]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Data:</color><br>[data]<br>",
         "de-DE": "<br><!i>[grey][gem_purple][ROUNDDOT]</color> Code: [gem_purple][code]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Name: [gem_purple][name]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Läuft ab: [gem_purple][expiration]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Typ: [gem_purple][type]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Verwendungen: [yellow][uses]</color> / [green][max_uses]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Daten:</color><br>[data]<br>"
+    },
+    "GUI.inventory.title": {
+        "en-US": "<!i>Vouchers",
+        "de-DE": "<!i>Gutscheine"
     }
 }
