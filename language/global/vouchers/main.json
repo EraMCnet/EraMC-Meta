@@ -20,8 +20,8 @@
         "de-DE": "[grey]Es gibt bereits einen [gem_purple]Gutschein</color> mit dem Namen [darker_red][name]</color>!</color>"
     },
     "ERROR.redeem": {
-        "en-US": "[grey]You [darker_red]cannot</color> redeem this [gem_purple]voucher</color> because it may be [darker_red]expired</color> or is [darker_red]invalid</color>!</color>",
-        "de-DE": "[grey]Du kannst diesen [gem_purple]Gutschein</color> [darker_red]nicht</color> einlösen, da er möglicherweise [darker_red]abgelaufen</color> oder [darker_red]ungültig</color> ist!</color>"
+        "en-US": "[grey]You [darker_red]cannot</color> redeem this [gem_purple]voucher</color> because it may be [darker_red]expired</color>, is [darker_red]invalid</color> or you've [darker_red]already used</color> it!</color>",
+        "de-DE": "[grey]Du kannst diesen [gem_purple]Gutschein</color> [darker_red]nicht</color> einlösen, da er möglicherweise [darker_red]abgelaufen</color> oder [darker_red]ungültig</color> ist! Vielleicht hast du diesen [gem_purple]Gutschein</color> aber auch [darker_red]schon verwendet?</color></color>"
     },
     "ERROR.voucher_already_exists_code": {
         "en-US": "[grey]There is already a [gem_purple]voucher</color> with the code [darker_redcodename]</color>!</color>",
