@@ -6,5 +6,61 @@
     "GUI.inventory.title": {
         "en-US": "<!i>Vouchers",
         "de-DE": "<!i>Gutscheine"
+    },
+    "GUI.inventory.voucher.xp.name": {
+        "en-US": "<!i>[gem_purple]Experience Voucher",
+        "de-DE": "<!i>[gem_purple]Erfahrungsgutschein"
+    },
+    "GUI.inventory.voucher.xp.lore": {
+        "en-US": "<br><!i>[grey]This [gem_purple]vouchery</color> gives you [era_purple][amount] [gem_purple][system]</color> XP</color></color>!<br><br><!i>[green][ARROW]</color> Click to redeem!</color><br>",
+        "de-DE": "<br><!i>[grey]Dieser [gem_purple]Gutschein</color> gibt dir [era_purple][amount] [gem_purple][system]</color> XP</color></color>!<br><br><!i>[green][ARROW]</color> Klicke, um einzulösen!</color><br>"
+    },
+    "GUI.inventory.voucher.shards.name": {
+        "en-US": "<!i>[purple]Shards Voucher",
+        "de-DE": "<!i>[purple]Shard-Gutschein"
+    },
+    "GUI.inventory.voucher.gems.lore": {
+        "en-US": "<br><!i>[grey]This [gem_purple]voucher</color> gives you [purple][amount] Shards</color></color>!<br><br><!i>[green][ARROW]</color> Click to redeem!</color><br>",
+        "de-DE": "<br><!i>[grey]Dieser [gem_purple]Gutschein</color> gibt dir [purple][amount] Shards</color></color>!<br><br><!i>[green][ARROW]</color> Klicke, um einzulösen!</color><br>"
+    },
+    "GUI.inventory.voucher.gems.name": {
+        "en-US": "<!i>[gem_purple]Gems Voucher",
+        "de-DE": "<!i>[gem_purple]Gems-Gutschein"
+    },
+    "GUI.inventory.voucher.shards.lore": {
+        "en-US": "<br><!i>[grey]This [gem_purple]voucher</color> gives you [gem_purple][amount] Gems</color></color>!<br><br><!i>[green][ARROW]</color> Click to redeem!</color><br>",
+        "de-DE": "<br><!i>[grey]Dieser [gem_purple]Gutschein</color> gibt dir [gem_purple][amount] Gems</color></color>!<br><br><!i>[green][ARROW]</color> Klicke, um einzulösen!</color><br>"
+    },
+    "GUI.inventory.voucher.smp-money.name": {
+        "en-US": "<!i>[green]Money Voucher",
+        "de-DE": "<!i>[green]Geld-Gutschein"
+    },
+    "GUI.inventory.voucher.smp-money.lore": {
+        "en-US": "<br><!i>[grey]This [gem_purple]voucher</color> gives you [green]$[amount]</color></color>!<br><br><!i>[green][ARROW]</color> Click to redeem!</color><br>",
+        "de-DE": "<br><!i>[grey]Dieser [gem_purple]Gutschein</color> gibt dir [green]$[amount] Geld</color></color>!<br><br><!i>[green][ARROW]</color> Klicke, um einzulösen!</color><br>"
+    },
+    "GUI.inventory.voucher.temp-rank.name": {
+        "en-US": "<!i>[yellow]Temporary Rank Voucher",
+        "de-DE": "<!i>[yellow]Temporärer Rang-Gutschein"
+    },
+    "GUI.inventory.voucher.temp-rank.lore": {
+        "en-US": "<br><!i>[grey]This [gem_purple]voucher</color> gives you the <reset>[rank]</reset> [yellow]rank</color> for [yellow][duration]</color></color>!<br><br><!i>[green][ARROW]</color> Click to redeem!</color><br>",
+        "de-DE": "<br><!i>[grey]Dieser [gem_purple]Gutschein</color> gibt dir den <reset>[rank]</reset> [yellow]Rang</color> für [yellow][duration]</color></color>!<br><br><!i>[green][ARROW]</color> Klicke, um einzulösen!</color><br>"
+    },
+    "GUI.inventory.voucher.perm-rank.name": {
+        "en-US": "<!i>[yellow]Permanent Rank Voucher",
+        "de-DE": "<!i>[yellow]Permanenter Rang-Gutschein"
+    },
+    "GUI.inventory.voucher.perm-rank.lore": {
+        "en-US": "<br><!i>[grey]This [gem_purple]voucher</color> gives you the <reset>[rank]</reset> [yellow]rank</color> permanently!</color><br><br><!i>[green][ARROW]</color> Click to redeem!</color><br>",
+        "de-DE": "<br><!i>[grey]Dieser [gem_purple]Gutschein</color> gibt dir den <reset>[rank]</reset> [yellow]Rang</color> permanent!</color><br><br><!i>[green][ARROW]</color> Klicke, um einzulösen!</color><br>"
+    },
+    "GUI.inventory.voucher.badge.name": {
+        "en-US": "<!i>[purple]Badge Voucher",
+        "de-DE": "<!i>[purple]Abzeichen-Gutschein"
+    },
+    "GUI.inventory.voucher.orange.lore": {
+        "en-US": "<br><!i>[grey]This [gem_purple]voucher</color> gives you the [orange]badge</color> [eramc_gradient][badge]</gradient>!</color><br><br><!i>[green][ARROW]</color> Click to redeem!</color><br>",
+        "de-DE": "<br><!i>[grey]Dieser [gem_purple]Gutschein</color> gibt dir das [orange]Abzeichen</color> [eramc_gradient][badge]</gradient>!</color><br><br><!i>[green][ARROW]</color> Klicke, um einzulösen!</color><br>"
     }
 }
