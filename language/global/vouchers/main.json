@@ -1,0 +1,18 @@
+{
+    "ERROR.admin.invalid_voucher_type": {
+        "en-US": "[grey]The [purple]voucher</color> type [darker_red][type]</color> does [darker_red]not</color> exist!</color>",
+        "de-DE": "[grey]Der [purple]Gutschein-Typ</color> [darker_red][type]</color> existiert [darker_red]nicht</color>!"
+    },
+    "SUCCESS.admin.create": {
+        "en-US": "[grey]Successfully created [purple]voucher</color> with code [green][code]</color>, name [mint_green_light][name]</color>, type [orange][type]</color> and flags [purple][flags]</color>!</color>",
+        "de-DE": "[grey][purple]Gutschein</color> mit Code [green][code]</color>, Name [mint_green_light][name]</color>, Typ [orange][type]</color> und Flags [purple][flags]</color> erfolgreich erstellt!</color>"
+    },
+    "ERROR.voucher_not_found": {
+        "en-US": "[grey]There is [darker_red]no</color> [purple]voucher</color> with the name [darker_red][name]</color>!</color>",
+        "de-DE": "[grey]Es gibt [darker_red]keinen</color> [purple]Gutschein</color> mit dem Namen [darker_red][name]</color>!</color>"
+    },
+    "SUCCESS.admin.delete": {
+        "en-US": "[grey][green]Successfully</color> [red]deleted</color> the [purple]voucher</color> with name [green][name]</color>!</color>",
+        "de-DE": "[grey]Du hast den [purple]Gutschein</color> mit dem Namen [green][name]</color> [green]erfolgreich</color> [red]gelöscht</color>!</color>"
+    }
+}
