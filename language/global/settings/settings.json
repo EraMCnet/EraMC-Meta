@@ -1,7 +1,7 @@
 {
     "chat_disabled.name": {
-        "de-DE": "Chat deaktiviert",
-        "en-US": "Chat disabled"
+        "de-DE": "Chat",
+        "en-US": "Chat"
     },
     "chat_disabled.lore.true": {
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, ob du den [blue]globalen Chat</color> sehen möchtest.</color><br><br><!i>[grey][blue][ARROW]</color> Klicke um diese [blue]Einstellung</color> zu [red]deaktivieren</color>!</color>",
@@ -12,8 +12,8 @@
         "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set whether you want to see the [blue]global chat</color>.<br><br><!i>[grey][blue][ARROW]</color> Click to [green]enable</color> this [blue]setting</color>!</color>"
     },
     "scoreboard_disabled.name": {
-        "de-DE": "Scoreboard deaktiviert",
-        "en-US": "Scoreboard disabled"
+        "de-DE": "Scoreboard",
+        "en-US": "Scoreboard"
     },
     "scoreboard_disabled.lore.true": {
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, ob du das [blue]Scoreboard</color> sehen möchtest.</color><br><br><!i>[grey][blue][ARROW]</color> Klicke um diese [blue]Einstellung</color> zu [red]deaktivieren</color>!</color>",
@@ -64,7 +64,7 @@
         "en-US": "TPAuto"
     },
     "worth_display.name": {
-        "de-DE": "Worth-Anzeige",
+        "de-DE": "Item Wert Anzeige",
         "en-US": "Worth display"
     },
     "duels.name": {
