@@ -27,6 +27,94 @@
         "de-DE": "Private Nachrichten",
         "en-US": "Private messages"
     },
+    "private_messages.name": {
+        "de-DE": "Private Nachrichten",
+        "en-US": "Private messages"
+    },
+    "friend_requests.name": {
+        "de-DE": "Freundesanfragen",
+        "en-US": "Friend requests"
+    },
+    "friend_online_messages.name": {
+        "de-DE": "Freund-Online-Nachrichten",
+        "en-US": "Friend online messages"
+    },
+    "guild_join_requests.name": {
+        "de-DE": "Gilden-Beitrittsanfragen",
+        "en-US": "Guild join requests"
+    },
+    "clan_join_requests.name": {
+        "de-DE": "Clan-Beitrittsanfragen",
+        "en-US": "Clan join requests"
+    },
+    "tpa.name": {
+        "de-DE": "TPA-Anfragen",
+        "en-US": "TPA requests"
+    },
+    "tp_here.name": {
+        "de-DE": "TPHERE-Anfragen",
+        "en-US": "TPHERE requests"
+    },
+    "pay.name": {
+        "de-DE": "Geld senden",
+        "en-US": "Send money"
+    },
+    "tpauto.name": {
+        "de-DE": "TPAuto",
+        "en-US": "TPAuto"
+    },
+    "worth_display.name": {
+        "de-DE": "Worth-Anzeige",
+        "en-US": "Worth display"
+    },
+    "duels.name": {
+        "de-DE": "Duelle",
+        "en-US": "Duels"
+    },
+    "duel_spectate.name": {
+        "de-DE": "Duel-Zuschauer",
+        "en-US": "Duel spectate"
+    },
+    "ender_chest_view.name": {
+        "de-DE": "Enderchest-Zugriff",
+        "en-US": "Ender chest access"
+    },
+    "auction_alerts.name": {
+        "de-DE": "Auktions-Benachrichtigungen",
+        "en-US": "Auction alerts"
+    },
+    "order_alerts.name": {
+        "de-DE": "Order-Benachrichtigungen",
+        "en-US": "Order alerts"
+    },
+    "explosion_particles.name": {
+        "de-DE": "Explosions-Partikel",
+        "en-US": "Explosion particles"
+    },
+    "explosion_sounds.name": {
+        "de-DE": "Explosions-Sounds",
+        "en-US": "Explosion sounds"
+    },
+    "totem_particles.name": {
+        "de-DE": "Totem-Partikel",
+        "en-US": "Totem particles"
+    },
+    "player_visibility.name": {
+        "de-DE": "Spielersichtbarkeit",
+        "en-US": "Player visibility"
+    },
+    "player_visibility_exclusions.name": {
+        "de-DE": "Sichtbarkeits-Ausnahmen",
+        "en-US": "Visibility exclusions"
+    },
+    "party_invites.name": {
+        "de-DE": "Party-Einladungen",
+        "en-US": "Party invites"
+    },
+    "party_join_requests.name": {
+        "de-DE": "Party-Beitritte",
+        "en-US": "Party join requests"
+    },
     "private_messages.lore.all": {
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, von wem du [blue]private Nachrichten</color> erhalten möchtest.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell kann dir [green]jeder</color> [blue]private Nachrichten</color> schreiben!</color>",
         "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can send you [blue]private messages</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, [green]everyone</color> can send you [blue]private messages</color>!</color>"
