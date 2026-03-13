@@ -374,5 +374,41 @@
     "party_join_requests.lore.none": {
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer deiner [blue]Party beitreten</color> darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell darf [darker_red]niemand</color> deiner [blue]Party beitreten</color>!</color>",
         "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can [blue]join your party</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, [darker_red]no one</color> can [blue]join your party</color>!</color>"
+    },
+    "value.true": {
+        "de-DE": "Aktiviert",
+        "en-US": "Enabled"
+    },
+    "value.false": {
+        "de-DE": "Deaktiviert",
+        "en-US": "Disabled"
+    },
+    "value.all": {
+        "de-DE": "Jeder",
+        "en-US": "Everyone"
+    },
+    "value.friends": {
+        "de-DE": "Freunde",
+        "en-US": "Friends"
+    },
+    "value.clan": {
+        "de-DE": "Clan",
+        "en-US": "Clan"
+    },
+    "value.guild": {
+        "de-DE": "Gilde",
+        "en-US": "Guild"
+    },
+    "value.none": {
+        "de-DE": "Niemand",
+        "en-US": "No one"
+    },
+    "value.smart": {
+        "de-DE": "Smart",
+        "en-US": "Smart"
+    },
+    "value.strict": {
+        "de-DE": "Strikt",
+        "en-US": "Strict"
     }
 }
