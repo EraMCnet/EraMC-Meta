@@ -376,39 +376,39 @@
         "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can [blue]join your party</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, [darker_red]no one</color> can [blue]join your party</color>!</color>"
     },
     "value.true": {
-        "de-DE": "Aktiviert",
-        "en-US": "Enabled"
+        "de-DE": "<!i><b>[green][HEAVY_CHECK_MARK] Aktiviert</color></b>",
+        "en-US": "<!i><b>[green][HEAVY_CHECK_MARK] Enabled</color></b>"
     },
     "value.false": {
-        "de-DE": "Deaktiviert",
-        "en-US": "Disabled"
+        "de-DE": "<!i><b>[red][HEAVY_CROSS_MARK] Deaktiviert</color></b>",
+        "en-US": "<!i><b>[red][HEAVY_CROSS_MARK] Disabled</color></b>"
     },
     "value.all": {
-        "de-DE": "Jeder",
-        "en-US": "Everyone"
+        "de-DE": "<!i><b>[green][HEAVY_CHECK_MARK] Jeder</color></b>",
+        "en-US": "<!i><b>[green][HEAVY_CHECK_MARK] Everyone</color></b>"
     },
     "value.friends": {
-        "de-DE": "Freunde",
-        "en-US": "Friends"
+        "de-DE": "<!i><b>[purple][HEART] Freunde</color></b>",
+        "en-US": "<!i><b>[purple][HEART] Friends</color></b>"
     },
     "value.clan": {
-        "de-DE": "Clan",
-        "en-US": "Clan"
+        "de-DE": "<!i><b>[blue][SWORD] Clan</color></b>",
+        "en-US": "<!i><b>[blue][SWORD] Clan</color></b>"
     },
     "value.guild": {
-        "de-DE": "Gilde",
-        "en-US": "Guild"
+        "de-DE": "<!i><b>[yellow][STAR] Gilde</color></b>",
+        "en-US": "<!i><b>[yellow][STAR] Guild</color></b>"
     },
     "value.none": {
-        "de-DE": "Niemand",
-        "en-US": "No one"
+        "de-DE": "<!i><b>[red][HEAVY_CROSS_MARK] Niemand</color></b>",
+        "en-US": "<!i><b>[red][HEAVY_CROSS_MARK] No one</color></b>"
     },
     "value.smart": {
-        "de-DE": "Smart",
-        "en-US": "Smart"
+        "de-DE": "<!i><b>[blue][FLOPPY_DISK] Smart</color></b>",
+        "en-US": "<!i><b>[blue][FLOPPY_DISK] Smart</color></b>"
     },
     "value.strict": {
-        "de-DE": "Strikt",
-        "en-US": "Strict"
+        "de-DE": "<!i><b>[darker_red][SWORDS] Strikt</color></b>",
+        "en-US": "<!i><b>[darker_red][SWORDS] Strict</color></b>"
     }
 }
