@@ -319,9 +319,9 @@
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, ob [blue]Totem-Partikel</color> angezeigt werden sollen.</color><br><br><!i>[grey][blue][ARROW]</color> Klicke um diese [blue]Einstellung</color> zu [green]aktivieren</color>!</color>",
         "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set whether [blue]totem particles</color> should be shown.<br><br><!i>[grey][blue][ARROW]</color> Click to [green]enable</color> this [blue]setting</color>!</color>"
     },
-    "player_visibility.lore.false": {
-        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wie [blue]Spieler angezeigt</color> werden.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell werden [darker_red]keine Spieler</color> angezeigt.</color>",
-        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set how [blue]players are displayed</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, [darker_red]no players</color> are shown.</color>"
+    "player_visibility.lore.true": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wie [blue]Spieler angezeigt</color> werden.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell ist [green]volle Sichtbarkeit</color> aktiviert.</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set how [blue]players are displayed</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, [green]full visibility</color> is enabled.</color>"
     },
     "player_visibility.lore.smart": {
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wie [blue]Spieler angezeigt</color> werden.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell ist [blue]smarte Sichtbarkeit</color> aktiviert.</color>",
