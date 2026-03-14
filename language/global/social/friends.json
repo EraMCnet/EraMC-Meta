@@ -75,6 +75,10 @@
         "de-DE": "[grey][era_purple][player]</color> hat dir [red]keine</color> [era_purple]Freundschaftsanfrage</color> gesendet, die du annehmen könntest!</color>",
         "en-US": "[grey][era_purple][player]</color> has [red]not</color> sent you a [era_purple]friend request</color> that you could accept!</color>"
     },
+    "ERROR.friend.no.request.deny": {
+        "de-DE": "[grey][era_purple][player]</color> hat dir [red]keine</color> [era_purple]Freundschaftsanfrage</color> gesendet, die du ablehnen könntest!</color>",
+        "en-US": "[grey][era_purple][player]</color> has [red]not</color> sent you a [era_purple]friend request</color> that you could deny!</color>"
+    },
     "ERROR.friend.request.pending": {
         "de-DE": "[grey]Du hast [era_purple][player]</color> [red]bereits eine</color> [era_purple]Freundschaftsanfrage</color> gesendet!</color>",
         "en-US": "[grey]You have [red]already</color> sent a [era_purple]friend request</color> to [era_purple][player]!</color></color>"
