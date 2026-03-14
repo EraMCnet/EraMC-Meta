@@ -121,7 +121,7 @@
     },
     "private_messages.lore.friends": {
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, von wem du [blue]private Nachrichten</color> erhalten möchtest.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell können dir nur deine [purple]Freunde</color> [blue]private Nachrichten</color> schreiben!</color>",
-        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can send you [blue]private messages</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [darker_red]friends</color> can send you [purple]private messages</color>!</color>"
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can send you [blue]private messages</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [purple]friends</color> can send you [blue]private messages</color>!</color>"
     },
     "private_messages.lore.none": {
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, von wem du [blue]private Nachrichten</color> erhalten möchtest.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell kann dir [darker_red]niemand</color> [blue]private Nachrichten</color> schreiben!</color>",
