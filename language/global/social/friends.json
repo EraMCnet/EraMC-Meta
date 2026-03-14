@@ -79,10 +79,6 @@
         "de-DE": "[grey]Du hast [era_purple][player]</color> [red]bereits eine</color> [era_purple]Freundschaftsanfrage</color> gesendet!</color>",
         "en-US": "[grey]You have [red]already</color> sent a [era_purple]friend request</color> to [era_purple][player]!</color></color>"
     },
-    "ERROR.friend.request.pending.other": {
-        "de-DE": "[grey][era_purple][player]</color> hat [era_purple]DIR</color> [red]bereits eine</color> [era_purple]Freundschaftsanfrage</color> gesendet!</color>",
-        "en-US": "[grey][era_purple][player]</color> [red]already</color> sent a [era_purple]friend request</color> to [era_purple]YOU!</color></color>"
-    },
     "ERROR.friend.request.disabled": {
         "de-DE": "[grey][era_purple][player]</color> hat [era_purple]Freundschaftsanfragen</color> [red]deaktiviert!</color></color>",
         "en-US": "[grey][era_purple][player]</color> has [era_purple]friend requests</color> [red]disabled!</color></color>"
