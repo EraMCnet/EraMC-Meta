@@ -250,5 +250,17 @@
     "GENERAL.setting.requests.disable": {
         "de-DE": "[grey]Du hast [era_purple]Freundschaftsanfragen</color> jetzt [red]deaktiviert!</color></color>",
         "en-US": "[grey]You have [era_purple]friend requests</color> now [red]disabled!</color></color>"
+    },
+    "GUI.friend.offline": {
+        "de-DE": "[grey]ist aktuell [darker_red]offline</color></color><br><br><!i>[grey][blue][ROUNDDOT]</color> Netzwerk Level: [blue][level]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Netzwerk XP: [blue][xp]</color></color><br><br><!i>[grey]zuletzt online vor [blue][last-online]</color></color>",
+        "en-US": "[grey]is currently [darker_red]offline</color></color><br><br><!i>[grey][blue][ROUNDDOT]</color> Network Level: [blue][level]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Network XP: [blue][xp]</color></color><br><br><!i>[grey]last online [blue][last-online]</color> ago</color>"
+    },
+    "GUI.friend.online": {
+        "de-DE": "[grey]ist aktuell [green]online</color></color><br><br><!i>[grey][blue][ROUNDDOT]</color> Netzwerk Level: [blue][level]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Netzwerk XP: [blue][xp]</color></color><br><br><!i>[grey]ist online auf [blue][server]</color></color>",
+        "en-US": "[grey]is currently [green]online</color></color><br><br><!i>[grey][blue][ROUNDDOT]</color> Network Level: [blue][level]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Network XP: [blue][xp]</color></color><br><br><!i>[grey]is online on [blue][server]</color></color>"
+    },
+    "GUI.friend.online.ingame": {
+        "de-DE": "[grey]ist aktuell [green]online</color></color><br><br><!i>[grey][blue][ROUNDDOT]</color> Netzwerk Level: [blue][level]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Netzwerk XP: [blue][xp]</color></color><br><br><!i>[grey]currently playing [blue][gamemode]</color></color>",
+        "en-US": "[grey]is currently [green]online</color></color><br><br><!i>[grey][blue][ROUNDDOT]</color> Network Level: [blue][level]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Network XP: [blue][xp]</color></color><br><br><!i>[grey]is online on [blue][gamemode]</color></color>"
     }
 }
