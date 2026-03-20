@@ -56,8 +56,8 @@
         "en-US": "[grey]Your friend [era_purple][player]</color> is now [green]online!</color></color>"
     },
     "GENERAL.friend.leave.server": {
-        "de-DE": "[grey]Dein Freund [era_purple][player]</color> hat den Server [red]verlassen.</color></color>",
-        "en-US": "[grey]Your friend [era_purple][player]</color> has left the [red]server.</color></color>"
+        "de-DE": "[grey]Dein Freund [era_purple][player]</color> ist jetzt [red]offline!</color></color>",
+        "en-US": "[grey]Your friend [era_purple][player]</color> is now [red]offline!</color></color>"
     },
     "GENERAL.friend.switch.server": {
         "de-DE": "[grey]Dein Freund [era_purple][player]</color> spielt jetzt auf [era_purple][server]!</color></color>",
