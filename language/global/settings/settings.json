@@ -410,5 +410,17 @@
     "value.strict": {
         "de-DE": "<!i><b>[darker_red][SWORDS] Strikt</color></b>",
         "en-US": "<!i><b>[darker_red][SWORDS] Strict</color></b>"
+    },
+    "server_messages_in_actionbar.name": {
+        "de-DE": "Servernachrichten in der Actionbar",
+        "en-US": "Server messages in actionbar"
+    },
+    "server_messages_in_actionbar.lore.true": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, ob [blue]Servernachrichten</color> in der Actionbar angezeigt werden sollen.</color><br><br><!i>[grey][blue][ARROW]</color> Klicke um diese [blue]Einstellung</color> zu [red]deaktivieren</color>!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set whether [blue]server messages</color> should be shown in the actionbar.<br><br><!i>[grey][blue][ARROW]</color> Click to [red]disable</color> this [blue]setting</color>!</color>"
+    },
+    "server_messages_in_actionbar.lore.false": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, ob [blue]Servernachrichten</color> in der Actionbar angezeigt werden sollen.</color><br><br><!i>[grey][blue][ARROW]</color> Klicke um diese [blue]Einstellung</color> zu [green]aktivieren</color>!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set whether [blue]server messages</color> should be shown in the actionbar.<br><br><!i>[grey][blue][ARROW]</color> Click to [green]enable</color> this [blue]setting</color>!</color>"
     }
 }
