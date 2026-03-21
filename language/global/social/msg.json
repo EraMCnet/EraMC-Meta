@@ -1,7 +1,7 @@
 {
     "ERROR.msg.friends": {
-        "de-DE": "[grey]Du musst mit [era_purple][player]</color> [yellow]befreundet</color> sein, um mit ihm zu chatten!</color>",
-        "en-US": "[grey]You have to be [yellow]friends</color> with [era_purple][player]</color> to chat with him!</color>"
+        "de-DE": "[grey]Um zu chatten musst du mit [era_purple][player]</color> [yellow]befreundet</color> sein!</color>",
+        "en-US": "[grey]To chat you need to be [yellow]friends</color> with [era_purple][player]</color>!</color>"
     },
     "ERROR.msg.friends.self": {
         "de-DE": "[grey]Du kannst [red]nur</color> mit deinen [era_purple]Freunden</color> chatten!</color>",
