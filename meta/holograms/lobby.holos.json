@@ -18,9 +18,9 @@
         "text_opacity": "255",
         "billboard": "vertical",
         "default_background": "false",
-        "scale-x": "0.7",
-        "scale-y": "0.7",
-        "scale-z": "0.7"
+        "scale-x": "1.0",
+        "scale-y": "1.0",
+        "scale-z": "1.0"
     },
     "holo.lobby.gamemode.eco-smp": {
         "de-DE": "<grey>[players] ѕᴘɪᴇʟᴇʀ ᴏɴʟɪɴᴇ</grey><br><b>[gold_gradient]ECONOMY SWORD SMP</gradient></b><br>[grey]KLICKE ZUM [pastel_yellow]SPIELEN</color></color>",
