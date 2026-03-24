@@ -1,11 +1,11 @@
 {
     "holo.lobby.social.discord": {
-        "de-DE": "<b>[blurple]DISCORD</color></b><br>[grey]Trete unserem [blurple]Discord Server</color> beim um nichts mehr zu verpassen!/color><br>[blurple]/ᴅɪѕᴄᴏʀᴅ</color>",
-        "en-US": "<b>[blurple]DISCORD</color></b><br>[grey]Join our [blurple]Discord Server</color> to never miss out on anything!/color><br>[blurple]/ᴅɪѕᴄᴏʀᴅ</color>",
+        "de-DE": "<b>[blurple]DISCORD</color></b><br>[grey]Trete unserem [blurple]Discord Server</color> beim um nichts mehr zu verpassen!</color><br>[blurple]/ᴅɪѕᴄᴏʀᴅ</color>",
+        "en-US": "<b>[blurple]DISCORD</color></b><br>[grey]Join our [blurple]Discord Server</color> to never miss out on anything!</color><br>[blurple]/ᴅɪѕᴄᴏʀᴅ</color>",
         "location": {
-            "x": -44.500,
-            "y": 44.555,
-            "z": 5.500,
+            "x": -44.0,
+            "y": 43.555,
+            "z": 5.0,
             "world": "Lobby-Space"
         },
         "yaw": "",
@@ -18,16 +18,16 @@
         "text_opacity": "255",
         "billboard": "vertical",
         "default_background": "false",
-        "scale-x": "1.0",
-        "scale-y": "1.0",
-        "scale-z": "1.0"
+        "scale-x": "0.5",
+        "scale-y": "0.5",
+        "scale-z": "0.5"
     },
     "holo.lobby.gamemode.eco-smp": {
-        "de-DE": "<grey>[players] ѕᴘɪᴇʟᴇʀ ᴏɴʟɪɴᴇ</grey><br><b>[gold_gradient]ECONOMY SWORD SMP</color></b><br>[grey]KLICKE ZUM [pastel_yellow]SPIELEN</color></color>",
-        "en-US": "<grey>[players] ᴘʟᴀʏᴇʀѕ ᴏɴʟɪɴᴇ</grey><br><b>[gold_gradient]ECONOMY SWORD SMP</color></b><br>[grey]CLICK TO [pastel_yellow]PLAY</color></color>",
+        "de-DE": "<grey>[players] ѕᴘɪᴇʟᴇʀ ᴏɴʟɪɴᴇ</grey><br><b>[gold_gradient]ECONOMY SWORD SMP</gradient></b><br>[grey]KLICKE ZUM [pastel_yellow]SPIELEN</color></color>",
+        "en-US": "<grey>[players] ᴘʟᴀʏᴇʀѕ ᴏɴʟɪɴᴇ</grey><br><b>[gold_gradient]ECONOMY SWORD SMP</gradient></b><br>[grey]CLICK TO [pastel_yellow]PLAY</color></color>",
         "location": {
             "x": -41.500,
-            "y": 46.555,
+            "y": 44.555,
             "z": 11.500,
             "world": "Lobby-Space"
         },
