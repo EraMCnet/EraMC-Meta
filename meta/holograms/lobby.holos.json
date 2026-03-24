@@ -22,7 +22,7 @@
         "scale-y": "1.0",
         "scale-z": "1.0"
     },
-    "holo.lobby.gamemode.eco-smp": {
+    "holo.lobby.gamemode.ecosmp": {
         "de-DE": "<grey>[players] ѕᴘɪᴇʟᴇʀ ᴏɴʟɪɴᴇ</grey><br><b>[gold_gradient]ECONOMY SWORD SMP</gradient></b><br>[grey]KLICKE ZUM [pastel_yellow]SPIELEN</color></color>",
         "en-US": "<grey>[players] ᴘʟᴀʏᴇʀѕ ᴏɴʟɪɴᴇ</grey><br><b>[gold_gradient]ECONOMY SWORD SMP</gradient></b><br>[grey]CLICK TO [pastel_yellow]PLAY</color></color>",
         "location": {
