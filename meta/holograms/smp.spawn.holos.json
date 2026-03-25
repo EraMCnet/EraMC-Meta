@@ -4,7 +4,7 @@
         "en-US": "<b>[mint_green_dark]AFK AREA</color>",
         "location": {
             "x": -314.5,
-            "y": 205,
+            "y": 203,
             "z": -21.0,
             "world": "world"
         },
@@ -27,7 +27,7 @@
         "en-US": "<b>[red]SWORD PVP</color>",
         "location": {
             "x": -377.5,
-            "y": 203,
+            "y": 202,
             "z": -88.0,
             "world": "world"
         },
@@ -50,7 +50,7 @@
         "en-US": "<b>[red]MACE PVP</color>",
         "location": {
             "x": -357.5,
-            "y": 203,
+            "y": 202,
             "z": -84.5,
             "world": "world"
         },
@@ -73,7 +73,7 @@
         "en-US": "<color:#fc477e><b>CHERRY CRATE</b></color><br><white><color:#fc477e>ᴄʟɪᴄᴋ</color> ᴛᴏ ᴏᴘᴇɴ</white>",
         "location": {
             "x": -367.5,
-            "y": 203.5,
+            "y": 204.5,
             "z": 8.5,
             "world": "world"
         },
@@ -93,7 +93,7 @@
         "en-US": "<color:#fede00><b>GOLD CRATE</b></color><br><white><color:#fede00>ᴄʟɪᴄᴋ</color> ᴛᴏ ᴏᴘᴇɴ</white>",
         "location": {
             "x": -373.5,
-            "y": 203.5,
+            "y": 204.5,
             "z": 8.5,
             "world": "world"
         },
@@ -113,7 +113,7 @@
         "en-US": "<color:#4bfb00><b>EMERALD CRATE</b></color><br><white><color:#4bfb00>ᴄʟɪᴄᴋ</color> ᴛᴏ ᴏᴘᴇɴ</white>",
         "location": {
             "x": -370.5,
-            "y": 203.5,
+            "y": 204.5,
             "z": 9.5,
             "world": "world"
         },
@@ -133,7 +133,7 @@
         "en-US": "<color:#9F56FF><b>AMETHYST CRATE</b></color><br><white><color:#9F56FF>ᴄʟɪᴄᴋ</color> ᴛᴏ ᴏᴘᴇɴ</white>",
         "location": {
             "x": -375.5,
-            "y": 203.5,
+            "y": 204.5,
             "z": 5.5,
             "world": "world"
         },
