@@ -3,9 +3,9 @@
         "de-DE": "<b>[green]AUKTIONSHAUS</color></b><br>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ öꜰꜰɴᴇɴ</color>",
         "en-US": "<b>[green]AUCTIONHOUSE</color></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ</color>",
         "location": {
-            "x": -380.500,
+            "x": -379.500,
             "y": 204,
-            "z": -57.500,
+            "z": -56.500,
             "world": "world"
         },
         "yaw": "",
@@ -26,32 +26,9 @@
         "de-DE": "<b>[yellow]SHOP</color></b><br>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ öꜰꜰɴᴇɴ</color>",
         "en-US": "<b>[yellow]SHOP</color></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ</color>",
         "location": {
-            "x": -361.500,
+            "x": -360.500,
             "y": 205,
-            "z": -41.500,
-            "world": "world"
-        },
-        "yaw": "",
-        "pitch": "",
-        "alignment": "center",
-        "background": "TRANSPARENT",
-        "line_width": "",
-        "see_through": "",
-        "shadow": "true",
-        "text_opacity": "255",
-        "billboard": "vertical",
-        "default_background": "false",
-        "scale-x": "1.0",
-        "scale-y": "1.0",
-        "scale-z": "1.0"
-    },
-    "holo.npc.keys.spawn": {
-        "de-DE": "<b>[purple]CRATE KEYS</color></b><br>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ öꜰꜰɴᴇɴ</color>",
-        "en-US": "<b>[purple]SHOP</color></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ</color>",
-        "location": {
-            "x": 20391.500,
-            "y": 221,
-            "z": 20277.500,
+            "z": -40.500,
             "world": "world"
         },
         "yaw": "",
@@ -72,9 +49,9 @@
         "de-DE": "<b>[eramc_gradient]GEM SHOP</gradient></b><br>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ öꜰꜰɴᴇɴ</color>",
         "en-US": "<b>[eramc_gradient]GEM SHOP</gradient></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ</color>",
         "location": {
-            "x": -412.500,
+            "x": -410.500,
             "y": 208,
-            "z": -29.500,
+            "z": -27.500,
             "world": "world"
         },
         "yaw": "",
@@ -95,9 +72,9 @@
         "de-DE": "<b>[green]TUTORIAL</color></b><br>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ ᴀɴꜱᴇʜᴇɴ</color>",
         "en-US": "<b>[green]TUTORIAL</color></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ</color>",
         "location": {
-            "x": -362.500,
+            "x": -361.500,
             "y": 204,
-            "z": -31.500,
+            "z": -30.500,
             "world": "world"
         },
         "yaw": "",
