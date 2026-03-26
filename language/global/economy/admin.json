@@ -13,6 +13,6 @@
     },
     "ECO.get": {
         "de-DE": "[grey]Der [yellow]Kontostand</color> von [era_purple][player]</color> beträgt [era_purple][amount]</color> der Währung [blue][currency]</color>!",
-        "en-US": "[grey]The balance of [yellow][player]</color> is [era_purple][amount]</color> of the currency [blue][currency]</color>!</color></color>"
+        "en-US": "[grey]The balance of [yellow][player]</color> is [era_purple][amount]</color> of the currency [blue][currency]</color>!</color>"
     }
 }
