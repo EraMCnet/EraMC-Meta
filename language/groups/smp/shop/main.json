@@ -6,5 +6,9 @@
     "SELL.sell.nothing": {
         "de-DE": "[grey]Du hast [red]keine</color> Items verkauft.</color>",
         "en-US": "[grey]You sold [red]no</color> items.</color>"
+    },
+    "ITEM.worth": {
+        "de-DE": "<!i>[grey][green][ROUNDDOT]</color> Wert: [green]$[money]</color></color>",
+        "en-US": "<!i>[grey][green][ROUNDDOT]</color> Worth: [green]$[money]</color></color>"
     }
 }
