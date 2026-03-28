@@ -10,5 +10,13 @@
     "ITEM.worth": {
         "de-DE": "<!i>[grey][green][ROUNDDOT]</color> Wert: [green]$[money]</color></color>",
         "en-US": "<!i>[grey][green][ROUNDDOT]</color> Worth: [green]$[money]</color></color>"
+    },
+    "COMMAND.worth": {
+        "de-DE": "[grey]Der Wert von [green][item]</color> beträgt [green]$[money]</color>.",
+        "en-US": "[grey]The worth of [green][item]</color> is [green]$[money]</color>."
+    },
+    "COMMAND.worth.notfound": {
+        "de-DE": "[grey]Das Item [red][item]</color> hat [darker_red]keinen Wert!</color></color>",
+        "en-US": "[grey]The item [red][item]</color> has [darker_red]no worth!</color></color>"
     }
 }
