@@ -1,0 +1,14 @@
+{
+    "SPAWN.afk.title": {
+        "de-DE": "[mint_green_light]<b>AFK BEREICH</b></color>",
+        "en-US": "[mint_green_light]<b>AFK AREA</b></color>"
+    },
+    "SPAWN.afk.enter.subtitle": {
+        "de-DE": "[grey]Du bist jetzt im [mint_green_light]AFK Bereich</color> und bekommst alle [gem_purple]60 Sekunden</color> automatisch [gem_purple]Gems</color></color>",
+        "en-US": "[grey]You are now in the [mint_green_light]AFK area</color> and automatically receive [gem_purple]Gems</color> every [gem_purple]60 seconds</color></color>"
+    },
+    "SPAWN.afk.exit.subtitle": {
+        "de-DE": "[grey]Du hast den [mint_green_light]AFK Bereich</color> verlassen!</color>",
+        "en-US": "[grey]You have left the [mint_green_light]AFK area</color>!</color>"
+    }
+}
