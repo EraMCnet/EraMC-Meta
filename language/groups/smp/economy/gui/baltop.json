@@ -9,11 +9,11 @@
     },
     "GUI.nav.item.sort.most": {
         "de-DE": "<i:false><br><i:false>[yellow]> Höchste zuerst<br><i:false>[grey]  Wenigste zuerst<br><br><i:false>[yellow]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
-        "en-US": "<i:false><br><i:false>[yellow]> Most expensive first<br><i:false>[grey]  Least expensive first<br><br><i:false>[yellow]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+        "en-US": "<i:false><br><i:false>[yellow]> Most first<br><i:false>[grey]  Least first<br><br><i:false>[yellow]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     },
     "GUI.nav.item.sort.least": {
         "de-DE": "<i:false><br><i:false>[grey]  Höchste zuerst<br><i:false>[yellow]> Wenigste zuerst<br><br><i:false>[yellow]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
-        "en-US": "<i:false><br><i:false>[grey]  Most expensive first<br><i:false>[yellow]> Least expensive first<br><br><i:false>[yellow]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+        "en-US": "<i:false><br><i:false>[grey]  Most first<br><i:false>[yellow]> Least first<br><br><i:false>[yellow]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     },
     "GUI.nav.pagination.previous": {
         "de-DE": "<i:false>[yellow]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
