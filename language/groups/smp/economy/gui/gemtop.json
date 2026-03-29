@@ -1,0 +1,50 @@
+{
+    "GUI.title": {
+        "de-DE": "<!i>ɢᴇᴍᴛᴏᴘ",
+        "en-US": "<!i>ɢᴇᴍᴛᴏᴘ"
+    },
+    "GUI.nav.item.sort.name": {
+        "de-DE": "<!i>[gem_purple]ꜱᴏʀᴛɪᴇʀᴇɴ</color>",
+        "en-US": "<!i>[gem_purple]ꜱᴏʀᴛɪᴇʀᴇɴ</color>"
+    },
+    "GUI.nav.item.sort.most": {
+        "de-DE": "<i:false><br><i:false>[gem_purple]> Höchste zuerst<br><i:false>[grey]  Wenigste zuerst<br><br><i:false>[gem_purple]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[gem_purple]> Most expensive first<br><i:false>[grey]  Least expensive first<br><br><i:false>[gem_purple]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "GUI.nav.item.sort.least": {
+        "de-DE": "<i:false><br><i:false>[grey]  Höchste zuerst<br><i:false>[gem_purple]> Wenigste zuerst<br><br><i:false>[gem_purple]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  Most expensive first<br><i:false>[gem_purple]> Least expensive first<br><br><i:false>[gem_purple]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "GUI.nav.pagination.previous": {
+        "de-DE": "<i:false>[gem_purple]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[gem_purple]ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ"
+    },
+    "GUI.nav.pagination.next": {
+        "de-DE": "<i:false>[gem_purple]ɴäᴄʜꜱᴛᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "<i:false>[gem_purple]ɴᴇxᴛ ᴘᴀɢᴇ"
+    },
+    "GUI.nav.pagination.navigate.lore": {
+        "de-DE": "<i:false><br><i:false>[gem_purple][ROUNDDOT][grey] Klicke, zum navigieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[gem_purple][ROUNDDOT][grey] Click to navigate<br><i:false>"
+    },
+    "GUI.nav.pagination.update": {
+        "de-DE": "<i:false>[gem_purple]ᴀᴋᴛᴜᴀʟʟɪꜱɪᴇʀᴇɴ",
+        "en-US": "<i:false>[gem_purple]ᴜᴘᴅᴀᴛᴇ"
+    },
+    "GUI.nav.pagination.update.lore": {
+        "de-DE": "<i:false><br><i:false>[gem_purple][ROUNDDOT][grey] Klicke, um die Seite zu aktualisieren<br><i:false>",
+        "en-US": "<i:false><br><i:false>[gem_purple][ROUNDDOT][grey] Click to update the page<br><i:false>"
+    },
+    "GUI.player.display": {
+        "de-DE": "<br><!i>[grey][gem_purple][ROUNDDOT]</color> Kontostand: [gem_purple]$[gems]</color><br>",
+        "en-US": "<br><!i>[grey][gem_purple][ROUNDDOT]</color> Balance: [gem_purple]$[gems]</color><br>"
+    },
+    "GUI.player.display.self.lore": {
+        "de-DE": "<br><!i>[grey][gem_purple][ARROW]</color> Deine Position: [gem_purple][position]</color><br><br><!i>[grey][gem_purple][ROUNDDOT]</color> Dein Kontostand: [gem_purple]$[gems]</color><br>",
+        "en-US": "<br><!i>[grey][gem_purple][ARROW]</color> Your position: [gem_purple][position]</color><br><br><!i>[grey][gem_purple][ROUNDDOT]</color> Your balance: [gem_purple]$[gems]</color><br>"
+    },
+    "GUI.player.display.self.name": {
+        "de-DE": "<!i>[gem_purple]ᴅᴇɪɴᴇ ɢᴇᴍѕ</color>",
+        "en-US": "<!i>[gem_purple]ʏᴏᴜʀ ɢᴇᴍѕ</color>"
+    }
+}
