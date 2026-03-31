@@ -311,6 +311,14 @@
         "de-DE": "Aktiviert",
         "en-US": "Enabled"
     },
+    "GENERAL.click": {
+        "de-DE": "Klick",
+        "en-US": "Click"
+    },
+    "GENERAL.clicks": {
+        "de-DE": "Klicks",
+        "en-US": "Clicks"
+    },
     "GENERAL.disabled": {
         "de-DE": "Deaktiviert",
         "en-US": "Disabled"
