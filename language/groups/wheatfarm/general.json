@@ -2,5 +2,9 @@
     "GENERAL.wheat": {
         "de-DE": "Weizen",
         "en-US": "Wheat"
+    },
+    "ITEM.hoe.name": {
+        "de-DE": "Weizenhacke",
+        "en-US": "Wheat Hoe"
     }
 }
