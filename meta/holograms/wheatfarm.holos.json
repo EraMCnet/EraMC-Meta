@@ -1,7 +1,7 @@
 {
     "HOLO.gen.1": {
-        "de-DE": "<b>[bronze_gradient]GENERATOR</gradient> [blue]1</color></b><br>[grey]Level: [yellow][gen_level]</color></color><br><br>[grey]Weizen/s: [yellow][wheat_per_s]</color></color>",
-        "en-US": "<b>[bronze_gradient]GENERATOR</gradient> [blue]1</color></b><br>[grey]Level: [yellow][gen_level]</color></color><br><br>[grey]Wheat/s: [yellow][wheat_per_s]</color></color>",
+        "de-DE": "<b>[bronze_gradient]GENERATOR</gradient> [blue]1</color></b><br><br>[grey]Level: [yellow][gen_level]</color></color><br>[grey]Weizen/s: [yellow][wheat_per_s]</color></color>",
+        "en-US": "<b>[bronze_gradient]GENERATOR</gradient> [blue]1</color></b><br><br>[grey]Level: [yellow][gen_level]</color></color><br>[grey]Wheat/s: [yellow][wheat_per_s]</color></color>",
         "yaw": "",
         "pitch": "",
         "alignment": "center",
@@ -17,8 +17,8 @@
         "scale-z": "1.0"
     },
     "HOLO.gen.2": {
-        "de-DE": "<b>[silver_gradient]GENERATOR</gradient> [blue]2</color></b><br>[grey]Level: [yellow][gen_level]</color></color><br><br>[grey]Weizen/s: [yellow][wheat_per_s]</color></color>",
-        "en-US": "<b>[silver_gradient]GENERATOR</gradient> [blue]2</color></b><br>[grey]Level: [yellow][gen_level]</color></color><br><br>[grey]Wheat/s: [yellow][wheat_per_s]</color></color>",
+        "de-DE": "<b>[silver_gradient]GENERATOR</gradient> [blue]2</color></b><br><br>[grey]Level: [yellow][gen_level]</color></color><br>[grey]Weizen/s: [yellow][wheat_per_s]</color></color>",
+        "en-US": "<b>[silver_gradient]GENERATOR</gradient> [blue]2</color></b><br><br>[grey]Level: [yellow][gen_level]</color></color><br>[grey]Wheat/s: [yellow][wheat_per_s]</color></color>",
         "yaw": "",
         "pitch": "",
         "alignment": "center",
@@ -34,8 +34,8 @@
         "scale-z": "1.0"
     },
     "HOLO.gen.3": {
-        "de-DE": "<b>[gold_gradient]GENERATOR</gradient> [blue]3</color></b><br>[grey]Level: [yellow][gen_level]</color></color><br><br>[grey]Weizen/s: [yellow][wheat_per_s]</color></color>",
-        "en-US": "<b>[gold_gradient]GENERATOR</gradient> [blue]3</color></b><br>[grey]Level: [yellow][gen_level]</color></color><br><br>[grey]Wheat/s: [yellow][wheat_per_s]</color></color>",
+        "de-DE": "<b>[gold_gradient]GENERATOR</gradient> [blue]3</color></b><br><br>[grey]Level: [yellow][gen_level]</color></color><br>[grey]Weizen/s: [yellow][wheat_per_s]</color></color>",
+        "en-US": "<b>[gold_gradient]GENERATOR</gradient> [blue]3</color></b><br><br>[grey]Level: [yellow][gen_level]</color></color><br>[grey]Wheat/s: [yellow][wheat_per_s]</color></color>",
         "yaw": "",
         "pitch": "",
         "alignment": "center",
