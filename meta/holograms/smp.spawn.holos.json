@@ -17,7 +17,6 @@
         "shadow": "true",
         "text_opacity": "255",
         "billboard": "fixed",
-        "default_background": "false",
         "scale-x": "2.5",
         "scale-y": "2.5",
         "scale-z": "2.5"
@@ -40,7 +39,6 @@
         "shadow": "true",
         "text_opacity": "255",
         "billboard": "fixed",
-        "default_background": "false",
         "scale-x": "2.5",
         "scale-y": "2.5",
         "scale-z": "2.5"
@@ -63,7 +61,6 @@
         "shadow": "true",
         "text_opacity": "255",
         "billboard": "fixed",
-        "default_background": "false",
         "scale-x": "2.5",
         "scale-y": "2.5",
         "scale-z": "2.5"
