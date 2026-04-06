@@ -355,27 +355,27 @@
         "de-DE": "[grey]Du kannst [era_purple][target]</color> [red]nicht</color> zu sich selbst teleportieren!</color>",
         "en-US": "[grey]You [red]can't</color> teleport [era_purple][target]</color> to themselves!</color>"
     },
-    "TEPEORT.success": {
+    "TELEPORT.success": {
         "de-DE": "[grey]Du wurdest [green]teleportiert!</color></color>",
         "en-US": "[grey]You have been [green]teleported!</color></color>"
     },
-    "TEPEORT.error": {
+    "TELEPORT.error": {
         "de-DE": "[grey]Beim Teleportieren ist ein [red]Fehler</color> aufgetreten! Bitte kontaktiere unseren Support ([era_purple]/discord</color>).</color>",
         "en-US": "[grey]An error occurred while teleporting! Please contact our support ([era_purple]/discord</color>).</color>"
     },
-    "TEPEORT.error.move": {
+    "TELEPORT.error.move": {
         "de-DE": "[grey]Der Teleportationsvorgang wurde [red]abgebrochen,</color> da du dich bewegt hast!</color>",
         "en-US": "[grey]The teleportation process was [red]cancelled</color> because you moved!</color>"
     },
-    "TEPEORT.actionbar.cancelled": {
+    "TELEPORT.actionbar.cancelled": {
         "de-DE": "[red]ᴅᴇʀ ᴛᴇʟᴇᴘᴏʀᴛ ᴡᴜʀᴅᴇ ᴀʙɢᴇʙʀᴏᴄʜᴇɴ</color>",
         "en-US": "[red]ᴛʜᴇ ᴛᴇʟᴇᴘᴏʀᴛ ᴡᴀꜱ ᴄᴀɴᴄᴇʟʟᴇᴅ</color>"
     },
-    "TEPEORT.cooldown": {
+    "TELEPORT.cooldown": {
         "de-DE": "[grey]ᴅᴜ ᴡɪʀꜱᴛ ɪɴ [era_purple][duration] ꜱᴇᴋᴜɴᴅᴇɴ</color> ᴛᴇʟᴇᴘᴏʀᴛɪᴇʀᴛ</color>",
         "en-US": "[grey]ʏᴏᴜ ᴀʀᴇ ɢᴏɪɴɢ ᴛᴏ ʙᴇ ᴛᴇʟᴇᴘᴏʀᴛᴇᴅ ɪɴ [era_purple][duration] ꜱᴇᴄᴏɴᴅꜱ</color></color>"
     },
-    "TEPEORT.error.already.teleporting": {
+    "TELEPORT.error.already.teleporting": {
         "de-DE": "[grey]Du wirst [red]bereits</color> teleportiert!</color>",
         "en-US": "[grey]You are [red]already</color> getting teleported!</color>"
     }
