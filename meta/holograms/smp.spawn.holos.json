@@ -82,7 +82,7 @@
         "see_through": "",
         "shadow": "true",
         "text_opacity": "255",
-        "billboard": "vertical",
+        "billboard": "fixed",
         "default_background": "false",
         "scale-x": "4",
         "scale-y": "4",
