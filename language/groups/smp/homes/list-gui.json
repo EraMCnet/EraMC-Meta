@@ -24,7 +24,7 @@
         "en-US": "<i:false>[green]Create new home"
     },
     "HOMES.list.gui.add.home.lore": {
-        "de-DE": "<i:false><br><i:false>[yellow][ROUNDDOT]</color> [grey][grey]Klicke, um ein [green]neues Home</color> zu [green]erstellen</color><br><i:false>",
-        "en-US": "<i:false><br><i:false>[yellow][ROUNDDOT]</color> [grey][grey]Click to [green]create a new home</color><br><i:false>"
+        "de-DE": "<i:false><br><i:false>[yellow][ROUNDDOT]</color> [grey]Klicke, um ein [green]neues Home</color> zu [green]erstellen</color><br><i:false>",
+        "en-US": "<i:false><br><i:false>[yellow][ROUNDDOT]</color> [grey]Click to [green]create a new home</color><br><i:false>"
     }
 }
