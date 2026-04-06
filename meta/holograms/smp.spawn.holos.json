@@ -64,5 +64,25 @@
         "scale-x": "2.5",
         "scale-y": "2.5",
         "scale-z": "2.5"
+    },
+    "holo.spawn.crate.emerald.spawn": {
+        "de-DE": "<color:#f6911c><b>SOON</b></color><br>[blurple]/ᴅɪѕᴄᴏʀᴅ</color>",
+        "en-US": "<color:#f6911c><b>SOON</b></color><br>[blurple]/ᴅɪѕᴄᴏʀᴅ</color>",
+        "location": {
+            "x": -371.5,
+            "y": 204.2,
+            "z": 9.5,
+            "world": "world"
+        },
+        "yaw": "",
+        "pitch": "",
+        "alignment": "center",
+        "background": "TRANSPARENT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "vertical",
+        "default_background": "false"
     }
 }
