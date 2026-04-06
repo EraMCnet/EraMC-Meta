@@ -15,6 +15,10 @@
         "de-DE": "<!i>Stilles Verlassen",
         "en-US": "<!i>Silent quit"
     },
+    "SETTING.boosted-trident.name": {
+        "de-DE": "<!i>Boosted Trident",
+        "en-US": "<!i>Boosted Trident"
+    },
     "SETTING.autovanish.name": {
         "de-DE": "<!i>Auto Vanish beim Beitritt",
         "en-US": "<!i>Auto vanish on join"
