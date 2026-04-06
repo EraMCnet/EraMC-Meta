@@ -21,9 +21,53 @@
         "scale-y": "1.0",
         "scale-z": "1.0"
     },
-    "holo.lobby.gamemode.ecosmp": {
-        "de-DE": "<grey>[players] ѕᴘɪᴇʟᴇʀ ᴏɴʟɪɴᴇ</grey><br><b>[gold_gradient]ECONOMY SWORD SMP</gradient></b><br>[grey]KLICKE ZUM [pastel_yellow]SPIELEN</color></color>",
-        "en-US": "<grey>[players] ᴘʟᴀʏᴇʀѕ ᴏɴʟɪɴᴇ</grey><br><b>[gold_gradient]ECONOMY SWORD SMP</gradient></b><br>[grey]CLICK TO [pastel_yellow]PLAY</color></color>",
+    "holo.lobby.gamemode.ecosmp.online": {
+        "de-DE": "[green][players] ѕᴘɪᴇʟᴇʀ ᴏɴʟɪɴᴇ</color><br><b>[gold_gradient]ECONOMY SWORD SMP</gradient></b><br>[grey]KLICKE ZUM [pastel_yellow]SPIELEN</color></color>",
+        "en-US": "[green][players] ᴘʟᴀʏᴇʀѕ ᴏɴʟɪɴᴇ</color><br><b>[gold_gradient]ECONOMY SWORD SMP</gradient></b><br>[grey]CLICK TO [pastel_yellow]PLAY</color></color>",
+        "location": {
+            "x": -41.500,
+            "y": 45.0,
+            "z": 11.500,
+            "world": "Lobby-Space"
+        },
+        "yaw": "",
+        "pitch": "",
+        "alignment": "center",
+        "background": "NONE",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "vertical",
+        "scale-x": "1.0",
+        "scale-y": "1.0",
+        "scale-z": "1.0"
+    },
+    "holo.lobby.gamemode.ecosmp.maintenance": {
+        "de-DE": "[yellow]ᴡᴀʀᴜɴɢѕᴀʀʙᴇɪᴛᴇɴ</color><br><b>[gold_gradient]ECONOMY SWORD SMP</gradient></b><br>[blurple]/ᴅɪѕᴄᴏʀᴅ</color>",
+        "en-US": "[yellow]ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ</color><br><b>[gold_gradient]ECONOMY SWORD SMP</gradient></b><br>[blurple]/ᴅɪѕᴄᴏʀᴅ</color>",
+        "location": {
+            "x": -41.500,
+            "y": 45.0,
+            "z": 11.500,
+            "world": "Lobby-Space"
+        },
+        "yaw": "",
+        "pitch": "",
+        "alignment": "center",
+        "background": "NONE",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "vertical",
+        "scale-x": "1.0",
+        "scale-y": "1.0",
+        "scale-z": "1.0"
+    },
+    "holo.lobby.gamemode.ecosmp.offline": {
+        "de-DE": "[red]ᴏꜰꜰʟɪɴᴇ</color><br><b>[gold_gradient]ECONOMY SWORD SMP</gradient></b><br>[blurple]/ᴅɪѕᴄᴏʀᴅ</color>",
+        "en-US": "[red]ᴏꜰꜰʟɪɴᴇ</color><br><b>[gold_gradient]ECONOMY SWORD SMP</gradient></b><br>[blurple]/ᴅɪѕᴄᴏʀᴅ</color>",
         "location": {
             "x": -41.500,
             "y": 45.0,
