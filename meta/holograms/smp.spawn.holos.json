@@ -83,6 +83,9 @@
         "shadow": "true",
         "text_opacity": "255",
         "billboard": "vertical",
-        "default_background": "false"
+        "default_background": "false",
+        "scale-x": "4",
+        "scale-y": "4",
+        "scale-z": "4"
     }
 }
