@@ -168,8 +168,8 @@
         "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can send you [blue]TPA requests</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [purple]friends</color> can send you [blue]TPA requests</color>!</color>"
     },
     "tpa.lore.clan": {
-        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dir [blue]TPA-Anfragen</color> senden darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell dürfen nur deine [aqua]Clanmitglieder</color> dir [blue]TPA-Anfragen</color> senden!</color>",
-        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can send you [blue]TPA requests</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [aqua]clan members</color> can send you [blue]TPA requests</color>!</color>"
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dir [blue]TPA-Anfragen</color> senden darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell dürfen nur deine [blue]Clanmitglieder</color> dir [blue]TPA-Anfragen</color> senden!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can send you [blue]TPA requests</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [blue]clan members</color> can send you [blue]TPA requests</color>!</color>"
     },
     "tpa.lore.none": {
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dir [blue]TPA-Anfragen</color> senden darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell darf dir [darker_red]niemand</color> [blue]TPA-Anfragen</color> senden!</color>",
@@ -184,8 +184,8 @@
         "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can send you [blue]TPHERE requests</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [purple]friends</color> can send you [blue]TPHERE requests</color>!</color>"
     },
     "tp_here.lore.clan": {
-        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dir [blue]TPHERE-Anfragen</color> senden darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell dürfen nur deine [aqua]Clanmitglieder</color> dir [blue]TPHERE-Anfragen</color> senden!</color>",
-        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can send you [blue]TPHERE requests</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [aqua]clan members</color> can send you [blue]TPHERE requests</color>!</color>"
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dir [blue]TPHERE-Anfragen</color> senden darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell dürfen nur deine [blue]Clanmitglieder</color> dir [blue]TPHERE-Anfragen</color> senden!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can send you [blue]TPHERE requests</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [blue]clan members</color> can send you [blue]TPHERE requests</color>!</color>"
     },
     "tp_here.lore.none": {
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dir [blue]TPHERE-Anfragen</color> senden darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell darf dir [darker_red]niemand</color> [blue]TPHERE-Anfragen</color> senden!</color>",
@@ -200,8 +200,8 @@
         "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can [blue]send money</color> to you.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [purple]friends</color> can [blue]send money</color> to you!</color>"
     },
     "pay.lore.clan": {
-        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dir [blue]Geld senden</color> darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell dürfen nur deine [aqua]Clanmitglieder</color> dir [blue]Geld senden</color>!</color>",
-        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can [blue]send money</color> to you.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [aqua]clan members</color> can [blue]send money</color> to you!</color>"
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dir [blue]Geld senden</color> darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell dürfen nur deine [blue]Clanmitglieder</color> dir [blue]Geld senden</color>!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can [blue]send money</color> to you.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [blue]clan members</color> can [blue]send money</color> to you!</color>"
     },
     "pay.lore.none": {
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dir [blue]Geld senden</color> darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell darf dir [darker_red]niemand</color> [blue]Geld senden</color>!</color>",
@@ -216,8 +216,8 @@
         "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set for whom [blue]teleport requests are accepted automatically</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, requests from [purple]friends</color> are [blue]auto-accepted</color>!</color>"
     },
     "tpauto.lore.clan": {
-        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, für wen [blue]automatisch Teleportanfragen</color> akzeptiert werden.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell wird nur für [aqua]Clanmitglieder</color> [blue]automatisch akzeptiert</color>!</color>",
-        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set for whom [blue]teleport requests are accepted automatically</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, requests from [aqua]clan members</color> are [blue]auto-accepted</color>!</color>"
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, für wen [blue]automatisch Teleportanfragen</color> akzeptiert werden.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell wird nur für [blue]Clanmitglieder</color> [blue]automatisch akzeptiert</color>!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set for whom [blue]teleport requests are accepted automatically</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, requests from [blue]clan members</color> are [blue]auto-accepted</color>!</color>"
     },
     "tpauto.lore.none": {
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, für wen [blue]automatisch Teleportanfragen</color> akzeptiert werden.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell wird für [darker_red]niemanden</color> [blue]automatisch akzeptiert</color>!</color>",
@@ -240,8 +240,8 @@
         "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can challenge you to [blue]duels</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [purple]friends</color> can challenge you to [blue]duels</color>!</color>"
     },
     "duels.lore.clan": {
-        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dich zu [blue]Duellen</color> herausfordern darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell dürfen nur deine [aqua]Clanmitglieder</color> dich zu [blue]Duellen</color> herausfordern!</color>",
-        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can challenge you to [blue]duels</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [aqua]clan members</color> can challenge you to [blue]duels</color>!</color>"
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dich zu [blue]Duellen</color> herausfordern darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell dürfen nur deine [blue]Clanmitglieder</color> dich zu [blue]Duellen</color> herausfordern!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can challenge you to [blue]duels</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [blue]clan members</color> can challenge you to [blue]duels</color>!</color>"
     },
     "duels.lore.none": {
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dich zu [blue]Duellen</color> herausfordern darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell kann dich [darker_red]niemand</color> zu [blue]Duellen</color> herausfordern!</color>",
@@ -256,8 +256,8 @@
         "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can [blue]spectate your duels</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [purple]friends</color> can [blue]spectate your duels</color>!</color>"
     },
     "duel_spectate.lore.clan": {
-        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer bei deinen [blue]Duellen zuschauen</color> darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell dürfen nur deine [aqua]Clanmitglieder</color> bei deinen [blue]Duellen zuschauen</color>!</color>",
-        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can [blue]spectate your duels</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [aqua]clan members</color> can [blue]spectate your duels</color>!</color>"
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer bei deinen [blue]Duellen zuschauen</color> darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell dürfen nur deine [blue]Clanmitglieder</color> bei deinen [blue]Duellen zuschauen</color>!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can [blue]spectate your duels</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [blue]clan members</color> can [blue]spectate your duels</color>!</color>"
     },
     "duel_spectate.lore.none": {
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer bei deinen [blue]Duellen zuschauen</color> darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell darf [darker_red]niemand</color> bei deinen [blue]Duellen zuschauen</color>!</color>",
@@ -272,8 +272,8 @@
         "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can [blue]open your ender chest</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [purple]friends</color> can [blue]open your ender chest</color>!</color>"
     },
     "ender_chest_view.lore.clan": {
-        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer deine [blue]Enderchest öffnen</color> darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell dürfen nur deine [aqua]Clanmitglieder</color> deine [blue]Enderchest öffnen</color>!</color>",
-        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can [blue]open your ender chest</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [aqua]clan members</color> can [blue]open your ender chest</color>!</color>"
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer deine [blue]Enderchest öffnen</color> darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell dürfen nur deine [blue]Clanmitglieder</color> deine [blue]Enderchest öffnen</color>!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can [blue]open your ender chest</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [blue]clan members</color> can [blue]open your ender chest</color>!</color>"
     },
     "ender_chest_view.lore.none": {
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer deine [blue]Enderchest öffnen</color> darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell darf [darker_red]niemand</color> deine [blue]Enderchest öffnen</color>!</color>",
@@ -340,8 +340,8 @@
         "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set which groups are excluded from [blue]player visibility</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, [purple]friends</color> are excluded.</color>"
     },
     "player_visibility_exclusions.lore.clan": {
-        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, welche Gruppen von der [blue]Spielersichtbarkeit ausgenommen</color> sind.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell sind [aqua]Clanmitglieder</color> ausgenommen.</color>",
-        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set which groups are excluded from [blue]player visibility</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, [aqua]clan members</color> are excluded.</color>"
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, welche Gruppen von der [blue]Spielersichtbarkeit ausgenommen</color> sind.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell sind [blue]Clanmitglieder</color> ausgenommen.</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set which groups are excluded from [blue]player visibility</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, [blue]clan members</color> are excluded.</color>"
     },
     "party_invites.lore.all": {
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dir [blue]Party-Einladungen</color> senden darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell darf dir [green]jeder</color> [blue]Party-Einladungen</color> senden!</color>",
