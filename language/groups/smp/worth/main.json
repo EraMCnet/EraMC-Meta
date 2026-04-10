@@ -1,10 +1,10 @@
 {
     "WORTH.command.success": {
-        "de-DE": "[grey][mint_green_dark][amount]x</color> [mint_green_dark][item]</color> ist [mint_green_dark]$[money]</color> wert!</color>",
-        "en-US": "[grey][mint_green_dark][amount]x</color> [mint_green_dark][item]</color> is worth [mint_green_dark]$[money]!</color></color>"
+        "de-DE": "[grey][mint_green_dark][amount]x\u003c/color\u003e [mint_green_dark][item]\u003c/color\u003e ist [mint_green_dark]$[money]\u003c/color\u003e wert!\u003c/color\u003e",
+        "en-US": "[grey][mint_green_dark][amount]x\u003c/color\u003e [mint_green_dark][item]\u003c/color\u003e is worth [yellow]$[money]!\u003c/color\u003e\u003c/color\u003e"
     },
     "WORTH.item.lore.line": {
-        "de-DE": "<!i>[grey]Itemwert:</color> [mint_green_dark]$[money]</color>",
-        "en-US": "<!i>[grey]Worth:</color> [mint_green_dark]$[money]</color>"
+        "de-DE": "\u003c!i\u003e[grey]Itemwert:\u003c/color\u003e [mint_green_dark]$[money]\u003c/color\u003e",
+        "en-US": "\u003c!i\u003e[grey]Worth:\u003c/color\u003e [mint_green_dark]$[money]\u003c/color\u003e"
     }
 }
