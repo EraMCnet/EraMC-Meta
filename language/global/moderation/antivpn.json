@@ -61,6 +61,6 @@
     },
     "ANTIVPN.whitelist.ip.remove.notfound": {
         "de-DE": "[grey]Die IP [era_purple][ip]\u003c/color\u003e ist nicht auf der [green]Whitelist!\u003c/color\u003e\u003c/color\u003e",
-        "en-US": "[grey]The IP [era_purple][ip]\u003c/color\u003e is not on the whitelist!\u003c/color\u003e"
+        "en-US": "[grey]The IP [era_purple][ip]\u003c/color\u003e is not on the [green]whitelist!\u003c/color\u003e\u003c/color\u003e"
     }
 }
