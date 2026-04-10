@@ -13,7 +13,7 @@
     },
     "SHOP.gui.item.view.buy.success": {
         "de-DE": "[grey]Du hast [green][amount] [item]\u003c/color\u003e für [green]$[money]\u003c/color\u003e gekauft!\u003c/color\u003e",
-        "en-US": "[grey]You bought [green][amount] [item]\u003c/color\u003e for [green]$[money]\u003c/color\u003e\u003c/color\u003e"
+        "en-US": "[grey]You bought [green][amount] [item]\u003c/color\u003e for [green]$[money]!\u003c/color\u003e\u003c/color\u003e"
     },
     "SHOP.gui.item.view.confirm": {
         "de-DE": "\u003ci:false\u003e[green]\u003cb\u003eBESTÄTIGEN",
