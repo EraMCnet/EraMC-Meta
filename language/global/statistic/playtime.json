@@ -1,7 +1,7 @@
 {
     "COMMAND.other": {
         "de-DE": "[grey][era_purple][player]\u003c/color\u003e hat insgesamt [era_purple][playtime]\u003c/color\u003e Spielzeit gesammelt.\u003c/color\u003e",
-        "en-US": "[grey][player] has accumulated a total of [era_purple][playtime]\u003c/color\u003e playtime.\u003c/color\u003e"
+        "en-US": "[grey][era_purple][player]\u003c/color\u003e has accumulated a total of [era_purple][playtime]\u003c/color\u003e playtime.\u003c/color\u003e"
     },
     "COMMAND.self": {
         "de-DE": "[grey]Du hast insgesamt [era_purple][playtime]\u003c/color\u003e Spielzeit gesammelt.\u003c/color\u003e",
