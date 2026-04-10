@@ -1,66 +1,66 @@
 {
-    "ANTIVPN.whitelist.ip.add": {
-        "de-DE": "[grey]Du hast die IP [era_purple][ip]</color> zur Whitelist hinzugefügt!</color>",
-        "en-US": "[grey]You have added the IP [era_purple][ip]</color> to the whitelist!</color>"
-    },
-    "ANTIVPN.whitelist.ip.add.already": {
-        "de-DE": "[grey]Die IP [era_purple][ip]</color> ist bereits auf der Whitelist!</color>",
-        "en-US": "[grey]The IP [era_purple][ip]</color> is already on the whitelist!</color>"
-    },
-    "ANTIVPN.whitelist.ip.remove.notfound": {
-        "de-DE": "[grey]Die IP [era_purple][ip]</color> ist nicht auf der Whitelist!</color>",
-        "en-US": "[grey]The IP [era_purple][ip]</color> is not on the whitelist!</color>"
-    },
-    "ANTIVPN.whitelist.ip.remove": {
-        "de-DE": "[grey]Du hast die IP [era_purple][ip]</color> von der Whitelist entfernt!</color>",
-        "en-US": "[grey]You have removed the IP [era_purple][ip]</color> from the whitelist!</color>"
-    },
-    "ANTIVPN.whitelist.asn.add": {
-        "de-DE": "[grey]Du hast die ASN [era_purple][asn]</color> zur Whitelist hinzugefügt!</color>",
-        "en-US": "[grey]You have added the ASN [era_purple][asn]</color> to the whitelist!</color>"
-    },
-    "ANTIVPN.whitelist.asn.add.already": {
-        "de-DE": "[grey]Die ASN [era_purple][asn]</color> ist bereits auf der Whitelist!</color>",
-        "en-US": "[grey]The ASN [era_purple][asn]</color> is already on the whitelist!</color>"
-    },
-    "ANTIVPN.whitelist.asn.remove.notfound": {
-        "de-DE": "[grey]Die ASN [era_purple][asn]</color> ist nicht auf der Whitelist!</color>",
-        "en-US": "[grey]The ASN [era_purple][asn]</color> is not on the whitelist!</color>"
-    },
-    "ANTIVPN.whitelist.asn.remove": {
-        "de-DE": "[grey]Du hast die ASN [era_purple][asn]</color> von der Whitelist entfernt!</color>",
-        "en-US": "[grey]You have removed the ASN [era_purple][asn]</color> from the whitelist!</color>"
-    },
-    "ANTIVPN.blacklist.ip.add": {
-        "de-DE": "[grey]Du hast die IP [era_purple][ip]</color> zur blacklist hinzugefügt!</color>",
-        "en-US": "[grey]You have added the IP [era_purple][ip]</color> to the blacklist!</color>"
-    },
-    "ANTIVPN.blacklist.ip.add.already": {
-        "de-DE": "[grey]Die IP [era_purple][ip]</color> ist bereits auf der blacklist!</color>",
-        "en-US": "[grey]The IP [era_purple][ip]</color> is already on the blacklist!</color>"
-    },
-    "ANTIVPN.blacklist.ip.remove.notfound": {
-        "de-DE": "[grey]Die IP [era_purple][ip]</color> ist nicht auf der blacklist!</color>",
-        "en-US": "[grey]The IP [era_purple][ip]</color> is not on the blacklist!</color>"
-    },
-    "ANTIVPN.blacklist.ip.remove": {
-        "de-DE": "[grey]Du hast die IP [era_purple][ip]</color> von der blacklist entfernt!</color>",
-        "en-US": "[grey]You have removed the IP [era_purple][ip]</color> from the blacklist!</color>"
-    },
     "ANTIVPN.blacklist.asn.add": {
-        "de-DE": "[grey]Du hast die ASN [era_purple][asn]</color> zur blacklist hinzugefügt!</color>",
-        "en-US": "[grey]You have added the ASN [era_purple][asn]</color> to the blacklist!</color>"
+        "de-DE": "[grey]Du hast die ASN [era_purple][asn]\u003c/color\u003e zur blacklist hinzugefügt!\u003c/color\u003e",
+        "en-US": "[grey]You have added the ASN [era_purple][asn]\u003c/color\u003e to the blacklist!\u003c/color\u003e"
     },
     "ANTIVPN.blacklist.asn.add.already": {
-        "de-DE": "[grey]Die ASN [era_purple][asn]</color> ist bereits auf der blacklist!</color>",
-        "en-US": "[grey]The ASN [era_purple][asn]</color> is already on the blacklist!</color>"
-    },
-    "ANTIVPN.blacklist.asn.remove.notfound": {
-        "de-DE": "[grey]Die ASN [era_purple][asn]</color> ist nicht auf der blacklist!</color>",
-        "en-US": "[grey]The ASN [era_purple][asn]</color> is not on the blacklist!</color>"
+        "de-DE": "[grey]Die ASN [era_purple][asn]\u003c/color\u003e ist bereits auf der blacklist!\u003c/color\u003e",
+        "en-US": "[grey]The ASN [era_purple][asn]\u003c/color\u003e is already on the blacklist!\u003c/color\u003e"
     },
     "ANTIVPN.blacklist.asn.remove": {
-        "de-DE": "[grey]Du hast die ASN [era_purple][asn]</color> von der blacklist entfernt!</color>",
-        "en-US": "[grey]You have removed the ASN [era_purple][asn]</color> from the blacklist!</color>"
+        "de-DE": "[grey]Du hast die ASN [era_purple][asn]\u003c/color\u003e von der blacklist entfernt!\u003c/color\u003e",
+        "en-US": "[grey]You have removed the ASN [era_purple][asn]\u003c/color\u003e from the blacklist!\u003c/color\u003e"
+    },
+    "ANTIVPN.blacklist.asn.remove.notfound": {
+        "de-DE": "[grey]Die ASN [era_purple][asn]\u003c/color\u003e ist nicht auf der blacklist!\u003c/color\u003e",
+        "en-US": "[grey]The ASN [era_purple][asn]\u003c/color\u003e is not on the blacklist!\u003c/color\u003e"
+    },
+    "ANTIVPN.blacklist.ip.add": {
+        "de-DE": "[grey]Du hast die IP [era_purple][ip]\u003c/color\u003e zur blacklist hinzugefügt!\u003c/color\u003e",
+        "en-US": "[grey]You have added the IP [era_purple][ip]\u003c/color\u003e to the blacklist!\u003c/color\u003e"
+    },
+    "ANTIVPN.blacklist.ip.add.already": {
+        "de-DE": "[grey]Die IP [era_purple][ip]\u003c/color\u003e ist bereits auf der blacklist!\u003c/color\u003e",
+        "en-US": "[grey]The IP [era_purple][ip]\u003c/color\u003e is already on the blacklist!\u003c/color\u003e"
+    },
+    "ANTIVPN.blacklist.ip.remove": {
+        "de-DE": "[grey]Du hast die IP [era_purple][ip]\u003c/color\u003e von der blacklist entfernt!\u003c/color\u003e",
+        "en-US": "[grey]You have removed the IP [era_purple][ip]\u003c/color\u003e from the blacklist!\u003c/color\u003e"
+    },
+    "ANTIVPN.blacklist.ip.remove.notfound": {
+        "de-DE": "[grey]Die IP [era_purple][ip]\u003c/color\u003e ist nicht auf der blacklist!\u003c/color\u003e",
+        "en-US": "[grey]The IP [era_purple][ip]\u003c/color\u003e is not on the blacklist!\u003c/color\u003e"
+    },
+    "ANTIVPN.whitelist.asn.add": {
+        "de-DE": "[grey]Du hast die ASN [era_purple][asn]\u003c/color\u003e zur Whitelist hinzugefügt!\u003c/color\u003e",
+        "en-US": "[grey]You have added the ASN [era_purple][asn]\u003c/color\u003e to the whitelist!\u003c/color\u003e"
+    },
+    "ANTIVPN.whitelist.asn.add.already": {
+        "de-DE": "[grey]Die ASN [era_purple][asn]\u003c/color\u003e ist bereits auf der Whitelist!\u003c/color\u003e",
+        "en-US": "[grey]The ASN [era_purple][asn]\u003c/color\u003e is already on the whitelist!\u003c/color\u003e"
+    },
+    "ANTIVPN.whitelist.asn.remove": {
+        "de-DE": "[grey]Du hast die ASN [era_purple][asn]\u003c/color\u003e von der Whitelist entfernt!\u003c/color\u003e",
+        "en-US": "[grey]You have removed the ASN [era_purple][asn]\u003c/color\u003e from the whitelist!\u003c/color\u003e"
+    },
+    "ANTIVPN.whitelist.asn.remove.notfound": {
+        "de-DE": "[grey]Die ASN [era_purple][asn]\u003c/color\u003e ist nicht auf der Whitelist!\u003c/color\u003e",
+        "en-US": "[grey]The ASN [era_purple][asn]\u003c/color\u003e is not on the whitelist!\u003c/color\u003e"
+    },
+    "ANTIVPN.whitelist.ip.add": {
+        "de-DE": "[grey]Du hast die IP [era_purple][ip]\u003c/color\u003e zur Whitelist hinzugefügt!\u003c/color\u003e",
+        "en-US": "[grey]You have added the IP [era_purple][ip]\u003c/color\u003e to the whitelist!\u003c/color\u003e"
+    },
+    "ANTIVPN.whitelist.ip.add.already": {
+        "de-DE": "[grey]Die IP [era_purple][ip]\u003c/color\u003e ist bereits auf der Whitelist!\u003c/color\u003e",
+        "en-US": "[grey]The IP [era_purple][ip]\u003c/color\u003e is already on the whitelist!\u003c/color\u003e"
+    },
+    "ANTIVPN.whitelist.ip.remove": {
+        "de-DE": "[grey]Du hast die IP [era_purple][ip]\u003c/color\u003e von der Whitelist entfernt!\u003c/color\u003e",
+        "en-US": "[grey]You have removed the IP [era_purple][ip]\u003c/color\u003e from the whitelist!\u003c/color\u003e"
+    },
+    "ANTIVPN.whitelist.ip.remove.notfound": {
+        "de-DE": "[grey]Die IP [era_purple][ip]\u003c/color\u003e ist nicht auf der [green]Whitelist!\u003c/color\u003e\u003c/color\u003e",
+        "en-US": "[grey]The IP [era_purple][ip]\u003c/color\u003e is not on the whitelist!\u003c/color\u003e"
     }
 }
