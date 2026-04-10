@@ -5,7 +5,7 @@
     },
     "SHOP.gui.item.view.buy.inventory.full": {
         "de-DE": "[grey]Du hast [red]nicht genug Platz\u003c/color\u003e im Inventar!\u003c/color\u003e",
-        "en-US": "[grey]You [red]don't have enough space\u003c/color\u003e in your inventory!\u003c/color\u003e!"
+        "en-US": "[grey]You [red]don't have enough space\u003c/color\u003e in your inventory!\u003c/color\u003e"
     },
     "SHOP.gui.item.view.buy.not.enough.money": {
         "de-DE": "[grey]Du hast [red]nicht\u003c/color\u003e genug Geld um das zu tun!\u003c/color\u003e",
