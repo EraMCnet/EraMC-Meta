@@ -1,6 +1,6 @@
 {
     "WORTH.command.success": {
-        "de-DE": "[grey][mint_green_dark][amount]x\u003c/color\u003e [mint_green_dark][item]\u003c/color\u003e ist [mint_green_dark]$[money]\u003c/color\u003e wert!\u003c/color\u003e",
+        "de-DE": "[grey][mint_green_dark][amount]x\u003c/color\u003e [mint_green_dark][item]\u003c/color\u003e ist [yellow]$[money]\u003c/color\u003e wert!\u003c/color\u003e",
         "en-US": "[grey][mint_green_dark][amount]x\u003c/color\u003e [mint_green_dark][item]\u003c/color\u003e is worth [yellow]$[money]!\u003c/color\u003e\u003c/color\u003e"
     },
     "WORTH.item.lore.line": {
