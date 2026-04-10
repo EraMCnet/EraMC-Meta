@@ -1,58 +1,58 @@
 {
-    "SHOP.gui.page.previous": {
-        "de-DE": "<i:false>[era_purple]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
-        "en-US": "<i:false>[era_purple]ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ"
-    },
-    "SHOP.gui.page.next": {
-        "de-DE": "<i:false>[era_purple]ɴäᴄʜꜱᴛᴇ ꜱᴇɪᴛᴇ",
-        "en-US": "<i:false>[era_purple]ɴᴇxᴛ ᴘᴀɢᴇ"
-    },
-    "SHOP.gui.page.back": {
-        "de-DE": "<i:false>[red]ᴢᴜʀüᴄᴋ",
-        "en-US": "<i:false>[red]ʙᴀᴄᴋ"
-    },
-    "SHOP.gui.page.navigate.lore": {
-        "de-DE": "<i:false><br><i:false>[era_purple][ROUNDDOT][grey] Klicke, zum navigieren<br><i:false>",
-        "en-US": "<i:false><br><i:false>[era_purple][ROUNDDOT][grey] Click to navigate<br><i:false>"
-    },
-    "SHOP.gui.item.view.confirm": {
-        "de-DE": "<i:false>[green]<b>BESTÄTIGEN",
-        "en-US": "<i:false>[green]<b>CONFIRM"
-    },
-    "SHOP.gui.item.view.confirm.lore": {
-        "de-DE": "<!i>[grey][green][amount]</color> kaufen für [green]$[money]</color></color>",
-        "en-US": "<!i>[grey]Buy [green][amount]</color> for [green]$[money]</color></color>"
-    },
-    "SHOP.gui.item.view.buy.not.enough.money": {
-        "de-DE": "[grey]Du hast [red]nicht</color> genug Geld um das zu tun!</color>",
-        "en-US": "[grey]You [red]don't</color> have enough money to do that!</color>"
+    "SHOP.error": {
+        "de-DE": "[grey]Ein [red]Fehler\u003c/color\u003e ist aufgetreten! ([era_purple]/discord\u003c/color\u003e)\u003c/color\u003e",
+        "en-US": "[grey]An [red]error\u003c/color\u003e occurred! ([era_purple]/discord\u003c/color\u003e)\u003c/color\u003e"
     },
     "SHOP.gui.item.view.buy.inventory.full": {
-        "de-DE": "[grey]Du hast [red]nicht genug Platz</color> im Inventar!</color>!",
-        "en-US": "[grey]You [red]don't have enough space</color> in your inventory!</color>!"
+        "de-DE": "[grey]Du hast [red]nicht genug Platz\u003c/color\u003e im Inventar!\u003c/color\u003e",
+        "en-US": "[grey]You [red]don't have enough space\u003c/color\u003e in your inventory!\u003c/color\u003e!"
     },
-    "SHOP.error": {
-        "de-DE": "[grey]Ein [red]Fehler</color> ist aufgetreten! ([era_purple]/discord</color>)</color>",
-        "en-US": "[grey]An [red]error</color> occurred! ([era_purple]/discord</color>)</color>"
+    "SHOP.gui.item.view.buy.not.enough.money": {
+        "de-DE": "[grey]Du hast [red]nicht\u003c/color\u003e genug Geld um das zu tun!\u003c/color\u003e",
+        "en-US": "[grey]You [red]don't\u003c/color\u003e have enough money to do that!\u003c/color\u003e"
     },
     "SHOP.gui.item.view.buy.success": {
-        "de-DE": "[grey]Du hast [green][amount] [item]</color> für [green]$[money]</color> gekauft!</color>",
-        "en-US": "[grey]You bought [green][amount] [item]</color> for [green]$[money]</color></color>"
+        "de-DE": "[grey]Du hast [green][amount] [item]\u003c/color\u003e für [green]$[money]\u003c/color\u003e gekauft!\u003c/color\u003e",
+        "en-US": "[grey]You bought [green][amount] [item]\u003c/color\u003e for [green]$[money]\u003c/color\u003e\u003c/color\u003e"
+    },
+    "SHOP.gui.item.view.confirm": {
+        "de-DE": "\u003ci:false\u003e[green]\u003cb\u003eBESTÄTIGEN",
+        "en-US": "\u003ci:false\u003e[green]\u003cb\u003eCONFIRM"
+    },
+    "SHOP.gui.item.view.confirm.lore": {
+        "de-DE": "\u003c!i\u003e[grey][green][amount]\u003c/color\u003e kaufen für [green]$[money]\u003c/color\u003e\u003c/color\u003e",
+        "en-US": "\u003c!i\u003e[grey]Buy [green][amount]\u003c/color\u003e for [green]$[money]\u003c/color\u003e\u003c/color\u003e"
     },
     "SHOP.gui.item.view.showcase.lore": {
-        "de-DE": "<br><!i>[green][ROUNDDOT]</color> [grey]Menge:</color> [green][amount]</color><br><!i>[green][ROUNDDOT]</color> [grey]Preis:</color> [green]$[price]</color><br><!i>[green][ROUNDDOT]</color> [grey]Dein Geld:</color> [green]$[money]</color><br>",
-        "en-US": "<br><!i>[green][ROUNDDOT]</color> [grey]Amount:</color> [green][amount]</color><br><!i>[green][ROUNDDOT]</color> [grey]Price:</color> [green]$[price]</color><br><!i>[green][ROUNDDOT]</color> [grey]Your Money:</color> [green]$[money]</color><br>"
+        "de-DE": "\u003cbr\u003e\u003c!i\u003e[green][ROUNDDOT]\u003c/color\u003e [grey]Menge:\u003c/color\u003e [green][amount]\u003c/color\u003e\u003cbr\u003e\u003c!i\u003e[green][ROUNDDOT]\u003c/color\u003e [grey]Preis:\u003c/color\u003e [green]$[price]\u003c/color\u003e\u003cbr\u003e\u003c!i\u003e[green][ROUNDDOT]\u003c/color\u003e [grey]Dein Geld:\u003c/color\u003e [green]$[money]\u003c/color\u003e\u003cbr\u003e",
+        "en-US": "\u003cbr\u003e\u003c!i\u003e[green][ROUNDDOT]\u003c/color\u003e [grey]Amount:\u003c/color\u003e [green][amount]\u003c/color\u003e\u003cbr\u003e\u003c!i\u003e[green][ROUNDDOT]\u003c/color\u003e [grey]Price:\u003c/color\u003e [green]$[price]\u003c/color\u003e\u003cbr\u003e\u003c!i\u003e[green][ROUNDDOT]\u003c/color\u003e [grey]Your Money:\u003c/color\u003e [green]$[money]\u003c/color\u003e\u003cbr\u003e"
     },
-    "SHOP.gui.shops.buy": {
-        "de-DE": "<!i>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ ᴋᴀᴜꜰᴇɴ</color>",
-        "en-US": "<!i>[grey]ᴄʟɪᴄᴋ ᴛᴏ ʙᴜʏ</color>"
+    "SHOP.gui.page.back": {
+        "de-DE": "\u003ci:false\u003e[red]ᴢᴜʀüᴄᴋ",
+        "en-US": "\u003ci:false\u003e[red]ʙᴀᴄᴋ"
     },
-    "SHOP.gui.shops.view": {
-        "de-DE": "<!i>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ ᴀɴѕᴄʜᴀᴜᴇɴ</color>",
-        "en-US": "<!i>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ</color>"
+    "SHOP.gui.page.navigate.lore": {
+        "de-DE": "\u003ci:false\u003e\u003cbr\u003e\u003ci:false\u003e[era_purple][ROUNDDOT][grey] Klicke, zum navigieren\u003cbr\u003e\u003ci:false\u003e",
+        "en-US": "\u003ci:false\u003e\u003cbr\u003e\u003ci:false\u003e[era_purple][ROUNDDOT][grey] Click to navigate\u003cbr\u003e\u003ci:false\u003e"
+    },
+    "SHOP.gui.page.next": {
+        "de-DE": "\u003ci:false\u003e[era_purple]ɴäᴄʜꜱᴛᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "\u003ci:false\u003e[era_purple]ɴᴇxᴛ ᴘᴀɢᴇ"
+    },
+    "SHOP.gui.page.previous": {
+        "de-DE": "\u003ci:false\u003e[era_purple]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
+        "en-US": "\u003ci:false\u003e[era_purple]ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ"
     },
     "SHOP.gui.shop.view.item.info": {
-        "de-DE": "<br><!i>[green][ROUNDDOT]</color> [grey]Kaufpreis:</color> [green][buyprice]</color><br>",
-        "en-US": "<br><!i>[green][ROUNDDOT]</color> [grey]Buy Price:</color> [green][buyprice]</color><br>"
+        "de-DE": "\u003cbr\u003e\u003c!i\u003e[green][ROUNDDOT]\u003c/color\u003e [grey]Kaufpreis:\u003c/color\u003e [green][buyprice]\u003c/color\u003e\u003cbr\u003e",
+        "en-US": "\u003cbr\u003e\u003c!i\u003e[green][ROUNDDOT]\u003c/color\u003e [grey]Buy Price:\u003c/color\u003e [green][buyprice]\u003c/color\u003e\u003cbr\u003e"
+    },
+    "SHOP.gui.shops.buy": {
+        "de-DE": "\u003c!i\u003e[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ ᴋᴀᴜꜰᴇɴ\u003c/color\u003e",
+        "en-US": "\u003c!i\u003e[grey]ᴄʟɪᴄᴋ ᴛᴏ ʙᴜʏ\u003c/color\u003e"
+    },
+    "SHOP.gui.shops.view": {
+        "de-DE": "\u003c!i\u003e[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ ᴀɴѕᴄʜᴀᴜᴇɴ\u003c/color\u003e",
+        "en-US": "\u003c!i\u003e[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ\u003c/color\u003e"
     }
 }
