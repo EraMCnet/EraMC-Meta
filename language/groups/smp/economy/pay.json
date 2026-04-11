@@ -1,4 +1,8 @@
 {
+    "PAY.all.error.not.enough.money": {
+        "de-DE": "",
+        "en-US": ""
+    },
     "PAY.all.success": {
         "de-DE": "[grey]Du hast [era_purple]allen Spielern</color> [green]erfolgreich</color> [yellow]$[amount]</color> überwiesen! (<gold>-$[total_amount]</gold>)</color>",
         "en-US": "[grey]You have [green]successfully</color> payed [era_purple]all players</color>  [yellow]$[amount]</color>! (<gold>-$[total_amount]</gold>)</color>"
