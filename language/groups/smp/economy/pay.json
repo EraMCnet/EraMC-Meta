@@ -1,7 +1,7 @@
 {
     "PAY.all.error.not.enough.money": {
         "de-DE": "[grey]Du hast [red]nicht</color> genug [yellow]Geld,</color> um [era_purple]allen Spielern</color> [yellow]$[amount]</color> zu überwiesen!</color>",
-        "en-US": ""
+        "en-US": "[grey]You [red]don't</color> have enough [yellow]Money</color> to pay [era_purple]all players</color> [yellow]$[amount]</color>!</color>"
     },
     "PAY.all.success": {
         "de-DE": "[grey]Du hast [era_purple]allen Spielern</color> [green]erfolgreich</color> [yellow]$[amount]</color> überwiesen! (<gold>-$[total_amount]</gold>)</color>",
