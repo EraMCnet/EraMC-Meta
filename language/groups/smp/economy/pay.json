@@ -1,7 +1,19 @@
 {
+    "PAY.all.success": {
+        "de-DE": "[grey]Du hast [era_purple]allen Spielern</color> [green]erfolgreich</color> [yellow]$[amount]</color> überwiesen! (<gold>-$[total_amount]</gold>)</color>",
+        "en-US": "[grey]You have [green]successfully</color> payed [era_purple]all players</color>  [yellow]$[amount]</color>! (<gold>-$[total_amount]</gold>)</color>"
+    },
+    "PAY.error.min": {
+        "de-DE": "[grey]Du musst mindestens [yellow]$[amount]</color> überweisen!</color>",
+        "en-US": "[grey]You must pay at least [yellow]$[amount]</color>!</color>"
+    },
     "PAY.error.not.enough.money": {
         "de-DE": "[grey]Du hast [red]nicht</color> genug [yellow]Geld,</color> um [era_purple][player]</color> [yellow]$[amount]</color> überwiesen!</color>",
         "en-US": "[grey]You [red]do not</color> have enough [yellow]money</color> to do that!</color>"
+    },
+    "PAY.error.number.invalid": {
+        "de-DE": "[grey]Die eingegebene Zahl ist [red]ungültig!</color></color>",
+        "en-US": "[grey]The entered number is [red]invalid!</color></color>"
     },
     "PAY.success": {
         "de-DE": "[grey]Du hast [era_purple][player]</color> [green]erfolgreich</color> [yellow]$[amount]</color> überwiesen!</color>",
@@ -10,13 +22,5 @@
     "PAY.success.other": {
         "de-DE": "[grey][era_purple][player]</color> hat dir [yellow]$[amount]</color> überwiesen!</color>",
         "en-US": "[grey][era_purple][player]</color> has payed you [yellow]$[amount]</color>!</color>"
-    },
-    "PAY.error.min": {
-        "de-DE": "[grey]Du musst mindestens [yellow]$[amount]</color> überweisen!</color>",
-        "en-US": "[grey]You must pay at least [yellow]$[amount]</color>!</color>"
-    },
-    "PAY.error.number.invalid": {
-        "de-DE": "[grey]Die eingegebene Zahl ist [red]ungültig!</color></color>",
-        "en-US": "[grey]The entered number is [red]invalid!</color></color>"
     }
 }
