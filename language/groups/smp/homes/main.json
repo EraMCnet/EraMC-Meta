@@ -1,82 +1,82 @@
 {
-    "HOMES.teleport.success": {
-        "de-DE": "[grey]Du wurdest zu deinem Home [yellow][home]</color> teleportiert!</color>",
-        "en-US": "[grey]You have been teleported to your home [yellow][home]!</color></color>"
-    },
-    "HOMES.teleport.error": {
-        "de-DE": "[grey]Während des [yellow]Teleportierens</color> ist ein [red]Fehler</color> aufgetreten. Bitte kontaktiere unseren [yellow]Support.</color> ([era_purple]dc.eramc.net</color>)</color>",
-        "en-US": "[grey]An error occurred while [yellow]teleporting</color>. Please contact our [yellow]support.</color> ([era_purple]dc.eramc.net</color>)</color>"
-    },
-    "HOMES.teleport.in": {
-        "de-DE": "[grey]ᴅᴜ ᴡɪʀꜱᴛ ɪɴ [era_purple][duration] ꜱᴇᴋᴜɴᴅᴇɴ</color> ᴛᴇʟᴇᴘᴏʀᴛɪᴇʀᴛ</color>",
-        "en-US": "[grey]ʏᴏᴜ ᴀʀᴇ ɢᴏɪɴɢ ᴛᴏ ʙᴇ ᴛᴇʟᴇᴘᴏʀᴛᴇᴅ ɪɴ [era_purple][duration] ꜱᴇᴄᴏɴᴅꜱ</color></color>"
-    },
-    "HOMES.teleport.error.move": {
-        "de-DE": "[grey]Der Teleportationsvorgang wurde [red]abgebrochen,</color> da du dich bewegt hast!</color>",
-        "en-US": "[grey]The teleportation process was [red]cancelled</color> because you moved!</color>"
-    },
-    "HOMES.teleport.actionbar.cancelled": {
-        "de-DE": "[red]ᴅᴇʀ ᴛᴇʟᴇᴘᴏʀᴛ ᴡᴜʀᴅᴇ ᴀʙɢᴇʙʀᴏᴄʜᴇɴ</color>",
-        "en-US": "[red]ᴛʜᴇ ᴛᴇʟᴇᴘᴏʀᴛ ᴡᴀꜱ ᴄᴀɴᴄᴇʟʟᴇᴅ</color>"
-    },
-    "HOMES.teleport.error.disabled": {
-        "de-DE": "[grey]Das Home [yellow][home]</color> wurde automatisch oder von einem <red>Admin</red> [red]deaktiviert!</color></color>",
-        "en-US": "[grey]The home [yellow][home]</color> has been disabled automatically or by an <red>Admin!</red></color>"
-    },
-    "HOMES.create.success": {
-        "de-DE": "[grey]Du hast das Home [yellow][home]</color> [green]erfolgreich</color> erstellt!</color>",
-        "en-US": "[grey]You have created the home [yellow][home]</color> [green]successfully!</color></color>"
-    },
-    "HOMES.create.error.exist": {
-        "de-DE": "[grey]Das Home [yellow][home]</color> existiert bereits!</color>",
-        "en-US": "[grey]The home [yellow][home]</color> already exists!</color>"
-    },
-    "HOMES.create.error.limit": {
-        "de-DE": "[grey]Du hast das [yellow]Maximum an Homes</color> <dark_grey>([red][limit]</color> [grey]/</color> [green][max]</color>)</dark_grey> erreicht!</color>",
-        "en-US": "[grey]You have reached the [yellow]maximum limit of homes</color> <dark_grey>([[yellow][limit]</color>)</dark_grey>!</color>"
-    },
-    "HOMES.delete.success": {
-        "de-DE": "[grey]Du hast das Home [yellow][home]</color> [green]erfolgreich</color> gelöscht!</color>",
-        "en-US": "[grey]You have deleted the home [yellow][home]</color> [green]successfully!</color></color>"
-    },
-    "HOMES.not.found": {
-        "de-DE": "[grey]Das Home [yellow][home]</color> existiert nicht!</color>",
-        "en-US": "[grey]The home [yellow][home]</color> doesn't exist!</color>"
-    },
-    "HOMES.teleport.error.exist": {
-        "de-DE": "[grey]Das [yellow]Home,</color> zu welchem du dich [yellow]teleportieren</color> willst, existiert [red]nicht</color> mehr!</color>",
-        "en-US": "[grey]The [yellow]home</color> you want to [yellow]teleport</color> to doesn't exist [red]anymore!</color></color>"
-    },
-    "HOMES.admin.disable.all": {
-        "de-DE": "[grey]Du hast [green]erfolgreich</color> alle [yellow]Homes</color> des Spielers [yellow][player]</color> [red]deaktiviert!</color></color>",
-        "en-US": "[grey]You have [green]successfully</color> disabled all [yellow]homes</color> of [yellow][player]!</color></color>"
-    },
-    "HOMES.admin.enable.all": {
-        "de-DE": "[grey]Du hast [green]erfolgreich</color> alle [yellow]Homes</color> des Spielers [yellow][player]</color> [green]aktiviert!</color></color>",
-        "en-US": "[grey]You have [green]successfully</color> enabled all [yellow]homes</color> of [yellow][player]!</color></color>"
-    },
-    "HOMES.admin.disable": {
-        "de-DE": "[grey]Du hast [green]erfolgreich</color> das Home [yellow][home]</color> des Spielers [yellow][player]</color> [red]deaktiviert!</color></color>",
-        "en-US": "[grey]You have [green]successfully</color> disabled the home [yellow][home]</color> of [yellow][player]!</color></color>"
-    },
-    "HOMES.admin.enable": {
-        "de-DE": "[grey]Du hast [green]erfolgreich</color> das Home [yellow][home]</color> des Spielers [yellow][player]</color> [green]aktiviert!</color></color>",
-        "en-US": "[grey]You have [green]successfully</color> enabled the home [yellow][home]</color> of [yellow][player]!</color></color>"
-    },
     "HOMES.admin.delete": {
-        "de-DE": "[grey]Du hast [green]erfolgreich</color> das Home [yellow][home]</color> des Spielers [yellow][player]</color> [red]gelöscht!</color></color>",
-        "en-US": "[grey]You have [green]successfully</color> deleted the home [yellow][home]</color> of [yellow][player]!</color></color>"
+        "de-DE": "[grey]Du hast [green]erfolgreich\u003c/color\u003e das Home [yellow][home]\u003c/color\u003e des Spielers [yellow][player]\u003c/color\u003e [red]gelöscht!\u003c/color\u003e\u003c/color\u003e",
+        "en-US": "[grey]You have [green]successfully\u003c/color\u003e deleted the home [yellow][home]\u003c/color\u003e of [yellow][player]!\u003c/color\u003e\u003c/color\u003e"
     },
     "HOMES.admin.delete.all": {
-        "de-DE": "[grey]Du hast [green]erfolgreich</color> alle [yellow]Homes</color> des Spielers [yellow][player]</color> [red]gelöscht!</color></color>",
-        "en-US": "[grey]You have [green]successfully</color> deleted all [yellow]homes</color> of [yellow][player]!</color></color>"
+        "de-DE": "[grey]Du hast [green]erfolgreich\u003c/color\u003e alle [yellow]Homes\u003c/color\u003e des Spielers [yellow][player]\u003c/color\u003e [red]gelöscht!\u003c/color\u003e\u003c/color\u003e",
+        "en-US": "[grey]You have [green]successfully\u003c/color\u003e deleted all [yellow]homes\u003c/color\u003e of [yellow][player]!\u003c/color\u003e\u003c/color\u003e"
+    },
+    "HOMES.admin.disable": {
+        "de-DE": "[grey]Du hast [green]erfolgreich\u003c/color\u003e das Home [yellow][home]\u003c/color\u003e des Spielers [yellow][player]\u003c/color\u003e [red]deaktiviert!\u003c/color\u003e\u003c/color\u003e",
+        "en-US": "[grey]You have [green]successfully\u003c/color\u003e disabled the home [yellow][home]\u003c/color\u003e of [yellow][player]!\u003c/color\u003e\u003c/color\u003e"
+    },
+    "HOMES.admin.disable.all": {
+        "de-DE": "[grey]Du hast [green]erfolgreich\u003c/color\u003e alle [yellow]Homes\u003c/color\u003e des Spielers [yellow][player]\u003c/color\u003e [red]deaktiviert!\u003c/color\u003e\u003c/color\u003e",
+        "en-US": "[grey]You have [green]successfully\u003c/color\u003e disabled all [yellow]homes\u003c/color\u003e of [yellow][player]!\u003c/color\u003e\u003c/color\u003e"
+    },
+    "HOMES.admin.enable": {
+        "de-DE": "[grey]Du hast [green]erfolgreich\u003c/color\u003e das Home [yellow][home]\u003c/color\u003e des Spielers [yellow][player]\u003c/color\u003e [green]aktiviert!\u003c/color\u003e\u003c/color\u003e",
+        "en-US": "[grey]You have [green]successfully\u003c/color\u003e enabled the home [yellow][home]\u003c/color\u003e of [yellow][player]!\u003c/color\u003e\u003c/color\u003e"
+    },
+    "HOMES.admin.enable.all": {
+        "de-DE": "[grey]Du hast [green]erfolgreich\u003c/color\u003e alle [yellow]Homes\u003c/color\u003e des Spielers [yellow][player]\u003c/color\u003e [green]aktiviert!\u003c/color\u003e\u003c/color\u003e",
+        "en-US": "[grey]You have [green]successfully\u003c/color\u003e enabled all [yellow]homes\u003c/color\u003e of [yellow][player]!\u003c/color\u003e\u003c/color\u003e"
     },
     "HOMES.admin.teleport": {
-        "de-DE": "[grey]Du hast [green]erfolgreich</color> zu dem Home [yellow][home]</color> des Spielers [yellow][player]</color> [green]teleportiert!</color></color>",
-        "en-US": "[grey]You have [green]successfully</color> teleported to the home [yellow][home]</color> of [yellow][player]!</color></color>"
+        "de-DE": "[grey]Du hast [green]erfolgreich\u003c/color\u003e zu dem Home [yellow][home]\u003c/color\u003e des Spielers [yellow][player]\u003c/color\u003e [green]teleportiert!\u003c/color\u003e\u003c/color\u003e",
+        "en-US": "[grey]You have [green]successfully\u003c/color\u003e teleported to the home [yellow][home]\u003c/color\u003e of [yellow][player]!\u003c/color\u003e\u003c/color\u003e"
     },
     "HOMES.admin.teleport.error": {
-        "de-DE": "[grey]Während des [yellow]Teleportierens</color> ist ein [red]Fehler</color> aufgetreten. Bitte kontaktiere einen [yellow]Administrator.</color> ([era_purple]dc.eramc.net</color>)</color>",
-        "en-US": "[grey]An error occurred while [yellow]teleporting</color>. Please contact our [yellow]support.</color> ([era_purple]dc.eramc.net</color>)</color>"
+        "de-DE": "[grey]Während des [yellow]Teleportierens\u003c/color\u003e ist ein [red]Fehler\u003c/color\u003e aufgetreten. Bitte kontaktiere einen [yellow]Administrator.\u003c/color\u003e ([era_purple]dc.eramc.net\u003c/color\u003e)\u003c/color\u003e",
+        "en-US": "[grey]An error occurred while [yellow]teleporting\u003c/color\u003e. Please contact our [yellow]support.\u003c/color\u003e ([era_purple]dc.eramc.net\u003c/color\u003e)\u003c/color\u003e"
+    },
+    "HOMES.create.error.exist": {
+        "de-DE": "[grey]Das Home [yellow][home]\u003c/color\u003e existiert bereits!\u003c/color\u003e",
+        "en-US": "[grey]The home [yellow][home]\u003c/color\u003e already exists!\u003c/color\u003e"
+    },
+    "HOMES.create.error.limit": {
+        "de-DE": "[grey]Du hast das [yellow]Maximum an Homes\u003c/color\u003e \u003cdark_grey\u003e([red][limit]\u003c/color\u003e [grey]/\u003c/color\u003e [green][max]\u003c/color\u003e)\u003c/dark_grey\u003e erreicht!\u003c/color\u003e",
+        "en-US": "[grey]You have reached the [yellow]maximum limit of homes\u003c/color\u003e \u003cdark_grey\u003e([[yellow][limit]\u003c/color\u003e)\u003c/dark_grey\u003e!\u003c/color\u003e"
+    },
+    "HOMES.create.success": {
+        "de-DE": "[grey]Du hast das Home [yellow][home]\u003c/color\u003e [green]erfolgreich\u003c/color\u003e erstellt!\u003c/color\u003e",
+        "en-US": "[grey]You have created the home [yellow][home]\u003c/color\u003e [green]successfully!\u003c/color\u003e\u003c/color\u003e"
+    },
+    "HOMES.delete.success": {
+        "de-DE": "[grey]Du hast das Home [yellow][home]\u003c/color\u003e [green]erfolgreich\u003c/color\u003e gelöscht!\u003c/color\u003e",
+        "en-US": "[grey]You have deleted the home [yellow][home]\u003c/color\u003e [green]successfully!\u003c/color\u003e\u003c/color\u003e"
+    },
+    "HOMES.not.found": {
+        "de-DE": "[grey]Das Home [yellow][home]\u003c/color\u003e existiert [red]nicht!\u003c/color\u003e\u003c/color\u003e",
+        "en-US": "[grey]The home [yellow][home]\u003c/color\u003e doesn't exist!\u003c/color\u003e"
+    },
+    "HOMES.teleport.actionbar.cancelled": {
+        "de-DE": "[red]ᴅᴇʀ ᴛᴇʟᴇᴘᴏʀᴛ ᴡᴜʀᴅᴇ ᴀʙɢᴇʙʀᴏᴄʜᴇɴ\u003c/color\u003e",
+        "en-US": "[red]ᴛʜᴇ ᴛᴇʟᴇᴘᴏʀᴛ ᴡᴀꜱ ᴄᴀɴᴄᴇʟʟᴇᴅ\u003c/color\u003e"
+    },
+    "HOMES.teleport.error": {
+        "de-DE": "[grey]Während des [yellow]Teleportierens\u003c/color\u003e ist ein [red]Fehler\u003c/color\u003e aufgetreten. Bitte kontaktiere unseren [yellow]Support.\u003c/color\u003e ([era_purple]dc.eramc.net\u003c/color\u003e)\u003c/color\u003e",
+        "en-US": "[grey]An error occurred while [yellow]teleporting\u003c/color\u003e. Please contact our [yellow]support.\u003c/color\u003e ([era_purple]dc.eramc.net\u003c/color\u003e)\u003c/color\u003e"
+    },
+    "HOMES.teleport.error.disabled": {
+        "de-DE": "[grey]Das Home [yellow][home]\u003c/color\u003e wurde automatisch oder von einem \u003cred\u003eAdmin\u003c/red\u003e [red]deaktiviert!\u003c/color\u003e\u003c/color\u003e",
+        "en-US": "[grey]The home [yellow][home]\u003c/color\u003e has been disabled automatically or by an \u003cred\u003eAdmin!\u003c/red\u003e\u003c/color\u003e"
+    },
+    "HOMES.teleport.error.exist": {
+        "de-DE": "[grey]Das [yellow]Home,\u003c/color\u003e zu welchem du dich [yellow]teleportieren\u003c/color\u003e willst, existiert [red]nicht\u003c/color\u003e mehr!\u003c/color\u003e",
+        "en-US": "[grey]The [yellow]home\u003c/color\u003e you want to [yellow]teleport\u003c/color\u003e to doesn't exist [red]anymore!\u003c/color\u003e\u003c/color\u003e"
+    },
+    "HOMES.teleport.error.move": {
+        "de-DE": "[grey]Der Teleportationsvorgang wurde [red]abgebrochen,\u003c/color\u003e da du dich bewegt hast!\u003c/color\u003e",
+        "en-US": "[grey]The teleportation process was [red]cancelled\u003c/color\u003e because you moved!\u003c/color\u003e"
+    },
+    "HOMES.teleport.in": {
+        "de-DE": "[grey]ᴅᴜ ᴡɪʀꜱᴛ ɪɴ [era_purple][duration] ꜱᴇᴋᴜɴᴅᴇɴ\u003c/color\u003e ᴛᴇʟᴇᴘᴏʀᴛɪᴇʀᴛ\u003c/color\u003e",
+        "en-US": "[grey]ʏᴏᴜ ᴀʀᴇ ɢᴏɪɴɢ ᴛᴏ ʙᴇ ᴛᴇʟᴇᴘᴏʀᴛᴇᴅ ɪɴ [era_purple][duration] ꜱᴇᴄᴏɴᴅꜱ\u003c/color\u003e\u003c/color\u003e"
+    },
+    "HOMES.teleport.success": {
+        "de-DE": "[grey]Du wurdest zu deinem Home [yellow][home]\u003c/color\u003e teleportiert!\u003c/color\u003e",
+        "en-US": "[grey]You have been teleported to your home [yellow][home]!\u003c/color\u003e\u003c/color\u003e"
     }
 }
