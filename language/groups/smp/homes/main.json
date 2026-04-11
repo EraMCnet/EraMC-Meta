@@ -49,7 +49,7 @@
     },
     "HOMES.not.found": {
         "de-DE": "[grey]Das Home [yellow][home]\u003c/color\u003e existiert [red]nicht!\u003c/color\u003e\u003c/color\u003e",
-        "en-US": "[grey]The home [yellow][home]\u003c/color\u003e doesn't exist!\u003c/color\u003e"
+        "en-US": "[grey]The home [yellow][home]\u003c/color\u003e [red]doesn't exist!\u003c/color\u003e\u003c/color\u003e"
     },
     "HOMES.teleport.actionbar.cancelled": {
         "de-DE": "[red]ᴅᴇʀ ᴛᴇʟᴇᴘᴏʀᴛ ᴡᴜʀᴅᴇ ᴀʙɢᴇʙʀᴏᴄʜᴇɴ\u003c/color\u003e",
