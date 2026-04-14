@@ -144,7 +144,7 @@
         "en-US": "<br>[darker_red]<b>YOU GOT MUTED!</b></color><br><br>[darker_red]Case ID:</color> [grey]#[id]</color><br>[era_purple]Moderator:</color> [grey][executor]</color><br>[era_purple]Reason:</color> [grey][reason]</color><br>[era_purple]Duration:</color> [grey][duration]</color><br>"
     },
     "PUNISH.warn": {
-        "de-DE": "",
+        "de-DE": "<br>[darker_red]<b>DU WURDEST VERWARNT!</b></color><br><br>[darker_red]Case ID:</color> [grey]#[id]</color><br>[era_purple]Moderator:</color> [grey][executor]</color><br>[era_purple]Grund:</color> [grey][reason]</color><br>",
         "en-GB": "",
         "en-US": ""
     },
