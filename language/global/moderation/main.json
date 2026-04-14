@@ -146,7 +146,7 @@
     "PUNISH.warn": {
         "de-DE": "<br>[darker_red]<b>DU WURDEST VERWARNT!</b></color><br><br>[darker_red]Case ID:</color> [grey]#[id]</color><br>[era_purple]Moderator:</color> [grey][executor]</color><br>[era_purple]Grund:</color> [grey][reason]</color><br>",
         "en-GB": "",
-        "en-US": ""
+        "en-US": "<br>[darker_red]<b>YOU GOT WARNED!</b></color><br><br>[darker_red]Case ID:</color> [grey]#[id]</color><br>[era_purple]Moderator:</color> [grey][executor]</color><br>[era_purple]Reason:</color> [grey][reason]</color><br>"
     },
     "SUCCESS.command.offend.auto": {
         "de-DE": "[grey]Du hast den Spieler [era_purple][player]</color> mit dem Grund [era_purple][reason]</color> und der Dauer [era_purple][duration]</color>. Dies war [era_purple][player-format]</color> [yellow][offend-score]te</color> Strafe für den ausgewählten Grund. Diese Bestrafung benutzt den Bestrafungstypen [era_purple][type]</color>.</color>",
