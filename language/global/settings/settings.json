@@ -43,9 +43,9 @@
         "de-DE": "Gilden-Beitrittsanfragen",
         "en-US": "Guild join requests"
     },
-    "clan_join_requests.name": {
-        "de-DE": "Clan-Beitrittsanfragen",
-        "en-US": "Clan join requests"
+    "clan_invites.name": {
+        "de-DE": "Clan-Einladungen",
+        "en-US": "Clan invites"
     },
     "tpa.name": {
         "de-DE": "TPA-Anfragen",

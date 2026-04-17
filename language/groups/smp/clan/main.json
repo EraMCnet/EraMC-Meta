@@ -63,6 +63,10 @@
         "de-DE": "[grey]Du hast [era_purple][player]</color> [green]erfolgreich</color> in deinen Clan eingeladen!</color>",
         "en-US": "[grey]You have [green]suceessfully</color> invited [era_purple][player]</color> to your clan!</color>"
     },
+    "CLAN.command.invite.error.target.disabled": {
+        "de-DE": "[grey]Der Spieler [era_purple][player]</color> hat das Empfangen von [era_purple]Clan Einladungen</color> [red]deaktiviert!</color>",
+        "en-US": "[grey]The player [era_purple][player]</color> has [red]disabled</color> receiving [era_purple]clan invitations!</color>"
+    },
     "CLAN.invite.receive": {
         "de-DE": "[grey][era_purple][player]</color> hat dich eingeladen, dem Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) beizutreten! Nutze [era_purple]<hover:show_text:'[era_purple]Klicke zum ausführen</color>'><click:run_command:'/clan invite accept [name]#[tagline]'>/clan invite accept [name]#[tagline]</click></hover:show_text></color> um die Einladung anzunehmen!</color>",
         "en-US": "[grey][era_purple][player]</color> has invited you to join the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>)! Use [era_purple]<hover:show_text:'[era_purple]Klicke zum ausführen</color>'><click:run_command:'/clan invite accept [name]#[tagline]'>/clan invite accept [name]#[tagline]</click></hover:show_text></color> to accept the invitation!</color>"
