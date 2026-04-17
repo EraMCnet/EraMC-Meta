@@ -123,6 +123,10 @@
         "de-DE": "[grey]Du kannst den Clan [red]nicht verlassen</color>, da du der Clan Leader bist! Bitte lösche den Clan stattdessen!</color>",
         "en-US": "[grey]You can't leave the clan, because you are the clan leader! Please delete the clan instead!</color>"
     },
+    "CLAN.command.chat.error.blacklisted": {
+        "de-DE": "[grey]Deine Nachricht enthält ein [red]Verbotenes Wort!</color> Wenn du denkst, dass das ein [red]Fehler</color> ist, kontaktiere unseren Support ([era_purple]/discord</color>).</color>",
+        "en-US": "[grey]Your message contains a [red]blacklisted word!</color> If you think this is a [red]mistake</color>, please contact our support ([era_purple]/discord</color>).</color>"
+    },
     "CLAN.command.leave.success": {
         "de-DE": "[grey]Du hast den Clan [era_purple][name]</color> ([era_purple][id]</color>) [green]erfolgreich</color> verlassen!</color>",
         "en-US": "[grey]You have [green]suceessfully</color> left the clan [era_purple][name]</color> ([era_purple][id]</color>)!</color>"
