@@ -15,9 +15,21 @@
         "de-DE": "[grey]Du [red]bist bereits</color> in einem Clan!</color>",
         "en-US": "[grey]You [red]are already</color> in a clan!</color>"
     },
+    "CLAN.creation.error.name.not.set": {
+        "de-DE": "[grey]Du musst einen [darker_red]Clan Namen</color> angeben!</color>",
+        "en-US": "[grey]You must provide a [darker_red]clan name</color>!</color>"
+    },
+    "CLAN.creation.error.tagline.not.set": {
+        "de-DE": "[grey]Du musst eine [darker_red]Clan Tagline</color> angeben!</color>",
+        "en-US": "[grey]You must provide a [darker_red]clan tagline</color>!</color>"
+    },
+    "CLAN.creation.error.tag.not.set": {
+        "de-DE": "[grey]Du musst einen [darker_red]Clan Tag</color> angeben!</color>",
+        "en-US": "[grey]You must provide a [darker_red]clan tag</color>!</color>"
+    },
     "CLAN.command.create.success": {
-        "de-DE": "[grey]Du hast den Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) [green]erfolgreich</color> erstellt!</color>",
-        "en-US": "[grey]You have [green]suceessfully</color> created the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>)!</color>"
+        "de-DE": "[grey]Du hast den Clan [era_purple][name]</color> ([era_purple][id]</color>) [green]erfolgreich</color> erstellt!</color>",
+        "en-US": "[grey]You have [green]suceessfully</color> created the clan [era_purple][name]</color> ([era_purple][id]</color>)!</color>"
     },
     "CLAN.command.delete.error.not.in.clan": {
         "de-DE": "[grey]Du bist [red]in keinem</color> Clan!</color>",
@@ -28,8 +40,8 @@
         "en-US": "[grey]You are [red]not the</color> clan leader!</color>"
     },
     "CLAN.command.delete.success": {
-        "de-DE": "[grey]Du hast den Clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>) [green]erfolgreich</color> gelöscht!</color>",
-        "en-US": "[grey]You have [green]suceessfully</color> deleted the clan [era_purple][name]#[tagline]</color> ([era_purple][id]</color>)!</color>"
+        "de-DE": "[grey]Du hast den Clan [era_purple][name]</color> ([era_purple][id]</color>) [green]erfolgreich</color> gelöscht!</color>",
+        "en-US": "[grey]You have [green]suceessfully</color> deleted the clan [era_purple][name]</color> ([era_purple][id]</color>)!</color>"
     },
     "CLAN.command.invite.error.not.in.clan": {
         "de-DE": "[grey]Du bist [red]in keinem</color> Clan!</color>",
