@@ -24,8 +24,8 @@
         "en-US": "<!i>[yellow]Clan Name"
     },
     "GUI.settings.name.item.lore": {
-        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Klicke hier, um [yellow]den Namen</color> [gem_purple]des Clans</color> zu [blue]ändern.</color><br>",
-        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Click here to [blue]change</color> [yellow]the name</color> [gem_purple]of the clan</color>.<br>"
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Klicke hier, um [yellow]den Namen</color> [gem_purple]des Clans</color> zu [blue]ändern.</color><br><br><!i>[grey][yellow][ARROW]</color> Aktueller Name: [yellow][name]</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Click here to [blue]change</color> [yellow]the name</color> [gem_purple]of the clan</color>.<br><br><!i>[grey][yellow][ARROW]</color> Current name: [yellow][name]</color>"
     },
     "GUI.settings.description.item.name": {
         "de-DE": "<!i>[yellow]Clan Beschreibung",
