@@ -42,5 +42,9 @@
     "ROLE.add.success": {
         "de-DE": "[grey]Die Rolle [yellow][role_name]</color> wurde [green]erfolgreich hinzugefügt!</color></color>",
         "en-US": "[grey]The role [yellow][role_name]</color> has been [green]successfully added!</color></color>"
+    },
+    "ROLE.delete.success": {
+        "de-DE": "[grey]Die Rolle [yellow][role_name]</color> wurde [green]erfolgreich gelöscht!</color></color>",
+        "en-US": "[grey]The role [yellow][role_name]</color> has been [green]successfully deleted!</color></color>"
     }
 }
