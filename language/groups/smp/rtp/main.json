@@ -37,7 +37,7 @@
     },
     "RTP.gui.overworld": {
         "de-DE": "<!i>[green]<b>RTP OVERWORLD</b></color>",
-        "en-US": "[green]<b>RTP OVERWORLD</b></color>"
+        "en-US": "<!i>[green]<b>RTP OVERWORLD</b></color>"
     },
     "RTP.gui.overworld.lore": {
         "de-DE": "<br><!i>[grey]Klicke, um dich zu [green]teleportieren</color><br><br><!i>[green][ROUNDDOT] [grey]Cooldown: [green][duration]</color><br><!i>[green][ROUNDDOT] [grey]Radius: [green]3k - 50k</color><br><!i>[green][ROUNDDOT] [grey]Border: [green]500k x 500k</color><br>",
@@ -45,7 +45,7 @@
     },
     "RTP.gui.nether": {
         "de-DE": "<!i>[red]<b>RTP NETHER</b></color>",
-        "en-US": "[red]<b>RTP NETHER</b></color>"
+        "en-US": "<!i>[red]<b>RTP NETHER</b></color>"
     },
     "RTP.gui.nether.lore": {
         "de-DE": "<br><!i>[grey]Klicke, um dich zu [red]teleportieren</color><br><br><!i>[red][ROUNDDOT] [grey]Cooldown: [red][duration]</color><br><!i>[red][ROUNDDOT] [grey]Radius: [red]1k - 10k</color><br><!i>[red][ROUNDDOT] [grey]Border: [red]50k x 50k</color><br>",
@@ -53,7 +53,7 @@
     },
     "RTP.gui.end": {
         "de-DE": "<!i>[purple]<b>RTP END</b></color>",
-        "en-US": "[purple]<b>RTP END</b></color>"
+        "en-US": "<!i>[purple]<b>RTP END</b></color>"
     },
     "RTP.gui.end.lore": {
         "de-DE": "<br><!i>[grey]Klicke, um dich zu [purple]teleportieren</color><br><br><!i>[purple][ROUNDDOT] [grey]Cooldown: [purple][duration]</color><br><!i>[purple][ROUNDDOT] [grey]Radius: [purple]5k - 100k</color><br><!i>[purple][ROUNDDOT] [grey]Border: [purple]600k x 600k</color><br>",

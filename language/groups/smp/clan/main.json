@@ -399,6 +399,14 @@
         "de-DE": "[grey]Der Clan Typ [red][type]</color> ist ungültig! Gültige Typen sind: [era_purple]OPEN, INVITE-ONLY, CLOSED</color></color>",
         "en-US": "[grey]The clan type [red][type]</color> is invalid! Valid types are: [era_purple]OPEN, INVITE-ONLY, CLOSED</color></color>"
     },
+    "CLAN.command.joinrequest.cancel.no.request.sent": {
+        "de-DE": "[grey]Du hast keine [era_purple]Beitrittsanfrage</color> an den Clan [era_purple][name]</color> ([era_purple][id]</color>) gesendet!</color>",
+        "en-US": "[grey]You have not sent a [era_purple]join request</color> to the clan [era_purple][name]</color> ([era_purple][id]</color>)!</color>"
+    },
+    "CLAN.command.joinrequest.cancel.success": {
+        "de-DE": "[grey]Du hast deine [era_purple]Beitrittsanfrage</color> an den Clan [era_purple][name]</color> ([era_purple][id]</color>) [green]erfolgreich</color> entfernt!</color>",
+        "en-US": "[grey]You have [green]suceessfully</color> removed your [era_purple]join request</color> to the clan [era_purple][name]</color> ([era_purple][id]</color>)!</color>"
+    },
     "CLAN.command.setting.type.success.closed": {
         "de-DE": "[grey]Du hast den [era_purple]Clan Typ</color> erfolgreich auf [era_purple]geschlossen</color> geändert! Nur Spieler, die [era_purple]eingelanden</color> wurden, können in deinen Clan.</color>",
         "en-US": "[grey]You have [green]suceessfully</color> changed the [era_purple]clan type</color> to [era_purple]closed</color>! Only players who have been [era_purple]invited</color> can join your clan.</color>"
