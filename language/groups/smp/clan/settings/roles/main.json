@@ -10,5 +10,37 @@
     "GUI.role.item.lore.deleteable": {
         "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Mitglieder: [green][member_count]</color></color><br><!i>[grey][green][ROUNDDOT]</color> Berechtigungen: [green][permissions]...</color> (zeigt [yellow][perms_displayed]</color> von [green][all_perm_size]</color>)</color><br><br><!i>[grey][green][ARROW]</color> Klicke, um [green]die Berechtigungen zu bearbeiten.</color><br><!i>[grey][darker_red][ARROW]</color> Rechtsklicke, [darker_red]um diese Rolle zu löschen</color>",
         "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Members: [green][member_count]</color></color><br><!i>[grey][green][ROUNDDOT]</color> Permissions: [green][permissions]...</color> (showing [yellow][perms_displayed]</color> of [green][all_perm_size]</color>)</color><br><br><!i>[grey][green][ARROW]</color> Click to [green]edit permissions.</color><br><!i>[grey][darker_red][ARROW]</color> Right-click to [darker_red]delete this role</color>"
+    },
+    "GUI.role.item.add.name": {
+        "de-DE": "<!i>[green]Rolle hinzufügen",
+        "en-US": "<!i>[green]Add Role"
+    },
+    "GUI.role.item.add.lore": {
+        "de-DE": "<br><!i>[grey][green][ARROW]</color> Klicke, um [green]eine neue Rolle hinzuzufügen.</color><br>",
+        "en-US": "<br><!i>[grey][green][ARROW]</color> Click to [green]add a new role.</color><br>"
+    },
+    "ROLE.add.chatprompt": {
+        "de-DE": "[green]Gib den Namen der neuen Rolle ein:</color>",
+        "en-US": "[green]Enter the name of the new role:</color>"
+    },
+    "ROLE.add.error.name.invalid.lenght": {
+        "de-DE": "[grey]Der [darker_red]Rollenname</color> muss zwischen [darker_red]3 und 20 Zeichen</color> lang sein!</color>",
+        "en-US": "[grey]The [darker_red]role name</color> must be between [darker_red]3 and 20 characters</color> long!"
+    },
+    "ROLE.add.error.name.blacklisted": {
+        "de-DE": "[grey]Der Rollenname enthält ein [red]Verbotenes Wort!</color> Wenn du denkst, dass das ein [red]Fehler</color> ist, kontaktiere unseren Support ([era_purple]/discord</color>).</color>",
+        "en-US": "[grey]The role name contains a [red]blacklisted word!</color> If you think this is a [red]mistake</color>, please contact our support ([era_purple]/discord</color>).</color>"
+    },
+    "ROLE.add.error.name.alreadyexists": {
+        "de-DE": "[grey]Es gibt [darker_red]bereits eine Rolle</color> mit diesem Namen in deinem Clan!</color>",
+        "en-US": "[grey]There is [darker_red]already a role</color> with this name in your clan!</color>"
+    },
+    "ROLE.add.error.name.invalidcharacters": {
+        "de-DE": "[grey]Der [darker_red]Rollenname</color> enthält ungültige Zeichen! Erlaubt sind nur [darker_red]Buchstaben Zahlen und Bindestriche</color>.",
+        "en-US": "[grey]The [darker_red]role name</color> contains invalid characters! Only [darker_red]letters, numbers and hyphens</color> are allowed."
+    },
+    "ROLE.add.success": {
+        "de-DE": "[grey]Die Rolle [yellow][role_name]</color> wurde [green]erfolgreich hinzugefügt!</color></color>",
+        "en-US": "[grey]The role [yellow][role_name]</color> has been [green]successfully added!</color></color>"
     }
 }
