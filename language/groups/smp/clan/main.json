@@ -183,6 +183,10 @@
         "de-DE": "[grey]Du bist [red]in keinem</color> Clan!</color>",
         "en-US": "[grey]You are [red]not in</color> a clan!</color>"
     },
+    "CLAN.command.unsethome.success": {
+        "de-DE": "[grey]Du hast das [era_purple]Clan Home</color> erfolgreich entfernt!</color>",
+        "en-US": "[grey]You have [green]suceessfully</color> removed the [era_purple]clan home</color>!</color>"
+    },
     "CLAN.command.sethome.error.no.permission": {
         "de-DE": "[grey]Du musst der Clan [red]Owner</color> sein um das zu tun!</color>",
         "en-US": "[grey]You must be the clan [red]owner</color> to do that!</color>"
