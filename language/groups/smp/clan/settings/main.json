@@ -86,5 +86,13 @@
     "SETTING.name.chat.prompt": {
         "de-DE": "<!i>[blue]Gib den neuen Namen des Clans ein",
         "en-US": "<!i>[blue]Enter the new name of the clan"
+    },
+    "SETTING.description.chat.prompt": {
+        "de-DE": "<!i>[blue]Gib die neue Beschreibung des Clans ein",
+        "en-US": "<!i>[blue]Enter the new description of the clan"
+    },
+    "SETTING.tag.chat.prompt": {
+        "de-DE": "<!i>[blue]Gib den neuen Tag des Clans ein",
+        "en-US": "<!i>[blue]Enter the new tag of the clan"
     }
 }
