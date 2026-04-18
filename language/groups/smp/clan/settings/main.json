@@ -2,5 +2,85 @@
     "GUI.title": {
         "de-DE": "<!i>Clan Einstellungen",
         "en-US": "<!i>Clan Settings"
+    },
+    "GUI.settings.members.item.name": {
+        "de-DE": "<!i>[blue]Mitglieder",
+        "en-US": "<!i>[blue]Members"
+    },
+    "GUI.settings.members.item.lore": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Klicke hier, um [green]die Mitglieder</color> [gem_purple]des Clans</color> zu [blue]verwalten.</color><br>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Click here to [blue]manage</color> [green]the members</color> [gem_purple]of the clan</color>.<br>"
+    },
+    "GUI.settings.bans.item.name": {
+        "de-DE": "<!i>[darker_red]Sperren",
+        "en-US": "<!i>[darker_red]Bans"
+    },
+    "GUI.settings.bans.item.lore": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Klicke hier, um [red]die gesperrten Spieler</color> [gem_purple]des Clans</color> zu [blue]verwalten.</color><br>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Click here to [blue]manage</color> [red]the banned players</color> [gem_purple]of the clan</color>.<br>"
+    },
+    "GUI.settings.name.item.name": {
+        "de-DE": "<!i>[yellow]Clan Name",
+        "en-US": "<!i>[yellow]Clan Name"
+    },
+    "GUI.settings.name.item.lore": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Klicke hier, um [yellow]den Namen</color> [gem_purple]des Clans</color> zu [blue]ändern.</color><br>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Click here to [blue]change</color> [yellow]the name</color> [gem_purple]of the clan</color>.<br>"
+    },
+    "GUI.settings.description.item.name": {
+        "de-DE": "<!i>[yellow]Clan Beschreibung",
+        "en-US": "<!i>[yellow]Clan Description"
+    },
+    "GUI.settings.description.item.lore": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Klicke hier, um [yellow]die Beschreibung</color> [gem_purple]des Clans</color> zu [blue]ändern.</color><br>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Click here to [blue]change</color> [yellow]the description</color> [gem_purple]of the clan</color>.<br>"
+    },
+    "GUI.settings.tag.item.name": {
+        "de-DE": "<!i>[yellow]Clan Tag",
+        "en-US": "<!i>[yellow]Clan Tag"
+    },
+    "GUI.settings.tag.item.lore": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Klicke hier, um [yellow]den Tag</color> [gem_purple]des Clans</color> zu [blue]ändern.</color><br>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Click here to [blue]change</color> [yellow]the tag</color> [gem_purple]of the clan</color>.<br>"
+    },
+    "GUI.settings.roles.item.name": {
+        "de-DE": "<!i>[orange]Clan Rollen",
+        "en-US": "<!i>[orange]Clan Roles"
+    },
+    "GUI.settings.roles.item.lore": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Klicke hier, um [orange]die Rollen</color> [gem_purple]des Clans</color> zu [blue]verwalten.</color><br>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Click here to [blue]manage</color> [orange]the roles</color> [gem_purple]of the clan</color>.<br>"
+    },
+    "GUI.settings.join-requests.item.name": {
+        "de-DE": "<!i>[green]Beitrittsanfragen",
+        "en-US": "<!i>[green]Join Requests"
+    },
+    "GUI.settings.join-requests.item.lore": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Klicke hier, um [green]die Beitrittsanfragen</color> [gem_purple]des Clans</color> zu [blue]verwalten.</color><br>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Click here to [blue]manage</color> [green]the join requests</color> [gem_purple]of the clan</color>.<br>"
+    },
+    "GUI.settings.invites.item.name": {
+        "de-DE": "<!i>[green]Einladungen",
+        "en-US": "<!i>[green]Invites"
+    },
+    "GUI.settings.invites.item.lore": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Klicke hier, um [green]die Einladungen</color> [gem_purple]des Clans</color> zu [blue]verwalten.</color><br>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Click here to [blue]manage</color> [green]the invites</color> [gem_purple]of the clan</color>.<br>"
+    },
+    "GUI.settings.type.item.name": {
+        "de-DE": "<!i>[mint_green_dark]Clan Typ",
+        "en-US": "<!i>[mint_green_dark]Clan Type"
+    },
+    "GUI.settings.type.item.lore.restricted": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Klicke hier, um [mint_green_dark]den Typ</color> [gem_purple]des Clans</color> zu [blue]ändern.</color><br><br><!i>[blue]> Eingeschränkt (Mitglieder können nur durch beitrittsanfragen oder Einladungen beitreten)<br><!i>[grey] Öffentlich (Jeder kann beitreten)</color><br><!i>[grey] Privat (Nur durch Einladungen beitreten)</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Click here to [blue]change</color> [mint_green_dark]the type</color> [gem_purple]of the clan</color>.<br><br><!i>[blue]> Restricted (Members can only join through join requests or invites)<br><!i>[grey] Public (Anyone can join)</color><br><!i>[grey] Private (Only joinable through invites)</color>"
+    },
+    "GUI.settings.type.item.lore.public": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Klicke hier, um [mint_green_dark]den Typ</color> [gem_purple]des Clans</color> zu [blue]ändern.</color><br><br><!i>[grey] Eingeschränkt (Mitglieder können nur durch beitrittsanfragen oder Einladungen beitreten)<br><!i>[blue]> Öffentlich (Jeder kann beitreten)</color><br><!i>[grey] Privat (Nur durch Einladungen beitreten)</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Click here to [blue]change</color> [mint_green_dark]the type</color> [gem_purple]of the clan</color>.<br><br><!i>[grey] Restricted (Members can only join through join requests or invites)<br><!i>[blue]> Public (Anyone can join)</color><br><!i>[grey] Private (Only joinable through invites)</color>"
+    },
+    "GUI.settings.type.item.lore.private": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Klicke hier, um [mint_green_dark]den Typ</color> [gem_purple]des Clans</color> zu [blue]ändern.</color><br><br><!i>[grey] Eingeschränkt (Mitglieder können nur durch beitrittsanfragen oder Einladungen beitreten)<br><!i>[grey] Öffentlich (Jeder kann beitreten)</color><br><!i>[blue]> Privat (Nur durch Einladungen beitreten)</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Click here to [blue]change</color> [mint_green_dark]the type</color> [gem_purple]of the clan</color>.<br><br><!i>[grey] Restricted (Members can only join through join requests or invites)<br><!i>[grey] Public (Anyone can join)</color><br><!i>[blue]> Private (Only joinable through invites)</color>"
     }
 }
