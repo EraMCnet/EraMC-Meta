@@ -1,0 +1,14 @@
+{
+    "GUI.title": {
+        "de-DE": "<!i>Clan Rollenverwantung",
+        "en-US": "<!i>Clan Role Management"
+    },
+    "GUI.role.item.lore": {
+        "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Mitglieder: [green][member_count]</color></color><br><!i>[grey][green][ROUNDDOT]</color> Berechtigungen: [green][permissions]</color></color><br><br>[grey][green][ARROW]</color> Klicke, um [green]die Berechtigungen zu bearbeiten.</color>",
+        "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Members: [green][member_count]</color></color><br><!i>[grey][green][ROUNDDOT]</color> Permissions: [green][permissions]</color></color><br><br>[grey][green][ARROW]</color> Click to [green]edit permissions.</color>"
+    },
+    "GUI.role.item.lore.deleteable": {
+        "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Mitglieder: [green][member_count]</color></color><br><!i>[grey][green][ROUNDDOT]</color> Berechtigungen: [green][permissions]</color></color><br><br>[grey][green][ARROW]</color> Klicke, um [green]die Berechtigungen zu bearbeiten.</color><br>[grey][darker_red][ARROW]</color> Rechtsklicke, [darker_red]um diese Rolle zu löschen</color>",
+        "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Members: [green][member_count]</color></color><br><!i>[grey][green][ROUNDDOT]</color> Permissions: [green][permissions]</color></color><br><br>[grey][green][ARROW]</color> Click to [green]edit permissions.</color><br>[grey][darker_red][ARROW]</color> Right-click to [darker_red]delete this role</color>"
+    }
+}
