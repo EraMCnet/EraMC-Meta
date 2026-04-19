@@ -46,5 +46,13 @@
     "ROLE.delete.success": {
         "de-DE": "[grey]Die Rolle [yellow][role_name]</color> wurde [green]erfolgreich gelöscht!</color></color>",
         "en-US": "[grey]The role [yellow][role_name]</color> has been [green]successfully deleted!</color></color>"
+    },
+    "GUI.permission.item.lore.add": {
+        "de-DE": "<br><!i>[grey][green][ARROW]</color> Klicke, um diese [green]Berechtigung</color> für diese Rolle zu [green]aktivieren.</color></color><br>",
+        "en-US": "<br><!i>[grey][green][ARROW]</color> Click to [green]enable</color> this [green]permission</color> for this role.</color><br>"
+    },
+    "GUI.permission.item.lore.remove": {
+        "de-DE": "<br><!i>[grey][green][ARROW]</color> Klicke, um diese [green]Berechtigung</color> für diese Rolle zu [darker_red]deaktivieren.</color><br>",
+        "en-US": "<br><!i>[grey][green][ARROW]</color> Click to [darker_red]disable</color> this [green]permission</color> for this role.</color><br>"
     }
 }
