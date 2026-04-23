@@ -297,7 +297,7 @@
     },
     "CLAN.error.not.found": {
         "de-DE": "[grey]Der Clan [red][clan]</color> existiert [red]nicht!</color></color>",
-        "en-US": "[grey]The clan [red]clan]</color> does [red]not</color> exist!</color></color>"
+        "en-US": "[grey]The clan [red][clan]</color> does [red]not</color> exist!</color>"
     },
     "CLAN.error.tagline.taken": {
         "de-DE": "[grey]Die Clan Tagline [red][tagline]</color> ist bereits vergeben!</color>",
@@ -324,8 +324,8 @@
         "en-US": "[grey]You are [red]not in</color> a clan!</color>"
     },
     "CLAN.command.ban.error.no.permission": {
-        "de-DE": "[grey]Du musst der Clan [red]Owner</color> oder ein Clan <red>Admin</color> sein um das zu tun!</color>",
-        "en-US": "[grey]You must be the clan [red]owner</color> or a clan <red>admin</color> to do that!</color>"
+        "de-DE": "[grey]Du musst der Clan [red]Owner</color> oder ein Clan <red>Admin</red> sein um das zu tun!</color>",
+        "en-US": "[grey]You must be the clan [red]owner</color> or a clan <red>admin</red> to do that!</color>"
     },
     "CLAN.command.ban.error.already.banned": {
         "de-DE": "[grey][era_purple][player]</color> ist [red]bereits</color> gebannt!</color>",
@@ -345,15 +345,15 @@
     },
     "CLAN.ban.info": {
         "de-DE": "[grey]Du bist aus dem Clan [era_purple][name]</color> ([era_purple][id]</color>) [red]gebannt!</color></color>",
-        "en-US": "[grey]You have been banned from the clan [era_purple][name]</color> ([era_purple][id]</color>)!</color></color>"
+        "en-US": "[grey]You have been banned from the clan [era_purple][name]</color> ([era_purple][id]</color>)!</color>"
     },
     "CLAN.command.unban.error.not.in.clan": {
         "de-DE": "[grey]Du bist [red]in keinem</color> Clan!</color>",
         "en-US": "[grey]You are [red]not in</color> a clan!</color>"
     },
     "CLAN.command.unban.error.no.permission": {
-        "de-DE": "[grey]Du musst der Clan [red]Owner</color> oder ein Clan <red>Admin</color> sein um das zu tun!</color>",
-        "en-US": "[grey]You must be the clan [red]owner</color> or a clan <red>admin</color> to do that!</color>"
+        "de-DE": "[grey]Du musst der Clan [red]Owner</color> oder ein Clan <red>Admin</red> sein um das zu tun!</color>",
+        "en-US": "[grey]You must be the clan [red]owner</color> or a clan <red>admin</red> to do that!</color>"
     },
     "CLAN.command.unban.error.not.banned": {
         "de-DE": "[grey][era_purple][player]</color> ist [red]nicht</color> gebannt!</color>",
