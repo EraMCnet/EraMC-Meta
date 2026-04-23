@@ -1,6 +1,9 @@
 {
     "GUI.title": {
-        "de-DE": "<!>Mitglieds Verwaltung",
-        "en-US": "<!>Member Management"
+        "de-DE": "<!i>Mitglieds Verwaltung",
+        "en-US": "<!i>Member Management"
+    },
+    "GUI.member.item.lore": {
+
     }
 }
