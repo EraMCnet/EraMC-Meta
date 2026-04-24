@@ -40,7 +40,11 @@
         "en-US": "<!i>[darker_red]Ban"
     },
     "GUI.ban.confirm.lore": {
-        "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Bist du sicher, dass du [green][member]</color> bannen möchtest?</color><br>",
-        "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Are you sure you want to ban [green][member]</color>?</color><br>"
+        "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Bist du sicher, dass du [green][member]</color> [darker_red]bannen</color> möchtest?</color><br>",
+        "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Are you sure you want to [darker_red]ban</color> [green][member]</color>?</color><br>"
+    },
+    "GUI.kick.confirm.lore": {
+        "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Bist du sicher, dass du [green][member]</color> [red]kicken</color> möchtest?</color><br>",
+        "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Are you sure you want to [red]kick</color> [green][member]</color>?</color><br>"
     }
 }
