@@ -344,8 +344,12 @@
         "en-US": "[grey]You can't ban the clan [red]owner!</color>"
     },
     "CLAN.ban.info": {
-        "de-DE": "[grey]Du bist aus dem Clan [era_purple][name]</color> ([era_purple][id]</color>) [red]gebannt!</color></color>",
+        "de-DE": "[grey]Du bist im dem Clan [era_purple][name]</color> ([era_purple][id]</color>) [red]gebannt!</color></color>",
         "en-US": "[grey]You have been banned from the clan [era_purple][name]</color> ([era_purple][id]</color>)!</color>"
+    },
+    "CLAN.ban.info.other": {
+        "de-DE": "[grey][era_purple][player]</color> wurde im Clan [era_purple][name]</color> ([era_purple][id]</color>) gebannt!</color>",
+        "en-US": "[grey][era_purple][player]</color> has been banned from the clan [era_purple][name]</color> ([era_purple][id]</color>)!</color>"
     },
     "CLAN.command.unban.error.not.in.clan": {
         "de-DE": "[grey]Du bist [red]in keinem</color> Clan!</color>",
