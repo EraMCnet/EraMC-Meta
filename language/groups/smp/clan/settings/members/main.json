@@ -30,5 +30,13 @@
     "GUI.roles.remove.item.lore": {
         "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Klicke, um [green][member]</color> die [green]Rolle</color> [gem_purple][role]</color> zu [darker_red]entfernen!</color></color>",
         "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Click to [darker_red]remove</color> the [green]role</color> [gem_purple][role]</color> from [green][member]</color>!"
+    },
+    "GUI.kick.item.name": {
+        "de-DE": "<!i>[red]Kicken",
+        "en-US": "<!i>[red]Kick"
+    },
+    "GUI.ban.item.name": {
+        "de-DE": "<!i>[darker_red]Bannen",
+        "en-US": "<!i>[darker_red]Ban"
     }
 }
