@@ -1,0 +1,14 @@
+{
+    "GUI.title": {
+        "de-DE": "<!i>Gebannte Spieler",
+        "en-US": "<!i>Banned Players"
+    },
+    "GUI.item.ban.lore": {
+        "de-DE": "<br><!i>[grey][darker_red][ARROW]</color> Klicke, um dieses [green]Mitglied</color> zu [darker_red]entbannen</color></color><br>",
+        "en-US": "<br><!i>[grey][darker_red][ARROW]</color> Click to [darker_red]unban</color> this [green]member</color></color><br>"
+    },
+    "GUI.item.unban.confirm": {
+        "de-DE": "<br><!i>[grey][darker_red][ROUNDDOT]</color> Bist du sicher, dass du [darker_red][player] entbannen</color> möchtest?</color><br>",
+        "en-US": "<br><!i>[grey][darker_red][ROUNDDOT]</color> Are you sure you want to [darker_red]unban [player]</color>?</color><br>"
+    }
+}
