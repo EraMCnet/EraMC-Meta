@@ -455,7 +455,7 @@
         "de-DE": "[grey]Du bist [red]bereits</color> in einem Clan!</color>",
         "en-US": "[grey]You are [red]already</color> in a clan!</color>"
     },
-    "CLAN.command.joinrequest.send.error.already.requested": {
+    "CLAN.command.join.error.already.requested": {
         "de-DE": "[grey]Du hast bereits eine [era_purple]Beitrittsanfrage</color> an den Clan [era_purple][name]</color> ([era_purple][id]</color>) gesendet!</color>",
         "en-US": "[grey]You have already sent a [era_purple]join request</color> to the clan [era_purple][name]</color> ([era_purple][id]</color>)!</color>"
     },
