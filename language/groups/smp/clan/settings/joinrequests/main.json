@@ -3,7 +3,7 @@
         "de-DE": "<!i>Beitrittsanfragen",
         "en-US": "<!i>Join Requests"
     },
-    "GUI.item.requests.lore": {
+    "GUI.item.request.lore": {
         "de-DE": "<br><!i>[grey][blue][ARROW]</color> [green]Linksklicke</color>, um diese [blue]Beitrittsanfrage</color> [green]anzunehmen</color></color><br><!i>[grey][blue][ARROW]</color> [darker_red]Rechtsklicke</color>, um diese [blue]Beitrittsanfrage</color> [darker_red]abzulehnen</color></color><br>",
         "en-US": "<br><!i>[grey][blue][ARROW]</color> [green]Left-click</color> to [green]accept</color> this [blue]join request</color></color><br><!i>[grey][blue][ARROW]</color> [darker_red]Right-click</color> to [darker_red]decline</color> this [blue]join request</color></color><br>"
     },
