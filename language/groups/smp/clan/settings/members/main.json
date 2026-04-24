@@ -6,5 +6,21 @@
     "GUI.member.item.lore": {
         "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Mitglied seit dem [green][join_date]</color></color><br><!i>[grey][green][ROUNDDOT]</color> Rollen: [green][roles]</color> (zeigt [yellow][roles_displayed]</color> von [green][all_roles_size]</color>)</color><br><br><!i>[grey][green][ARROW]</color> Klicke, um dieses [green]Mitglied</color> zu [darker_red]verwalten</color></color>",
         "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Member since [green][join_date]</color></color><br><!i>[grey][green][ROUNDDOT]</color> Roles: [green][roles]</color> (showing [yellow][roles_displayed]</color> of [green][all_roles_size]</color>)</color><br><br><!i>[grey][green][ARROW]</color> Click to [darker_red]manage</color> this [green]member</color></color>"
+    },
+    "GUI.ban.item.lore": {
+        "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Klicke, um dieses [green]Mitglied</color> zu [darker_red]bannen</color></color>",
+        "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Click to [darker_red]ban</color> this [green]member</color></color>"
+    },
+    "GUI.kick.item.lore": {
+        "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Klicke, um dieses [green]Mitglied</color> zu [darker_red]kicken</color></color>",
+        "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Click to [darker_red]kick</color> this [green]member</color></color>"
+    },
+    "GUI.roles.item.lore": {
+        "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Klicke, um die [green]Rollen</color> dieses [green]Mitglieds</color> zu [darker_red]bearbeiten</color></color>",
+        "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Click to [darker_red]edit</color> this [green]member's</color> [green]roles</color></color>"
+    },
+    "GUI.roles.item.name": {
+        "de-DE": "<!i>[blue]Rollen bearbeiten",
+        "en-US": "<!i>[blue]Edit Roles"
     }
 }
