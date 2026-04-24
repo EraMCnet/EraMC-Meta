@@ -22,5 +22,21 @@
     "GUI.roles.item.name": {
         "de-DE": "<!i>[blue]Rollen bearbeiten",
         "en-US": "<!i>[blue]Edit Roles"
+    },
+    "GUI.roles.add.item.name": {
+        "de-DE": "<!i>[green]Rolle hinzufügen",
+        "en-US": "<!i>[green]Add Role"
+    },
+    "GUI.roles.add.item.lore": {
+        "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Klicke, um [green][member]</color> die [green]Rolle</color> [gem_purple][role]</color> zu [green]geben!</color></color>",
+        "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Click to [green]give</color> [green][member]</color> the [green]role</color> [gem_purple][role]</color>!"
+    },
+    "GUI.roles.remove.item.name": {
+        "de-DE": "<!i>[red]Rolle entfernen",
+        "en-US": "<!i>[red]Remove Role"
+    },
+    "GUI.roles.remove.item.lore": {
+        "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Klicke, um [green][member]</color> die [green]Rolle</color> [gem_purple][role]</color> zu [darker_red]entfernen!</color></color>",
+        "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Click to [darker_red]remove</color> the [green]role</color> [gem_purple][role]</color> from [green][member]</color>!"
     }
 }
