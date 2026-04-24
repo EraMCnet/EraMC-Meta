@@ -63,11 +63,11 @@
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Klicke hier, um [orange]die Rollen</color> [gem_purple]des Clans</color> zu [blue]verwalten.</color><br>",
         "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Click here to [blue]manage</color> [orange]the roles</color> [gem_purple]of the clan</color>.<br>"
     },
-    "GUI.settings.join-requests.item.name": {
+    "GUI.settings.joinrequests.item.name": {
         "de-DE": "<!i>[green]Beitrittsanfragen",
         "en-US": "<!i>[green]Join Requests"
     },
-    "GUI.settings.join-requests.item.lore": {
+    "GUI.settings.joinrequests.item.lore": {
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Klicke hier, um [green]die Beitrittsanfragen</color> [gem_purple]des Clans</color> zu [blue]verwalten.</color><br>",
         "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Click here to [blue]manage</color> [green]the join requests</color> [gem_purple]of the clan</color>.<br>"
     },
