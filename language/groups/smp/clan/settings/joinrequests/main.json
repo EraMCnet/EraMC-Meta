@@ -1,0 +1,18 @@
+{
+    "GUI.title": {
+        "de-DE": "<!i>Beitrittsanfragen",
+        "en-US": "<!i>Join Requests"
+    },
+    "GUI.item.requests.lore": {
+        "de-DE": "<br><!i>[grey][blue][ARROW]</color> [green]Linksklicke</color>, um diese [blue]Beitrittsanfrage</color> [green]anzunehmen</color></color><br><!i>[grey][blue][ARROW]</color> [darker_red]Rechtsklicke</color>, um diese [blue]Beitrittsanfrage</color> [darker_red]abzulehnen</color></color><br>",
+        "en-US": "<br><!i>[grey][blue][ARROW]</color> [green]Left-click</color> to [green]accept</color> this [blue]join request</color></color><br><!i>[grey][blue][ARROW]</color> [darker_red]Right-click</color> to [darker_red]decline</color> this [blue]join request</color></color><br>"
+    },
+    "GUI.deny.confirm.lore": {
+        "de-DE": "<br><!i>[grey][darker_red][ROUNDDOT]</color> Bist du sicher, dass du diese [blue]Beitrittsanfrage</color> [darker_red]ablehnen</color> möchtest?</color><br>",
+        "en-US": "<br><!i>[grey][darker_red][ROUNDDOT]</color> Are you sure you want to [darker_red]decline</color> this [blue]join request</color>?</color><br>"
+    },
+    "GUI.accept.confirm.lore": {
+        "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Bist du sicher, dass du diese [blue]Beitrittsanfrage</color> [green]annehmen</color> möchtest?</color><br>",
+        "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Are you sure you want to [green]accept</color> this [blue]join request</color>?</color><br>"
+    }
+}

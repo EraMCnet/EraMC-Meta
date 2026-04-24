@@ -1,0 +1,14 @@
+{
+    "GUI.title": {
+        "de-DE": "<!i>Einladungen",
+        "en-US": "<!i>Invites"
+    },
+    "GUI.item.requests.lore": {
+        "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke, um diese [blue]Einladung</color> zu [darker_red]entfernen</color>!</color><br>",
+        "en-US": "<br><!i>[grey][blue][ARROW]</color> Click to [darker_red]remove</color> this [blue]invite</color>!</color><br>"
+    },
+    "GUI.remove.confirm.lore": {
+        "de-DE": "<br><!i>[grey][darker_red][ROUNDDOT]</color> Bist du sicher, dass du diese [blue]Einladung</color> [darker_red]entfernen</color> möchtest?</color><br>",
+        "en-US": "<br><!i>[grey][darker_red][ROUNDDOT]</color> Are you sure you want to [darker_red]remove</color> this [blue]invite</color>?</color><br>"
+    }
+}
