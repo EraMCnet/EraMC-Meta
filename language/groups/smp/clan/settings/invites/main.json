@@ -3,7 +3,7 @@
         "de-DE": "<!i>Einladungen",
         "en-US": "<!i>Invites"
     },
-    "GUI.item.requests.lore": {
+    "GUI.item.invite.lore": {
         "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke, um diese [blue]Einladung</color> zu [darker_red]entfernen</color>!</color><br>",
         "en-US": "<br><!i>[grey][blue][ARROW]</color> Click to [darker_red]remove</color> this [blue]invite</color>!</color><br>"
     },
