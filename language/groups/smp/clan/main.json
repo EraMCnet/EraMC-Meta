@@ -29,7 +29,7 @@
     },
     "CLAN.command.create.success": {
         "de-DE": "[grey]Du hast den Clan [era_purple][name]</color> [green]erfolgreich</color> erstellt!</color>",
-        "en-US": "[grey]You have [green]suceessfully</color> created the clan [era_purple][name]</color> ([era_purple][id]</color>)!</color>"
+        "en-US": "[grey]You have [green]suceessfully</color> created the clan [era_purple][name]</color>!</color>"
     },
     "CLAN.command.delete.error.not.in.clan": {
         "de-DE": "[grey]Du bist [red]in keinem</color> Clan!</color>",
@@ -41,7 +41,7 @@
     },
     "CLAN.command.delete.success": {
         "de-DE": "[grey]Du hast den Clan [era_purple][name]</color> [green]erfolgreich</color> gelöscht!</color>",
-        "en-US": "[grey]You have [green]suceessfully</color> deleted the clan [era_purple][name]</color> ([era_purple][id]</color>)!</color>"
+        "en-US": "[grey]You have [green]suceessfully</color> deleted the clan [era_purple][name]</color>!</color>"
     },
     "CLAN.command.invite.error.not.in.clan": {
         "de-DE": "[grey]Du bist [red]in keinem</color> Clan!</color>",
@@ -69,15 +69,15 @@
     },
     "CLAN.invite.receive": {
         "de-DE": "[grey][era_purple][player]</color> hat dich eingeladen, dem Clan [era_purple][name]</color> beizutreten! Nutze [era_purple]<hover:show_text:'[era_purple]Klicke zum ausführen</color>'><click:run_command:'/clan invite accept [name]'>/clan invite accept [name]</click></hover:show_text></color> um die Einladung anzunehmen!</color>",
-        "en-US": "[grey][era_purple][player]</color> has invited you to join the clan [era_purple][name]</color> ([era_purple][id]</color>)! Use [era_purple]<hover:show_text:'[era_purple]Klicke zum ausführen</color>'><click:run_command:'/clan invite accept [name]'>/clan invite accept [name]</click></hover:show_text></color> to accept the invitation!</color>"
+        "en-US": "[grey][era_purple][player]</color> has invited you to join the clan [era_purple][name]</color>! Use [era_purple]<hover:show_text:'[era_purple]Klicke zum ausführen</color>'><click:run_command:'/clan invite accept [name]'>/clan invite accept [name]</click></hover:show_text></color> to accept the invitation!</color>"
     },
     "CLAN.command.invite.accept": {
         "de-DE": "[grey]Du bist [green]erfolgreich</color> dem Clan [era_purple][name]</color> beigetreten!</color>",
-        "en-US": "[grey]You have [green]suceessfully</color> joined the clan [era_purple][name]</color> ([era_purple][id]</color>)!</color>"
+        "en-US": "[grey]You have [green]suceessfully</color> joined the clan [era_purple][name]</color>!</color>"
     },
     "CLAN.command.invite.deny": {
         "de-DE": "[grey]Du hast die Einladung zum Clan [era_purple][name]</color> abgelehnt!</color>",
-        "en-US": "[grey]You denied the invitation to the clan [era_purple][name]</color> ([era_purple][id]</color>)!</color>"
+        "en-US": "[grey]You denied the invitation to the clan [era_purple][name]</color>!</color>"
     },
     "CLAN.command.invite.accept.error.already.in.clan": {
         "de-DE": "[grey]Du bist [red]bereits</color> in einem Clan!</color>",
@@ -89,7 +89,7 @@
     },
     "CLAN.command.invite.remove": {
         "de-DE": "[grey]Du hast die Einladung von [era_purple][player]</color> zum Clan [era_purple][name]</color> [green]erfolgreich</color> entfernt!</color>",
-        "en-US": "[grey]You have [green]suceessfully</color> removed the invitation of [era_purple][player]</color> to the clan [era_purple][name]</color> ([era_purple][id]</color>)!</color>"
+        "en-US": "[grey]You have [green]suceessfully</color> removed the invitation of [era_purple][player]</color> to the clan [era_purple][name]</color>!</color>"
     },
     "CLAN.command.invite.remove.error.not.invited": {
         "de-DE": "[grey][era_purple][player]</color> ist [red]nicht</color> eingeladen dem Clan beizutreten!</color>",
@@ -129,7 +129,7 @@
     },
     "CLAN.command.leave.success": {
         "de-DE": "[grey]Du hast den Clan [era_purple][name]</color> [green]erfolgreich</color> verlassen!</color>",
-        "en-US": "[grey]You have [green]suceessfully</color> left the clan [era_purple][name]</color> ([era_purple][id]</color>)!</color>"
+        "en-US": "[grey]You have [green]suceessfully</color> left the clan [era_purple][name]</color>!</color>"
     },
     "CLAN.command.leave.error.not.in.clan": {
         "de-DE": "[grey]Du bist [red]in keinem</color> Clan!</color>",
@@ -149,7 +149,7 @@
     },
     "CLAN.kick.info": {
         "de-DE": "[grey][era_purple][player]</color> hat dich aus dem Clan [era_purple][name]</color> gekickt!</color>",
-        "en-US": "[grey][era_purple][player]</color> has kicked you from the clan [era_purple][name]</color> ([era_purple][id]</color>)!</color>"
+        "en-US": "[grey][era_purple][player]</color> has kicked you from the clan [era_purple][name]</color>!</color>"
     },
     "CLAN.command.role.error.not.in.clan": {
         "de-DE": "[grey][era_purple][name]</color> ist [red]nicht</color> in deinem Clan!</color>",
@@ -345,11 +345,11 @@
     },
     "CLAN.ban.info": {
         "de-DE": "[grey]Du bist im dem Clan [era_purple][name]</color> [red]gebannt!</color></color>",
-        "en-US": "[grey]You have been banned from the clan [era_purple][name]</color> ([era_purple][id]</color>)!</color>"
+        "en-US": "[grey]You have been banned from the clan [era_purple][name]</color>!</color>"
     },
     "CLAN.ban.info.other": {
         "de-DE": "[grey][era_purple][player]</color> wurde im Clan [era_purple][name]</color> gebannt!</color>",
-        "en-US": "[grey][era_purple][player]</color> has been banned from the clan [era_purple][name]</color> ([era_purple][id]</color>)!</color>"
+        "en-US": "[grey][era_purple][player]</color> has been banned from the clan [era_purple][name]</color>!</color>"
     },
     "CLAN.command.unban.error.not.in.clan": {
         "de-DE": "[grey]Du bist [red]in keinem</color> Clan!</color>",
@@ -381,7 +381,7 @@
     },
     "CLAN.command.join.success": {
         "de-DE": "[grey]Du bist dem Clan [era_purple][name]</color> [green]erfolgreich</color> beigetreten!</color>",
-        "en-US": "[grey]You have [green]suceessfully</color> joined the clan [era_purple][name]</color> ([era_purple][id]</color>)!</color>"
+        "en-US": "[grey]You have [green]suceessfully</color> joined the clan [era_purple][name]</color>!</color>"
     },
     "CLAN.command.info.player": {
         "de-DE": "[grey][era_purple]Clan Info</color>:</color><br>    [DOT] [era_purple]Clan Name:</color> [clan_name]<br>    [DOT] [era_purple]Clan ID:</color> [clan_id]<br>    [DOT] [era_purple]Clan Tagline:</color> [clan_tagline]<br>    [DOT] [era_purple]Clan Tag:</color> [clan_tag]<br>    [DOT] [era_purple]Clan Owner:</color> [clan_owner]<br>    [DOT] [era_purple]Mitglieder:</color> [clan_members]<br>    [DOT] [era_purple]Beschreibung:</color> [clan_description]</color>",
@@ -409,11 +409,11 @@
     },
     "CLAN.command.joinrequest.cancel.no.request.sent": {
         "de-DE": "[grey]Du hast keine [era_purple]Beitrittsanfrage</color> an den Clan [era_purple][name]</color> gesendet!</color>",
-        "en-US": "[grey]You have not sent a [era_purple]join request</color> to the clan [era_purple][name]</color> ([era_purple][id]</color>)!</color>"
+        "en-US": "[grey]You have not sent a [era_purple]join request</color> to the clan [era_purple][name]</color>!</color>"
     },
     "CLAN.command.joinrequest.cancel.success": {
         "de-DE": "[grey]Du hast deine [era_purple]Beitrittsanfrage</color> an den Clan [era_purple][name]</color> [green]erfolgreich</color> entfernt!</color>",
-        "en-US": "[grey]You have [green]suceessfully</color> removed your [era_purple]join request</color> to the clan [era_purple][name]</color> ([era_purple][id]</color>)!</color>"
+        "en-US": "[grey]You have [green]suceessfully</color> removed your [era_purple]join request</color> to the clan [era_purple][name]</color>!</color>"
     },
     "CLAN.command.setting.type.success.closed": {
         "de-DE": "[grey]Du hast den [era_purple]Clan Typ</color> erfolgreich auf [era_purple]geschlossen</color> geändert! Nur Spieler, die [era_purple]eingelanden</color> wurden, können in deinen Clan.</color>",
@@ -445,11 +445,11 @@
     },
     "CLAN.command.joinrequest.remove.no.request.sent": {
         "de-DE": "[grey]Du hast keine [era_purple]Beitrittsanfrage</color> an den Clan [era_purple][name]</color> gesendet!</color>",
-        "en-US": "[grey]You have not sent a [era_purple]join request</color> to the clan [era_purple][name]</color> ([era_purple][id]</color>)!</color>"
+        "en-US": "[grey]You have not sent a [era_purple]join request</color> to the clan [era_purple][name]</color>!</color>"
     },
     "CLAN.command.joinrequest.remove.success": {
         "de-DE": "[grey]Du hast deine [era_purple]Beitrittsanfrage</color> an den Clan [era_purple][name]</color> [green]erfolgreich</color> entfernt!</color>",
-        "en-US": "[grey]You have [green]suceessfully</color> removed your [era_purple]join request</color> to the clan [era_purple][name]</color> ([era_purple][id]</color>)!</color>"
+        "en-US": "[grey]You have [green]suceessfully</color> removed your [era_purple]join request</color> to the clan [era_purple][name]</color>!</color>"
     },
     "CLAN.command.joinrequest.send.error.already.in.clan": {
         "de-DE": "[grey]Du bist [red]bereits</color> in einem Clan!</color>",
@@ -457,7 +457,7 @@
     },
     "CLAN.command.join.error.already.requested": {
         "de-DE": "[grey]Du hast bereits eine [era_purple]Beitrittsanfrage</color> an den Clan [era_purple][name]</color> gesendet!</color>",
-        "en-US": "[grey]You have already sent a [era_purple]join request</color> to the clan [era_purple][name]</color> ([era_purple][id]</color>)!</color>"
+        "en-US": "[grey]You have already sent a [era_purple]join request</color> to the clan [era_purple][name]</color>!</color>"
     },
     "CLAN.command.joinrequest.send.error.closed": {
         "de-DE": "[grey]Der Clan [era_purple][name]</color> ist [red]geschlossen</color>! Du kannst diesem Clan nicht beitreten!</color>",
@@ -465,6 +465,6 @@
     },
     "CLAN.command.joinrequest.send.success": {
         "de-DE": "[grey]Du hast [green]erfolgreich</color> eine [era_purple]Beitrittsanfrage</color> an den Clan [era_purple][name]</color> gesendet!</color>",
-        "en-US": "[grey]You have [green]suceessfully</color> sent a [era_purple]join request</color> to the clan [era_purple][name]</color> ([era_purple][id]</color>)!</color>"
+        "en-US": "[grey]You have [green]suceessfully</color> sent a [era_purple]join request</color> to the clan [era_purple][name]</color>!</color>"
     }
 }
