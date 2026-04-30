@@ -13,7 +13,7 @@
     },
     "CLAN.profile.item.members.lore": {
         "de-DE": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Klicke, um die Mitglieder des Clans [era_purple][name]</color> zu sehen.<br>",
-        "en-US": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Click to see the members of clan [era_purple][name]</color>.<br>"
+        "en-US": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Click to see the members of clan the [era_purple][name]</color>.<br>"
     },
     "CLAN.profile.item.join.name": {
         "de-DE": "<!i>[green]Beitreten",
