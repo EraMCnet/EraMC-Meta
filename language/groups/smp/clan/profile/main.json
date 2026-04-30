@@ -42,5 +42,13 @@
     "CLAN.profile.page.navigate.lore": {
         "de-DE": "<i:false><br><i:false>[era_purple][ROUNDDOT][grey] Klicke, zum navigieren<br><i:false>",
         "en-US": "<i:false><br><i:false>[era_purple][ROUNDDOT][grey] Click to navigate<br><i:false>"
+    },
+    "CLAN.profile.member.lore": {
+        "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Mitglied seit dem [green][join_date]</color></color><br><!i>[grey][green][ROUNDDOT]</color> Rollen: [green][roles]</color> (zeigt [yellow][roles_displayed]</color> von [green][all_roles_size]</color>)</color><br>",
+        "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Member since [green][join_date]</color></color><br><!i>[grey][green][ROUNDDOT]</color> Roles: [green][roles]</color> (showing [yellow][roles_displayed]</color> of [green][all_roles_size]</color>)</color><br>"
+    },
+    "CLAN.profile.member.lore.owner": {
+        "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Mitglied seit dem [green][join_date]</color></color><br><!i>[grey][green][ROUNDDOT]</color> [red]Clan Besitzer</color></color><br>",
+        "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Member since [green][join_date]</color></color><br><!i>[grey][green][ROUNDDOT]</color> [red]Clan Owner</color></color><br>"
     }
 }
