@@ -8,8 +8,8 @@
         "en-US": "[grey]The clan tagline [red]can't be longer</color> than [era_purple]8 characters!</color></color>"
     },
     "CLAN.command.create.error.tag.length": {
-        "de-DE": "[grey]Der Clan Tag darf [red]nicht länger</color> als [era_purple]12 Zeichen</color> sein!</color>",
-        "en-US": "[grey]The clan tag [red]can't be longer</color> than [era_purple]12 characters!</color></color>"
+        "de-DE": "[grey]Der Clan Tag darf [red]nicht länger</color> als [era_purple]6 Zeichen</color> sein!</color>",
+        "en-US": "[grey]The clan tag [red]can't be longer</color> than [era_purple]6 characters!</color></color>"
     },
     "CLAN.error.already.in.clan": {
         "de-DE": "[grey]Du [red]bist bereits</color> in einem Clan!</color>",
