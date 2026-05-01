@@ -50,5 +50,13 @@
     "CLAN.profile.item.already.member.lore": {
         "de-DE": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Du bist [red]bereits Mitglied</color> dieses Clans.<br>",
         "en-US": "<br><!i>[grey][era_purple][ROUNDDOT]</color> You are [red]already a member</color> of this clan.<br>"
+    },
+    "CLAN.profile.item.stats.name": {
+        "de-DE": "<!i>[era_purple]Statistiken",
+        "en-US": "<!i>[era_purple]Statistics"
+    },
+    "CLAN.profile.item.stats.lore": {
+        "de-DE": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Klicke, um die Statistiken des Clans [era_purple][name]</color> zu sehen.<br>",
+        "en-US": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Click to see the statistics of clan [era_purple][name]</color>.<br>"
     }
 }
