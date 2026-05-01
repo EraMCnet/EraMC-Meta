@@ -50,5 +50,33 @@
     "CLAN.profile.member.lore.owner": {
         "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Mitglied seit dem [green][join_date]</color></color><br><!i>[grey][green][ROUNDDOT]</color> [red]Clan Besitzer</color></color><br>",
         "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Member since [green][join_date]</color></color><br><!i>[grey][green][ROUNDDOT]</color> [red]Clan Owner</color></color><br>"
+    },
+    "CLAN.profile.item.join.name": {
+        "de-DE": "<!i>[green]Beitreten",
+        "en-US": "<!i>[green]Join"
+    },
+    "CLAN.profile.item.join.lore": {
+        "de-DE": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Klicke, um dem Clan [era_purple][name]</color> beizutreten.<br>",
+        "en-US": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Click to join clan [era_purple][name]</color>.<br>"
+    },
+    "CLAN.profile.item.joinrequest.name": {
+        "de-DE": "<!i>[green]Beitrittsanfrage",
+        "en-US": "<!i>[green]Join Request"
+    },
+    "CLAN.profile.item.joinrequest.lore": {
+        "de-DE": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Klicke, um eine Beitrittsanfrage an den Clan [era_purple][name]</color> zu senden.<br>",
+        "en-US": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Click to send a join request to clan [era_purple][name]</color>.<br>"
+    },
+    "CLAN.profile.item.join.private.name": {
+        "de-DE": "<!i>[red]Privater Clan",
+        "en-US": "<!i>[red]Private Clan"
+    },
+    "CLAN.profile.item.join.private.lore": {
+        "de-DE": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Dieser Clan ist [yellow]privat.</color> Du [red]kannst diesem Clan nicht beitreten</color>, es sei denn, du wirst [green]eingeladen</color>.<br>",
+        "en-US": "<br><!i>[grey][era_purple][ROUNDDOT]</color> This clan is [yellow]private.</color> You [red]cannot join</color> this clan unless you get [green]invited</color>.<br>"
+    },
+    "CLAN.profile.item.already.member.lore": {
+        "de-DE": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Du bist [red]bereits Mitglied</color> dieses Clans.<br>",
+        "en-US": "<br><!i>[grey][era_purple][ROUNDDOT]</color> You are [red]already a member</color> of this clan.<br>"
     }
 }
