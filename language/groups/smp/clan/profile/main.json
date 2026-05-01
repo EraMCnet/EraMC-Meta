@@ -19,10 +19,6 @@
         "de-DE": "<!i>[green]Beitreten",
         "en-US": "<!i>[green]Join"
     },
-    "CLAN.profile.item.join.lore": {
-        "de-DE": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Klicke, um dem Clan [era_purple][name]</color> beizutreten.<br>",
-        "en-US": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Click to join clan [era_purple][name]</color>.<br>"
-    },
     "CLAN.profile.item.joinrequest.name": {
         "de-DE": "<!i>[green]Beitrittsanfrage",
         "en-US": "<!i>[green]Join Request"
@@ -53,7 +49,7 @@
     },
     "CLAN.profile.item.join.lore": {
         "de-DE": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Klicke, um dem Clan [era_purple][name]</color> beizutreten.<br>",
-        "en-US": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Click to join clan [era_purple][name]</color>.<br>"
+        "en-US": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Click to join the clan [era_purple][name]</color>.<br>"
     },
     "CLAN.profile.item.joinrequest.name": {
         "de-DE": "<!i>[green]Beitrittsanfrage",
