@@ -51,10 +51,6 @@
         "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Mitglied seit dem [green][join_date]</color></color><br><!i>[grey][green][ROUNDDOT]</color> [red]Clan Besitzer</color></color><br>",
         "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Member since [green][join_date]</color></color><br><!i>[grey][green][ROUNDDOT]</color> [red]Clan Owner</color></color><br>"
     },
-    "CLAN.profile.item.join.name": {
-        "de-DE": "<!i>[green]Beitreten",
-        "en-US": "<!i>[green]Join"
-    },
     "CLAN.profile.item.join.lore": {
         "de-DE": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Klicke, um dem Clan [era_purple][name]</color> beizutreten.<br>",
         "en-US": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Click to join clan [era_purple][name]</color>.<br>"
