@@ -43,29 +43,29 @@
         "en-US": "<!i>[purple]Badge Voucher",
         "de-DE": "<!i>[purple]Abzeichen-Gutschein"
     },
-    "GUI.inventory.voucher.orange.lore": {
+    "GUI.inventory.voucher.badge.lore": {
         "en-US": "<br><!i>[grey]This [gem_purple]voucher</color> gives you the [orange]badge</color> [eramc_gradient][badge]</gradient>!</color><br>",
         "de-DE": "<br><!i>[grey]Dieser [gem_purple]Gutschein</color> gibt dir das [orange]Abzeichen</color> [eramc_gradient][badge]</gradient>!</color><br>"
     },
     "GUI.inventory.voucher.lore.redeem": {
-        "en-US": "<br><!i>[green][ARROW]</color> [grey]Click to redeem!</color><br>",
-        "de-DE": "<br><!i>[green][ARROW]</color> [grey]Klicken zum Einlösen!</color><br>"
+        "en-US": "<!i>[green][ARROW]</color> [grey]Click to redeem!</color><br>",
+        "de-DE": "<!i>[green][ARROW]</color> [grey]Klicken zum Einlösen!</color><br>"
     },
     "GUI.inventory.voucher.lore.redeemed": {
-        "en-US": "<br><!i>[red][HEAVY_CROSS_MARK]</color> [grey]You have already redeemed this voucher!</color><br>",
-        "de-DE": "<br><!i>[red][HEAVY_CROSS_MARK]</color> [grey]Du hast diesen Gutschein bereits eingelöst!</color><br>"
+        "en-US": "<!i>[red][HEAVY_CROSS_MARK]</color> [grey]You have already redeemed this voucher!</color><br>",
+        "de-DE": "<!i>[red][HEAVY_CROSS_MARK]</color> [grey]Du hast diesen Gutschein bereits eingelöst!</color><br>"
     },
     "GUI.inventory.voucher.lore.expired": {
-        "en-US": "<br><!i>[red][HEAVY_CROSS_MARK]</color> [grey]This voucher has expired!</color><br>",
-        "de-DE": "<br><!i>[red][HEAVY_CROSS_MARK]</color> [grey]Dieser Gutschein ist abgelaufen!</color><br>"
+        "en-US": "<!i>[red][HEAVY_CROSS_MARK]</color> [grey]This voucher has expired!</color><br>",
+        "de-DE": "<!i>[red][HEAVY_CROSS_MARK]</color> [grey]Dieser Gutschein ist abgelaufen!</color><br>"
     },
     "GUI.inventory.voucher.lore.max_uses": {
-        "en-US": "<br><!i>[red][HEAVY_CROSS_MARK]</color> [grey]This voucher has reached its maximum number of uses!</color><br>",
-        "de-DE": "<br><!i>[red][HEAVY_CROSS_MARK]</color> [grey]Dieser Gutschein hat die maximale Anzahl an Verwendungen erreicht!</color><br>"
+        "en-US": "<!i>[red][HEAVY_CROSS_MARK]</color> [grey]This voucher has reached its maximum number of uses!</color><br>",
+        "de-DE": "<!i>[red][HEAVY_CROSS_MARK]</color> [grey]Dieser Gutschein hat die maximale Anzahl an Verwendungen erreicht!</color><br>"
     },
     "GUI.inventory.voucher.lore.inactive": {
-        "en-US": "<br><!i>[red][HEAVY_CROSS_MARK]</color> [grey]This voucher is inactive/disabled!</color><br>",
-        "de-DE": "<br><!i>[red][HEAVY_CROSS_MARK]</color> [grey]Dieser Gutschein ist inaktiv/deaktiviert!</color><br>"
+        "en-US": "<!i>[red][HEAVY_CROSS_MARK]</color> [grey]This voucher is inactive/disabled!</color><br>",
+        "de-DE": "<!i>[red][HEAVY_CROSS_MARK]</color> [grey]Dieser Gutschein ist inaktiv/deaktiviert!</color><br>"
     },
     "GUI.inventory.sort.name": {
         "de-DE": "<!i>[blue]ꜱᴏʀᴛɪᴇʀᴇɴ</color>",
