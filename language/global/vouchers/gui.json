@@ -15,29 +15,13 @@
         "en-US": "<br><!i>[grey]This [gem_purple]vouchery</color> gives you [era_purple][amount] [gem_purple][system]</color> XP</color></color>!<br><br><!i>[green][ARROW]</color> Click to redeem!</color><br>",
         "de-DE": "<br><!i>[grey]Dieser [gem_purple]Gutschein</color> gibt dir [era_purple][amount] [gem_purple][system]</color> XP</color></color>!<br><br><!i>[green][ARROW]</color> Klicke, um einzulösen!</color><br>"
     },
-    "GUI.inventory.voucher.shards.name": {
-        "en-US": "<!i>[purple]Shards Voucher",
-        "de-DE": "<!i>[purple]Shard-Gutschein"
+    "GUI.inventory.voucher.economy.name": {
+        "en-US": "<!i>[yellow]Economy Voucher",
+        "de-DE": "<!i>[yellow]Währungs-Gutschein"
     },
-    "GUI.inventory.voucher.gems.lore": {
-        "en-US": "<br><!i>[grey]This [gem_purple]voucher</color> gives you [purple][amount] Shards</color></color>!<br><br><!i>[green][ARROW]</color> Click to redeem!</color><br>",
-        "de-DE": "<br><!i>[grey]Dieser [gem_purple]Gutschein</color> gibt dir [purple][amount] Shards</color></color>!<br><br><!i>[green][ARROW]</color> Klicke, um einzulösen!</color><br>"
-    },
-    "GUI.inventory.voucher.gems.name": {
-        "en-US": "<!i>[gem_purple]Gems Voucher",
-        "de-DE": "<!i>[gem_purple]Gems-Gutschein"
-    },
-    "GUI.inventory.voucher.shards.lore": {
-        "en-US": "<br><!i>[grey]This [gem_purple]voucher</color> gives you [gem_purple][amount] Gems</color></color>!<br><br><!i>[green][ARROW]</color> Click to redeem!</color><br>",
-        "de-DE": "<br><!i>[grey]Dieser [gem_purple]Gutschein</color> gibt dir [gem_purple][amount] Gems</color></color>!<br><br><!i>[green][ARROW]</color> Klicke, um einzulösen!</color><br>"
-    },
-    "GUI.inventory.voucher.smp-money.name": {
-        "en-US": "<!i>[green]Money Voucher",
-        "de-DE": "<!i>[green]Geld-Gutschein"
-    },
-    "GUI.inventory.voucher.smp-money.lore": {
-        "en-US": "<br><!i>[grey]This [gem_purple]voucher</color> gives you [green]$[amount]</color></color>!<br><br><!i>[green][ARROW]</color> Click to redeem!</color><br>",
-        "de-DE": "<br><!i>[grey]Dieser [gem_purple]Gutschein</color> gibt dir [green]$[amount] Geld</color></color>!<br><br><!i>[green][ARROW]</color> Klicke, um einzulösen!</color><br>"
+    "GUI.inventory.voucher.economy.lore": {
+        "en-US": "<br><!i>[grey]This [gem_purple]voucher</color> gives you [yellow][amount] [gem_purple][currency]</color></color>!<br><br><!i>[green][ARROW]</color> Click to redeem!</color><br>",
+        "de-DE": "<br><!i>[grey]Dieser [gem_purple]Gutschein</color> gibt dir [yellow][amount] [gem_purple][currency]</color></color>!<br><br><!i>[green][ARROW]</color> Klicke, um einzulösen!</color><br>"
     },
     "GUI.inventory.voucher.temp-rank.name": {
         "en-US": "<!i>[yellow]Temporary Rank Voucher",
