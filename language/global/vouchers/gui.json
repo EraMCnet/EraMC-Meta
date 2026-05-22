@@ -48,8 +48,8 @@
         "de-DE": "<br><!i>[grey]Dieser [gem_purple]Gutschein</color> gibt dir das [orange]Abzeichen</color> [eramc_gradient][badge]</gradient>!</color><br>"
     },
     "GUI.inventory.voucher.lore.redeem": {
-        "en-US": "<br><!i>[green][ARROW]</color> Click to redeem!</color><br>",
-        "de-DE": "<br><!i>[green][ARROW]</color> Klicken zum Einlösen!</color><br>"
+        "en-US": "<br><!i>[green][ARROW]</color> [grey]Click to redeem!</color><br>",
+        "de-DE": "<br><!i>[green][ARROW]</color> [grey]Klicken zum Einlösen!</color><br>"
     },
     "GUI.inventory.voucher.lore.expired": {
         "en-US": "<br><!i>[red][HEAVY_CROSS_MARK]</color> This voucher has expired!</color><br>",
