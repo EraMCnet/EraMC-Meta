@@ -52,16 +52,16 @@
         "de-DE": "<br><!i>[green][ARROW]</color> [grey]Klicken zum Einlösen!</color><br>"
     },
     "GUI.inventory.voucher.lore.expired": {
-        "en-US": "<br><!i>[red][HEAVY_CROSS_MARK]</color> This voucher has expired!</color><br>",
-        "de-DE": "<br><!i>[red][HEAVY_CROSS_MARK]</color> Dieser Gutschein ist abgelaufen!</color><br>"
+        "en-US": "<br><!i>[red][HEAVY_CROSS_MARK]</color> [grey]This voucher has expired!</color><br>",
+        "de-DE": "<br><!i>[red][HEAVY_CROSS_MARK]</color> [grey]Dieser Gutschein ist abgelaufen!</color><br>"
     },
     "GUI.inventory.voucher.lore.max_uses": {
-        "en-US": "<br><!i>[red][HEAVY_CROSS_MARK]</color> This voucher has reached its maximum number of uses!</color><br>",
-        "de-DE": "<br><!i>[red][HEAVY_CROSS_MARK]</color> Dieser Gutschein hat die maximale Anzahl an Verwendungen erreicht!</color><br>"
+        "en-US": "<br><!i>[red][HEAVY_CROSS_MARK]</color> [grey]This voucher has reached its maximum number of uses!</color><br>",
+        "de-DE": "<br><!i>[red][HEAVY_CROSS_MARK]</color> [grey]Dieser Gutschein hat die maximale Anzahl an Verwendungen erreicht!</color><br>"
     },
     "GUI.inventory.voucher.lore.inactive": {
-        "en-US": "<br><!i>[red][HEAVY_CROSS_MARK]</color> This voucher is inactive/disabled!</color><br>",
-        "de-DE": "<br><!i>[red][HEAVY_CROSS_MARK]</color> Dieser Gutschein ist inaktiv/deaktiviert!</color><br>"
+        "en-US": "<br><!i>[red][HEAVY_CROSS_MARK]</color> [grey]This voucher is inactive/disabled!</color><br>",
+        "de-DE": "<br><!i>[red][HEAVY_CROSS_MARK]</color> [grey]Dieser Gutschein ist inaktiv/deaktiviert!</color><br>"
     },
     "GUI.inventory.sort.name": {
         "de-DE": "<!i>[blue]ꜱᴏʀᴛɪᴇʀᴇɴ</color>",
