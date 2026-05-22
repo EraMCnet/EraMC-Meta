@@ -51,6 +51,10 @@
         "en-US": "<br><!i>[green][ARROW]</color> [grey]Click to redeem!</color><br>",
         "de-DE": "<br><!i>[green][ARROW]</color> [grey]Klicken zum Einlösen!</color><br>"
     },
+    "GUI.inventory.voucher.lore.redeemed": {
+        "en-US": "<br><!i>[red][HEAVY_CROSS_MARK]</color> [grey]You have already redeemed this voucher!</color><br>",
+        "de-DE": "<br><!i>[red][HEAVY_CROSS_MARK]</color> [grey]Du hast diesen Gutschein bereits eingelöst!</color><br>"
+    },
     "GUI.inventory.voucher.lore.expired": {
         "en-US": "<br><!i>[red][HEAVY_CROSS_MARK]</color> [grey]This voucher has expired!</color><br>",
         "de-DE": "<br><!i>[red][HEAVY_CROSS_MARK]</color> [grey]Dieser Gutschein ist abgelaufen!</color><br>"
