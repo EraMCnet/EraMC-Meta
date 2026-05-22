@@ -1,7 +1,7 @@
 {
     "GUI.admin_list.voucher.lore": {
-        "en-US": "<br><!i>[grey][gem_purple][ROUNDDOT]</color> Code: [gem_purple][code]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Name: [gem_purple][name]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Expires: [gem_purple][expiration]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Type: [gem_purple][type]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Uses: [yellow][uses]</color> / [green][max_uses]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Data:</color><br>[data]<br>",
-        "de-DE": "<br><!i>[grey][gem_purple][ROUNDDOT]</color> Code: [gem_purple][code]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Name: [gem_purple][name]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Läuft ab: [gem_purple][expiration]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Typ: [gem_purple][type]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Verwendungen: [yellow][uses]</color> / [green][max_uses]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Daten:</color><br>[data]<br>"
+        "en-US": "<br><!i>[grey][gem_purple][ROUNDDOT]</color> Code: [gem_purple][code]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Active: <white>[active]</white></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Name: [gem_purple][name]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Expires: [gem_purple][expiration]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Type: [gem_purple][type]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Uses: [yellow][uses]</color> / [green][max_uses]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Data:</color><br>[data]<br>",
+        "de-DE": "<br><!i>[grey][gem_purple][ROUNDDOT]</color> Code: [gem_purple][code]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Aktiv: <white>[active]</white></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Name: [gem_purple][name]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Läuft ab: [gem_purple][expiration]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Typ: [gem_purple][type]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Verwendungen: [yellow][uses]</color> / [green][max_uses]</color></color><br><!i>[grey][gem_purple][ROUNDDOT]</color> Daten:</color><br>[data]<br>"
     },
     "GUI.inventory.title": {
         "en-US": "<!i>Vouchers",
@@ -13,7 +13,7 @@
     },
     "GUI.inventory.voucher.xp.lore": {
         "en-US": "<br><!i>[grey]This [gem_purple]vouchery</color> gives you [era_purple][amount] [gem_purple][system]</color> XP</color></color>!<br><br><!i>[green][ARROW]</color> Click to redeem!</color><br>",
-        "de-DE": "<br><!i>[grey]Dieser [gem_purple]Gutschein</color> gibt dir [era_purple][amount] [gem_purple][system]</color> XP</color></color>!<br><br><!i>[green][ARROW]</color> Klicke, um einzulösen!</color><br>"
+        "de-DE": "<br><!i>[grey]Dieser [gem_purple]Gutschein</color> gibt dir [era_purple][amount] [gem_purple][system]</color> XP</color></color>!<br>"
     },
     "GUI.inventory.voucher.economy.name": {
         "en-US": "<!i>[yellow]Economy Voucher",
@@ -21,7 +21,7 @@
     },
     "GUI.inventory.voucher.economy.lore": {
         "en-US": "<br><!i>[grey]This [gem_purple]voucher</color> gives you [yellow][amount] [gem_purple][currency]</color></color>!<br><br><!i>[green][ARROW]</color> Click to redeem!</color><br>",
-        "de-DE": "<br><!i>[grey]Dieser [gem_purple]Gutschein</color> gibt dir [yellow][amount] [gem_purple][currency]</color></color>!<br><br><!i>[green][ARROW]</color> Klicke, um einzulösen!</color><br>"
+        "de-DE": "<br><!i>[grey]Dieser [gem_purple]Gutschein</color> gibt dir [yellow][amount] [gem_purple][currency]</color></color>!<br>"
     },
     "GUI.inventory.voucher.temp-rank.name": {
         "en-US": "<!i>[yellow]Temporary Rank Voucher",
@@ -29,7 +29,7 @@
     },
     "GUI.inventory.voucher.temp-rank.lore": {
         "en-US": "<br><!i>[grey]This [gem_purple]voucher</color> gives you the <reset>[rank]</reset> [yellow]rank</color> for [yellow][duration]</color></color>!<br><br><!i>[green][ARROW]</color> Click to redeem!</color><br>",
-        "de-DE": "<br><!i>[grey]Dieser [gem_purple]Gutschein</color> gibt dir den <reset>[rank]</reset> [yellow]Rang</color> für [yellow][duration]</color></color>!<br><br><!i>[green][ARROW]</color> Klicke, um einzulösen!</color><br>"
+        "de-DE": "<br><!i>[grey]Dieser [gem_purple]Gutschein</color> gibt dir den <reset>[rank]</reset> [yellow]Rang</color> für [yellow][duration]</color></color>!<br>"
     },
     "GUI.inventory.voucher.perm-rank.name": {
         "en-US": "<!i>[yellow]Permanent Rank Voucher",
@@ -37,7 +37,7 @@
     },
     "GUI.inventory.voucher.perm-rank.lore": {
         "en-US": "<br><!i>[grey]This [gem_purple]voucher</color> gives you the <reset>[rank]</reset> [yellow]rank</color> permanently!</color><br><br><!i>[green][ARROW]</color> Click to redeem!</color><br>",
-        "de-DE": "<br><!i>[grey]Dieser [gem_purple]Gutschein</color> gibt dir den <reset>[rank]</reset> [yellow]Rang</color> permanent!</color><br><br><!i>[green][ARROW]</color> Klicke, um einzulösen!</color><br>"
+        "de-DE": "<br><!i>[grey]Dieser [gem_purple]Gutschein</color> gibt dir den <reset>[rank]</reset> [yellow]Rang</color> permanent!</color><br>"
     },
     "GUI.inventory.voucher.badge.name": {
         "en-US": "<!i>[purple]Badge Voucher",
@@ -45,6 +45,38 @@
     },
     "GUI.inventory.voucher.orange.lore": {
         "en-US": "<br><!i>[grey]This [gem_purple]voucher</color> gives you the [orange]badge</color> [eramc_gradient][badge]</gradient>!</color><br><br><!i>[green][ARROW]</color> Click to redeem!</color><br>",
-        "de-DE": "<br><!i>[grey]Dieser [gem_purple]Gutschein</color> gibt dir das [orange]Abzeichen</color> [eramc_gradient][badge]</gradient>!</color><br><br><!i>[green][ARROW]</color> Klicke, um einzulösen!</color><br>"
+        "de-DE": "<br><!i>[grey]Dieser [gem_purple]Gutschein</color> gibt dir das [orange]Abzeichen</color> [eramc_gradient][badge]</gradient>!</color><br>"
+    },
+    "GUI.inventory.voucher.lore.redeem": {
+        "en-US": "<br><!i>[green][ARROW]</color> Click to redeem!</color><br>",
+        "de-DE": "<br><!i>[green][ARROW]</color> Klicken zum Einlösen!</color><br>"
+    },
+    "GUI.inventory.voucher.lore.expired": {
+        "en-US": "<br><!i>[red][HEAVY_CROSS_MARK]</color> This voucher has expired!</color><br>",
+        "de-DE": "<br><!i>[red][HEAVY_CROSS_MARK]</color> Dieser Gutschein ist abgelaufen!</color><br>"
+    },
+    "GUI.inventory.voucher.lore.max_uses": {
+        "en-US": "<br><!i>[red][HEAVY_CROSS_MARK]</color> This voucher has reached its maximum number of uses!</color><br>",
+        "de-DE": "<br><!i>[red][HEAVY_CROSS_MARK]</color> Dieser Gutschein hat die maximale Anzahl an Verwendungen erreicht!</color><br>"
+    },
+    "GUI.inventory.voucher.lore.inactive": {
+        "en-US": "<br><!i>[red][HEAVY_CROSS_MARK]</color> This voucher is inactive/disabled!</color><br>",
+        "de-DE": "<br><!i>[red][HEAVY_CROSS_MARK]</color> Dieser Gutschein ist inaktiv/deaktiviert!</color><br>"
+    },
+    "GUI.inventory.sort.name": {
+        "de-DE": "<!i>[blue]ꜱᴏʀᴛɪᴇʀᴇɴ</color>",
+        "en-US": "<!i>[blue]ꜱᴏʀᴛ</color>"
+    },
+    "GUI.admin.sort.all": {
+        "de-DE": "<i:false><br><i:false>[blue]> Alle<br><i:false>[grey]  Nur aktive Gutscheine<br><i:false>[grey]  Nur inaktive Gutscheine<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[blue]> All<br><i:false>[grey]  Only active vouchers<br><i:false>[grey]  Only inactive vouchers<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "GUI.admin.sort.active": {
+        "de-DE": "<i:false><br><i:false>[grey]  Alle<br><i:false>[blue]> Nur aktive Gutscheine<br><i:false>[grey]  Nur inaktive Gutscheine<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  All<br><i:false>[blue]> Only active vouchers<br><i:false>[grey]  Only inactive vouchers<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
+    },
+    "GUI.admin.sort.inactive": {
+        "de-DE": "<i:false><br><i:false>[grey]  Alle<br><i:false>[grey]  Nur aktive Gutscheine<br><i:false>[blue]> Nur inaktive Gutscheine<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
+        "en-US": "<i:false><br><i:false>[grey]  All<br><i:false>[grey]  Only active vouchers<br><i:false>[blue]> Only inactive vouchers<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     }
 }
