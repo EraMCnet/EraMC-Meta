@@ -56,8 +56,8 @@
         "en-US": "TPHERE requests"
     },
     "pay.name": {
-        "de-DE": "Geld senden",
-        "en-US": "Send money"
+        "de-DE": "Geld empfangen",
+        "en-US": "Receive money"
     },
     "tpauto.name": {
         "de-DE": "TPAuto",

@@ -26,5 +26,9 @@
     "PAY.success.other": {
         "de-DE": "[grey][era_purple][player]</color> hat dir [yellow]$[amount]</color> überwiesen!</color>",
         "en-US": "[grey][era_purple][player]</color> has payed you [yellow]$[amount]</color>!</color>"
+    },
+    "PAY.error.disabled": {
+        "de-DE": "[grey][era_purple][player]</color> hat das Erhalten von Geld [red]deaktiviert</color>!</color>",
+        "en-US": "[grey][era_purple][player]</color> has [red]disabled</color> receiving money!</color>"
     }
 }
