@@ -111,6 +111,10 @@
         "de-DE": "Sichtbarkeits-Ausnahmen",
         "en-US": "Visibility exclusions"
     },
+    "clan_chat.name": {
+        "de-DE": "Clan-Chat",
+        "en-US": "Clan chat"
+    },
     "party_invites.name": {
         "de-DE": "Party-Einladungen",
         "en-US": "Party invites"
@@ -178,6 +182,14 @@
     "tpa.lore.friends": {
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dir [blue]TPA-Anfragen</color> senden darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell dürfen nur deine [purple]Freunde</color> dir [blue]TPA-Anfragen</color> senden!</color>",
         "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can send you [blue]TPA requests</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [purple]friends</color> can send you [blue]TPA requests</color>!</color>"
+    },
+    "clan_chat.lore.true": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, ob du den [blue]Clan-Chat</color> sehen möchtest.</color><br><br><!i>[grey][blue][ARROW]</color> Klicke um diese [blue]Einstellung</color> zu [red]deaktivieren</color>!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set whether you want to see the [blue]clan chat</color>.<br><br><!i>[grey][blue][ARROW]</color> Click to [red]disable</color> this [blue]setting</color>!</color>"
+    },
+    "clan_chat.lore.false": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, ob du den [blue]Clan-Chat</color> sehen möchtest.</color><br><br><!i>[grey][blue][ARROW]</color> Klicke um diese [blue]Einstellung</color> zu [green]aktivieren</color>!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set whether you want to see the [blue]clan chat</color>.<br><br><!i>[grey][blue][ARROW]</color> Click to [green]enable</color> this [blue]setting</color>!</color>"
     },
     "tpa.lore.clan": {
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dir [blue]TPA-Anfragen</color> senden darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell dürfen nur deine [blue]Clanmitglieder</color> dir [blue]TPA-Anfragen</color> senden!</color>",
