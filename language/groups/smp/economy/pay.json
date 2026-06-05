@@ -30,9 +30,5 @@
     "PAY.error.disabled": {
         "de-DE": "[grey][era_purple][player]</color> hat das Erhalten von [yellow]Geld</color> [red]deaktiviert</color>!</color>",
         "en-US": "[grey][era_purple][player]</color> has [red]disabled</color> receiving [yellow]money</color>!</color>"
-    },
-    "PAY.error.disabled.gems": {
-        "de-DE": "[grey][era_purple][player]</color> hat das Erhalten von [gem_purple]Gems</color> [red]deaktiviert</color>!</color>",
-        "en-US": "[grey][era_purple][player]</color> has [red]disabled</color> receiving [gem_purple]Gems</color>!</color>"
     }
 }
