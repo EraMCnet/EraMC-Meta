@@ -59,6 +59,10 @@
         "de-DE": "Geld empfangen",
         "en-US": "Receive money"
     },
+    "gem_pay.name": {
+        "de-DE": "Gems empfangen",
+        "en-US": "Receive gems"
+    },
     "tpauto.name": {
         "de-DE": "TPAuto",
         "en-US": "TPAuto"
@@ -200,20 +204,36 @@
         "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can send you [blue]TPHERE requests</color>.<br><br><!i>[grey][blue][ARROW]</color> Currently, [darker_red]no one</color> can send you [blue]TPHERE requests</color>!</color>"
     },
     "pay.lore.all": {
-        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dir [blue]Geld senden</color> darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell darf dir [green]jeder</color> [blue]Geld senden</color>!</color>",
-        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can [blue]send money</color> to you.<br><br><!i>[grey][blue][ARROW]</color> Currently, [green]everyone</color> can [blue]send money</color> to you!</color>"
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dir [blue]Geld überweisen</color> darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell darf dir [green]jeder</color> [blue]Geld überweisen</color>!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can [blue]pay money</color> to you.<br><br><!i>[grey][blue][ARROW]</color> Currently, [green]everyone</color> can [blue]pay money</color> to you!</color>"
     },
     "pay.lore.friends": {
-        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dir [blue]Geld senden</color> darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell dürfen nur deine [purple]Freunde</color> dir [blue]Geld senden</color>!</color>",
-        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can [blue]send money</color> to you.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [purple]friends</color> can [blue]send money</color> to you!</color>"
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dir [blue]Geld überweisen</color> darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell dürfen nur deine [purple]Freunde</color> dir [blue]Geld überweisen</color>!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can [blue]pay money</color> to you.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [purple]friends</color> can [blue]pay money</color> to you!</color>"
     },
     "pay.lore.clan": {
-        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dir [blue]Geld senden</color> darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell dürfen nur deine [blue]Clanmitglieder</color> dir [blue]Geld senden</color>!</color>",
-        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can [blue]send money</color> to you.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [blue]clan members</color> can [blue]send money</color> to you!</color>"
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dir [blue]Geld überweisen</color> darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell dürfen nur deine [blue]Clanmitglieder</color> dir [blue]Geld überweisen</color>!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can [blue]pay money</color> to you.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [blue]clan members</color> can [blue]pay money</color> to you!</color>"
     },
     "pay.lore.none": {
-        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dir [blue]Geld senden</color> darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell darf dir [darker_red]niemand</color> [blue]Geld senden</color>!</color>",
-        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can [blue]send money</color> to you.<br><br><!i>[grey][blue][ARROW]</color> Currently, [darker_red]no one</color> can [blue]send money</color> to you!</color>"
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dir [blue]Geld überweisen</color> darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell darf dir [darker_red]niemand</color> [blue]Geld überweisen</color>!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can [blue]pay money</color> to you.<br><br><!i>[grey][blue][ARROW]</color> Currently, [darker_red]no one</color> can [blue]pay money</color> to you!</color>"
+    },
+    "gem_pay.lore.all": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dir [blue]Gems überweisen</color> darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell darf dir [green]jeder</color> [blue]Gems überweisen</color>!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can [blue]gem_pay money</color> to you.<br><br><!i>[grey][blue][ARROW]</color> Currently, [green]everyone</color> can [blue]gem_pay money</color> to you!</color>"
+    },
+    "gem_pay.lore.friends": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dir [blue]Gems überweisen</color> darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell dürfen nur deine [purple]Freunde</color> dir [blue]Gems überweisen</color>!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can [blue]gem_pay money</color> to you.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [purple]friends</color> can [blue]gem_pay money</color> to you!</color>"
+    },
+    "gem_pay.lore.clan": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dir [blue]Gems überweisen</color> darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell dürfen nur deine [blue]Clanmitglieder</color> dir [blue]Gems überweisen</color>!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can [blue]gem_pay money</color> to you.<br><br><!i>[grey][blue][ARROW]</color> Currently, only your [blue]clan members</color> can [blue]gem_pay money</color> to you!</color>"
+    },
+    "gem_pay.lore.none": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, wer dir [blue]Gems überweisen</color> darf.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell darf dir [darker_red]niemand</color> [blue]Gems überweisen</color>!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set who can [blue]gem_pay money</color> to you.<br><br><!i>[grey][blue][ARROW]</color> Currently, [darker_red]no one</color> can [blue]gem_pay money</color> to you!</color>"
     },
     "tpauto.lore.all": {
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, für wen [blue]automatisch Teleportanfragen</color> akzeptiert werden.</color><br><br><!i>[grey][blue][ARROW]</color> Aktuell wird für [green]jeden</color> [blue]automatisch akzeptiert</color>!</color>",
