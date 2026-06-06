@@ -71,6 +71,10 @@
         "de-DE": "[grey]Du hast [mint_green_light][amount]x</color> [mint_green_dark][item]</color> für [mint_green_dark]$[price]</color> in das [green]Auktionshaus</color> gepackt!</color>",
         "en-US": "[grey]You have put [mint_green_light][amount]x</color> [mint_green_dark][item]</color> for [mint_green_dark]$[price]</color> in the [green]Auction House</color>!</color>"
     },
+    "AH.command.sell.error.no-money": {
+        "de-DE": "[grey]Du hast kein [mint_green_light]Geld</color> um die [blue]Einstellungsgebühr</color> zu bezahlen! Du benötigst [mint_green_dark]$[price]</color> um dieses Item zu verkaufen.</color>",
+        "en-US": "[grey]You do not have any [mint_green_light]money</color> to pay the [blue]listing fee</color>! You need [mint_green_dark]$[price]</color> to sell this item.</color>"
+    },
     "AH.command.sell.error.item.invalid": {
         "de-DE": "[grey]Dieses Item kannst du [red]nicht</color> verkaufen!</color>",
         "en-US": "[grey]You [red]cannot</color> sell this item!</color>"
