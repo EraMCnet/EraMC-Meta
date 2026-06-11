@@ -8,7 +8,7 @@
         "en-US": "[grey]You have set the [era_purple]group</color> of the player [era_purple][player]</color> to [era_purple][group]</color>!"
     },
     "ERROR.setrank.higher": {
-        "de-DE": "[grey]Die Gruppe [era_purple][group]</color> hat ein höheres [yellow]Gewicht</color> als deine eigene und kann [red]nicht</color> von dir vergeben werden.</color>",
-        "en-US": "[grey]The group [era_purple][group]</color> has a higher [yellow]weight</color> than your own and cannot be assigned by you.</color>"
+        "de-DE": "[grey]Die Gruppe [era_purple][group]</color> hat ein höheres oder das selbe [yellow]Gewicht</color> wie deine eigene und kann [red]nicht</color> von dir vergeben werden.</color>",
+        "en-US": "[grey]The group [era_purple][group]</color> has a higher or the same [yellow]weight</color> as your own and cannot be assigned by you.</color>"
     }
 }
