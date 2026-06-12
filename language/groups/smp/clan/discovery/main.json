@@ -1,38 +1,38 @@
 {
-    "CLAN.discovery.gui.title": {
+    "CLANS.discovery.gui.title": {
         "de-DE": "<i:false>Clan Discovery",
         "en-US": "<i:false>Clan Discovery"
     },
-    "CLAN.discovery.gui.page.sort": {
+    "CLANS.discovery.gui.page.sort": {
         "de-DE": "<i:false>[blue]ꜱᴏʀᴛɪᴇʀᴇɴ",
         "en-US": "<i:false>[blue]ꜱᴏʀᴛ"
     },
-    "CLAN.discovery.gui.page.sort.lore.rising": {
+    "CLANS.discovery.gui.page.sort.lore.rising": {
         "de-DE": "<i:false><br><i:false>[blue]> Aufstrebend<br><i:false>[grey]  Beitritte absteigend<br><i:false>[grey]  Meiste Mitglieder<br><i:false>[grey]  Wenigste Mitglieder<br><i:false>[grey]  Neuste<br><i:false>[grey]  Älteste<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
         "en-US": "<i:false><br><i:false>[blue]> Rising<br><i:false>[grey]  Joins descending<br><i:false>[grey]  Most members<br><i:false>[grey]  Least members<br><i:false>[grey]  Newest<br><i:false>[grey]  Oldest<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     },
-    "CLAN.discovery.gui.page.sort.lore.descending": {
+    "CLANS.discovery.gui.page.sort.lore.descending": {
         "de-DE": "<i:false><br><i:false>[grey]  Aufstrebend<br><i:false>[blue]> Beitritte absteigend<br><i:false>[grey]  Meiste Mitglieder<br><i:false>[grey]  Wenigste Mitglieder<br><i:false>[grey]  Neuste<br><i:false>[grey]  Älteste<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
         "en-US": "<i:false><br><i:false>[grey]  Rising<br><i:false>[blue]> Joins descending<br><i:false>[grey]  Most members<br><i:false>[grey]  Least members<br><i:false>[grey]  Newest<br><i:false>[grey]  Oldest<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     },
-    "CLAN.discovery.gui.page.sort.lore.most_members": {
+    "CLANS.discovery.gui.page.sort.lore.most_members": {
         "de-DE": "<i:false><br><i:false>[grey]  Aufstrebend<br><i:false>[grey]  Beitritte absteigend<br><i:false>[blue]> Meiste Mitglieder<br><i:false>[grey]  Wenigste Mitglieder<br><i:false>[grey]  Neuste<br><i:false>[grey]  Älteste<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
         "en-US": "<i:false><br><i:false>[grey]  Rising<br><i:false>[grey]  Joins descending<br><i:false>[blue]> Most members<br><i:false>[grey]  Least members<br><i:false>[grey]  Newest<br><i:false>[grey]  Oldest<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     },
-    "CLAN.discovery.gui.page.sort.lore.least_members": {
+    "CLANS.discovery.gui.page.sort.lore.least_members": {
         "de-DE": "<i:false><br><i:false>[grey]  Aufstrebend<br><i:false>[grey]  Beitritte absteigend<br><i:false>[grey]  Meiste Mitglieder<br><i:false>[blue]> Wenigste Mitglieder<br><i:false>[grey]  Neuste<br><i:false>[grey]  Älteste<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
         "en-US": "<i:false><br><i:false>[grey]  Rising<br><i:false>[grey]  Joins descending<br><i:false>[grey]  Most members<br><i:false>[blue]> Least members<br><i:false>[grey]  Newest<br><i:false>[grey]  Oldest<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     },
-    "CLAN.discovery.gui.page.sort.lore.newest": {
+    "CLANS.discovery.gui.page.sort.lore.newest": {
         "de-DE": "<i:false><br><i:false>[grey]  Aufstrebend<br><i:false>[grey]  Beitritte absteigend<br><i:false>[grey]  Meiste Mitglieder<br><i:false>[grey]  Wenigste Mitglieder<br><i:false>[blue]> Neuste<br><i:false>[grey]  Älteste<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
         "en-US": "<i:false><br><i:false>[grey]  Rising<br><i:false>[grey]  Joins descending<br><i:false>[grey]  Most members<br><i:false>[grey]  Least members<br><i:false>[blue]> Newest<br><i:false>[grey]  Oldest<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     },
-    "CLAN.discovery.gui.page.sort.lore.oldest": {
+    "CLANS.discovery.gui.page.sort.lore.oldest": {
         "de-DE": "<i:false><br><i:false>[grey]  Aufstrebend<br><i:false>[grey]  Beitritte absteigend<br><i:false>[grey]  Meiste Mitglieder<br><i:false>[grey]  Wenigste Mitglieder<br><i:false>[grey]  Neuste<br><i:false>[blue]> Älteste<br><br><i:false>[blue]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
         "en-US": "<i:false><br><i:false>[grey]  Rising<br><i:false>[grey]  Joins descending<br><i:false>[grey]  Most members<br><i:false>[grey]  Least members<br><i:false>[grey]  Newest<br><i:false>[blue]> Oldest<br><br><i:false>[blue]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     },
-    "CLAN.discovery.gui.clan.item.lore": {
+    "CLANS.discovery.gui.clanS.item.lore": {
         "de-DE": "<br><!i>[grey][mint_green_dark][ARROW]</color> Clan Owner: [mint_green_dark][clan_owner]</color><br><!i>[grey][mint_green_dark][ARROW]</color> Clan Tag: [mint_green_dark][clan_tag]</color><br><!i>[grey][mint_green_dark][ARROW]</color> Verifiziert: [clan_verified]<br><br>[grey]<!i>[mint_green_dark][ROUNDDOT]</color> Klicke, um mehr über diesen Clan zu erfahren.<br>",
-        "en-US": "<br><!i>[grey][mint_green_dark][ARROW]</color> Clan Owner: [mint_green_dark][clan_owner]</color><br><!i>[grey][mint_green_dark][ARROW]</color> Clan Tag: [mint_green_dark][clan_tag]</color><br><!i>[grey][mint_green_dark][ARROW]</color> Verified: [clan_verified]<br><br>[grey]<!i>[mint_green_dark][ROUNDDOT]</color> Click to learn more about this clan.<br>"
+        "en-US": "<br><!i>[grey][mint_green_dark][ARROW]</color> Clan Owner: [mint_green_dark][clan_owner]</color><br><!i>[grey][mint_green_dark][ARROW]</color> Clan Tag: [mint_green_dark][clan_tag]</color><br><!i>[grey][mint_green_dark][ARROW]</color> Verified: [clan_verified]<br><br>[grey]<!i>[mint_green_dark][ROUNDDOT]</color> Click to learn more about this clanS.<br>"
     }
 }
