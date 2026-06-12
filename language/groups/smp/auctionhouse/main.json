@@ -100,8 +100,8 @@
         "en-US": "[grey]You do not have enough [mint_green_light]money</color>! You need [mint_green_dark]$[price]</color> to buy this item.</color>"
     },
     "AH.item.buy.success": {
-        "de-DE": "[grey]Du hast [mint_green_light][amount]x</color> [mint_green_dark][item]</color> für [mint_green_dark]$[price]</color> im [green]Auktionshaus</color> gekauft!</color>",
-        "en-US": "[grey]You have bought [mint_green_light][amount]x</color> [mint_green_dark][item]</color> for [mint_green_dark]$[price]</color> in the [green]Auction House</color>!</color>"
+        "de-DE": "[grey]Du hast [mint_green_light][amount]x</color> [mint_green_dark][item]</color> für [mint_green_dark]$[price]</color> aus dem [green]Auktionshaus</color> gekauft!</color>",
+        "en-US": "[grey]You have bought [mint_green_light][amount]x</color> [mint_green_dark][item]</color> for [mint_green_dark]$[price]</color> from the [green]Auction House</color>!</color>"
     },
     "AH.item.buy.success.notify.seller": {
         "de-DE": "[grey][mint_green_dark][player]</color> hat [mint_green_light][amount]x</color> [mint_green_dark][item]</color> für [mint_green_dark]$[price]</color> von dir aus dem [green]Auktionshaus</color> gekauft!</color>",
