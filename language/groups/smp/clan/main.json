@@ -131,6 +131,10 @@
         "de-DE": "[grey]Der Clan Name darf [red]keine Leerzeichen</color> enthalten!</color>",
         "en-US": "[grey]The clan name [red]can't contain spaces!</color>"
     },
+    "CLAN.error.invalid.name.characters": {
+        "de-DE": "[grey]Der Clan Name darf [red]nur Buchstaben, Zahlen und Unterstriche</color> enthalten!</color>",
+        "en-US": "[grey]The clan name can only contain letters, numbers and underscores!</color>"
+    },
     "CLAN.command.leave.success": {
         "de-DE": "[grey]Du hast den Clan [era_purple][name]</color> [green]erfolgreich</color> verlassen!</color>",
         "en-US": "[grey]You have [green]suceessfully</color> left the clan [era_purple][name]</color>!</color>"
