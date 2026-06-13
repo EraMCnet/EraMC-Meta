@@ -122,5 +122,9 @@
     "AH.sell.error.to.expensive": {
         "de-DE": "[grey]Der angegebene [mint_green_light]Preis</color> ist [red]zu hoch</color>! Du kannst Items nur für maximal [mint_green_dark]$[max-price]</color> verkaufen.</color>",
         "en-US": "[grey]The specified [mint_green_light]price</color> is [red]too high</color>! You can only sell items for a maximum of [mint_green_dark]$[max-price]</color>.</color>"
+    },
+    "AH.command.sell.error.name.blacklisted": {
+        "de-DE": "[grey]Der angegebene [mint_green_light]Item-Name</color> enthält ein [red]verbotenes Wort</color>! Wenn du denkst, dass das ein [red]Fehler</color> ist, kontaktiere unseren Support ([era_purple]/discord</color>).</color>",
+        "en-US": "[grey]The specified [mint_green_light]item name</color> contains a [red]blacklisted word</color>! If you think this is a [red]mistake</color>, please contact our support ([era_purple]/discord</color>).</color>"
     }
 }
