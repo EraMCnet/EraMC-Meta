@@ -8,8 +8,8 @@
         "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Seller: [green][seller]</color><br><!i>[grey][green][ROUNDDOT]</color> Buyer: [green][buyer]</color><br><!i>[grey][green][ROUNDDOT]</color> Price: [green]$[price]</color><br><!i>[grey][green][ROUNDDOT]</color> Sold on: [green][date]</color><br>"
     },
     "AH.type.name": {
-        "de-DE": "Auktionshaus Historie",
-        "en-US": "Auction House History"
+        "en-US": "<!i>[blue]ʜɪѕᴛᴏʀʏ ᴛʏᴘᴇ</color>",
+        "de-DE": "<!i>[blue]ʜɪѕᴛᴏʀɪᴇɴ ᴛʏᴘ</color>"
     },
     "AH.type.lore.bought": {
         "de-DE": "<br><!i>[blue]> Gekaufte Items</color><br><!i>[grey]  Verkaufte Items</color><br>",
