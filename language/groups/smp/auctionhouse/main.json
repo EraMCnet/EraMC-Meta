@@ -51,6 +51,10 @@
         "de-DE": "<i:false>[blue]ᴀᴋᴛᴜᴀʟʟɪꜱɪᴇʀᴇɴ",
         "en-US": "<i:false>[blue]ᴜᴘᴅᴀᴛᴇ"
     },
+    "AH.item.buy.error.own.item": {
+        "de-DE": "[grey]Du kannst [red]nicht</color> dein eigenes Item kaufen!</color>",
+        "en-US": "[grey]You [red]cannot</color> buy your own item!</color>"
+    },
     "AH.nav.pagination.update.lore": {
         "de-DE": "<i:false><br><i:false>[blue][ROUNDDOT][grey] Klicke, um die Seite zu aktualisieren<br><i:false>",
         "en-US": "<i:false><br><i:false>[blue][ROUNDDOT][grey] Click to update the page<br><i:false>"
