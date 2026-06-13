@@ -1,6 +1,6 @@
 {
     "GUI.title": {
-        "de-DE": "<!i>Clan Rollenverwantung",
+        "de-DE": "<!i>Clan Berechtigungnverwantung",
         "en-US": "<!i>Clan Role Management"
     },
     "GUI.role.item.lore": {
@@ -8,51 +8,91 @@
         "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Members: [green][member_count]</color></color><br><!i>[grey][green][ROUNDDOT]</color> Permissions: [green][permissions]</color> (showing [yellow][perms_displayed]</color> of [green][all_perm_size]</color>)</color><br><br><!i>[grey][green][ARROW]</color> Click to [green]edit permissions.</color>"
     },
     "GUI.role.item.lore.deleteable": {
-        "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Mitglieder: [green][member_count]</color></color><br><!i>[grey][green][ROUNDDOT]</color> Berechtigungen: [green][permissions]</color> (zeigt [yellow][perms_displayed]</color> von [green][all_perm_size]</color>)</color><br><br><!i>[grey][green][ARROW]</color> Klicke, um [green]die Berechtigungen zu bearbeiten.</color><br><!i>[grey][darker_red][ARROW]</color> Rechtsklicke, [darker_red]um diese Rolle zu löschen</color>",
-        "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Members: [green][member_count]</color></color><br><!i>[grey][green][ROUNDDOT]</color> Permissions: [green][permissions]</color> (showing [yellow][perms_displayed]</color> of [green][all_perm_size]</color>)</color><br><br><!i>[grey][green][ARROW]</color> Click to [green]edit permissions.</color><br><!i>[grey][darker_red][ARROW]</color> Right-click to [darker_red]delete this role</color>"
+        "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Mitglieder: [green][member_count]</color></color><br><!i>[grey][green][ROUNDDOT]</color> Berechtigungen: [green][permissions]</color> (zeigt [yellow][perms_displayed]</color> von [green][all_perm_size]</color>)</color><br><br><!i>[grey][green][ARROW]</color> Klicke, um [green]die Berechtigungen zu bearbeiten.</color><br><!i>[grey][darker_red][ARROW]</color> Rechtsklicke, [darker_red]um diese Berechtigung zu löschen</color>",
+        "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Members: [green][member_count]</color></color><br><!i>[grey][green][ROUNDDOT]</color> Permissions: [green][permissions]</color> (showing [yellow][perms_displayed]</color> of [green][all_perm_size]</color>)</color><br><br><!i>[grey][green][ARROW]</color> Click to [green]edit permissions.</color><br><!i>[grey][darker_red][ARROW]</color> Right-click to [darker_red]delete this permission</color>"
     },
     "GUI.role.item.add.name": {
-        "de-DE": "<!i>[green]Rolle hinzufügen",
+        "de-DE": "<!i>[green]Berechtigung hinzufügen",
         "en-US": "<!i>[green]Add Role"
     },
     "GUI.role.item.add.lore": {
-        "de-DE": "<br><!i>[grey][green][ARROW]</color> Klicke, um [green]eine neue Rolle hinzuzufügen.</color><br>",
+        "de-DE": "<br><!i>[grey][green][ARROW]</color> Klicke, um [green]eine neue Berechtigung hinzuzufügen.</color><br>",
         "en-US": "<br><!i>[grey][green][ARROW]</color> Click to [green]add a new role.</color><br>"
     },
     "ROLE.add.chatprompt": {
-        "de-DE": "[green]Gib den Namen der neuen Rolle ein:</color>",
+        "de-DE": "[green]Gib den Namen der neuen Berechtigung ein:</color>",
         "en-US": "[green]Enter the name of the new role:</color>"
     },
     "ROLE.add.error.name.invalid.lenght": {
-        "de-DE": "[grey]Der [darker_red]Rollenname</color> muss zwischen [darker_red]3 und 20 Zeichen</color> lang sein!</color>",
+        "de-DE": "[grey]Der [darker_red]Berechtigungnname</color> muss zwischen [darker_red]3 und 20 Zeichen</color> lang sein!</color>",
         "en-US": "[grey]The [darker_red]role name</color> must be between [darker_red]3 and 20 characters</color> long!"
     },
     "ROLE.add.error.name.blacklisted": {
-        "de-DE": "[grey]Der Rollenname enthält ein [red]Verbotenes Wort!</color> Wenn du denkst, dass das ein [red]Fehler</color> ist, kontaktiere unseren Support ([era_purple]/discord</color>).</color>",
+        "de-DE": "[grey]Der Berechtigungnname enthält ein [red]Verbotenes Wort!</color> Wenn du denkst, dass das ein [red]Fehler</color> ist, kontaktiere unseren Support ([era_purple]/discord</color>).</color>",
         "en-US": "[grey]The role name contains a [red]blacklisted word!</color> If you think this is a [red]mistake</color>, please contact our support ([era_purple]/discord</color>).</color>"
     },
     "ROLE.add.error.name.alreadyexists": {
-        "de-DE": "[grey]Es gibt [darker_red]bereits eine Rolle</color> mit diesem Namen in deinem Clan!</color>",
+        "de-DE": "[grey]Es gibt [darker_red]bereits eine Berechtigung</color> mit diesem Namen in deinem Clan!</color>",
         "en-US": "[grey]There is [darker_red]already a role</color> with this name in your clan!</color>"
     },
     "ROLE.add.error.name.invalidcharacters": {
-        "de-DE": "[grey]Der [darker_red]Rollenname</color> enthält ungültige Zeichen! Erlaubt sind nur [darker_red]Buchstaben Zahlen und Bindestriche</color>.",
+        "de-DE": "[grey]Der [darker_red]Berechtigungnname</color> enthält ungültige Zeichen! Erlaubt sind nur [darker_red]Buchstaben Zahlen und Bindestriche</color>.",
         "en-US": "[grey]The [darker_red]role name</color> contains invalid characters! Only [darker_red]letters, numbers and hyphens</color> are allowed."
     },
     "ROLE.add.success": {
-        "de-DE": "[grey]Die Rolle [yellow][role_name]</color> wurde [green]erfolgreich hinzugefügt!</color></color>",
+        "de-DE": "[grey]Die Berechtigung [yellow][role_name]</color> wurde [green]erfolgreich hinzugefügt!</color></color>",
         "en-US": "[grey]The role [yellow][role_name]</color> has been [green]successfully added!</color></color>"
     },
     "ROLE.delete.success": {
-        "de-DE": "[grey]Die Rolle [yellow][role_name]</color> wurde [green]erfolgreich gelöscht!</color></color>",
+        "de-DE": "[grey]Die Berechtigung [yellow][role_name]</color> wurde [green]erfolgreich gelöscht!</color></color>",
         "en-US": "[grey]The role [yellow][role_name]</color> has been [green]successfully deleted!</color></color>"
     },
     "GUI.permission.item.lore.add": {
-        "de-DE": "<br><!i>[grey][green][ARROW]</color> Klicke, um diese [green]Berechtigung</color> für diese Rolle zu [green]aktivieren.</color></color><br>",
-        "en-US": "<br><!i>[grey][green][ARROW]</color> Click to [green]enable</color> this [green]permission</color> for this role.</color><br>"
+        "de-DE": "<br><!i>[grey][green][ARROW]</color> Klicke, um diese [green]Berechtigung</color> für diese Berechtigung zu [green]aktivieren.</color></color><br><br><i>[grey][description]</color>",
+        "en-US": "<br><!i>[grey][green][ARROW]</color> Click to [green]enable</color> this [green]permission</color> for this permission.</color><br><br><i>[grey][description]</color>"
     },
     "GUI.permission.item.lore.remove": {
-        "de-DE": "<br><!i>[grey][green][ARROW]</color> Klicke, um diese [green]Berechtigung</color> für diese Rolle zu [darker_red]deaktivieren.</color><br>",
-        "en-US": "<br><!i>[grey][green][ARROW]</color> Click to [darker_red]disable</color> this [green]permission</color> for this role.</color><br>"
+        "de-DE": "<br><!i>[grey][green][ARROW]</color> Klicke, um diese [green]Berechtigung</color> für diese Berechtigung zu [darker_red]deaktivieren.</color><br><br><i>[grey][description]</color>",
+        "en-US": "<br><!i>[grey][green][ARROW]</color> Click to [darker_red]disable</color> this [green]permission</color> for this permission.</color><br><br><i>[grey][description]</color>"
+    },
+    "PERMISSION.KICK_MEMBERS.description": {
+        "de-DE": "Erlaubt es Mitgliedern mit dieser Berechtigung, andere Mitglieder aus dem Clan zu entfernen.",
+        "en-US": "Allows members with this permission to remove other members from the clan."
+    },
+    "PERMISSION.BAN_MEMBERS.description": {
+        "de-DE": "Erlaubt es Mitgliedern mit dieser Berechtigung, andere Mitglieder aus dem Clan zu verbannen.",
+        "en-US": "Allows members with this permission to ban other members from the clan."
+    },
+    "PERMISSION.MANAGE_CLAN.description": {
+        "de-DE": "Erlaubt es Mitgliedern mit dieser Berechtigung, die Clan-Einstellungen zu bearbeiten. Damit ist der Name, die Beschreibung und der Clan Tag gemeint.",
+        "en-US": "Allows members with this permission to edit the clan settings. This includes the name, description and clan tag."
+    },
+    "PERMISSION.MANAGE_HOME.description": {
+        "de-DE": "Erlaubt es Mitgliedern mit dieser Berechtigung, den Clan Home zu bearbeiten.",
+        "en-US": "Allows members with this permission to edit the clan home."
+    },
+    "PERMISSION.INVITE_MEMBERS.description": {
+        "de-DE": "Erlaubt es Mitgliedern mit dieser Berechtigung, andere Spieler in den Clan einzuladen.",
+        "en-US": "Allows members with this permission to invite other players to the clan."
+    },
+    "PERMISSION.CHANGE_TYPE.description": {
+        "de-DE": "Erlaubt es Mitgliedern mit dieser Berechtigung, den Clan Typ zu ändern (öffentlich, geschlossen, nur Einladung).",
+        "en-US": "Allows members with this permission to change the clan type (public, closed, invite-only)."
+    },
+    "PERMISSION.ACCEPT_JOIN_REQUESTS.description": {
+        "de-DE": "Erlaubt es Mitgliedern mit dieser Berechtigung, Beitrittsanfragen von Spielern zu akzeptieren oder abzulehnen.",
+        "en-US": "Allows members with this permission to accept or reject join requests from players."
+    },
+    "PERMISSION.REMOVE_INVITES.description": {
+        "de-DE": "Erlaubt es Mitgliedern mit dieser Berechtigung, ausstehende Einladungen zurückzuziehen.",
+        "en-US": "Allows members with this permission to revoke pending invitations."
+    },
+    "PERMISSION.REJECT_JOIN_REQUESTS.description": {
+        "de-DE": "Erlaubt es Mitgliedern mit dieser Berechtigung, Beitrittsanfragen von Spielern abzulehnen.",
+        "en-US": "Allows members with this permission to reject join requests from players."
+    },
+    "PERMISSION.ADMINISTRATOR.description": {
+        "de-DE": "Erlaubt es Mitgliedern mit dieser Berechtigung, alle Berechtigungen zu haben, außer der Berechtigung [yellow]Administrator</color> selbst. Diese Berechtigung kann nicht aktiviert werden, wenn ein Mitglied bereits die Berechtigung [yellow]Administrator</color> hat.",
+        "en-US": "Allows members with this permission to have all permissions except the [yellow]Administrator</color> permission itself. This permission cannot be enabled if a member already has the [yellow]Administrator</color> permission."
     }
 }
