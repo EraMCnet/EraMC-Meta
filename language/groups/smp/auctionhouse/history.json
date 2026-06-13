@@ -6,5 +6,17 @@
     "AH.item.sold.lore": {
         "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Verkäufer: [green][seller]</color><br><!i>[grey][green][ROUNDDOT]</color> Käufer: [green][buyer]</color><br><!i>[grey][green][ROUNDDOT]</color> Preis: [green]$[price]</color><br><!i>[grey][green][ROUNDDOT]</color> Verkauft am: [green][date]</color><br>",
         "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Seller: [green][seller]</color><br><!i>[grey][green][ROUNDDOT]</color> Buyer: [green][buyer]</color><br><!i>[grey][green][ROUNDDOT]</color> Price: [green]$[price]</color><br><!i>[grey][green][ROUNDDOT]</color> Sold on: [green][date]</color><br>"
+    },
+    "AH.type.name": {
+        "de-DE": "Auktionshaus Historie",
+        "en-US": "Auction House History"
+    },
+    "AH.type.lore.bought": {
+        "de-DE": "<br><!i>[blue]> Gekaufte Items</color><br><!i>[grey]  Verkaufte Items</color><br>",
+        "en-US": "<br><!i>[blue]> Bought Items</color><br><!i>[grey]  Sold Items</color><br>"
+    },
+    "AH.type.lore.sold": {
+        "de-DE": "<br><!i>[grey]  Gekaufte Items</color><br><!i>[blue]> Verkaufte Items</color><br>",
+        "en-US": "<br><!i>[grey]  Bought Items</color><br><!i>[blue]> Sold Items</color><br>"
     }
 }
