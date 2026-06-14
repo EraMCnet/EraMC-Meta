@@ -57,7 +57,7 @@
     },
     "TPA.request.timeout": {
         "de-DE": "[grey]Die [era_purple]TPA</color> an [era_purple][player]</color> ist abgelaufen!</color>",
-        "en-US": "[grey]The [era_purple]TPA</color> to [era_purple][player] has expired!</color>"
+        "en-US": "[grey]The [era_purple]TPA</color> to [era_purple][player]</color> has expired!</color>"
     },
     "TPAHERE.request.timeout": {
         "de-DE": "[grey]Die [era_purple]TPA here</color> an [era_purple][player]</color> ist abgelaufen!</color>",
