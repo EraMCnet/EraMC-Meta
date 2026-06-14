@@ -1,9 +1,9 @@
 {
-    "TPA.request.send": {
+    "TPA.request.sent": {
         "de-DE": "[grey]Du hast eine [era_purple]TPA</color> an [era_purple][player]</color> gesendet!</color>",
         "en-US": "[grey]You've sent a [era_purple]TPA</color> request to [era_purple][player]!</color></color>"
     },
-    "TPAHERE.request.send": {
+    "TPAHERE.request.sent": {
         "de-DE": "[grey]Du hast eine [era_purple]TPA here</color> an [era_purple][player]</color> gesendet!</color>",
         "en-US": "[grey]You've sent a [era_purple]TPA here</color> request to [era_purple][player]!</color></color>"
     },
