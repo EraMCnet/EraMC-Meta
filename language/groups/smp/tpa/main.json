@@ -124,11 +124,11 @@
         "en-US": "[grey][era_purple][player]</color> has [era_purple]teleport requests</color> [red]disabled!</color></color>"
     },
     "TPA.confirm.info": {
-        "de-DE": "<!i>[grey]Bist du dir sicher das die [era_purple]TPA-Anfrage</color> von [era_purple][player]</color> [green]annehmen</color> möchtest?</color><br><br><!i>[grey]Hierbei wird [era_purple][player]</color> [red]<b>zu dir</b></color> teleportiert!</color>",
+        "de-DE": "<!i>[grey]Bist du dir sicher das du die [era_purple]TPA-Anfrage</color> von [era_purple][player]</color> [green]annehmen</color> möchtest?</color><br><br><!i>[grey]Hierbei wird [era_purple][player]</color> [red]<b>zu dir</b></color> teleportiert!</color>",
         "en-US": "<!i>[grey]Are you sure you want to [green]accept</color> the [era_purple]TPA request</color> from [era_purple][player]</color>?</color><br><br><!i>[grey]This will teleport [era_purple][player]</color> [red]<b>to you</b></color>!</color>"
     },
     "TPAHERE.confirm.info": {
-        "de-DE": "<!i>[grey]Bist du dir sicher das die [era_purple]TPA here-Anfrage</color> von [era_purple][player]</color> [green]annehmen</color> möchtest?</color><br><br><!i>[grey]Hierbei wirst [red]<b>du ZU [player]</b></color> teleportiert!</color>",
+        "de-DE": "<!i>[grey]Bist du dir sicher das du die [era_purple]TPA here-Anfrage</color> von [era_purple][player]</color> [green]annehmen</color> möchtest?</color><br><br><!i>[grey]Hierbei wirst [red]<b>du ZU [player]</b></color> teleportiert!</color>",
         "en-US": "<!i>[grey]Are you sure you want to [green]accept</color> the [era_purple]TPA here request</color> from [era_purple][player]</color>?</color><br><br><!i>[grey]This will teleport [red]<b>you TO [player]</b></color>!</color>"
     }
 }
