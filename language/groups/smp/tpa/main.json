@@ -61,7 +61,7 @@
     },
     "TPAHERE.request.timeout": {
         "de-DE": "[grey]Die [era_purple]TPA here</color> an [era_purple][player]</color> ist abgelaufen!</color>",
-        "en-US": "[grey]The [era_purple]TPA here</color> to [era_purple][player] has expired!</color>"
+        "en-US": "[grey]The [era_purple]TPA here</color> to [era_purple][player]</color> has expired!</color>"
     },
     "TPA.request.teleport": {
         "de-DE": "[grey]Du wurdest zu [era_purple][player]</color> teleportiert!</color>",
