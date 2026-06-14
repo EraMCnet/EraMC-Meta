@@ -80,8 +80,8 @@
         "en-US": "Allows members with this permission to change the clan type (public, closed, invite-only)."
     },
     "PERMISSION.ACCEPT_JOIN_REQUESTS.description": {
-        "de-DE": "Erlaubt es Mitgliedern mit dieser Berechtigung, Beitrittsanfragen von Spielern zu akzeptieren oder abzulehnen.",
-        "en-US": "Allows members with this permission to accept or reject join requests from players."
+        "de-DE": "Erlaubt es Mitgliedern mit dieser Berechtigung, Beitrittsanfragen von Spielern zu akzeptieren.",
+        "en-US": "Allows members with this permission to accept requests from players."
     },
     "PERMISSION.REMOVE_INVITES.description": {
         "de-DE": "Erlaubt es Mitgliedern mit dieser Berechtigung, ausstehende Einladungen zurückzuziehen.",
