@@ -39,6 +39,10 @@
         "de-DE": "<!i>[yellow]Clan Tag",
         "en-US": "<!i>[yellow]Clan Tag"
     },
+    "GUI.setting.discord.item.name": {
+        "de-DE": "<!i>[blurple]Discord Link",
+        "en-US": "<!i>[blurple]Discord Link"
+    },
     "GUI.settings.pvp.item.name": {
         "de-DE": "<!i>[red]Team PvP",
         "en-US": "<!i>[red]Team PvP"
@@ -54,6 +58,10 @@
     "GUI.settings.tag.item.lore": {
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Klicke hier, um [yellow]den Tag</color> [gem_purple]des Clans</color> zu [blue]ändern.</color><br><br><!i>[grey][yellow][ARROW]</color> Aktueller Tag: [yellow][tag]</color>",
         "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Click here to [blue]change</color> [yellow]the tag</color> [gem_purple]of the clan</color>.<br><br><!i>[grey][yellow][ARROW]</color> Current tag: [yellow][tag]</color>"
+    },
+    "GUI.settings.discord.item.lore": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Klicke hier, um [blurple]den Discord Link</color> [gem_purple]des Clans</color> zu [blue]ändern.</color><br><br><!i>[grey][yellow][ARROW]</color> Aktueller Discord Link: [blurple][discord]</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Click here to [blue]change</color> [blurple]the Discord link</color> [gem_purple]of the clan</color>.<br><br><!i>[grey][yellow][ARROW]</color> Current Discord link: [blurple][discord]</color>"
     },
     "GUI.settings.roles.item.name": {
         "de-DE": "<!i>[orange]Clan Rollen",
