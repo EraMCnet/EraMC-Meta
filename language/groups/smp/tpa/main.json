@@ -79,25 +79,13 @@
         "de-DE": "[grey]Du hast bereits eine [era_purple]TPA here</color> Anfrage an [era_purple][player]</color> gesendet!</color>",
         "en-US": "[grey]You've already sent a [era_purple]TPA here</color> request to [era_purple][player]!</color>"
     },
-    "TP.request.accept.error.no.requests": {
-        "de-DE": "[grey]Du hast keine [era_purple]Teleport-Anfragen</color>, die du annehmen könntest!</color>",
-        "en-US": "[grey]You have no [era_purple]teleport requests</color> to accept!</color>"
-    },
     "TP.request.accept.error.no.request": {
         "de-DE": "[grey]Du hast keine [era_purple]Teleport-Anfrage</color> von [era_purple][player]</color>, die du annehmen könntest!</color>",
         "en-US": "[grey]You have no [era_purple]teleport request</color> from [era_purple][player]</color> to accept!</color>"
     },
-    "TP.request.deny.error.no.requests": {
-        "de-DE": "[grey]Du hast keine [era_purple]Teleport-Anfragen</color>, die du ablehnen könntest!</color>",
-        "en-US": "[grey]You have no [era_purple]teleport requests</color> to deny!</color>"
-    },
     "TP.request.deny.error.no.request": {
         "de-DE": "[grey]Du hast keine [era_purple]Teleport-Anfrage</color> von [era_purple][player]</color>, die du ablehnen könntest!</color>",
         "en-US": "[grey]You have no [era_purple]teleport request</color> from [era_purple][player]</color> to deny!</color>"
-    },
-    "TP.request.cancel.error.no.requests": {
-        "de-DE": "[grey]Du hast keine [era_purple]Teleport-Anfragen</color>, die du abbrechen könntest!</color>",
-        "en-US": "[grey]You have no [era_purple]teleport requests</color> to cancel!</color>"
     },
     "TP.request.cancel.error.no.request": {
         "de-DE": "[grey]Du hast keine [era_purple]Teleport-Anfrage</color> an [era_purple][player]</color> gesendet, die du abbrechen könntest!</color>",
