@@ -27,10 +27,6 @@
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, ob du das [blue]Scoreboard</color> sehen möchtest.</color><br><br><!i>[grey][blue][ARROW]</color> Klicke um diese [blue]Einstellung</color> zu [green]aktivieren</color>!</color>",
         "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set whether you want to see the [blue]scoreboard</color>.<br><br><!i>[grey][blue][ARROW]</color> Click to [green]enable</color> this [blue]setting</color>!</color>"
     },
-    "private_messages": {
-        "de-DE": "Private Nachrichten",
-        "en-US": "Private messages"
-    },
     "private_messages.name": {
         "de-DE": "Private Nachrichten",
         "en-US": "Private messages"
@@ -250,6 +246,14 @@
     "value.all": {
         "de-DE": "<!i><b>[green][HEAVY_CHECK_MARK] Jeder</color></b>",
         "en-US": "<!i><b>[green][HEAVY_CHECK_MARK] Everyone</color></b>"
+    },
+    "OPTIONS.select.lore.enable": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Klicke um diese [blue]Option</color> für die [era_purple]Einstellung</color> [blue]\"[setting]\"</color> zu [green]aktivieren</color></color><br>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Click to [green]enable</color> this [blue]option</color> for the [era_purple]setting</color> [blue]\"[setting]\"</color>.</color><br>"
+    },
+    "OPTIONS.select.lore.disable": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Klicke um diese [blue]Option</color> für die [era_purple]Einstellung</color> [blue]\"[setting]\"</color> zu [red]deaktivieren</color></color><br>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Click to [red]disable</color> this [blue]option</color> for the [era_purple]setting</color> [blue]\"[setting]\"</color>.</color><br>"
     },
     "value.friends": {
         "de-DE": "<!i><b>[purple][HEART] Freunde</color></b>",
