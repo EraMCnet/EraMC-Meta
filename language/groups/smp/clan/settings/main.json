@@ -122,5 +122,9 @@
     "SETTING.discord.invalid": {
         "de-DE": "[grey]Der eingegebene [blue]Discord Link</color> [red]ist ungültig!</color> Bitte gib einen [green]gültigen Link ein</color> oder [red]'none', um den Discord Link zu entfernen.</color>",
         "en-US": "[grey]The entered [blue]Discord link</color> [red]is invalid!</color> Please enter a [green]valid link</color> or [red]'none' to remove the Discord link.</color>"
+    },
+    "SETTING.discord.blacklisted": {
+        "de-DE": "[grey]Dein Discord Link enthält ein [red]Verbotenes Wort!</color> Wenn du denkst, dass das ein [red]Fehler</color> ist, kontaktiere unseren Support ([era_purple]/discord</color>).</color>",
+        "en-US": "[grey]Your Discord link contains a [red]blacklisted word!</color> If you think this is a [red]mistake</color>, please contact our support ([era_purple]/discord</color>).</color>"
     }
 }
