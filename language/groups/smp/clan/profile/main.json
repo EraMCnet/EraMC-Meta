@@ -20,8 +20,8 @@
         "en-US": "<!i>[green]Join"
     },
     "CLAN.profile.item.discord.name": {
-        "de-DE": "<!i>[blue]Discord",
-        "en-US": "<!i>[blue]Discord"
+        "de-DE": "<!i>[blue]Clan Discord",
+        "en-US": "<!i>[blue]Clan Discord"
     },
     "CLAN.profile.member.lore": {
         "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Mitglied seit dem [green][join_date]</color></color><br><!i>[grey][green][ROUNDDOT]</color> Rollen: [green][roles]</color> (zeigt [yellow][roles_displayed]</color> von [green][all_roles_size]</color>)</color><br>",
