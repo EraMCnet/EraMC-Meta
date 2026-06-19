@@ -114,5 +114,13 @@
     "SETTING.tag.chat.prompt": {
         "de-DE": "<!i>[blue]Gib den neuen Tag des Clans ein",
         "en-US": "<!i>[blue]Enter the new tag of the clan"
+    },
+    "SETTING.discord.chat.prompt": {
+        "de-DE": "<!i>[blue]Gib den neuen Discord Link des Clans ein",
+        "en-US": "<!i>[blue]Enter the new Discord link of the clan"
+    },
+    "SETTING.discord.invalid": {
+        "de-DE": "[grey]Der eingegebene [blue]Discord Link</color> [red]ist ungültig!</color> Bitte gib einen [green]gültigen Link ein</color> oder [red]'none', um den Discord Link zu entfernen.</color>",
+        "en-US": "[grey]The entered [blue]Discord link</color> [red]is invalid!</color> Please enter a [green]valid link</color> or [red]'none' to remove the Discord link.</color>"
     }
 }
