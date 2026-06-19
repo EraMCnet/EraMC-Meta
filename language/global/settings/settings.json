@@ -260,11 +260,11 @@
         "en-US": "<!i><b>[purple][HEART] Friends</color></b>"
     },
     "value.clan": {
-        "de-DE": "<!i><b>[blue][SWORD] Clan Kameraden</color></b>",
+        "de-DE": "<!i><b>[blue][SWORD] Clan Mitglied</color></b>",
         "en-US": "<!i><b>[blue][SWORD] Clan mates</color></b>"
     },
     "value.guild": {
-        "de-DE": "<!i><b>[yellow][STAR] Gilden Kameraden</color></b>",
+        "de-DE": "<!i><b>[yellow][STAR] Gilden Mitglied</color></b>",
         "en-US": "<!i><b>[yellow][STAR] Guild mates</color></b>"
     },
     "value.none": {
