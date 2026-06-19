@@ -28,8 +28,8 @@
         "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Member since [green][join_date]</color></color><br><!i>[grey][green][ROUNDDOT]</color> Roles: [green][roles]</color> (showing [yellow][roles_displayed]</color> of [green][all_roles_size]</color>)</color><br>"
     },
     "CLAN.profile.discord.lore": {
-        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Klicke, um eine [blurple]Einladung auf den Clan Discord</color> zu erhalten.<br>",
-        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Click to get a [blurple]invite to the clan Discord</color>.<br>"
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Nutze den [blurple]Discord Link unten</color> um dem [blurple]Clan Discord</color> [green]beizutreten.</color><br>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Use the [blurple]Discord link below</color> to [green]join</color> the [blurple]Clan Discord</color>.<br>"
     },
     "CLAN.profile.member.lore.owner": {
         "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Mitglied seit dem [green][join_date]</color></color><br><!i>[grey][green][ROUNDDOT]</color> [red]Clan Besitzer</color></color><br>",
