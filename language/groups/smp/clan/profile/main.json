@@ -19,9 +19,17 @@
         "de-DE": "<!i>[green]Beitreten",
         "en-US": "<!i>[green]Join"
     },
+    "CLAN.profile.item.discord.name": {
+        "de-DE": "<!i>[blue]Discord",
+        "en-US": "<!i>[blue]Discord"
+    },
     "CLAN.profile.member.lore": {
         "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Mitglied seit dem [green][join_date]</color></color><br><!i>[grey][green][ROUNDDOT]</color> Rollen: [green][roles]</color> (zeigt [yellow][roles_displayed]</color> von [green][all_roles_size]</color>)</color><br>",
         "en-US": "<br><!i>[grey][green][ROUNDDOT]</color> Member since [green][join_date]</color></color><br><!i>[grey][green][ROUNDDOT]</color> Roles: [green][roles]</color> (showing [yellow][roles_displayed]</color> of [green][all_roles_size]</color>)</color><br>"
+    },
+    "CLAN.profile.discord.lore": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Klicke, um eine [blurple]Einladung auf den Clan Discord</color> zu erhalten.<br><br><i>[blurple][link]</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Click to get a [blurple]invite to the clan Discord</color>.<br><br><i>[blurple][link]</color>"
     },
     "CLAN.profile.member.lore.owner": {
         "de-DE": "<br><!i>[grey][green][ROUNDDOT]</color> Mitglied seit dem [green][join_date]</color></color><br><!i>[grey][green][ROUNDDOT]</color> [red]Clan Besitzer</color></color><br>",
