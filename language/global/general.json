@@ -144,7 +144,7 @@
         "en-US": "in less than a minute"
     },
     "DATE.relative.minute.ago": {
-        "de-DE": "vor einer Minuten",
+        "de-DE": "vor einer Minute",
         "en-US": "one minute ago"
     },
     "DATE.relative.minute.in": {
@@ -247,11 +247,19 @@
         "de-DE": "[amount] Sekunden",
         "en-US": "[amount] seconds"
     },
+    "DATE.relative.seconds": {
+        "de-DE": "[amount] Sekunden",
+        "en-US": "[amount] seconds"
+    },
     "DATE.relative.minute.less": {
         "de-DE": "[amount] Minute",
         "en-US": "[amount] minute"
     },
     "DATE.relative.minute": {
+        "de-DE": "[amount] Minute",
+        "en-US": "[amount] minute"
+    },
+    "DATE.relative.minutes": {
         "de-DE": "[amount] Minuten",
         "en-US": "[amount] minutes"
     },
@@ -260,6 +268,10 @@
         "en-US": "[amount] hour"
     },
     "DATE.relative.hour": {
+        "de-DE": "[amount] Stunde",
+        "en-US": "[amount] hour"
+    },
+    "DATE.relative.hours": {
         "de-DE": "[amount] Stunden",
         "en-US": "[amount] hours"
     },
@@ -268,6 +280,10 @@
         "en-US": "[amount] day"
     },
     "DATE.relative.day": {
+        "de-DE": "[amount] Tag",
+        "en-US": "[amount] day"
+    },
+    "DATE.relative.days": {
         "de-DE": "[amount] Tage",
         "en-US": "[amount] days"
     },
@@ -276,6 +292,10 @@
         "en-US": "[amount] week"
     },
     "DATE.relative.week": {
+        "de-DE": "[amount] Woche",
+        "en-US": "[amount] week"
+    },
+    "DATE.relative.weeks": {
         "de-DE": "[amount] Wochen",
         "en-US": "[amount] weeks"
     },
@@ -284,6 +304,10 @@
         "en-US": "[amount] month"
     },
     "DATE.relative.month": {
+        "de-DE": "[amount] Monat",
+        "en-US": "[amount] month"
+    },
+    "DATE.relative.months": {
         "de-DE": "[amount] Monate",
         "en-US": "[amount] months"
     },
@@ -292,6 +316,10 @@
         "en-US": "[amount] year"
     },
     "DATE.relative.year": {
+        "de-DE": "[amount] Jahr",
+        "en-US": "[amount] year"
+    },
+    "DATE.relative.years": {
         "de-DE": "[amount] Jahre",
         "en-US": "[amount] years"
     },
