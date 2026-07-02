@@ -14,5 +14,9 @@
     "ITEM.lore": {
         "de-DE": "<br><!i>[grey][orange][ROUNDDOT]</color> Dieses [orange]Item</color> ist aktuell [yellow][worth]</color> Wert!</color><br>",
         "en-US": "<br><!i>[grey][orange][ROUNDDOT]</color> This [orange]item</color> is currently worth [yellow][worth]</color>!</color><br>"
+    },
+    "GUI.title": {
+        "de-DE": "<!i>Item Preise",
+        "en-US": "<!i>Item Prices"
     }
 }
