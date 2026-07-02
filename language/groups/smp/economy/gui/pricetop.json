@@ -7,7 +7,7 @@
         "de-DE": "<i:false><br><i:false>[orange]> Höchste zuerst<br><i:false>[grey]  Niedrigste zuerst<br><br><i:false>[orange]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
         "en-US": "<i:false><br><i:false>[orange]> Most first<br><i:false>[grey]  Lowest first<br><br><i:false>[orange]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     },
-    "GUI.nav.item.sort.Lowest": {
+    "GUI.nav.item.sort.least": {
         "de-DE": "<i:false><br><i:false>[grey]  Höchste zuerst<br><i:false>[orange]> Niedrigste zuerst<br><br><i:false>[orange]ᴢᴜᴍ ꜱᴏʀᴛɪᴇʀᴇɴ ᴋʟɪᴄᴋᴇɴ",
         "en-US": "<i:false><br><i:false>[grey]  Most first<br><i:false>[orange]> Lowest first<br><br><i:false>[orange]ᴄʟɪᴄᴋ ᴛᴏ ꜱᴏʀᴛ"
     },
