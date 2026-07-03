@@ -1,10 +1,10 @@
 {
     "ITEM.lore": {
-        "de-DE": "<!i>[grey]Baut [purple]9 Blöcke</color> in einem [purple]3x3 Bereich</color> auf einem Mal ab.</color><br>",
-        "en-US": "<!i>[grey]Mines [purple]9 blocks</color> in a [purple]3x3 area</color> at once.</color><br>"
+        "de-DE": "<!i>[grey]Baut [purple]9 Blöcke</color> in einem [purple]3x3 Bereich</color> auf einem Mal ab.</color><br><br><!i>[grey][purple][ROUNDDOT]</color> Haltbarkeit: [purple][durability] Blöcke</color><br>",
+        "en-US": "<!i>[grey]Mines [purple]9 blocks</color> in a [purple]3x3 area</color> at once.</color><br><br><!i>[grey][purple][ROUNDDOT]</color> Durability: [purple][durability] blocks</color><br>"
     },
     "ITEM.name": {
-        "de-DE": "<!i><b>[purple_gradient]Bohrer</gradient>",
-        "en-US": "<!i><b>[purple_gradient]Drill</gradient>"
+        "de-DE": "<!i>[purple_gradient]Bohrer</gradient>",
+        "en-US": "<!i>[purple_gradient]Drill</gradient>"
     }
 }
