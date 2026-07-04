@@ -2,5 +2,13 @@
     "GEN.lore": {
         "de-DE": "<!i>[grey]Generiert [blue]Items</color> [green]automatisch</color></color><br><br><!i>[grey]Klicke mit diesem [blue]Generator</color> auf einen anderen, um sie zu [orange]Stacken</color>!</color>",
         "en-US": "<!i>[grey]Generates [blue]items</color> [green]automatically</color></color><br><br><!i>[grey]Click this [blue]generator</color> on another to [orange]stack</color> them!</color>"
+    },
+    "GEN.gui.collect.name": {
+        "de-DE": "<!i>[yellow]Generierte Items verkaufen</color>",
+        "en-US": "<!i>[yellow]Sell generated items</color>"
+    },
+    "GEN.gui.collect.lore": {
+        "de-DE": "<!i>[grey]Klicke hier, um alle [blue]generierten Items</color> [green]zu verkaufen</color></color><br><br><!i>[purple][ARROW]</color> [grey]Aktuell generierte Items: [yellow][stored_amount]</color></color><br><!i>[purple][ARROW]</color> [grey]Verkaufspreis: [yellow][sell_price]</color></color><br><!i>[purple][ARROW]</color> [grey]Gefüllt zu: [yellow][filled]</color> von [pastel_red][fill_cap]</color></color>",
+        "en-US": "<!i>[grey]Click here to [blue]sell all generated items</color> [green]automatically</color></color><br><br><!i>[purple][ARROW]</color> [grey]Currently generated items: [yellow][stored_amount]</color></color><br><!i>[purple][ARROW]</color> [grey]Sell price: [yellow][sell_price]</color></color><br><!i>[purple][ARROW]</color> [grey]Filled to: [yellow][filled]</color> of [pastel_red][fill_cap]</color></color>"
     }
 }
