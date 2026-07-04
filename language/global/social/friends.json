@@ -60,8 +60,8 @@
         "en-US": "[grey]Your friend [era_purple][player]</color> is now [red]offline!</color></color>"
     },
     "GENERAL.friend.switch.server": {
-        "de-DE": "[grey]Dein Freund [era_purple][player]</color> spielt jetzt auf [era_purple][server]!</color></color>",
-        "en-US": "[grey]Your friend [era_purple][player]</color> is now playing on [era_purple][server]!</color></color>"
+        "de-DE": "[grey]Dein Freund [era_purple][player]</color> spielt jetzt [era_purple][server]!</color></color>",
+        "en-US": "[grey]Your friend [era_purple][player]</color> is now playing [era_purple][server]!</color></color>"
     },
     "ERROR.friend.jump.disabled": {
         "de-DE": "[grey][era_purple][player]</color> hat das [era_purple]Nachspringen</color> zu sich [red]deaktiviert!</color></color>",
