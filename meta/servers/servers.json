@@ -2,6 +2,8 @@
     "GROUP.lobby": {
         "de-DE": "Lobby",
         "en-US": "Lobby",
+        "de-DE-playing": "[player] ist aktuell in der Lobby.",
+        "en-US-playing": "[player] is currently in the lobby.",
         "desc-de-DE": "Die Lobby ist der zentrale Treffpunkt für alle Spieler, bevor sie auf die verschiedenen Server zugreifen können.",
         "desc-en-US": "The lobby is the central meeting point for all players before they can access the different servers.",
         "internal": "lobby"
@@ -9,13 +11,17 @@
     "GROUP.smp": {
         "de-DE": "Economy SMP",
         "en-US": "Economy SMP",
+        "de-DE-playing": "[player] spielt aktuell auf dem Economy SMP.",
+        "en-US-playing": "[player] is currently playing on the Economy SMP.",
         "desc-de-DE": "Der Economy SMP ist ein Survival Multiplayer Server, auf dem die Spieler eine Wirtschaft aufbauen und miteinander handeln können.",
         "desc-en-US": "The Economy SMP is a Survival Multiplayer server where players can build an economy and trade with each other.",
         "internal": "smp"
     },
     "GROUP.wheatfarm": {
-        "de-DE": "WheatFarm",
+        "de-DE": "Wheat Farm",
         "en-US": "Wheat Farm",
+        "de-DE-playing": "[player] spielt aktuell Wheat Farm.",
+        "en-US-playing": "[player] is currently playing Wheat Farm.",
         "desc-de-DE": "WheatFarm ist ein Spielmodus bei jedem jeder Spieler Weizen farmen kann. Es gibt verschiedene Möglichkeiten, Weizen zu farmen, wie z.B. durch einfaches Farmen oder durch Generatoren. Es gibt auch verschiedene Upgrades, die die Effizienz des Farmens verbessern können.",
         "desc-en-US": "Wheat Farm is a game mode where every player can farm wheat. There are different ways to farm wheat, such as simple farming or through generators. There are also various upgrades that can improve the efficiency of farming.",
         "internal": "wheatfarm"
