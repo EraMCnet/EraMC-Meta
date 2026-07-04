@@ -1,0 +1,10 @@
+{
+    "ITEM.lore": {
+        "de-DE": "<!i>[grey]Baut [green]ganze Bäume</color> auf einem Mal ab.</color><br><br><!i>[grey][green][ROUNDDOT]</color> Haltbarkeit: [green][durability] Blöcke</color><br>",
+        "en-US": "<!i>[grey]Chops down [green]entire trees</color> at once.</color><br><br><!i>[grey][green][ROUNDDOT]</color> Durability: [green][durability] blocks</color><br>"
+    },
+    "ITEM.name": {
+        "de-DE": "<!i>[green_gradient]Holzfäller</gradient>",
+        "en-US": "<!i>[green_gradient]Timber</gradient>"
+    }
+}
