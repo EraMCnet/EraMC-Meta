@@ -3,6 +3,10 @@
         "de-DE": "Teammitglied",
         "en-US": "Staff"
     },
+    "BADGE.v1-0.name": {
+        "de-DE": "v1.0",
+        "en-US": "v1.0"
+    },
     "BADGE.staff.description": {
         "de-DE": "Jemand der aktuell zum EraMC Team gehört.",
         "en-US": "Someone who is currently part of the EraMC staff team."
@@ -10,6 +14,14 @@
     "BADGE.staff.description.colorized": {
         "de-DE": "<br><!i>[grey][era_purple][ARROW]</color> Jemand der aktuell zum [eramc_gradient]EraMC Team</gradient> gehört!</color><br>",
         "en-US": "<br><!i>[grey][era_purple][ARROW]</color> Someone who is currently part of the [eramc_gradient]EraMC staff team</gradient>!</color><br>"
+    },
+    "BADGE.v1-0.description": {
+        "de-DE": "Hat am Playtest vor der offiziellen Veröffentlichung von EraMC teilgenommen.",
+        "en-US": "Participated in the playtest before the official release of EraMC."
+    },
+    "BADGE.v1-0.description.colorized": {
+        "de-DE": "<br><!i>[grey][era_purple][ARROW]</color> Hat am [yellow]Playtest</color> vor der [mint_green_dark]offiziellen</color> [purple_gradient]Veröffentlichung</gradient> von [eramc_gradient]EraMC</gradient> teilgenommen!</color><br>",
+        "en-US": "<br><!i>[grey][era_purple][ARROW]</color> Participated in the [yellow]playtest</color> before the [mint_green_dark]official</color> [purple_gradient]release</gradient> of [eramc_gradient]EraMC</gradient>!</color><br>"
     },
     "BADGE.alumni.name": {
         "de-DE": "Ehemaliges Teammitglied",
