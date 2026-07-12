@@ -32,8 +32,8 @@
         "de-DE": "[grey]Dieser [gem_purple]Gutschein</color> kann nur auf der Servergruppe [darker_red][servergroup]</color> verwendet werden!</color>"
     },
     "SUCCESS.redeem": {
-        "en-US": "[grey][green]Successfully</color> redeemed the [gem_purple]voucher</color> with code [yellow][code]</color>!</color>",
-        "de-DE": "[grey]Du hast den [gem_purple]Gutschein</color> mit dem Code [yellow][code]</color> [green]erfolgreich</color> eingelöst!</color>"
+        "en-US": "[grey][green]Successfully</color> redeemed the [gem_purple]voucher</color> with code [yellow][code]</color>! You can find it in your [gem_purple]Voucher Inventory</color> ([purple]/voucher</color>)</color>",
+        "de-DE": "[grey]Du hast den [gem_purple]Gutschein</color> mit dem Code [yellow][code]</color> [green]erfolgreich</color> eingelöst! Du findest ihn in deinem [gem_purple]Gutschein-Inventar</color> ([purple]/voucher</color>)</color>"
     },
     "SUCCESS.redeem.inventory": {
         "en-US": "[grey][green]Successfully</color> redeemed the [gem_purple]voucher</color> with code [yellow][code]</color> and received the following items: [green][items]</color>!",
