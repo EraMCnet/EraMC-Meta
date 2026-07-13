@@ -54,5 +54,9 @@
     "SHOP.gui.shops.view": {
         "de-DE": "<!i>[yellow]ʀᴇᴄʜᴛѕᴋʟɪᴄᴋ ᴢᴜᴍ ᴀɴѕᴄʜᴀᴜᴇɴ</color>",
         "en-US": "<!i>[yellow]ʀɪɢʜᴛᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ</color>"
+    },
+    "SHOP.gui.shops.lore-footer": {
+        "de-DE": "[buy]        [view]",
+        "en-US": "[buy]        [view]"
     }
 }
