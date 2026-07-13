@@ -48,11 +48,11 @@
         "en-US": "<br><!i>[green][ROUNDDOT]</color> [grey]Buy Price:</color> [green][buyprice]</color> [yellow][currency]</color><br>"
     },
     "SHOP.gui.shops.buy": {
-        "de-DE": "<!i>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ ᴋᴀᴜꜰᴇɴ</color>",
-        "en-US": "<!i>[grey]ᴄʟɪᴄᴋ ᴛᴏ ʙᴜʏ</color>"
+        "de-DE": "<!i>[green]ʟɪɴᴋѕᴋʟɪᴄᴋ ᴢᴜᴍ ᴋᴀᴜꜰᴇɴ</color>",
+        "en-US": "<!i>[green]ʟᴇꜰᴛᴄʟɪᴄᴋ ᴛᴏ ʙᴜʏ</color>"
     },
     "SHOP.gui.shops.view": {
-        "de-DE": "<!i>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ ᴀɴѕᴄʜᴀᴜᴇɴ</color>",
-        "en-US": "<!i>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ</color>"
+        "de-DE": "<!i>[yellow]ʀᴇᴄʜᴛѕᴋʟɪᴄᴋ ᴢᴜᴍ ᴀɴѕᴄʜᴀᴜᴇɴ</color>",
+        "en-US": "<!i>[yellow]ʀɪɢʜᴛᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ</color>"
     }
 }
