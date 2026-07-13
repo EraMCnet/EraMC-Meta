@@ -1,0 +1,14 @@
+{
+    "shop.category.pvp-essentials.name": {
+        "de-DE": "<!i>[darker_red]PvP Essentials",
+        "en-US": "<!i>[darker_red]PvP Essentials"
+    },
+    "shop.category.kits.name": {
+        "de-DE": "<!i>[purple]Kits",
+        "en-US": "<!i>[purple]Kits"
+    },
+    "shop.category.special.name": {
+        "de-DE": "<!i>[gold_gradient]Spezial Items",
+        "en-US": "<!i>[gold_gradient]Special Items"
+    }
+}
