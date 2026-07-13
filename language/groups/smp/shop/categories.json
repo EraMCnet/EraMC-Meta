@@ -10,5 +10,9 @@
     "shop.category.special.name": {
         "de-DE": "<!i>[gold_gradient]Spezial Items",
         "en-US": "<!i>[gold_gradient]Special Items"
+    },
+    "shop.category.items.view": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Klicke hier, um die [blue]Items</color> dieser [blue]Kategorie</color> zu sehen!</color><br>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Click here to view the [blue]items</color> of this [blue]category</color>!<br>"
     }
 }
