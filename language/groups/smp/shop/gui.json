@@ -44,8 +44,8 @@
         "en-US": "<i:false>[era_purple]ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ"
     },
     "SHOP.gui.shop.view.item.info": {
-        "de-DE": "<br><!i>[green][ROUNDDOT]</color> [grey]Kaufpreis:</color> [green][buyprice]</color><br>",
-        "en-US": "<br><!i>[green][ROUNDDOT]</color> [grey]Buy Price:</color> [green][buyprice]</color><br>"
+        "de-DE": "<br><!i>[green][ROUNDDOT]</color> [grey]Kaufpreis:</color> [green][buyprice]</color> [yellow][currency]</color><br>",
+        "en-US": "<br><!i>[green][ROUNDDOT]</color> [grey]Buy Price:</color> [green][buyprice]</color> [yellow][currency]</color><br>"
     },
     "SHOP.gui.shops.buy": {
         "de-DE": "<!i>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ ᴋᴀᴜꜰᴇɴ</color>",
