@@ -1,0 +1,10 @@
+{
+    "ITEM.lore": {
+        "de-DE": "<!i>[grey]Verkauft den [gold_gradient]gesamten Inhalt</gradient> einer [green]Kiste</color> direkt!</color><br><br><!i>[grey][yellow][ROUNDDOT]</color> Haltbarkeit: [yellow][durability] Verkäufe</color><br>",
+        "en-US": "<!i>[grey]Sells the [gold_gradient]entire contents</gradient> of a [green]chest</color> instantly!</color><br><br><!i>[grey][yellow][ROUNDDOT]</color> Durability: [yellow][durability] sales</color><br>"
+    },
+    "ITEM.name": {
+        "de-DE": "<!i>[gold_gradient]Verkaufs-Axt</gradient>",
+        "en-US": "<!i>[gold_gradient]Sellaxe</gradient>"
+    }
+}
