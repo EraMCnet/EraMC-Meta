@@ -418,5 +418,17 @@
     "CHATINPUT.cancelled": {
         "de-DE": "[grey]Du hast den Vorgang [red]abgebrochen!</color>",
         "en-US": "[grey]You have [red]cancelled</color> the process!</color>"
+    },
+    "CURRENCY.smp-money": {
+        "de-DE": "Dollar",
+        "en-US": "Dollar"
+    },
+    "CURRENCY.smp-gems": {
+        "de-DE": "Gems",
+        "en-US": "Gems"
+    },
+    "CURRENCY.shards": {
+        "de-DE": "Shards",
+        "en-US": "Shards"
     }
 }
