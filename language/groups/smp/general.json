@@ -30,5 +30,9 @@
     "GENERAL.chat.msg.death.player": {
         "de-DE": "[grey][red]💀</color> [era_purple][player]</color> ist [red]gestorben</color> während er mit [era_purple][attacker]</color> gekämpft hat!</color>",
         "en-US": "[grey][red]💀</color> [era_purple][player]</color> [red]died</color> while fighting [era_purple][attacker]</color>!</color>"
+    },
+    "ERROR.view-ec.disabled": {
+        "de-DE": "[grey][era_purple][player]</color> hat das Ansehen von seiner [purple]Enderchest</color> [red]deaktiviert!</color></color>",
+        "en-US": "[grey][era_purple][player]</color> has [red]disabled</color> viewing their [purple]Enderchest</color>!</color>"
     }
 }
