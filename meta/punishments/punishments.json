@@ -492,38 +492,6 @@
             }
         ]
     },
-    "SCAMMING": {
-        "de-DE": "Scamming",
-        "en-US": "Scamming",
-        "permission": "eramc.punish.offend.scamming",
-        "durations": [
-            {
-                "weight": 1,
-                "duration": "6h",
-                "type": "ban"
-            },
-            {
-                "weight": 2,
-                "duration": "1d",
-                "type": "ban"
-            },
-            {
-                "weight": 3,
-                "duration": "1w",
-                "type": "ban"
-            },
-            {
-                "weight": 4,
-                "duration": "1mo",
-                "type": "ban"
-            },
-            {
-                "weight": 5,
-                "duration": "permanent",
-                "type": "ban"
-            }
-        ]
-    },
     "CROSS_SERVER_TRADING": {
         "de-DE": "Cross-Server Trading",
         "en-US": "Cross-Server Trading",
