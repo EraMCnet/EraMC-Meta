@@ -12,8 +12,8 @@
         "en-US": "[grey]You [red]don't</color> have enough [darker_red][currency]</color> to do that!</color>"
     },
     "SHOP.gui.item.view.buy.success": {
-        "de-DE": "[grey]Du hast [green][amount] [item]</color> für [green]$[money]</color> gekauft!</color>",
-        "en-US": "[grey]You bought [green][amount] [item]</color> for [green]$[money]!</color></color>"
+        "de-DE": "[grey]Du hast [mint_green_light][amount]</color> [mint_green_dark][item]</color> für [green][money]</color> [purple][currency]</color> gekauft!</color>",
+        "en-US": "[grey]You bought [mint_green_light][amount]</color> [mint_green_dark][item]</color> for [green][money] [purple][currency]</color>!</color></color>"
     },
     "SHOP.gui.item.view.confirm": {
         "de-DE": "<i:false>[green]<b>BESTÄTIGEN",

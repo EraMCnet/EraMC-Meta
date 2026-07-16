@@ -7,10 +7,6 @@
         "de-DE": "[grey]Du hast [red]keine</color> Items verkauft.</color>",
         "en-US": "[grey]You sold [red]no</color> items.</color>"
     },
-    "ITEM.worth": {
-        "de-DE": "<!i>[grey][green][ROUNDDOT]</color> Wert: [green]$[money]</color></color>",
-        "en-US": "<!i>[grey][green][ROUNDDOT]</color> Worth: [green]$[money]</color></color>"
-    },
     "COMMAND.worth": {
         "de-DE": "[grey]Der Wert von [green][item]</color> beträgt [green]$[money]</color>.",
         "en-US": "[grey]The worth of [green][item]</color> is [green]$[money]</color>."
