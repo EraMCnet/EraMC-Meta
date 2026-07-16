@@ -21,7 +21,7 @@
     },
     "PAY.success": {
         "de-DE": "[grey]Du hast [era_purple][player]</color> [green]erfolgreich</color> [yellow]$[amount]</color> überwiesen!</color>",
-        "en-US": "[grey]You have [green]sucessfully</color> payed [era_purple][player]</color> [yellow]$[amount]!</color></color>"
+        "en-US": "[grey]You have [green]successfully</color> payed [era_purple][player]</color> [yellow]$[amount]!</color></color>"
     },
     "PAY.success.other": {
         "de-DE": "[grey][era_purple][player]</color> hat dir [yellow]$[amount]</color> überwiesen!</color>",
