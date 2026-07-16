@@ -199,6 +199,10 @@
         "de-DE": "[grey]Du musst der Clan [red]Owner</color> sein um das zu tun!</color>",
         "en-US": "[grey]You must be the clan [red]owner</color> to do that!</color>"
     },
+    "CLAN.command.sethome.error.location.unsafe": {
+        "de-DE": "[grey]Die aktuelle Position ist [red]nicht sicher</color> für das Clan Home!</color>",
+        "en-US": "[grey]The current position is [red]not safe</color> for the clan home!</color>"
+    },
     "CLAN.command.delhome.success": {
         "de-DE": "[grey]Du hast das [era_purple]Clan Home</color> erfolgreich entfernt!</color>",
         "en-US": "[grey]You have [green]successfully</color> removed the [era_purple]clan home</color>!</color>"
