@@ -60,7 +60,7 @@
         "en-US": "[grey]You [red]don't</color> have [red]permission</color> to use [era_purple]permanent</color> punishments!</color>"
     },
     "ERROR.command.offend.perms.punishment-type": {
-        "de-DE": "[grey]Du [red]hast</color> keine [red]Berechtigung</color> um diesen [red]Bestrafungstypen</color> zu verwenden!</color></color>",
+        "de-DE": "[grey]Du [red]hast</color> keine [red]Berechtigung</color> um diesen [red]Bestrafungstypen</color> zu verwenden!</color>",
         "en-US": "[grey]You [red]don't</color> have [red]permission</color> to use this [red]punishment type!</color></color>"
     },
     "ERROR.command.offend.perms.reason": {
