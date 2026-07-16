@@ -1,10 +1,14 @@
 {
     "WORTH.command.success": {
-        "de-DE": "[grey][mint_green_dark][amount]x\u003c/color\u003e [mint_green_dark][item]\u003c/color\u003e ist [yellow]$[money]\u003c/color\u003e wert!\u003c/color\u003e",
-        "en-US": "[grey][mint_green_dark][amount]x\u003c/color\u003e [mint_green_dark][item]\u003c/color\u003e is worth [yellow]$[money]!\u003c/color\u003e\u003c/color\u003e"
+        "de-DE": "[grey][mint_green_dark][amount]x</color> [mint_green_dark][item]</color> ist [yellow]$[money]</color> wert!</color>",
+        "en-US": "[grey][mint_green_dark][amount]x</color> [mint_green_dark][item]</color> is worth [yellow]$[money]!</color></color>"
     },
     "WORTH.item.lore.line": {
-        "de-DE": "\u003c!i\u003e[grey]Itemwert:\u003c/color\u003e [mint_green_dark]$[money]\u003c/color\u003e",
-        "en-US": "\u003c!i\u003e[grey]Worth:\u003c/color\u003e [mint_green_dark]$[money]\u003c/color\u003e"
+        "de-DE": "<!i>[grey]Itemwert:</color> [mint_green_dark]$[money]</color>",
+        "en-US": "<!i>[grey]Worth:</color> [mint_green_dark]$[money]</color>"
+    },
+    "WORTH.item.lore.line.multiple": {
+        "de-DE": "<!i>[grey]Itemwert:</color> [mint_green_dark]$[money]</color> [grey]([yellow]x[amount]:</color> [mint_green_dark]$[money-amount]</color>[grey])</color>",
+        "en-US": "<!i>[grey]Worth:</color> [mint_green_dark]$[money]</color> [grey]([yellow]x[amount]:</color> [mint_green_dark]$[money-amount]</color>[grey])</color>"
     }
 }
