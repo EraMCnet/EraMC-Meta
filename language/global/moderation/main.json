@@ -36,7 +36,7 @@
         "en-US": "[grey]The duration [era_purple][duration]</color> is [red]not a valid duration!</color></color>"
     },
     "ERROR.command.offend.highest-reached": {
-        "de-DE": "[grey]Du [red]kannst</color> den Spieler [era_purple][player]</color> nicht weiter bestrafen, da der Spieler bereits eine [yellow]höhere</color> oder [darker_red]die höchste</color> [red]Strafe</color> hat!</color></color>",
+        "de-DE": "[grey]Du [red]kannst</color> den Spieler [era_purple][player]</color> nicht weiter bestrafen, da der Spieler bereits eine [yellow]höhere</color> oder [darker_red]die höchste</color> [red]Strafe</color> hat!</color>",
         "en-US": "[grey]You [red]can't</color> punish [era_purple][player]</color> any further, because the player already has a [yellow]higher</color> or [darker_red]the highest</color> [red]punishment.</color></color>"
     },
     "ERROR.command.offend.perms.custom-duration": {
@@ -48,7 +48,7 @@
         "en-US": "[grey]You [red]don't</color> have [red]permission</color> to use [era_purple]custom</color> reasons!</color>"
     },
     "ERROR.command.offend.perms.further-action": {
-        "de-DE": "[grey]Es sieht so aus als ob du [red]keine weiteren moderativen Aktionen</color> auf [era_purple]diesem Spieler</color> durchführen kannst! Bitte frage einen [yellow]höheren Staff Member</color> um [era_purple]weitere Maßnahmen gegen diesen Spieler</color> zu ergreifen!</color></color>",
+        "de-DE": "[grey]Es sieht so aus als ob du [red]keine weiteren moderativen Aktionen</color> auf [era_purple]diesem Spieler</color> durchführen kannst! Bitte frage einen [yellow]höheren Staff Member</color> um [era_purple]weitere Maßnahmen gegen diesen Spieler</color> zu ergreifen!</color>",
         "en-US": "[grey]It seems like you [red]can't take further moderative action</color> on [era_purple]this player!</color> Please ask a [yellow]higher ranked staff member</color> to [era_purple]further offend this player!</color></color>"
     },
     "ERROR.command.offend.perms.hierarchy": {
