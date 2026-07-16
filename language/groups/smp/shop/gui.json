@@ -24,8 +24,8 @@
         "en-US": "<!i>[grey]Buy [green][amount]</color> for [green]$[money]</color></color>"
     },
     "SHOP.gui.item.view.showcase.lore": {
-        "de-DE": "<br><!i>[green][ROUNDDOT]</color> [grey]Menge:</color> [green][amount]</color><br><!i>[green][ROUNDDOT]</color> [grey]Preis:</color> [green]$[price]</color><br><!i>[green][ROUNDDOT]</color> [grey]Dein Geld:</color> [green]$[money]</color><br>",
-        "en-US": "<br><!i>[green][ROUNDDOT]</color> [grey]Amount:</color> [green][amount]</color><br><!i>[green][ROUNDDOT]</color> [grey]Price:</color> [green]$[price]</color><br><!i>[green][ROUNDDOT]</color> [grey]Your Money:</color> [green]$[money]</color><br>"
+        "de-DE": "<br><!i>[green][ROUNDDOT]</color> [grey]Menge:</color> [green][amount]</color><br><!i>[green][ROUNDDOT]</color> [grey]Preis:</color> [yellow][price]</color> [purple][currency]</color><br>",
+        "en-US": "<br><!i>[green][ROUNDDOT]</color> [grey]Amount:</color> [green][amount]</color><br><!i>[green][ROUNDDOT]</color> [grey]Price:</color> [yellow][price]</color> [purple][currency]</color><br>"
     },
     "SHOP.gui.page.back": {
         "de-DE": "<i:false>[red]ᴢᴜʀüᴄᴋ",
