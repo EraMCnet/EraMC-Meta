@@ -68,7 +68,7 @@
         "en-US": "<br><!i>[grey][era_purple][ROUNDDOT]</color> Click to see the statistics of clan [era_purple][name]</color>.<br>"
     },
     "CLAN.profile.discord.join": {
-        "de-DE": "[grey]Trete dem [blurple]Clan Discord</color> mit folgendem [era_purple]Link</color> bei: [blurple]<click:open_url:'[link]'><hover:show_text:'[era_purple]Klicke hier, um den Link in deinem Browser zu öffnen!</color>'>[link]</hover></click></color> (klicke zum öffnen)</color>",
-        "en-US": "[grey]Join the [blurple]Clan Discord</color> with the following [era_purple]link</color>: [blurple]<click:open_url:'[link]'><hover:show_text:'[era_purple]Click here to open the link in your browser!</color>'>[link]</hover></click></color> (click to open)</color>"
+        "de-DE": "[grey]Trete dem [blurple]Clan Discord</color> mit folgendem [era_purple]Link</color> bei: [blurple][link]</color> (klicke zum öffnen)</color>",
+        "en-US": "[grey]Join the [blurple]Clan Discord</color> with the following [era_purple]link</color>: [blurple][link]</color> (click to open)</color>"
     }
 }
