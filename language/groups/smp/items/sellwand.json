@@ -1,7 +1,7 @@
 {
     "ITEM.lore": {
-        "de-DE": "<!i>[grey]Verkauft alle [blue]Generatoren</color> in einem Radius von [orange]10 Blöcken</color> um dich rum!</color><br><br><!i>[grey][blue][ROUNDDOT]</color> Haltbarkeit: [blue][durability] Blöcke</color><br>",
-        "en-US": "<!i>[grey]Sells all [blue]generators</color> in a radius of [orange]10 blocks</color> around you!</color><br><br><!i>[grey][blue][ROUNDDOT]</color> Durability: [blue][durability] blocks</color><br>"
+        "de-DE": "<!i>[grey]Verkauft alle [blue]Generatoren</color> in einem Radius von [orange]10 Blöcken</color> um dich rum!</color><br><br><!i>[grey][blue][ROUNDDOT]</color> Haltbarkeit: [blue][durability] Verkäufe</color><br>",
+        "en-US": "<!i>[grey]Sells all [blue]generators</color> in a radius of [orange]10 blocks</color> around you!</color><br><br><!i>[grey][blue][ROUNDDOT]</color> Durability: [blue][durability] sales</color><br>"
     },
     "ITEM.name": {
         "de-DE": "<!i>[blue_gradient]Sellwand</gradient>",
