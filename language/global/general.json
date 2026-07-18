@@ -430,5 +430,9 @@
     "CURRENCY.shards": {
         "de-DE": "Shards",
         "en-US": "Shards"
+    },
+    "MONEY.receive": {
+        "de-DE": "[grey]Du hast [green][amount]</color> [era_purple][currency]</color> erhalten!</color>",
+        "en-US": "[grey]You have received [green][amount]</color> [era_purple][currency]</color>!</color>"
     }
 }
