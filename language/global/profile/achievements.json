@@ -4,8 +4,8 @@
         "en-US": "First Join"
     },
     "ACHIEVEMENT.first_join.description": {
-        "de-DE": "Jeder fängt mal klein an, aber jetzt bist du hier! das [eramc_gradient]EraMC Team</gradient> wünscht dir [gem_purple]viel Spaß</color> auf dem Server!",
-        "en-US": "Everyone starts small, but now you're here! The [eramc_gradient]EraMC Team</gradient> wishes you [gem_purple]lots of fun</color> on the server!"
+        "de-DE": "Jeder fängt mal klein an, aber jetzt bist du hier! Das [eramc_gradient][server_nice_name] Team</gradient> wünscht dir [gem_purple]viel Spaß</color> auf dem Server!",
+        "en-US": "Everyone starts small, but now you're here! The [eramc_gradient][server_nice_name] Team</gradient> wishes you [gem_purple]lots of fun</color> on the server!"
     },
     "ACHIEVEMENT.first_join.requirement": {
         "de-DE": "Tritt [eramc_gradient]dem Server</gradient> zum [green]ersten Mal</color> bei.",
@@ -16,36 +16,36 @@
         "en-US": "Unemployement I"
     },
     "ACHIEVEMENT.hundred_hours_playtime.description": {
-        "de-DE": "Du hast schon [green]100 Stunden</color> auf [eramc_gradient]EraMC</gradient> verbracht - was eine [green]Leistung</color>!",
-        "en-US": "You've already spent [green]100 hours</color> on [eramc_gradient]EraMC</gradient> - what an [green]achievement</color>!"
+        "de-DE": "Du hast schon [green]100 Stunden</color> auf [eramc_gradient][server_nice_name]</gradient> verbracht - was eine [green]Leistung</color>!",
+        "en-US": "You've already spent [green]100 hours</color> on [eramc_gradient][server_nice_name]</gradient> - what an [green]achievement</color>!"
     },
     "ACHIEVEMENT.hundred_hours_playtime.requirement": {
-        "de-DE": "Verbringe insgesamt [green]100 Stunden</color> auf [eramc_gradient]EraMC.</gradient>",
-        "en-US": "Spend a total of [green]100 hours</color> on [eramc_gradient]EraMC.</gradient>"
+        "de-DE": "Verbringe insgesamt [green]100 Stunden</color> auf [eramc_gradient][server_nice_name].</gradient>",
+        "en-US": "Spend a total of [green]100 hours</color> on [eramc_gradient][server_nice_name].</gradient>"
     },
     "ACHIEVEMENT.five_hundred_hours_playtime.name": {
         "de-DE": "Arbeitslos II",
         "en-US": "Unemployement II"
     },
     "ACHIEVEMENT.five_hundred_hours_playtime.description": {
-        "de-DE": "Wow, du hast schon [green]500 Stunden</color> auf [eramc_gradient]EraMC</gradient> verbracht - das ist eine [green]unglaubliche Leistung</color>!",
-        "en-US": "Wow, you've already spent [green]500 hours</color> on [eramc_gradient]EraMC</gradient> - that's an [green]incredible achievement</color>!"
+        "de-DE": "Wow, du hast schon [green]500 Stunden</color> auf [eramc_gradient][server_nice_name]</gradient> verbracht - das ist eine [green]unglaubliche Leistung</color>!",
+        "en-US": "Wow, you've already spent [green]500 hours</color> on [eramc_gradient][server_nice_name]</gradient> - that's an [green]incredible achievement</color>!"
     },
     "ACHIEVEMENT.five_hundred_hours_playtime.requirement": {
-        "de-DE": "Verbringe insgesamt [green]500 Stunden</color> auf [eramc_gradient]EraMC.</gradient>",
-        "en-US": "Spend a total of [green]500 hours</color> on [eramc_gradient]EraMC.</gradient>"
+        "de-DE": "Verbringe insgesamt [green]500 Stunden</color> auf [eramc_gradient][server_nice_name].</gradient>",
+        "en-US": "Spend a total of [green]500 hours</color> on [eramc_gradient][server_nice_name].</gradient>"
     },
     "ACHIEVEMENT.thousand_hours_playtime.name": {
         "de-DE": "Arbeitslos III",
         "en-US": "Unemployement III"
     },
     "ACHIEVEMENT.thousand_hours_playtime.description": {
-        "de-DE": "Unglaublich, du hast schon [green]1000 Stunden</color> auf [eramc_gradient]EraMC</gradient> verbracht - das ist eine [green]außergewöhnliche Leistung</color>!",
-        "en-US": "Incredible, you've already spent [green]1000 hours</color> on [eramc_gradient]EraMC</gradient> - that's an [green]extraordinary achievement</color>!"
+        "de-DE": "Unglaublich, du hast schon [green]1000 Stunden</color> auf [eramc_gradient][server_nice_name]</gradient> verbracht - das ist eine [green]außergewöhnliche Leistung</color>!",
+        "en-US": "Incredible, you've already spent [green]1000 hours</color> on [eramc_gradient][server_nice_name]</gradient> - that's an [green]extraordinary achievement</color>!"
     },
     "ACHIEVEMENT.thousand_hours_playtime.requirement": {
-        "de-DE": "Verbringe insgesamt [green]1000 Stunden</color> auf [eramc_gradient]EraMC.</gradient>",
-        "en-US": "Spend a total of [green]1000 hours</color> on [eramc_gradient]EraMC.</gradient>"
+        "de-DE": "Verbringe insgesamt [green]1000 Stunden</color> auf [eramc_gradient][server_nice_name].</gradient>",
+        "en-US": "Spend a total of [green]1000 hours</color> on [eramc_gradient][server_nice_name].</gradient>"
     },
     "ACHIEVEMENT.profile_10_followers.name": {
         "de-DE": "Road to Influencer I",
@@ -100,35 +100,35 @@
         "en-US": "Dedicated Player I"
     },
     "ACHIEVEMENT.login_streak_1.description": {
-        "de-DE": "Du hast es geschafft, [green]3 Tage in Folge</color> auf [eramc_gradient]EraMC</gradient> zu spielen!",
-        "en-US": "You managed to play on [eramc_gradient]EraMC</gradient> for [green]3 days in a row</color>!"
+        "de-DE": "Du hast es geschafft, [green]3 Tage in Folge</color> auf [eramc_gradient][server_nice_name]</gradient> zu spielen!",
+        "en-US": "You managed to play on [eramc_gradient][server_nice_name]</gradient> for [green]3 days in a row</color>!"
     },
     "ACHIEVEMENT.login_streak_1.requirement": {
-        "de-DE": "Spiele [green]3 Tage in Folge</color> auf [eramc_gradient]EraMC.</gradient>",
-        "en-US": "Play on [eramc_gradient]EraMC</gradient> for [green]3 days in a row</color>."
+        "de-DE": "Spiele [green]3 Tage in Folge</color> auf [eramc_gradient][server_nice_name].</gradient>",
+        "en-US": "Play on [eramc_gradient][server_nice_name]</gradient> for [green]3 days in a row</color>."
     },
     "ACHIEVEMENT.login_streak_2.name": {
         "de-DE": "Treuer Spieler II",
         "en-US": "Dedicated Player II"
     },
     "ACHIEVEMENT.login_streak_2.description": {
-        "de-DE": "Du hast es geschafft, [green]7 Tage in Folge</color> auf [eramc_gradient]EraMC</gradient> zu spielen!",
-        "en-US": "You managed to play on [eramc_gradient]EraMC</gradient> for [green]7 days in a row</color>!"
+        "de-DE": "Du hast es geschafft, [green]7 Tage in Folge</color> auf [eramc_gradient][server_nice_name]</gradient> zu spielen!",
+        "en-US": "You managed to play on [eramc_gradient][server_nice_name]</gradient> for [green]7 days in a row</color>!"
     },
     "ACHIEVEMENT.login_streak_2.requirement": {
-        "de-DE": "Spiele [green]7 Tage in Folge</color> auf [eramc_gradient]EraMC.</gradient>",
-        "en-US": "Play on [eramc_gradient]EraMC</gradient> for [green]7 days in a row</color>."
+        "de-DE": "Spiele [green]7 Tage in Folge</color> auf [eramc_gradient][server_nice_name].</gradient>",
+        "en-US": "Play on [eramc_gradient][server_nice_name]</gradient> for [green]7 days in a row</color>."
     },
     "ACHIEVEMENT.login_streak_3.name": {
         "de-DE": "Treuer Spieler III",
         "en-US": "Dedicated Player III"
     },
     "ACHIEVEMENT.login_streak_3.description": {
-        "de-DE": "Du hast es geschafft, [green]30 Tage in Folge</color> auf [eramc_gradient]EraMC</gradient> zu spielen!",
-        "en-US": "You managed to play on [eramc_gradient]EraMC</gradient> for [green]30 days in a row</color>!"
+        "de-DE": "Du hast es geschafft, [green]30 Tage in Folge</color> auf [eramc_gradient][server_nice_name]</gradient> zu spielen!",
+        "en-US": "You managed to play on [eramc_gradient][server_nice_name]</gradient> for [green]30 days in a row</color>!"
     },
     "ACHIEVEMENT.login_streak_3.requirement": {
-        "de-DE": "Spiele [green]30 Tage in Folge</color> auf [eramc_gradient]EraMC.</gradient>",
-        "en-US": "Play on [eramc_gradient]EraMC</gradient> for [green]30 days in a row</color>."
+        "de-DE": "Spiele [green]30 Tage in Folge</color> auf [eramc_gradient][server_nice_name].</gradient>",
+        "en-US": "Play on [eramc_gradient][server_nice_name]</gradient> for [green]30 days in a row</color>."
     }
 }

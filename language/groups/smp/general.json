@@ -1,7 +1,7 @@
 {
     "GENERAL.join.first": {
-        "de-DE": "<br>[grey]Willkommen [era_purple]<u>[player]</u></color> zu [era_purple]EraMC!</color> (#[joins])</color><br>",
-        "en-US": "<br>[grey]Welcome [era_purple]<u>[player]</u></color> to [era_purple]EraMC!</color> (#[joins])</color><br>"
+        "de-DE": "<br>[grey]Willkommen [era_purple]<u>[player]</u></color> zu [era_purple][server_nice_name]!</color> (#[joins])</color><br>",
+        "en-US": "<br>[grey]Welcome [era_purple]<u>[player]</u></color> to [era_purple][server_nice_name]!</color> (#[joins])</color><br>"
     },
     "GENERAL.scoreboard.deaths": {
         "de-DE": "Tode",
@@ -16,8 +16,8 @@
         "en-US": "Playtime"
     },
     "GENERAL.scoreboard.title": {
-        "de-DE": "EraMC.net",
-        "en-US": "EraMC.net"
+        "de-DE": "[server_ip]",
+        "en-US": "[server_ip]"
     },
     "GENERAL.death.use.back": {
         "de-DE": "[grey]Nutze [era_purple]/back</color> um zu deinem Todespunkt zurück zu gelangen!</color>",

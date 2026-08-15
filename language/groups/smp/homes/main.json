@@ -28,8 +28,8 @@
         "en-US": "[grey]You have [green]successfully</color> teleported to the home [yellow][home]</color> of [yellow][player]!</color></color>"
     },
     "HOMES.admin.teleport.error": {
-        "de-DE": "[grey]Während des [yellow]Teleportierens</color> ist ein [red]Fehler</color> aufgetreten. Bitte kontaktiere einen [yellow]Administrator.</color> ([era_purple]dc.eramc.net</color>)</color>",
-        "en-US": "[grey]An error occurred while [yellow]teleporting</color>. Please contact our [yellow]support.</color> ([era_purple]dc.eramc.net</color>)</color>"
+        "de-DE": "[grey]Während des [yellow]Teleportierens</color> ist ein [red]Fehler</color> aufgetreten. Bitte kontaktiere einen [yellow]Administrator.</color> ([era_purple][server_discord]</color>)</color>",
+        "en-US": "[grey]An error occurred while [yellow]teleporting</color>. Please contact our [yellow]support.</color> ([era_purple][server_discord]</color>)</color>"
     },
     "HOMES.create.error.exist": {
         "de-DE": "[grey]Das Home [yellow][home]</color> existiert bereits!</color>",
@@ -56,8 +56,8 @@
         "en-US": "[red]ᴛʜᴇ ᴛᴇʟᴇᴘᴏʀᴛ ᴡᴀꜱ ᴄᴀɴᴄᴇʟʟᴇᴅ</color>"
     },
     "HOMES.teleport.error": {
-        "de-DE": "[grey]Während des [yellow]Teleportierens</color> ist ein [red]Fehler</color> aufgetreten. Bitte kontaktiere unseren [yellow]Support.</color> ([era_purple]dc.eramc.net</color>)</color>",
-        "en-US": "[grey]An error occurred while [yellow]teleporting</color>. Please contact our [yellow]support.</color> ([era_purple]dc.eramc.net</color>)</color>"
+        "de-DE": "[grey]Während des [yellow]Teleportierens</color> ist ein [red]Fehler</color> aufgetreten. Bitte kontaktiere unseren [yellow]Support.</color> ([era_purple][server_discord]</color>)</color>",
+        "en-US": "[grey]An error occurred while [yellow]teleporting</color>. Please contact our [yellow]support.</color> ([era_purple][server_discord]</color>)</color>"
     },
     "HOMES.teleport.error.disabled": {
         "de-DE": "[grey]Das Home [yellow][home]</color> wurde automatisch oder von einem <red>Admin</red> [red]deaktiviert!</color></color>",

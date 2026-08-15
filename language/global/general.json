@@ -16,8 +16,8 @@
         "en-US": "[grey]The server group [era_purple][group]</color> does [red]not</color> exist!</color>"
     },
     "ERROR.player.notfound": {
-        "de-DE": "[grey][era_purple][player]</color> hat noch [red]nie</color> auf [era_purple]EraMC</color> gespielt!</color>",
-        "en-US": "[grey][era_purple][player]</color> has [red]never</color> played on [era_purple]EraMC</color> before!</color>"
+        "de-DE": "[grey][era_purple][player]</color> hat noch [red]nie</color> auf [era_purple][server_name]</color> gespielt!</color>",
+        "en-US": "[grey][era_purple][player]</color> has [red]never</color> played on [era_purple][server_name]</color> before!</color>"
     },
     "ERROR.command.notfound": {
         "de-DE": "[grey]Der Command [era_purple]/[command]</color> existiert [red]nicht!</color> </color>",
@@ -32,12 +32,12 @@
         "en-US": "[grey]The number you specified is [red]invalid!</color></color>"
     },
     "ERROR.unknown": {
-        "de-DE": "[grey]Ein unbekannter [red]Fehler</color> ist aufgetreten! Bitte kontaktiere den Discord-Ticketsupport: [era_purple]dc.eramc.net</color></color>",
-        "en-US": "[grey]An unknown [red]error</color> occurred! Please contact the Discord ticket support: [era_purple]dc.eramc.net</color></color>"
+        "de-DE": "[grey]Ein unbekannter [red]Fehler</color> ist aufgetreten! Bitte kontaktiere den Discord-Ticketsupport: [era_purple][server_discord]</color></color>",
+        "en-US": "[grey]An unknown [red]error</color> occurred! Please contact the Discord ticket support: [era_purple][server_discord]</color></color>"
     },
     "ERROR.unknown.msg": {
-        "de-DE": "[grey]Ein unbekannter [red]Fehler</color> ist aufgetreten! Bitte kontaktiere den Discord-Ticketsupport: [era_purple]dc.eramc.net</color> ([pastel_red][msg]</color>)</color>",
-        "en-US": "[grey]An unknown [red]error</color> occurred! Please contact the Discord ticket support: [era_purple]dc.eramc.net</color> ([pastel_red][msg]</color>)</color>"
+        "de-DE": "[grey]Ein unbekannter [red]Fehler</color> ist aufgetreten! Bitte kontaktiere den Discord-Ticketsupport: [era_purple][server_discord]</color> ([pastel_red][msg]</color>)</color>",
+        "en-US": "[grey]An unknown [red]error</color> occurred! Please contact the Discord ticket support: [era_purple][server_discord]</color> ([pastel_red][msg]</color>)</color>"
     },
     "GENERAL.are.you.sure": {
         "de-DE": "Bist du sicher?",
@@ -356,8 +356,8 @@
         "en-US": "Not"
     },
     "GENERAL.command.discord": {
-        "de-DE": "[grey]Trete unserem [era_purple]Discord-Server</color> bei:<br><br>[era_purple]<click:open_url:'https://dc.eramc.net'><hover:show_text:'[era_purple]Klicke hier, um den Link in deinem Browser zu öffnen!</color>'>dc.eramc.net</hover></click></color></color><br>",
-        "en-US": "[grey]Join our [era_purple]Discord server:</color><br><br>[era_purple]<click:open_url:'https://dc.eramc.net'><hover:show_text:'[era_purple]Click here to open the link in your browser!</color>'>dc.eramc.net</hover></click></color></color><br>"
+        "de-DE": "[grey]Trete unserem [era_purple]Discord-Server</color> bei:<br><br>[era_purple]<click:open_url:'https://[server_discord]'><hover:show_text:'[era_purple]Klicke hier, um den Link in deinem Browser zu öffnen!</color>'>[server_discord]</hover></click></color></color><br>",
+        "en-US": "[grey]Join our [era_purple]Discord server:</color><br><br>[era_purple]<click:open_url:'https://[server_discord]'><hover:show_text:'[era_purple]Click here to open the link in your browser!</color>'>[server_discord]</hover></click></color></color><br>"
     },
     "FEATURE.bedrock.not.available": {
         "de-DE": "[grey]Diese Funktion ist [red]nicht</color> für die Bedrock Edition verfügbar!</color>",
@@ -368,12 +368,12 @@
         "en-US": "[grey]You have to wait [red][time]</color> before you can use this [era_purple]command</color> again!</color>"
     },
     "ERROR.generic.teleport.self": {
-        "de-DE": "[grey]Beim [era_purple]teleportieren</color> ist ein [red]Fehler</color> aufgetreten! Bitte kontaktieren den Discord-Ticketsupport: [era_purple]dc.eramc.net</color></color>",
-        "en-US": "[grey]An error occurred while [era_purple]teleporting</color>! Please contact the Discord ticket support: [era_purple]dc.eramc.net</color></color>"
+        "de-DE": "[grey]Beim [era_purple]teleportieren</color> ist ein [red]Fehler</color> aufgetreten! Bitte kontaktieren den Discord-Ticketsupport: [era_purple][server_discord]</color></color>",
+        "en-US": "[grey]An error occurred while [era_purple]teleporting</color>! Please contact the Discord ticket support: [era_purple][server_discord]</color></color>"
     },
     "ERROR.generic.teleport.target": {
-        "de-DE": "[grey]Beim [era_purple]teleportieren</color> von [era_purple][target]</color> ist ein [red]Fehler</color> aufgetreten! Bitte kontaktieren den Discord-Ticketsupport: [era_purple]dc.eramc.net</color></color>",
-        "en-US": "[grey]An error occurred while [era_purple]teleporting</color> [era_purple][target]!</color> Please contact the Discord ticket support: [era_purple]dc.eramc.net</color></color>"
+        "de-DE": "[grey]Beim [era_purple]teleportieren</color> von [era_purple][target]</color> ist ein [red]Fehler</color> aufgetreten! Bitte kontaktieren den Discord-Ticketsupport: [era_purple][server_discord]</color></color>",
+        "en-US": "[grey]An error occurred while [era_purple]teleporting</color> [era_purple][target]!</color> Please contact the Discord ticket support: [era_purple][server_discord]</color></color>"
     },
     "ERROR.specific.teleport.self": {
         "de-DE": "[grey]Du kannst dich [red]nicht</color> zu dir selber teleportieren!</color>",

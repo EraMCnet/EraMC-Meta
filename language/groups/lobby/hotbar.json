@@ -4,8 +4,8 @@
         "en-US": "<i:false>[era_purple]Game-Selector</color>"
     },
     "ITEM.selector.lore": {
-        "de-DE": "<br><i:false>[era_purple][ARROW]</color> [grey]Wähle den [era_purple]Spielmodus</color> aus</color><br><i:false>[grey]den du auf [era_purple]EraMC</color> spielen möchtest</color><br>",
-        "en-US": "<br><i:false>[era_purple][ARROW]</color> [grey]Choose the [era_purple]game mode</color> you want to play on [era_purple]EraMC</color></color><br>"
+        "de-DE": "<br><i:false>[era_purple][ARROW]</color> [grey]Wähle den [era_purple]Spielmodus</color> aus</color><br><i:false>[grey]den du auf [era_purple][server_nice_name]</color> spielen möchtest</color><br>",
+        "en-US": "<br><i:false>[era_purple][ARROW]</color> [grey]Choose the [era_purple]game mode</color> you want to play on [era_purple][server_nice_name]</color></color><br>"
     },
     "ITEM.profile.name": {
         "de-DE": "<i:false>[era_purple]Dein Profil</color>",

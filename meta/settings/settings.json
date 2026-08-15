@@ -16,7 +16,7 @@
             "Lobby"
         ],
         "material": "feather",
-        "permission": "eramc.setting.fly",
+        "permission": "[server_name].setting.fly",
         "default": "false"
     },
     "doublejump": {
@@ -32,7 +32,7 @@
             "*"
         ],
         "material": "glowstone_dust",
-        "permission": "eramc.setting.glow",
+        "permission": "[server_name].setting.glow",
         "default": "false"
     },
     "size": {
@@ -40,7 +40,7 @@
             "Lobby"
         ],
         "material": "heavy_core",
-        "permission": "eramc.setting.size",
+        "permission": "[server_name].setting.size",
         "default": "normal"
     },
     "speed": {
@@ -48,7 +48,7 @@
             "Lobby"
         ],
         "material": "sugar",
-        "permission": "eramc.setting.speed",
+        "permission": "[server_name].setting.speed",
         "default": "false"
     },
     "nightvision": {
@@ -56,7 +56,7 @@
             "*"
         ],
         "material": "torch",
-        "permission": "eramc.setting.nightvision",
+        "permission": "[server_name].setting.nightvision",
         "default": "false"
     },
     "msg": {
@@ -86,7 +86,7 @@
             "*"
         ],
         "material": "enchanted_book",
-        "permission": "eramc.setting.streamermode",
+        "permission": "[server_name].setting.streamermode",
         "default": "false"
     }
 }
