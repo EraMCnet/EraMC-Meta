@@ -15,6 +15,42 @@
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, ob du den [blue]globalen Chat</color> sehen möchtest.</color><br><br><!i>[grey][blue][ARROW]</color> Klicke um diese [blue]Einstellung</color> zu [green]aktivieren</color>!</color>",
         "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set whether you want to see the [blue]global chat</color>.<br><br><!i>[grey][blue][ARROW]</color> Click to [green]enable</color> this [blue]setting</color>!</color>"
     },
+    "perk_insomnia.name": {
+        "de-DE": "Insomnia Perk",
+        "en-US": "Insomnia Perk"
+    },
+    "perk_insomnia.lore.true": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, ob du möchtest das [blue]Phantome dich [red]angreifen</color> sollen</color>.</color><br><br><!i>[grey][blue][ARROW]</color> Klicke um diese [blue]Einstellung</color> zu [red]deaktivieren</color>!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set whether you want [blue]phantoms to [red]attack</color> you</color>.<br><br><!i>[grey][blue][ARROW]</color> Click to [red]disable</color> this [blue]setting</color>!</color>"
+    },
+    "perk_insomnia.lore.false": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, ob du möchtest das [blue]Phantome dich [red]angreifen</color> sollen</color>.</color><br><br><!i>[grey][blue][ARROW]</color> Klicke um diese [blue]Einstellung</color> zu [green]aktivieren</color>!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set whether you want [blue]phantoms to [red]attack</color> you</color>.<br><br><!i>[grey][blue][ARROW]</color> Click to [green]enable</color> this [blue]setting</color>!</color>"
+    },
+    "perk_telekinesis.name": {
+        "de-DE": "Telekinese Perk",
+        "en-US": "Telekinesis Perk"
+    },
+    "perk_telekinesis.lore.true": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, ob du möchtest das [blue]Items automatisch in dein Inventar [green]aufgesammelt</color> werden</color>.</color><br><br><!i>[grey][blue][ARROW]</color> Klicke um diese [blue]Einstellung</color> zu [red]deaktivieren</color>!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set whether you want [blue]items to be automatically [green]picked up</color> into your inventory</color>.<br><br><!i>[grey][blue][ARROW]</color> Click to [red]disable</color> this [blue]setting</color>!</color>"
+    },
+    "perk_telekinesis.lore.false": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, ob du möchtest das [blue]Items automatisch in dein Inventar [green]aufgesammelt</color> werden</color>.</color><br><br><!i>[grey][blue][ARROW]</color> Klicke um diese [blue]Einstellung</color> zu [green]aktivieren</color>!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set whether you want [blue]items to be automatically [green]picked up</color> into your inventory</color>.<br><br><!i>[grey][blue][ARROW]</color> Click to [green]enable</color> this [blue]setting</color>!</color>"
+    },
+    "perk_farmer.name": {
+        "de-DE": "Farmer Perk",
+        "en-US": "Farmer Perk"
+    },
+    "perk_farmer.lore.true": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, ob du möchtest das [blue]Samen automatisch [green]nachgepflanzt</color></color> werden sollen.</color><br><br><!i>[grey][blue][ARROW]</color> Klicke um diese [blue]Einstellung</color> zu [red]deaktivieren</color>!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set whether you want [blue]seeds to be automatically [green]replanted</color></color>.<br><br><!i>[grey][blue][ARROW]</color> Click to [red]disable</color> this [blue]setting</color>!</color>"
+    },
+    "perk_farmer.lore.false": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, ob du möchtest das [blue]Samen automatisch [green]nachgepflanzt</color></color> werden sollen.</color><br><br><!i>[grey][blue][ARROW]</color> Klicke um diese [blue]Einstellung</color> zu [green]aktivieren</color>!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set whether you want [blue]seeds to be automatically [green]replanted</color></color>.<br><br><!i>[grey][blue][ARROW]</color> Click to [green]enable</color> this [blue]setting</color>!</color>"
+    },
     "scoreboard_disabled.name": {
         "de-DE": "Scoreboard",
         "en-US": "Scoreboard"
