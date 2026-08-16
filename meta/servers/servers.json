@@ -25,5 +25,14 @@
         "desc-de-DE": "WheatFarm ist ein Spielmodus bei jedem jeder Spieler Weizen farmen kann. Es gibt verschiedene Möglichkeiten, Weizen zu farmen, wie z.B. durch einfaches Farmen oder durch Generatoren. Es gibt auch verschiedene Upgrades, die die Effizienz des Farmens verbessern können.",
         "desc-en-US": "Wheat Farm is a game mode where every player can farm wheat. There are different ways to farm wheat, such as simple farming or through generators. There are also various upgrades that can improve the efficiency of farming.",
         "internal": "wheatfarm"
+    },
+    "GROUP.craftattack": {
+        "de-DE": "BetterAttack",
+        "en-US": "BetterAttack",
+        "de-DE-playing": "[player] spielt aktuell BetterAttack.",
+        "en-US-playing": "[player] is currently playing BetterAttack.",
+        "desc-de-DE": "BetterAttack ist ein Spielmodus, der sich am populären Projekt CraftAttack orientiert. Hier wird ganz klassisch Survival gespielt, jedoch mit kleinen Änderungen, die das Spielgeschehen angenehmer machen.",
+        "desc-en-US": "BetterAttack is a game mode that is based on the popular German streamer project CraftAttack. Here, classic survival is played, but with small changes that make the gameplay more enjoyable.",
+        "internal": "craftattack"
     }
 }
