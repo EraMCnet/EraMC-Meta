@@ -29,10 +29,10 @@
     },
     "CLAIM.delete.success.single_chunk": {
         "de-DE": "[grey]Du hast den [blue]Chunk</color> [yellow][chunk_x]:[chunk_z]</color> [green]erfolgreich</color> freigegeben!</color>",
-        "en-US": "[grey]You have [green]successfully</color> released the [blue]chunk</color> [yellow][chunk_x]:[chunk_z]</color>!</color>"
+        "en-US": "[grey]You have [green]successfully</color> unclaimed the [blue]chunk</color> [yellow][chunk_x]:[chunk_z]</color>!</color>"
     },
     "CLAIM.delete.success.multiple_chunks": {
         "de-DE": "[grey]Du hast [green]erfolgreich</color> [blue][count]</color> [blue]Chunks</color> freigegeben!</color>",
-        "en-US": "[grey]You have [green]successfully</color> released [blue][count]</color> [blue]chunks</color>!</color>"
+        "en-US": "[grey]You have [green]successfully</color> unclaimed [blue][count]</color> [blue]chunks</color>!</color>"
     }
 }
