@@ -681,6 +681,14 @@
     "de-DE": "<!i>[grey]<b>[darker_red][HEAVY_MULTIPLICATION_X]</color></b> Aktuell: [darker_red]Deaktiviert</color></color><br><!i>[grey]<b>[blue][FLAG]</color></b> Standard: [blue][default_value]</color></color><br><br><!i>[grey][blue][ARROW]</color> [description]</color><br><br><!i>[grey]Klicke, um diese Flag zu [green]aktivieren</color>!</color>",
     "en-US": "<!i>[grey]<b>[darker_red][HEAVY_MULTIPLICATION_X]</color></b> Current: [darker_red]Disabled</color></color><br><!i>[grey]<b>[blue][FLAG]</color></b> Default: [blue][default_value]</color></color><br><br><!i>[grey][blue][ARROW]</color> [description]</color><br><br><!i>[grey]Click to [green]enable</color> this flag!</color>"
   },
+  "GUI.lore.true.default": {
+    "de-DE": "<!i>[grey]<b>[green][HEAVY_CHECK_MARK]</color></b> Aktuell: [green]Aktiviert</color></color><br><br><!i>[grey][blue][ARROW]</color> [description]</color><br><br><!i>[grey]Klicke, um diese Flag zu [darker_red]deaktivieren</color>!</color>",
+    "en-US": "<!i>[grey]<b>[green][HEAVY_CHECK_MARK]</color></b> Current: [green]Enabled</color></color><br><br><!i>[grey][blue][ARROW]</color> [description]</color><br><br><!i>[grey]Click to [darker_red]disable</color> this flag!</color>"
+  },
+  "GUI.lore.false.default": {
+    "de-DE": "<!i>[grey]<b>[darker_red][HEAVY_MULTIPLICATION_X]</color></b> Aktuell: [darker_red]Deaktiviert</color></color><br><br><!i>[grey][blue][ARROW]</color> [description]</color><br><br><!i>[grey]Klicke, um diese Flag zu [green]aktivieren</color>!</color>",
+    "en-US": "<!i>[grey]<b>[darker_red][HEAVY_MULTIPLICATION_X]</color></b> Current: [darker_red]Disabled</color></color><br><br><!i>[grey][blue][ARROW]</color> [description]</color><br><br><!i>[grey]Click to [green]enable</color> this flag!</color>"
+  },
   "GUI.item.reset.name": {
     "de-DE": "<!i>[red]Alle Flags zurücksetzuen</color>",
     "en-US": "<!i>[red]Reset all flags</color>"
