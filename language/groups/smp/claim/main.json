@@ -1,7 +1,7 @@
 {
     "CLAIM.create.error.limit": {
-        "de-DE": "[grey]Du hast das [darker_red]Maximum</color> an [blue]Claims</color> <dark_grey>([red][limit]</color> [grey]/</color> [green][max]</color>)</dark_grey> erreicht!</color>",
-        "en-US": "[grey]You have reached the [darker_red]maximum</color> number of [blue]claims</color> <dark_grey>([red][limit]</color> [grey]/</color> [green][max]</color>)</dark_grey>!</color>"
+        "de-DE": "[grey]Du hast das [darker_red]Maximum</color> an [blue]geclaimten Chunks</color> <dark_grey>([red][limit]</color> [grey]/</color> [green][max]</color>)</dark_grey> erreicht!</color>",
+        "en-US": "[grey]You have reached the [darker_red]maximum</color> number of [blue]claimed Chunks</color> <dark_grey>([red][limit]</color> [grey]/</color> [green][max]</color>)</dark_grey>!</color>"
     },
     "CLAIM.create.success.created": {
         "de-DE": "[grey]Du hast den [blue]Chunk</color> [yellow][chunk_x]:[chunk_z]</color> [green]erfolgreich</color> beansprucht!</color>",
