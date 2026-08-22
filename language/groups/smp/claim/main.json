@@ -1,0 +1,22 @@
+{
+    "CLAIM.create.limit": {
+        "de-DE": "[grey]Du hast das [darker_red]Maximum</color> an [blue]Claims</color> <dark_grey>([red][limit]</color> [grey]/</color> [green][max]</color>)</dark_grey> erreicht!</color>",
+        "en-US": "[grey]You have reached the [darker_red]maximum</color> number of [blue]claims</color> <dark_grey>([red][limit]</color> [grey]/</color> [green][max]</color>)</dark_grey>!</color>"
+    },
+    "CLAIM.create.success.created": {
+        "de-DE": "[grey]Du hast den [blue]Chunk</color> [yellow][chunk_x]:[chunk_z]</color> [green]erfolgreich</color> beansprucht!</color>",
+        "en-US": "[grey]You have [green]successfully</color> claimed the [blue]chunk</color> [yellow][chunk_x]:[chunk_z]</color>!</color>"
+    },
+    "CLAIM.create.success.extended": {
+        "de-DE": "[grey]Der [blue]Chunk</color> [yellow][chunk_x]:[chunk_z]</color> gehört jetzt zu deinem [blue]Claim</color>!</color>",
+        "en-US": "[grey]The [blue]chunk</color> [yellow][chunk_x]:[chunk_z]</color> now belongs to your [blue]claim</color>!</color>"
+    },
+    "CLAIM.create.success.merged": {
+        "de-DE": "[grey]Du hast den [blue]Chunk</color> [yellow][chunk_x]:[chunk_z]</color> [green]erfolgreich</color> beansprucht! [grey]Deine angrenzenden [blue]Claims</color> wurden dabei [aqua]zusammengeführt</color>.</color>",
+        "en-US": "[grey]You have [green]successfully</color> claimed the [blue]chunk</color> [yellow][chunk_x]:[chunk_z]</color>! [grey]Your adjacent [blue]claims</color> were [aqua]merged</color> in the process.</color>"
+    },
+    "CLAIM.create.error.already_claimed": {
+        "de-DE": "[grey]Dieser [blue]Chunk</color> ist [darker_red]bereits beansprucht</color>!</color>",
+        "en-US": "[grey]This [blue]chunk</color> is [darker_red]already claimed</color>!</color>"
+    }
+}
