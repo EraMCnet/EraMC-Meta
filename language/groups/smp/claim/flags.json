@@ -1,0 +1,684 @@
+{
+  "AMETHYST_FORM.description": {
+    "en-US": "[grey]Whether [purple]amethysts</color> can form on budding amethyst blocks.</color>",
+    "de-DE": "[grey]Ob sich [purple]Amethyste</color> auf knospenden Amethystblöcken bilden können.</color>"
+  },
+  "AMETHYST_FORM.name": {
+    "en-US": "<b>[era_purple]Amethyst Formation</color>",
+    "de-DE": "<b>[era_purple]Amethyst Bildung</color>"
+  },
+
+  "AMETHYST_GROW.description": {
+    "en-US": "[grey]Whether [purple]amethysts</color> can grow.</color>",
+    "de-DE": "[grey]Ob [purple]Amethyste</color> wachsen können.</color>"
+  },
+  "AMETHYST_GROW.name": {
+    "en-US": "<b>[era_purple]Amethyst Growth</color>",
+    "de-DE": "<b>[era_purple]Amethyst Wachstum</color>"
+  },
+
+  "BAMBOO_GROW.description": {
+    "en-US": "[grey]Whether [green]bamboo</color> can grow.</color>",
+    "de-DE": "[grey]Ob [green]Bambus</color> wachsen kann.</color>"
+  },
+  "BAMBOO_GROW.name": {
+    "en-US": "<b>[era_purple]Bamboo Growth</color>",
+    "de-DE": "<b>[era_purple]Bambus Wachstum</color>"
+  },
+
+  "CACTUS_GROW.description": {
+    "en-US": "[grey]Whether [green]cacti</color> can grow.</color>",
+    "de-DE": "[grey]Ob [green]Kakteen</color> wachsen können.</color>"
+  },
+  "CACTUS_GROW.name": {
+    "en-US": "<b>[era_purple]Cactus Growth</color>",
+    "de-DE": "<b>[era_purple]Kaktus Wachstum</color>"
+  },
+
+  "CORAL_DIE.description": {
+    "en-US": "[grey]Whether [aqua]coral</color> can die and turn into dead coral.</color>",
+    "de-DE": "[grey]Ob [aqua]Korallen</color> absterben und zu toten Korallen werden können.</color>"
+  },
+  "CORAL_DIE.name": {
+    "en-US": "<b>[era_purple]Coral Death</color>",
+    "de-DE": "<b>[era_purple]Korallen Absterben</color>"
+  },
+
+  "CROP_GROW.description": {
+    "en-US": "[grey]Whether [green]crops</color> can grow.</color>",
+    "de-DE": "[grey]Ob [green]Nutzpflanzen</color> wachsen können.</color>"
+  },
+  "CROP_GROW.name": {
+    "en-US": "<b>[era_purple]Crop Growth</color>",
+    "de-DE": "<b>[era_purple]Pflanzen Wachstum</color>"
+  },
+
+  "FARMLAND_DRY.description": {
+    "en-US": "[grey]Whether [yellow]farmland</color> can dry out.</color>",
+    "de-DE": "[grey]Ob [yellow]Ackerboden</color> austrocknen kann.</color>"
+  },
+  "FARMLAND_DRY.name": {
+    "en-US": "<b>[era_purple]Farmland Drying</color>",
+    "de-DE": "<b>[era_purple]Ackerboden Austrocknung</color>"
+  },
+
+  "FIRE_BURN_OUT.description": {
+    "en-US": "[grey]Whether [red]fire</color> can burn out naturally.</color>",
+    "de-DE": "[grey]Ob [red]Feuer</color> von selbst erlöschen kann.</color>"
+  },
+  "FIRE_BURN_OUT.name": {
+    "en-US": "<b>[era_purple]Fire Burn Out</color>",
+    "de-DE": "<b>[era_purple]Feuer Erlöschen</color>"
+  },
+
+  "FIRE_DAMAGE_BLOCKS.description": {
+    "en-US": "[grey]Whether [red]fire</color> can destroy blocks.</color>",
+    "de-DE": "[grey]Ob [red]Feuer</color> Blöcke zerstören kann.</color>"
+  },
+  "FIRE_DAMAGE_BLOCKS.name": {
+    "en-US": "<b>[era_purple]Fire Block Damage</color>",
+    "de-DE": "<b>[era_purple]Feuer Blockschaden</color>"
+  },
+
+  "FIRE_SPREAD.description": {
+    "en-US": "[grey]Whether [red]fire</color> can spread to other blocks.</color>",
+    "de-DE": "[grey]Ob sich [red]Feuer</color> auf andere Blöcke ausbreiten kann.</color>"
+  },
+  "FIRE_SPREAD.name": {
+    "en-US": "<b>[era_purple]Fire Spread</color>",
+    "de-DE": "<b>[era_purple]Feuerausbreitung</color>"
+  },
+
+  "GRASS_GROW.description": {
+    "en-US": "[grey]Whether [green]grass</color> can spread to nearby dirt blocks.</color>",
+    "de-DE": "[grey]Ob sich [green]Gras</color> auf angrenzende Erdblöcke ausbreiten kann.</color>"
+  },
+  "GRASS_GROW.name": {
+    "en-US": "<b>[era_purple]Grass Growth</color>",
+    "de-DE": "<b>[era_purple]Gras Wachstum</color>"
+  },
+
+  "ICE_MELT.description": {
+    "en-US": "[grey]Whether [aqua]ice</color> can melt.</color>",
+    "de-DE": "[grey]Ob [aqua]Eis</color> schmelzen kann.</color>"
+  },
+  "ICE_MELT.name": {
+    "en-US": "<b>[era_purple]Ice Melting</color>",
+    "de-DE": "<b>[era_purple]Eis Schmelzen</color>"
+  },
+
+  "LAVA_FLOW.description": {
+    "en-US": "[grey]Whether [red]lava</color> can flow.</color>",
+    "de-DE": "[grey]Ob [red]Lava</color> fließen kann.</color>"
+  },
+  "LAVA_FLOW.name": {
+    "en-US": "<b>[era_purple]Lava Flow</color>",
+    "de-DE": "<b>[era_purple]Lavafluss</color>"
+  },
+
+  "LEAF_DECAY.description": {
+    "en-US": "[grey]Whether [green]leaves</color> can decay naturally.</color>",
+    "de-DE": "[grey]Ob [green]Blätter</color> natürlich zerfallen können.</color>"
+  },
+  "LEAF_DECAY.name": {
+    "en-US": "<b>[era_purple]Leaf Decay</color>",
+    "de-DE": "<b>[era_purple]Blätter Zerfall</color>"
+  },
+
+  "MUSHROOM_GROW.description": {
+    "en-US": "[grey]Whether [red]mushrooms</color> can grow and spread.</color>",
+    "de-DE": "[grey]Ob [red]Pilze</color> wachsen und sich ausbreiten können.</color>"
+  },
+  "MUSHROOM_GROW.name": {
+    "en-US": "<b>[era_purple]Mushroom Growth</color>",
+    "de-DE": "<b>[era_purple]Pilz Wachstum</color>"
+  },
+
+  "MYCELIUM_SPREAD.description": {
+    "en-US": "[grey]Whether [purple]mycelium</color> can spread.</color>",
+    "de-DE": "[grey]Ob sich [purple]Myzel</color> ausbreiten kann.</color>"
+  },
+  "MYCELIUM_SPREAD.name": {
+    "en-US": "<b>[era_purple]Mycelium Spread</color>",
+    "de-DE": "<b>[era_purple]Myzel Ausbreitung</color>"
+  },
+
+  "PISTON_WORK.description": {
+    "en-US": "[grey]Whether [yellow]pistons</color> can move blocks inside the claim.</color>",
+    "de-DE": "[grey]Ob [yellow]Kolben</color> Blöcke innerhalb des Claims bewegen können.</color>"
+  },
+  "PISTON_WORK.name": {
+    "en-US": "<b>[era_purple]Pistons</color>",
+    "de-DE": "<b>[era_purple]Kolben</color>"
+  },
+
+  "SNOW_FORM.description": {
+    "en-US": "[grey]Whether <color:#ffffff>snow</color> can form naturally.</color>",
+    "de-DE": "[grey]Ob sich <color:#ffffff>Schnee</color> natürlich bilden kann.</color>"
+  },
+  "SNOW_FORM.name": {
+    "en-US": "<b>[era_purple]Snow Formation</color>",
+    "de-DE": "<b>[era_purple]Schneebildung</color>"
+  },
+
+  "SNOW_MELT.description": {
+    "en-US": "[grey]Whether <color:#ffffff>snow</color> can melt.</color>",
+    "de-DE": "[grey]Ob <color:#ffffff>Schnee</color> schmelzen kann.</color>"
+  },
+  "SNOW_MELT.name": {
+    "en-US": "<b>[era_purple]Snow Melting</color>",
+    "de-DE": "<b>[era_purple]Schnee Schmelzen</color>"
+  },
+
+  "TNT_BLOCK_DAMAGE.description": {
+    "en-US": "[grey]Whether [red]TNT</color> explosions can destroy blocks.</color>",
+    "de-DE": "[grey]Ob [red]TNT</color>-Explosionen Blöcke zerstören können.</color>"
+  },
+  "TNT_BLOCK_DAMAGE.name": {
+    "en-US": "<b>[era_purple]TNT Block Damage</color>",
+    "de-DE": "<b>[era_purple]TNT Blockschaden</color>"
+  },
+
+  "SUGAR_CANE_GROW.description": {
+    "en-US": "[grey]Whether [green]sugar cane</color> can grow.</color>",
+    "de-DE": "[grey]Ob [green]Zuckerrohr</color> wachsen kann.</color>"
+  },
+  "SUGAR_CANE_GROW.name": {
+    "en-US": "<b>[era_purple]Sugar Cane Growth</color>",
+    "de-DE": "<b>[era_purple]Zuckerrohr Wachstum</color>"
+  },
+
+  "TREE_GROW.description": {
+    "en-US": "[grey]Whether [green]trees</color> can grow.</color>",
+    "de-DE": "[grey]Ob [green]Bäume</color> wachsen können.</color>"
+  },
+  "TREE_GROW.name": {
+    "en-US": "<b>[era_purple]Tree Growth</color>",
+    "de-DE": "<b>[era_purple]Baum Wachstum</color>"
+  },
+
+  "TURTLE_EGG_HATCH.description": {
+    "en-US": "[grey]Whether [green]turtle eggs</color> can hatch.</color>",
+    "de-DE": "[grey]Ob [green]Schildkröteneier</color> schlüpfen können.</color>"
+  },
+  "TURTLE_EGG_HATCH.name": {
+    "en-US": "<b>[era_purple]Turtle Egg Hatching</color>",
+    "de-DE": "<b>[era_purple]Schildkröteneier Schlüpfen</color>"
+  },
+
+  "VINE_GROW.description": {
+    "en-US": "[grey]Whether [green]vines</color> can grow.</color>",
+    "de-DE": "[grey]Ob [green]Ranken</color> wachsen können.</color>"
+  },
+  "VINE_GROW.name": {
+    "en-US": "<b>[era_purple]Vine Growth</color>",
+    "de-DE": "<b>[era_purple]Ranken Wachstum</color>"
+  },
+
+  "WATER_FLOW.description": {
+    "en-US": "[grey]Whether [aqua]water</color> can flow.</color>",
+    "de-DE": "[grey]Ob [aqua]Wasser</color> fließen kann.</color>"
+  },
+  "WATER_FLOW.name": {
+    "en-US": "<b>[era_purple]Water Flow</color>",
+    "de-DE": "<b>[era_purple]Wasserfluss</color>"
+  },
+
+  "ANIMAL_DAMAGE.description": {
+    "en-US": "[grey]Whether [green]animals</color> can take damage inside the claim.</color>",
+    "de-DE": "[grey]Ob [green]Tiere</color> innerhalb des Claims Schaden erhalten können.</color>"
+  },
+  "ANIMAL_DAMAGE.name": {
+    "en-US": "<b>[era_purple]Animal Damage</color>",
+    "de-DE": "<b>[era_purple]Tierschaden</color>"
+  },
+
+  "ANIMAL_GRIEF.description": {
+    "en-US": "[grey]Whether [green]animals</color> can modify or destroy blocks.</color>",
+    "de-DE": "[grey]Ob [green]Tiere</color> Blöcke verändern oder zerstören können.</color>"
+  },
+  "ANIMAL_GRIEF.name": {
+    "en-US": "<b>[era_purple]Animal Griefing</color>",
+    "de-DE": "<b>[era_purple]Tier Griefing</color>"
+  },
+
+  "ANIMAL_SPAWN.description": {
+    "en-US": "[grey]Whether [green]animals</color> can spawn inside the claim.</color>",
+    "de-DE": "[grey]Ob [green]Tiere</color> innerhalb des Claims spawnen können.</color>"
+  },
+  "ANIMAL_SPAWN.name": {
+    "en-US": "<b>[era_purple]Animal Spawning</color>",
+    "de-DE": "<b>[era_purple]Tier Spawns</color>"
+  },
+
+  "CREEPER_BLOCK_DAMAGE.description": {
+    "en-US": "[grey]Whether [green]creeper</color> explosions can destroy blocks.</color>",
+    "de-DE": "[grey]Ob Explosionen von [green]Creepern</color> Blöcke zerstören können.</color>"
+  },
+  "CREEPER_BLOCK_DAMAGE.name": {
+    "en-US": "<b>[era_purple]Creeper Block Damage</color>",
+    "de-DE": "<b>[era_purple]Creeper Blockschaden</color>"
+  },
+
+  "END_CRYSTAL_BLOCK_DAMAGE.description": {
+    "en-US": "[grey]Whether [purple]end crystal</color> explosions can destroy blocks.</color>",
+    "de-DE": "[grey]Ob Explosionen von [purple]Enderkristallen</color> Blöcke zerstören können.</color>"
+  },
+  "END_CRYSTAL_BLOCK_DAMAGE.name": {
+    "en-US": "<b>[era_purple]End Crystal Block Damage</color>",
+    "de-DE": "<b>[era_purple]Enderkristall Blockschaden</color>"
+  },
+
+  "ENDERMAN_GRIEF.description": {
+    "en-US": "[grey]Whether [purple]endermen</color> can pick up or place blocks.</color>",
+    "de-DE": "[grey]Ob [purple]Endermen</color> Blöcke aufnehmen oder platzieren können.</color>"
+  },
+  "ENDERMAN_GRIEF.name": {
+    "en-US": "<b>[era_purple]Enderman Griefing</color>",
+    "de-DE": "<b>[era_purple]Enderman Griefing</color>"
+  },
+
+  "EXPLOSION_BLOCK_DAMAGE.description": {
+    "en-US": "[grey]Whether general [red]explosions</color> can destroy blocks.</color>",
+    "de-DE": "[grey]Ob allgemeine [red]Explosionen</color> Blöcke zerstören können.</color>"
+  },
+  "EXPLOSION_BLOCK_DAMAGE.name": {
+    "en-US": "<b>[era_purple]Explosion Block Damage</color>",
+    "de-DE": "<b>[era_purple]Explosions Blockschaden</color>"
+  },
+
+  "MONSTER_SPAWN.description": {
+    "en-US": "[grey]Whether [red]monsters</color> can spawn inside the claim.</color>",
+    "de-DE": "[grey]Ob [red]Monster</color> innerhalb des Claims spawnen können.</color>"
+  },
+  "MONSTER_SPAWN.name": {
+    "en-US": "<b>[era_purple]Monster Spawning</color>",
+    "de-DE": "<b>[era_purple]Monster Spawns</color>"
+  },
+
+  "RAVAGER_GRIEF.description": {
+    "en-US": "[grey]Whether [red]ravagers</color> can destroy blocks and crops.</color>",
+    "de-DE": "[grey]Ob [red]Verwüster</color> Blöcke und Pflanzen zerstören können.</color>"
+  },
+  "RAVAGER_GRIEF.name": {
+    "en-US": "<b>[era_purple]Ravager Griefing</color>",
+    "de-DE": "<b>[era_purple]Verwüster Griefing</color>"
+  },
+
+  "SILVERFISH_INFEST.description": {
+    "en-US": "[grey]Whether [grey]silverfish</color> can infest blocks.</color>",
+    "de-DE": "[grey]Ob [grey]Silberfische</color> Blöcke befallen können.</color>"
+  },
+  "SILVERFISH_INFEST.name": {
+    "en-US": "<b>[era_purple]Silverfish Infestation</color>",
+    "de-DE": "<b>[era_purple]Silberfisch Befall</color>"
+  },
+
+  "SNOWMAN_TRAIL.description": {
+    "en-US": "[grey]Whether <color:#ffffff>snow golems</color> can leave snow trails.</color>",
+    "de-DE": "[grey]Ob <color:#ffffff>Schneegolems</color> Schneespuren hinterlassen können.</color>"
+  },
+  "SNOWMAN_TRAIL.name": {
+    "en-US": "<b>[era_purple]Snow Golem Trail</color>",
+    "de-DE": "<b>[era_purple]Schneegolem Spur</color>"
+  },
+
+  "WITHER_BLOCK_DAMAGE.description": {
+    "en-US": "[grey]Whether [dark_grey]wither</color> attacks and explosions can destroy blocks.</color>",
+    "de-DE": "[grey]Ob Angriffe und Explosionen des [dark_grey]Withers</color> Blöcke zerstören können.</color>"
+  },
+  "WITHER_BLOCK_DAMAGE.name": {
+    "en-US": "<b>[era_purple]Wither Block Damage</color>",
+    "de-DE": "<b>[era_purple]Wither Blockschaden</color>"
+  },
+
+  "PLAYER_USE_ARMOR_STAND.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can interact with armor stands.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, mit Rüstungsständern interagieren können.</color>"
+  },
+  "PLAYER_USE_ARMOR_STAND.name": {
+    "en-US": "<b>[era_purple]Use Armor Stands</color>",
+    "de-DE": "<b>[era_purple]Rüstungsständer benutzen</color>"
+  },
+
+  "PLAYER_BLOCK_BREAK.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can break blocks.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Blöcke abbauen können.</color>"
+  },
+  "PLAYER_BLOCK_BREAK.name": {
+    "en-US": "<b>[era_purple]Break Blocks</color>",
+    "de-DE": "<b>[era_purple]Blöcke abbauen</color>"
+  },
+
+  "PLAYER_BLOCK_FERTILIZE.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can fertilize blocks and plants.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Blöcke und Pflanzen düngen können.</color>"
+  },
+  "PLAYER_BLOCK_FERTILIZE.name": {
+    "en-US": "<b>[era_purple]Fertilize Blocks</color>",
+    "de-DE": "<b>[era_purple]Blöcke düngen</color>"
+  },
+
+  "PLAYER_BLOCK_HARVEST.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can harvest crops.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Pflanzen ernten können.</color>"
+  },
+  "PLAYER_BLOCK_HARVEST.name": {
+    "en-US": "<b>[era_purple]Harvest Crops</color>",
+    "de-DE": "<b>[era_purple]Pflanzen ernten</color>"
+  },
+
+  "PLAYER_BLOCK_INTERACT.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can interact with blocks.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, mit Blöcken interagieren können.</color>"
+  },
+  "PLAYER_BLOCK_INTERACT.name": {
+    "en-US": "<b>[era_purple]Interact with Blocks</color>",
+    "de-DE": "<b>[era_purple]Mit Blöcken interagieren</color>"
+  },
+
+  "PLAYER_BLOCK_PLACE.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can place blocks.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Blöcke platzieren können.</color>"
+  },
+  "PLAYER_BLOCK_PLACE.name": {
+    "en-US": "<b>[era_purple]Place Blocks</color>",
+    "de-DE": "<b>[era_purple]Blöcke platzieren</color>"
+  },
+
+  "PLAYER_BLOCK_TRAMPLE.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can trample farmland.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Ackerboden zertrampeln können.</color>"
+  },
+  "PLAYER_BLOCK_TRAMPLE.name": {
+    "en-US": "<b>[era_purple]Trample Farmland</color>",
+    "de-DE": "<b>[era_purple]Ackerboden zertrampeln</color>"
+  },
+
+  "PLAYER_CHEST_ACCESS.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can access chests.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, auf Kisten zugreifen können.</color>"
+  },
+  "PLAYER_CHEST_ACCESS.name": {
+    "en-US": "<b>[era_purple]Chest Access</color>",
+    "de-DE": "<b>[era_purple]Kistenzugriff</color>"
+  },
+
+  "PLAYER_CHORUS_USE.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can use chorus fruit.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Chorusfrüchte benutzen können.</color>"
+  },
+  "PLAYER_CHORUS_USE.name": {
+    "en-US": "<b>[era_purple]Use Chorus Fruit</color>",
+    "de-DE": "<b>[era_purple]Chorusfrüchte benutzen</color>"
+  },
+
+  "PLAYER_CONTAINER_ACCESS.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can access containers.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, auf Container zugreifen können.</color>"
+  },
+  "PLAYER_CONTAINER_ACCESS.name": {
+    "en-US": "<b>[era_purple]Container Access</color>",
+    "de-DE": "<b>[era_purple]Containerzugriff</color>"
+  },
+
+  "PLAYER_EAT_CAKE.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can eat cake.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Kuchen essen können.</color>"
+  },
+  "PLAYER_EAT_CAKE.name": {
+    "en-US": "<b>[era_purple]Eat Cake</color>",
+    "de-DE": "<b>[era_purple]Kuchen essen</color>"
+  },
+
+  "PLAYER_ENDERPEARL_USE.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can use ender pearls.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Enderperlen benutzen können.</color>"
+  },
+  "PLAYER_ENDERPEARL_USE.name": {
+    "en-US": "<b>[era_purple]Use Ender Pearls</color>",
+    "de-DE": "<b>[era_purple]Enderperlen benutzen</color>"
+  },
+
+  "PLAYER_ENTITY_INTERACT.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can interact with entities.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, mit Entitäten interagieren können.</color>"
+  },
+  "PLAYER_ENTITY_INTERACT.name": {
+    "en-US": "<b>[era_purple]Interact with Entities</color>",
+    "de-DE": "<b>[era_purple]Mit Entitäten interagieren</color>"
+  },
+
+  "PLAYER_PLACE_FIREWORKS.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can launch fireworks.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Feuerwerk starten können.</color>"
+  },
+  "PLAYER_PLACE_FIREWORKS.name": {
+    "en-US": "<b>[era_purple]Launch Fireworks</color>",
+    "de-DE": "<b>[era_purple]Feuerwerk starten</color>"
+  },
+
+  "PLAYER_PVP.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can damage other players inside the claim.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, andere Spieler innerhalb des Claims angreifen können.</color>"
+  },
+  "PLAYER_PVP.name": {
+    "en-US": "<b>[era_purple]Player PvP</color>",
+    "de-DE": "<b>[era_purple]Spieler PvP</color>"
+  },
+
+  "PLAYER_PVE.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can damage entities and mobs inside the claim.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Entitäten und Mobs innerhalb des Claims angreifen können.</color>"
+  },
+  "PLAYER_PVE.name": {
+    "en-US": "<b>[era_purple]Player PvE</color>",
+    "de-DE": "<b>[era_purple]Spieler PvE</color>"
+  },
+
+  "PLAYER_ITEM_DROP.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can drop items.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Items fallen lassen können.</color>"
+  },
+  "PLAYER_ITEM_DROP.name": {
+    "en-US": "<b>[era_purple]Drop Items</color>",
+    "de-DE": "<b>[era_purple]Items fallen lassen</color>"
+  },
+
+  "PLAYER_ITEM_PICKUP.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can pick up items.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Items aufsammeln können.</color>"
+  },
+  "PLAYER_ITEM_PICKUP.name": {
+    "en-US": "<b>[era_purple]Pick Up Items</color>",
+    "de-DE": "<b>[era_purple]Items aufsammeln</color>"
+  },
+
+  "PLAYER_USE_BOW.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can use bows.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Bögen benutzen können.</color>"
+  },
+  "PLAYER_USE_BOW.name": {
+    "en-US": "<b>[era_purple]Use Bows</color>",
+    "de-DE": "<b>[era_purple]Bögen benutzen</color>"
+  },
+
+  "PLAYER_USE_SPAWNEGG.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can use spawn eggs.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Spawneier benutzen können.</color>"
+  },
+  "PLAYER_USE_SPAWNEGG.name": {
+    "en-US": "<b>[era_purple]Use Spawn Eggs</color>",
+    "de-DE": "<b>[era_purple]Spawneier benutzen</color>"
+  },
+
+  "PLAYER_THROW_EGG.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can throw eggs.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Eier werfen können.</color>"
+  },
+  "PLAYER_THROW_EGG.name": {
+    "en-US": "<b>[era_purple]Throw Eggs</color>",
+    "de-DE": "<b>[era_purple]Eier werfen</color>"
+  },
+
+  "PLAYER_THROW_ENDEREYE.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can use eyes of ender.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Enderaugen benutzen können.</color>"
+  },
+  "PLAYER_THROW_ENDEREYE.name": {
+    "en-US": "<b>[era_purple]Use Eyes of Ender</color>",
+    "de-DE": "<b>[era_purple]Enderaugen benutzen</color>"
+  },
+
+  "PLAYER_THROW_SNOWBALL.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can throw snowballs.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Schneebälle werfen können.</color>"
+  },
+  "PLAYER_THROW_SNOWBALL.name": {
+    "en-US": "<b>[era_purple]Throw Snowballs</color>",
+    "de-DE": "<b>[era_purple]Schneebälle werfen</color>"
+  },
+
+  "PLAYER_THROW_POTION.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can throw potions.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Tränke werfen können.</color>"
+  },
+  "PLAYER_THROW_POTION.name": {
+    "en-US": "<b>[era_purple]Throw Potions</color>",
+    "de-DE": "<b>[era_purple]Tränke werfen</color>"
+  },
+
+  "PLAYER_THROW_TRIDENT.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can throw tridents.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Dreizacke werfen können.</color>"
+  },
+  "PLAYER_THROW_TRIDENT.name": {
+    "en-US": "<b>[era_purple]Throw Tridents</color>",
+    "de-DE": "<b>[era_purple]Dreizacke werfen</color>"
+  },
+
+  "PLAYER_THROW_WINDCHARGES.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can use wind charges.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Windladungen benutzen können.</color>"
+  },
+  "PLAYER_THROW_WINDCHARGES.name": {
+    "en-US": "<b>[era_purple]Use Wind Charges</color>",
+    "de-DE": "<b>[era_purple]Windladungen benutzen</color>"
+  },
+
+  "PLAYER_USE_ANVIL.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can use anvils.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Ambosse benutzen können.</color>"
+  },
+  "PLAYER_USE_ANVIL.name": {
+    "en-US": "<b>[era_purple]Use Anvils</color>",
+    "de-DE": "<b>[era_purple]Ambosse benutzen</color>"
+  },
+
+  "PLAYER_USE_BED.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can use beds.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Betten benutzen können.</color>"
+  },
+  "PLAYER_USE_BED.name": {
+    "en-US": "<b>[era_purple]Use Beds</color>",
+    "de-DE": "<b>[era_purple]Betten benutzen</color>"
+  },
+
+  "PLAYER_USE_BUTTON.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can use buttons.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Knöpfe benutzen können.</color>"
+  },
+  "PLAYER_USE_BUTTON.name": {
+    "en-US": "<b>[era_purple]Use Buttons</color>",
+    "de-DE": "<b>[era_purple]Knöpfe benutzen</color>"
+  },
+
+  "PLAYER_USE_CAULDRON.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can use cauldrons.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Kessel benutzen können.</color>"
+  },
+  "PLAYER_USE_CAULDRON.name": {
+    "en-US": "<b>[era_purple]Use Cauldrons</color>",
+    "de-DE": "<b>[era_purple]Kessel benutzen</color>"
+  },
+
+  "PLAYER_USE_DOOR.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can open and close doors.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Türen öffnen und schließen können.</color>"
+  },
+  "PLAYER_USE_DOOR.name": {
+    "en-US": "<b>[era_purple]Use Doors</color>",
+    "de-DE": "<b>[era_purple]Türen benutzen</color>"
+  },
+
+  "PLAYER_USE_GOAT_HORN.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can use goat horns.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Ziegenhörner benutzen können.</color>"
+  },
+  "PLAYER_USE_GOAT_HORN.name": {
+    "en-US": "<b>[era_purple]Use Goat Horns</color>",
+    "de-DE": "<b>[era_purple]Ziegenhörner benutzen</color>"
+  },
+
+  "PLAYER_USE_LIGHTER.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can use flint and steel or fire charges.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Feuerzeuge oder Feuerkugeln benutzen können.</color>"
+  },
+  "PLAYER_USE_LIGHTER.name": {
+    "en-US": "<b>[era_purple]Use Lighters</color>",
+    "de-DE": "<b>[era_purple]Feuerzeuge benutzen</color>"
+  },
+
+  "PLAYER_USE_PRESSURE_PLATE.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can activate pressure plates.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Druckplatten aktivieren können.</color>"
+  },
+  "PLAYER_USE_PRESSURE_PLATE.name": {
+    "en-US": "<b>[era_purple]Use Pressure Plates</color>",
+    "de-DE": "<b>[era_purple]Druckplatten benutzen</color>"
+  },
+
+  "PLAYER_SIGN_INTERACT.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can interact with signs.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, mit Schildern interagieren können.</color>"
+  },
+  "PLAYER_SIGN_INTERACT.name": {
+    "en-US": "<b>[era_purple]Interact with Signs</color>",
+    "de-DE": "<b>[era_purple]Mit Schildern interagieren</color>"
+  },
+
+  "PLAYER_TRIPWIRE_INTERACT.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can activate tripwires.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Stolperdrähte aktivieren können.</color>"
+  },
+  "PLAYER_TRIPWIRE_INTERACT.name": {
+    "en-US": "<b>[era_purple]Activate Tripwires</color>",
+    "de-DE": "<b>[era_purple]Stolperdrähte aktivieren</color>"
+  },
+
+  "PLAYER_VEHICLE_USE.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can use vehicles such as boats and minecarts.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, Fahrzeuge wie Boote und Loren benutzen können.</color>"
+  },
+  "PLAYER_VEHICLE_USE.name": {
+    "en-US": "<b>[era_purple]Use Vehicles</color>",
+    "de-DE": "<b>[era_purple]Fahrzeuge benutzen</color>"
+  },
+
+  "PLAYER_VILLAGER_INTERACT.description": {
+    "en-US": "[grey]Whether [red]non-members</color> can interact and trade with villagers.</color>",
+    "de-DE": "[grey]Ob Spieler, die [red]keine Mitglied</color> des [blue]Claims</color> sind, mit Dorfbewohnern interagieren und handeln können.</color>"
+  },
+  "PLAYER_VILLAGER_INTERACT.name": {
+    "en-US": "<b>[era_purple]Villager Interaction</color>",
+    "de-DE": "<b>[era_purple]Dorfbewohner Interaktion</color>"
+  },
+  "GUI.lore.true": {
+    "de-DE": "<!i>[grey]<b>[green][HEAVY_CHECK_MARK]</color></b> Aktuell: [green]Aktiviert</color></color><br><br><!i>[grey][blue][ARROW]</color> [description]</color><br><br><!i>[grey]Klicke, um diese Flag zu [darker_red]deaktivieren</color>!</color>",
+    "en-US": "<!i>[grey]<b>[green][HEAVY_CHECK_MARK]</color></b> Current: [green]Enabled</color></color><br><br><!i>[grey][blue][ARROW]</color> [description]</color><br><br><!i>[grey]Click to [darker_red]disable</color> this flag!</color>"
+  },
+  "GUI.lore.false": {
+    "de-DE": "<!i>[grey]<b>[darker_red][HEAVY_MULTIPLICATION_X]</color></b> Aktuell: [darker_red]Deaktiviert</color></color><br><br><!i>[grey][blue][ARROW]</color> [description]</color><br><br><!i>[grey]Klicke, um diese Flag zu [green]aktivieren</color>!</color>",
+    "en-US": "<!i>[grey]<b>[darker_red][HEAVY_MULTIPLICATION_X]</color></b> Current: [darker_red]Disabled</color></color><br><br><!i>[grey][blue][ARROW]</color> [description]</color><br><br><!i>[grey]Click to [green]enable</color> this flag!</color>"
+  }
+}
