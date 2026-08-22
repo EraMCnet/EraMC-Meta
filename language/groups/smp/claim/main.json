@@ -20,8 +20,8 @@
         "en-US": "[grey]This [blue]chunk</color> is [darker_red]already claimed</color>!</color>"
     },
     "CLAIM.delete.error.not_claimed": {
-        "de-DE": "[grey]Dieser [blue]Chunk</color> gehört [darker_red]nicht</color> zu deinem [blue]Claim</color>!",
-        "en-US": "[grey]This [blue]chunk</color> does [darker_red]not</color> belong to your [blue]claim</color>!"
+        "de-DE": "[grey]Dieser [blue]Chunk</color> ist [darker_red]nicht</color> zu [blue]beansprucht</color>!",
+        "en-US": "[grey]This [blue]chunk</color> is [darker_red]not</color> [blue]claimed</color>!"
     },
     "CLAIM.delete.error.not_owner": {
         "de-DE": "[grey]Dieser [blue]Chunk</color> gehört [darker_red]nicht</color> dir!",
