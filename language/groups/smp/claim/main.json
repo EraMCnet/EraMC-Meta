@@ -1,5 +1,5 @@
 {
-    "CLAIM.create.limit": {
+    "CLAIM.create.error.limit": {
         "de-DE": "[grey]Du hast das [darker_red]Maximum</color> an [blue]Claims</color> <dark_grey>([red][limit]</color> [grey]/</color> [green][max]</color>)</dark_grey> erreicht!</color>",
         "en-US": "[grey]You have reached the [darker_red]maximum</color> number of [blue]claims</color> <dark_grey>([red][limit]</color> [grey]/</color> [green][max]</color>)</dark_grey>!</color>"
     },
