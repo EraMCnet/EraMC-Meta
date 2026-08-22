@@ -682,11 +682,11 @@
     "en-US": "<!i>[grey]<b>[darker_red][HEAVY_MULTIPLICATION_X]</color></b> Current: [darker_red]Disabled</color></color><br><!i>[grey]<b>[blue][FLAG]</color></b> Default: [blue][default_value]</color></color><br><br><!i>[grey][blue][ARROW]</color> [description]</color><br><br><!i>[grey]Click to [green]enable</color> this flag!</color>"
   },
   "GUI.item.reset.name": {
-    "de-DE": "<b>[red]Alle Flags zurücksetzuen</color>",
-    "en-US": "<b>[red]Reset all flags</color>"
+    "de-DE": "<!i>[red]Alle Flags zurücksetzuen</color>",
+    "en-US": "<!i>[red]Reset all flags</color>"
   },
   "GUI.item.reset.lore": {
-    "de-DE": "<!i>[grey]Klicke, um alle Flags auf ihre [green]Standardwerte</color> [darker_red]zurückzusetzen</color>!</color>",
-    "en-US": "<!i>[grey]Click to [darker_red]reset</color> all flags to their [green]default values</color>!</color>"
+    "de-DE": "<br><!i>[grey][blue][ARROW]</color> Klicke, um alle Flags auf ihre [green]Standardwerte</color> [darker_red]zurückzusetzen</color>!</color><br>",
+    "en-US": "<br><!i>[grey][blue][ARROW]</color> Click to [darker_red]reset</color> all flags to their [green]default values</color>!</color><br>"
   }
 }
