@@ -35,6 +35,46 @@
         "de-DE": "[grey]Du hast [green]erfolgreich</color> [blue][count]</color> [blue]Chunks</color> freigegeben!</color>",
         "en-US": "[grey]You have [green]successfully</color> unclaimed [blue][count]</color> [blue]chunks</color>!</color>"
     },
+    "CLAIM.setname.success": {
+        "de-DE": "[grey]Du hast den [blue]Claim</color> [yellow][claim_name]</color> [green]erfolgreich</color> umbenannt!</color>",
+        "en-US": "[grey]You have [green]successfully</color> renamed the [blue]claim</color> [yellow][claim_name]</color>!"
+    },
+    "CLAIM.error.not_found": {
+        "de-DE": "[grey]Dieser [blue]Claim</color> wurde [darker_red]nicht gefunden</color>!",
+        "en-US": "[grey]This [blue]claim</color> was [darker_red]not found</color>!"
+    },
+    "CLAIM.error.not_member": {
+        "de-DE": "[grey]Du bist [darker_red]kein Mitglied</color> dieses [blue]Claims</color>!",
+        "en-US": "[grey]You are [darker_red]not a member</color> of this [blue]claim</color>!"
+    },
+    "CLAIM.error.not_owner": {
+        "de-DE": "[grey]Du bist [darker_red]nicht der Besitzer</color> dieses [blue]Claims</color>!",
+        "en-US": "[grey]You are [darker_red]not the owner</color> of this [blue]claim</color>!"
+    },
+    "CLAIM.members.add.success": {
+        "de-DE": "[grey]Du hast [green]erfolgreich</color> [blue][player]</color> als [blue]Mitglied</color> zu diesem [blue]Claim</color> hinzugefügt!",
+        "en-US": "[grey]You have [green]successfully</color> added [blue][player]</color> as a [blue]member</color> to this [blue]claim</color>!"
+    },
+    "CLAIM.members.remove.success": {
+        "de-DE": "[grey]Du hast [green]erfolgreich</color> [blue][player]</color> als [blue]Mitglied</color> aus diesem [blue]Claim</color> entfernt!",
+        "en-US": "[grey]You have [green]successfully</color> removed [blue][player]</color> as a [blue]member</color> from this [blue]claim</color>!"
+    },
+    "CLAIM.members.remove.error.not_member": {
+        "de-DE": "[grey]Dieser [blue]Spieler</color> ist [darker_red]kein Mitglied</color> dieses [blue]Claims</color>!",
+        "en-US": "[grey]This [blue]player</color> is [darker_red]not a member</color> of this [blue]claim</color>!"
+    },
+    "CLAIM.members.add.error.already_member": {
+        "de-DE": "[grey]Dieser [blue]Spieler</color> ist [darker_red]bereits Mitglied</color> dieses [blue]Claims</color>!",
+        "en-US": "[grey]This [blue]player</color> is [darker_red]already a member</color> of this [blue]claim</color>!"
+    },
+    "CLAIM.admin.mode.enabled": {
+        "de-DE": "[grey]Du hast den [blue]Claim Admin-Modus</color> [green]aktiviert</color>!",
+        "en-US": "[grey]You have [green]enabled</color> the [blue]claim admin mode</color>!"
+    },
+    "CLAIM.admin.mode.disabled": {
+        "de-DE": "[grey]Du hast den [blue]Claim Admin-Modus</color> [red]deaktiviert</color>!",
+        "en-US": "[grey]You have [red]disabled</color> the [blue]claim admin mode</color>!"
+    },
     "GUI.list.item.trusted": {
         "de-DE": "[grey]Du kannst dieses Claim sehen, da du ein Mitglied bist.",
         "en-US": "[grey]You can see this claim because you are a member."
