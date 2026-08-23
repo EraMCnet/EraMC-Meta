@@ -47,6 +47,10 @@
         "de-DE": "[grey]Du befindest dich [darker_red]nicht</color> in einem [blue]Claim</color>!",
         "en-US": "[grey]You are [darker_red]not</color> in a [blue]claim</color>!"
     },
+    "CLAIM.transfer.error.pending": {
+        "de-DE": "[grey]Dieses [blue]Claim</color> wird [darker_red]bereits</color> [blue]übertragen</color></color>!",
+        "en-US": "[grey]This [blue]claim</color> is [darker_red]already</color> being [blue]transferred</color></color>!"
+    },
     "CLAIM.error.not_member": {
         "de-DE": "[grey]Du bist [darker_red]kein Mitglied</color> dieses [blue]Claims</color>!",
         "en-US": "[grey]You are [darker_red]not a member</color> of this [blue]claim</color>!"
