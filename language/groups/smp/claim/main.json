@@ -34,5 +34,21 @@
     "CLAIM.delete.success.multiple_chunks": {
         "de-DE": "[grey]Du hast [green]erfolgreich</color> [blue][count]</color> [blue]Chunks</color> freigegeben!</color>",
         "en-US": "[grey]You have [green]successfully</color> unclaimed [blue][count]</color> [blue]chunks</color>!</color>"
+    },
+    "GUI.list.item.trusted": {
+        "de-DE": "[grey]Du kannst dieses Claim sehen, da du ein Mitglied bist.",
+        "en-US": "[grey]You can see this claim because you are a member."
+    },
+    "GUI.list.item.owner": {
+        "de-DE": "[grey]Du kannst dieses Claim sehen, da du der Besitzer bist.",
+        "en-US": "[grey]You can see this claim because you are the owner."
+    },
+    "GUI.list.item": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Koordinaten: [blue][x], [y], [z]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Welt: [blue][world]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Chunks: [blue][chunks]</color></color><br><br><br><!i>[grey]Klicke, um dich zu diesem [blue]Claim</color> zu teleportieren.</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Coordinates: [blue][x], [y], [z]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> World: [blue][world]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Chunks: [blue][chunks]</color></color><br><br><br><!i>[grey]Click to teleport to this [blue]claim</color>.</color>"
+    },
+    "GUI.list.item.named": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Name: [blue][name]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Koordinaten: [blue][x], [y], [z]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Welt: [blue][world]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Chunks: [blue][chunks]</color></color><br><br><br><!i>[grey]Klicke, um dich zu diesem [blue]Claim</color> zu teleportieren.</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Name: [blue][name]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Coordinates: [blue][x], [y], [z]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> World: [blue][world]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Chunks: [blue][chunks]</color></color><br><br><br><!i>[grey]Click to teleport to this [blue]claim</color>.</color>"
     }
 }
