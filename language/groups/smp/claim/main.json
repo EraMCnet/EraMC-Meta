@@ -39,9 +39,17 @@
         "de-DE": "[grey]Du hast den [blue]Claim</color> [yellow][claim_name]</color> [green]erfolgreich</color> umbenannt!</color>",
         "en-US": "[grey]You have [green]successfully</color> renamed the [blue]claim</color> [yellow][claim_name]</color>!"
     },
-    "CLAIM.transfer.accept.error.not_pending": {
+    "CLAIM.transfer.error.not_pending": {
         "de-DE": "[grey]Dieser [blue]Claim</color> wird [darker_red]nicht</color> [blue]übertragen</color>!",
         "en-US": "[grey]This [blue]claim</color> is [darker_red]not</color> being [blue]transferred</color>!"
+    },
+    "CLAIM.transfer.cancel.success": {
+        "de-DE": "[grey]Du hast die [blue]Übertragung</color> dieses [blue]Claims</color> [green]erfolgreich</color> abgebrochen!",
+        "en-US": "[grey]You have [green]successfully</color> canceled the [blue]transfer</color> of this [blue]claim</color>!"
+    },
+    "CLAIM.transfer.deny.success": {
+        "de-DE": "[grey]Du hast die [blue]Übertragung</color> dieses [blue]Claims</color> [green]erfolgreich</color> abgelehnt!",
+        "en-US": "[grey]You have [green]successfully</color> denied the [blue]transfer</color> of this [blue]claim</color>!"
     },
     "CLAIM.transfer.accept.success": {
         "de-DE": "[grey]Du hast die [blue]Übertragung</color> dieses [blue]Claims</color> [green]erfolgreich</color> angenommen! Das [blue]Claim</color> von [era_purple][player]</color> gehört jetzt dir!</color>",
