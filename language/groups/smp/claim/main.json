@@ -152,12 +152,12 @@
         "en-US": "[red]Claim admin mode enabled</color>"
     },
     "GUI.list.item.trusted": {
-        "de-DE": "[grey]Du kannst dieses Claim sehen, da du ein Mitglied bist.",
-        "en-US": "[grey]You can see this claim because you are a member."
+        "de-DE": "[grey]Du kannst dieses Claim sehen, da du [pastel_pink]ein Mitglied</color> bist.",
+        "en-US": "[grey]You can see this claim because you are pastel_pink]a member</color>."
     },
     "GUI.list.item.owner": {
-        "de-DE": "[grey]Du kannst dieses Claim sehen, da du der Besitzer bist.",
-        "en-US": "[grey]You can see this claim because you are the owner."
+        "de-DE": "[grey]Du kannst dieses Claim sehen, da du [green]der Besitzer</color> bist.",
+        "en-US": "[grey]You can see this claim because you are [green]the owner</color>."
     },
     "GUI.list.item.admin": {
         "de-DE": "[grey]Du kannst dieses Claim sehen, da du im [red]Claim Admin-Modus</color> bist.",
