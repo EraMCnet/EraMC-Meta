@@ -63,6 +63,10 @@
         "de-DE": "[grey]Dein Freund [era_purple][player]</color> spielt jetzt [era_purple][server]!</color></color>",
         "en-US": "[grey]Your friend [era_purple][player]</color> is now playing [era_purple][server]!</color></color>"
     },
+    "GENERAL.pending.requests": {
+        "de-DE": "[grey]Du hast aktuell [era_purple][pending]</color> offene [era_purple]Freundschaftsanfragen!</color></color>",
+        "en-US": "[grey]You currently have [era_purple][pending]</color> open [era_purple]friend requests!</color></color>"
+    },
     "ERROR.friend.jump.disabled": {
         "de-DE": "[grey][era_purple][player]</color> hat das [era_purple]Nachspringen</color> zu sich [red]deaktiviert!</color></color>",
         "en-US": "[grey][era_purple][player]</color> has [red]disabled</color> [era_purple]jumping</color> to him!</color>"
@@ -156,11 +160,11 @@
         "en-US": "[grey]Your friends will [red]no longer</color> be notified when you switch the [era_purple]server!</color></color>"
     },
     "GENERAL.setting.notify.request.get.enable": {
-        "de-DE": "[grey]Du wirst nun [era_purple]benachrichtigt</color>, wenn du eine [era_purple]Freundschaftsanfrage</color> erhältst!</color></color>",
+        "de-DE": "[grey]Du wirst nun [era_purple]benachrichtigt</color>, wenn du eine [era_purple]Freundschaftsanfrage</color> erhältst!</color>",
         "en-US": "[grey]You will now be [era_purple]notified</color> when you receive a [era_purple]friend request!</color></color>"
     },
     "GENERAL.setting.notify.request.get.disable": {
-        "de-DE": "[grey]Du wirst nun [red]nicht</color> mehr benachrichtigt, wenn du eine [era_purple]Freundschaftsanfrage</color> erhältst!</color></color>",
+        "de-DE": "[grey]Du wirst nun [red]nicht</color> mehr benachrichtigt, wenn du eine [era_purple]Freundschaftsanfrage</color> erhältst!</color>",
         "en-US": "[grey]You will [red]no longer</color> be notified when you receive a [era_purple]friend request!</color></color>"
     },
     "GENERAL.setting.notify.friends.online.enable": {
@@ -180,67 +184,67 @@
         "en-US": "[grey]You will [red]no longer</color> be shown how many [era_purple]friend requests</color> you have open when you join the server!</color>"
     },
     "GENERAL.setting.notify.friend.remove.enable": {
-        "de-DE": "[grey]Du wirst nun [era_purple]benachrichtigt</color>, wenn dich ein [era_purple]Freund</color> aus seiner [era_purple]Freundesliste</color> entfernt!</color></color>",
+        "de-DE": "[grey]Du wirst nun [era_purple]benachrichtigt</color>, wenn dich ein [era_purple]Freund</color> aus seiner [era_purple]Freundesliste</color> entfernt!</color>",
         "en-US": "[grey]You will now be [era_purple]notified</color> when a [era_purple]friend</color> removes you from his [era_purple]friendlist!</color></color>"
     },
     "GENERAL.setting.notify.friend.remove.disable": {
-        "de-DE": "[grey]Du wirst nun [red]nicht</color> mehr benachrichtigt, wenn dich ein [era_purple]Freund</color> aus seiner [era_purple]Freundesliste</color> entfernt!</color></color>",
+        "de-DE": "[grey]Du wirst nun [red]nicht</color> mehr benachrichtigt, wenn dich ein [era_purple]Freund</color> aus seiner [era_purple]Freundesliste</color> entfernt!</color>",
         "en-US": "[grey]You will [red]no longer</color> be notified when a [era_purple]friend</color> removes you from his [era_purple]friendlist!</color></color>"
     },
     "GENERAL.setting.notify.friend.remove.enable.other": {
-        "de-DE": "[grey]Deine Freunde werden nun [era_purple]benachrichtigt</color>, wenn du sie aus deiner [era_purple]Freundesliste</color> entfernst!</color></color>",
+        "de-DE": "[grey]Deine Freunde werden nun [era_purple]benachrichtigt</color>, wenn du sie aus deiner [era_purple]Freundesliste</color> entfernst!</color>",
         "en-US": "[grey]Your friends will now be [era_purple]notified</color> when you remove them from your [era_purple]friendlist!</color></color>"
     },
     "GENERAL.setting.notify.friend.remove.disable.other": {
-        "de-DE": "[grey]Deine Freunde werden nun [red]nicht</color> mehr benachrichtigt, wenn du sie aus deiner [era_purple]Freundesliste</color> entfernst!</color></color>",
+        "de-DE": "[grey]Deine Freunde werden nun [red]nicht</color> mehr benachrichtigt, wenn du sie aus deiner [era_purple]Freundesliste</color> entfernst!</color>",
         "en-US": "[grey]Your friends will [red]no longer</color> be notified when you remove them from your [era_purple]friendlist!</color></color>"
     },
     "GENERAL.setting.notify.request.accept.enable": {
-        "de-DE": "[grey]Du wirst nun [era_purple]benachrichtigt</color>, wenn eine [era_purple]Freundschaftsanfrage</color> angenommen wird!</color></color>",
-        "en-US": "[grey]You will now be [era_purple]notified</color> when a [era_purple]friend request</color> is accepted!</color></color>"
+        "de-DE": "[grey]Du wirst nun [era_purple]benachrichtigt</color>, wenn eine [era_purple]Freundschaftsanfrage</color> angenommen wird!</color>",
+        "en-US": "[grey]You will now be [era_purple]notified</color> when a [era_purple]friend request</color> is accepted!</color>"
     },
     "GENERAL.setting.notify.request.accept.disable": {
-        "de-DE": "[grey]Du wirst nun [red]nicht</color> mehr benachrichtigt, wenn eine [era_purple]Freundschaftsanfrage</color> angenommen wird!</color></color>",
-        "en-US": "[grey]You will [red]no longer</color> be notified when a [era_purple]friend request</color> is accepted!</color></color>"
+        "de-DE": "[grey]Du wirst nun [red]nicht</color> mehr benachrichtigt, wenn eine [era_purple]Freundschaftsanfrage</color> angenommen wird!</color>",
+        "en-US": "[grey]You will [red]no longer</color> be notified when a [era_purple]friend request</color> is accepted!</color>"
     },
     "GENERAL.setting.notify.request.accept.enable.other": {
-        "de-DE": "[grey]Der Spieler, der dir eine [era_purple]Freundschaftsanfrage</color> gesendet hat, wird nun [era_purple]benachrichtigt</color>, wenn du seine [era_purple]Freundschaftsanfrage</color> annimmst!</color></color>",
+        "de-DE": "[grey]Der Spieler, der dir eine [era_purple]Freundschaftsanfrage</color> gesendet hat, wird nun [era_purple]benachrichtigt</color>, wenn du seine [era_purple]Freundschaftsanfrage</color> annimmst!</color>",
         "en-US": "[grey]The player who sent you a [era_purple]friend request</color> will now be [era_purple]notified</color> when you accept his [era_purple]friend request!</color></color>"
     },
     "GENERAL.setting.notify.request.accept.disable.other": {
-        "de-DE": "[grey]Der Spieler, der dir eine [era_purple]Freundschaftsanfrage</color> gesendet hat, wird nun [red]nicht</color> mehr benachrichtigt, wenn du seine [era_purple]Freundschaftsanfrage</color> annimmst!</color></color>",
+        "de-DE": "[grey]Der Spieler, der dir eine [era_purple]Freundschaftsanfrage</color> gesendet hat, wird nun [red]nicht</color> mehr benachrichtigt, wenn du seine [era_purple]Freundschaftsanfrage</color> annimmst!</color>",
         "en-US": "[grey]The player who sent you a [era_purple]friend request</color> will now [red]no longer</color> be notified when you accept his [era_purple]friend request!</color></color>"
     },
     "GENERAL.setting.notify.request.deny.enable": {
-        "de-DE": "[grey]Du wirst nun [era_purple]benachrichtigt</color>, wenn eine [era_purple]Freundschaftsanfrage</color> abgelehnt wird!</color></color>",
-        "en-US": "[grey]You will now be [era_purple]notified</color> when a [era_purple]friend request</color> is denied!</color></color>"
+        "de-DE": "[grey]Du wirst nun [era_purple]benachrichtigt</color>, wenn eine [era_purple]Freundschaftsanfrage</color> abgelehnt wird!</color>",
+        "en-US": "[grey]You will now be [era_purple]notified</color> when a [era_purple]friend request</color> is denied!</color>"
     },
     "GENERAL.setting.notify.request.deny.disable": {
-        "de-DE": "[grey]Du wirst nun [red]nicht</color> mehr benachrichtigt, wenn eine [era_purple]Freundschaftsanfrage</color> abgelehnt wird!</color></color>",
-        "en-US": "[grey]You will [red]no longer</color> be notified when a [era_purple]friend request</color> is denied!</color></color>"
+        "de-DE": "[grey]Du wirst nun [red]nicht</color> mehr benachrichtigt, wenn eine [era_purple]Freundschaftsanfrage</color> abgelehnt wird!</color>",
+        "en-US": "[grey]You will [red]no longer</color> be notified when a [era_purple]friend request</color> is denied!</color>"
     },
     "GENERAL.setting.notify.request.deny.enable.other": {
-        "de-DE": "[grey]Der Spieler, der dir eine [era_purple]Freundschaftsanfrage</color> gesendet hat, wird nun [era_purple]benachrichtigt</color>, wenn du seine [era_purple]Freundschaftsanfrage</color> ablehnst!</color></color>",
+        "de-DE": "[grey]Der Spieler, der dir eine [era_purple]Freundschaftsanfrage</color> gesendet hat, wird nun [era_purple]benachrichtigt</color>, wenn du seine [era_purple]Freundschaftsanfrage</color> ablehnst!</color>",
         "en-US": "[grey]The player who sent you a [era_purple]friend request</color> will now be [era_purple]notified</color> when you deny his [era_purple]friend request!</color></color>"
     },
     "GENERAL.setting.notify.request.deny.disable.other": {
-        "de-DE": "[grey]Der Spieler, der dir eine [era_purple]Freundschaftsanfrage</color> gesendet hat, wird nun [red]nicht</color> mehr benachrichtigt, wenn du seine [era_purple]Freundschaftsanfrage</color> ablehnst!</color></color>",
+        "de-DE": "[grey]Der Spieler, der dir eine [era_purple]Freundschaftsanfrage</color> gesendet hat, wird nun [red]nicht</color> mehr benachrichtigt, wenn du seine [era_purple]Freundschaftsanfrage</color> ablehnst!</color>",
         "en-US": "[grey]The player who sent you a [era_purple]friend request</color> will now [red]no longer</color> be notified when you deny his [era_purple]friend request!</color></color>"
     },
     "GENERAL.setting.notify.request.revoke.enable": {
-        "de-DE": "[grey]Du wirst nun [era_purple]benachrichtigt</color>, wenn eine [era_purple]Freundschaftsanfrage</color> zurückgezogen wird!</color></color>",
-        "en-US": "[grey]You will now be [era_purple]notified</color> when a [era_purple]friend request</color> is revoked!</color></color>"
+        "de-DE": "[grey]Du wirst nun [era_purple]benachrichtigt</color>, wenn eine [era_purple]Freundschaftsanfrage</color> zurückgezogen wird!</color>",
+        "en-US": "[grey]You will now be [era_purple]notified</color> when a [era_purple]friend request</color> is revoked!</color>"
     },
     "GENERAL.setting.notify.request.revoke.disable": {
-        "de-DE": "[grey]Du wirst nun [red]nicht</color> mehr benachrichtigt, wenn eine [era_purple]Freundschaftsanfrage</color> zurückgezogen wird!</color></color>",
-        "en-US": "[grey]You will [red]no longer</color> be notified when a [era_purple]friend request</color> is revoked!</color></color>"
+        "de-DE": "[grey]Du wirst nun [red]nicht</color> mehr benachrichtigt, wenn eine [era_purple]Freundschaftsanfrage</color> zurückgezogen wird!</color>",
+        "en-US": "[grey]You will [red]no longer</color> be notified when a [era_purple]friend request</color> is revoked!</color>"
     },
     "GENERAL.setting.notify.request.revoke.enable.other": {
-        "de-DE": "[grey]Der Spieler, der dir eine [era_purple]Freundschaftsanfrage</color> gesendet hat, wird nun [era_purple]benachrichtigt</color>, wenn du seine [era_purple]Freundschaftsanfrage</color> zurückziehst!</color></color>",
+        "de-DE": "[grey]Der Spieler, der dir eine [era_purple]Freundschaftsanfrage</color> gesendet hat, wird nun [era_purple]benachrichtigt</color>, wenn du seine [era_purple]Freundschaftsanfrage</color> zurückziehst!</color>",
         "en-US": "[grey]The player who sent you a [era_purple]friend request</color> will now be [era_purple]notified</color> when you revoke his [era_purple]friend request!</color></color>"
     },
     "GENERAL.setting.notify.request.revoke.disable.other": {
-        "de-DE": "[grey]Der Spieler, der dir eine [era_purple]Freundschaftsanfrage</color> gesendet hat, wird nun [red]nicht</color> mehr benachrichtigt, wenn du seine [era_purple]Freundschaftsanfrage</color> zurückziehst!</color></color>",
+        "de-DE": "[grey]Der Spieler, der dir eine [era_purple]Freundschaftsanfrage</color> gesendet hat, wird nun [red]nicht</color> mehr benachrichtigt, wenn du seine [era_purple]Freundschaftsanfrage</color> zurückziehst!</color>",
         "en-US": "[grey]The player who sent you a [era_purple]friend request</color> will now [red]no longer</color> be notified when you revoke his [era_purple]friend request!</color></color>"
     },
     "GENERAL.setting.requests.enable": {
