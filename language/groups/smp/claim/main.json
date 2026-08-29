@@ -159,6 +159,10 @@
         "de-DE": "[grey]Du kannst dieses Claim sehen, da du der Besitzer bist.",
         "en-US": "[grey]You can see this claim because you are the owner."
     },
+    "GUI.list.item.admin": {
+        "de-DE": "[grey]Du kannst dieses Claim sehen, da du im [red]Claim Admin-Modus</color> bist.",
+        "en-US": "[grey]You can see this claim because you are in [red]claim admin mode</color>."
+    },
     "GUI.list.item": {
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Koordinaten: [blue][x], [y], [z]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Welt: [blue][world]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Chunks: [blue][chunks]</color></color><br><br><!i>[grey]Klicke, um dich zu diesem [blue]Claim</color> zu teleportieren.</color>",
         "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Coordinates: [blue][x], [y], [z]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> World: [blue][world]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Chunks: [blue][chunks]</color></color><br><br><!i>[grey]Click to teleport to this [blue]claim</color>.</color>"
