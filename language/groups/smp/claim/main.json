@@ -39,6 +39,10 @@
         "de-DE": "[grey]Du hast den [blue]Claim</color> [yellow][claim_name]</color> [green]erfolgreich</color> umbenannt!</color>",
         "en-US": "[grey]You have [green]successfully</color> renamed the [blue]claim</color> [yellow][claim_name]</color>!"
     },
+    "CLAIM.create.error.not_claimable": {
+        "de-DE": "[grey]Dieser [blue]Chunk</color> kann [darker_red]nicht</color> [blue]beansprucht</color> werden!",
+        "en-US": "[grey]This [blue]chunk</color> cannot be [darker_red]claimed</color>!"
+    },
     "CLAIM.transfer.error.not_pending": {
         "de-DE": "[grey]Dieser [blue]Claim</color> wird [darker_red]nicht</color> [blue]übertragen</color>!",
         "en-US": "[grey]This [blue]claim</color> is [darker_red]not</color> being [blue]transferred</color>!"
