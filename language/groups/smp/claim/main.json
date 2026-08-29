@@ -44,16 +44,16 @@
         "en-US": "[darker_red]<b>Claim Left</b></color>"
     },
     "CLAIM.leave.subtitle": {
-        "de-DE": "Wildniss",
-        "en-US": "Wilderness"
+        "de-DE": "ᴡɪʟᴅɴɪѕѕ",
+        "en-US": "ᴡɪʟᴅᴇʀɴᴇѕѕ"
     },
     "CLAIM.enter.title": {
         "de-DE": "[blue]<b>Claim Betreten</b></color>",
         "en-US": "[blue]<b>Claim Entered</b></color>"
     },
     "CLAIM.enter.subtitle": {
-        "de-DE": "claim von [player]",
-        "en-US": "claim owned by [player]"
+        "de-DE": "ᴄʟᴀɪᴍ ᴠᴏɴ [player]",
+        "en-US": "ᴄʟᴀɪᴍ ᴏᴡɴᴇᴅ ʙʏ [player]"
     },
     "CLAIM.error.not_found": {
         "de-DE": "[grey]Dieser [blue]Claim</color> wurde [darker_red]nicht gefunden</color>!",
