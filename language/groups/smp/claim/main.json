@@ -143,6 +143,14 @@
         "de-DE": "[grey]Du hast den [blue]Claim Admin-Modus</color> [green]aktiviert</color>!",
         "en-US": "[grey]You have [green]enabled</color> the [blue]claim admin mode</color>!"
     },
+    "CLAIM.admin.moderate.enabled": {
+        "de-DE": "[grey]Du hast den [aqua]Claim Mod-Modus</color> [green]aktiviert</color>! [grey]Du kannst jetzt alle [blue]Claims</color> sehen und bearbeiten.",
+        "en-US": "[grey]You have [green]enabled</color> the [aqua]claim mod mode</color>! [grey]You can now see and edit all [blue]claims</color>."
+    },
+    "CLAIM.admin.moderate.disabled": {
+        "de-DE": "[grey]Du hast den [aqua]Claim Mod-Modus</color> [red]deaktiviert</color>! [grey]Du kannst jetzt nur noch deine eigenen [blue]Claims</color> sehen und bearbeiten.",
+        "en-US": "[grey]You have [red]disabled</color> the [aqua]claim mod mode</color>! [grey]You can now only see and edit your own [blue]claims</color>."
+    },
     "CLAIM.admin.mode.disabled": {
         "de-DE": "[grey]Du hast den [blue]Claim Admin-Modus</color> [red]deaktiviert</color>!",
         "en-US": "[grey]You have [red]disabled</color> the [blue]claim admin mode</color>!"
@@ -162,6 +170,10 @@
     "GUI.list.item.admin": {
         "de-DE": "[grey]Du kannst dieses Claim sehen, da du im [red]Claim Admin-Modus</color> bist.",
         "en-US": "[grey]You can see this claim because you are in [red]claim admin mode</color>."
+    },
+    "GUI.list.item.moderator": {
+        "de-DE": "[grey]Du kannst dieses Claim sehen, da du im [aqua]Claim Mod-Modus</color> bist.",
+        "en-US": "[grey]You can see this claim because you are in [aqua]claim mod mode</color>."
     },
     "GUI.list.item": {
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Besitzer: [blue][owner]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Koordinaten: [blue][x], [y], [z]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Welt: [blue][world]</color></color><br><!i>[grey][blue][ROUNDDOT]</color> Chunks: [blue][chunks]</color></color><br><br><!i>[grey]Klicke, um dich zu diesem [blue]Claim</color> zu teleportieren.</color>",
