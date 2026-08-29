@@ -43,6 +43,10 @@
         "de-DE": "[grey]Dieser [blue]Claim</color> wird [darker_red]nicht</color> [blue]übertragen</color>!",
         "en-US": "[grey]This [blue]claim</color> is [darker_red]not</color> being [blue]transferred</color>!"
     },
+    "CLAIM.transfer.accept.success": {
+        "de-DE": "[grey]Du hast die [blue]Übertragung</color> dieses [blue]Claims</color> [green]erfolgreich</color> angenommen! Das [blue]Claim</color> von [era_purple][player]</color> gehört jetzt dir!</color>",
+        "en-US": "[grey]You have [green]successfully</color> accepted the [blue]transfer</color> of this [blue]claim</color>! The [blue]claim</color> from [era_purple][player]</color> now belongs to you!</color>"
+    },
     "CLAIM.transfer.success.initiated": {
         "de-DE": "[grey]Du hast die [blue]Übertragung</color> dieses [blue]Claims</color> an [yellow][player]</color> [green]erfolgreich</color> gestartet!",
         "en-US": "[grey]You have [green]successfully</color> initiated the [blue]transfer</color> of this [blue]claim</color> to [yellow][player]</color>!"
