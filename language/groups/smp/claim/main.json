@@ -43,6 +43,10 @@
         "de-DE": "[grey]Du hast die [blue]Übertragung</color> dieses [blue]Claims</color> an [yellow][player]</color> [green]erfolgreich</color> gestartet!",
         "en-US": "[grey]You have [green]successfully</color> initiated the [blue]transfer</color> of this [blue]claim</color> to [yellow][player]</color>!"
     },
+    "CLAIM.transfer.success.initiated.other": {
+        "de-DE": "[grey][era_purple][player]</color> möchte dir eines seiner [blue]Claims</color> [mint_green_dark]übertragen</color>!<br>                         [green]<b><click:run_command:'/claim accept [claim]'><b>[ANNEHMEN]</b></click></b></color> - [red]<b><click:run_command:'/claim deny [claim]'><b>[ABLEHNEN]</b></click></b></color></color>",
+        "en-US": "[grey][era_purple][player]</color> wants to [mint_green_dark]transfer</color> you one of their [blue]claims</color>!<br>                         [green]<b><click:run_command:'/claim accept [claim]'><b>[ACCEPT]</b></click></b></color> - [red]<b><click:run_command:'/claim deny [claim]'><b>[DENY]</b></click></b></color></color>"
+    },
     "CLAIM.leave.title": {
         "de-DE": "[darker_red]<b>Claim Verlassen</b></color>",
         "en-US": "[darker_red]<b>Claim Left</b></color>"
