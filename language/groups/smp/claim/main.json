@@ -159,6 +159,10 @@
         "de-DE": "[red]Claim Admin-Modus aktiviert</color>",
         "en-US": "[red]Claim admin mode enabled</color>"
     },
+    "CLAIM.admin.moderate.enabled.actionbar": {
+        "de-DE": "[aqua]Claim Mod-Modus aktiviert</color>",
+        "en-US": "[aqua]Claim mod mode enabled</color>"
+    },
     "GUI.list.item.trusted": {
         "de-DE": "[grey]Du kannst dieses Claim sehen, da du [pastel_pink]ein Mitglied</color> bist.",
         "en-US": "[grey]You can see this claim because you are [pastel_pink]a member</color>."
