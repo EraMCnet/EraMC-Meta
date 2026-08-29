@@ -39,6 +39,22 @@
         "de-DE": "[grey]Du hast den [blue]Claim</color> [yellow][claim_name]</color> [green]erfolgreich</color> umbenannt!</color>",
         "en-US": "[grey]You have [green]successfully</color> renamed the [blue]claim</color> [yellow][claim_name]</color>!"
     },
+    "CLAIM.leave.title": {
+        "de-DE": "[darker_red]<b>Claim Verlassen</b></color>",
+        "en-US": "[darker_red]<b>Claim Left</b></color>"
+    },
+    "CLAIM.leave.subtitle": {
+        "de-DE": "[green]Wildniss</color>",
+        "en-US": "[green]Wilderness</color>"
+    },
+    "CLAIM.enter.title": {
+        "de-DE": "[blue]<b>Claim Betreten</b></color>",
+        "en-US": "[blue]<b>Claim Entered</b></color>"
+    },
+    "CLAIM.enter.subtitle": {
+        "de-DE": "[aqua]claim von [player]</color>",
+        "en-US": "[aqua]claim owned by [player]</color>"
+    },
     "CLAIM.error.not_found": {
         "de-DE": "[grey]Dieser [blue]Claim</color> wurde [darker_red]nicht gefunden</color>!",
         "en-US": "[grey]This [blue]claim</color> was [darker_red]not found</color>!"
