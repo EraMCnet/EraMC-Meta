@@ -47,6 +47,22 @@
         "de-DE": "[grey]Du hast die [blue]Übertragung</color> dieses [blue]Claims</color> [green]erfolgreich</color> abgebrochen!",
         "en-US": "[grey]You have [green]successfully</color> canceled the [blue]transfer</color> of this [blue]claim</color>!"
     },
+    "CLAIM.add.member.success": {
+        "de-DE": "[grey]Du hast [green]erfolgreich</color> [blue][player]</color> als [blue]Mitglied</color> zu diesem [blue]Claim</color> hinzugefügt!",
+        "en-US": "[grey]You have [green]successfully</color> added [blue][player]</color> as a [blue]member</color> to this [blue]claim</color>!"
+    },
+    "CLAIM.add.member.error.already_member": {
+        "de-DE": "[grey]Dieser [blue]Spieler</color> ist [darker_red]bereits Mitglied</color> dieses [blue]Claims</color>!",
+        "en-US": "[grey]This [blue]player</color> is [darker_red]already a member</color> of this [blue]claim</color>!"
+    },
+    "CLAIM.remove.member.success": {
+        "de-DE": "[grey]Du hast [green]erfolgreich</color> [blue][player]</color> als [blue]Mitglied</color> aus diesem [blue]Claim</color> entfernt!",
+        "en-US": "[grey]You have [green]successfully</color> removed [blue][player]</color> as a [blue]member</color> from this [blue]claim</color>!"
+    },
+    "CLAIM.remove.member.error.not_member": {
+        "de-DE": "[grey]Dieser [blue]Spieler</color> ist [darker_red]kein Mitglied</color> dieses [blue]Claims</color>!",
+        "en-US": "[grey]This [blue]player</color> is [darker_red]not a member</color> of this [blue]claim</color>!"
+    },
     "CLAIM.transfer.deny.success": {
         "de-DE": "[grey]Du hast die [blue]Übertragung</color> dieses [blue]Claims</color> [green]erfolgreich</color> abgelehnt!",
         "en-US": "[grey]You have [green]successfully</color> denied the [blue]transfer</color> of this [blue]claim</color>!"
