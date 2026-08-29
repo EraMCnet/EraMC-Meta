@@ -355,6 +355,14 @@
         "de-DE": "Nicht",
         "en-US": "Not"
     },
+    "GENERAL.member": {
+        "de-DE": "Mitglied",
+        "en-US": "Member"
+    },
+    "GENERAL.members": {
+        "de-DE": "Mitglieder",
+        "en-US": "Members"
+    },
     "GENERAL.command.discord": {
         "de-DE": "[grey]Trete unserem [era_purple]Discord-Server</color> bei:<br><br>[era_purple]<click:open_url:'https://[server_discord]'><hover:show_text:'[era_purple]Klicke hier, um den Link in deinem Browser zu öffnen!</color>'>[server_discord]</hover></click></color></color><br>",
         "en-US": "[grey]Join our [era_purple]Discord server:</color><br><br>[era_purple]<click:open_url:'https://[server_discord]'><hover:show_text:'[era_purple]Click here to open the link in your browser!</color>'>[server_discord]</hover></click></color></color><br>"
