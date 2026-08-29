@@ -75,6 +75,10 @@
         "de-DE": "Freund-Online-Nachrichten",
         "en-US": "Friend online messages"
     },
+    "friend_requests_pending_count.name": {
+        "de-DE": "Eingehende Freundesanfragen Anzeigen",
+        "en-US": "Show incoming friend requests"
+    },
     "guild_join_requests.name": {
         "de-DE": "Gilden-Beitrittsanfragen",
         "en-US": "Guild join requests"
@@ -190,6 +194,10 @@
     "friend_online_messages.lore.false": {
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, ob du benachrichtigt wirst, wenn [blue]Freunde online</color> kommen.</color><br><br><!i>[grey][blue][ARROW]</color> Klicke um diese [blue]Einstellung</color> zu [green]aktivieren</color>!</color>",
         "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set whether you receive messages when [blue]friends come online</color>.<br><br><!i>[grey][blue][ARROW]</color> Click to [green]enable</color> this [blue]setting</color>!</color>"
+    },
+    "friend_requests_pending_count.lore.true": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, ob du die [blue]Anzahl an ausstehenden Freundesanfragen</color> beim [green]betreten des Servers</color> sehen möchtest.</color><br><br><!i>[grey][blue][ARROW]</color> Klicke um diese [blue]Einstellung</color> zu [red]deaktivieren</color>!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set whether you want to see the [blue]number of pending friend requests</color> when [green]joining the server</color>.<br><br><!i>[grey][blue][ARROW]</color> Click to [red]disable</color> this [blue]setting</color>!</color>"
     },
     "clan_invites.lore.true": {
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, ob du [blue]Clan-Einladungen</color> erhalten möchtest.</color><br><br><!i>[grey][blue][ARROW]</color> Klicke um diese [blue]Einstellung</color> zu [red]deaktivieren</color>!</color>",
