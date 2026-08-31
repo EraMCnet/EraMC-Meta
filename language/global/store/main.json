@@ -1,0 +1,10 @@
+{
+    "SHOP.gui.lore": {
+        "de-DE": "<br><!i>[grey]Klicke hier, um den [era_purple]Link</color> zu erhalten.<br><br><!i>[era_purple][ROUNDDOT]</color> [grey][server_shop]",
+        "en-US": "<br><!i>[grey]Click here to get the [era_purple]link.</color><br><br><!i>[era_purple][ROUNDDOT]</color> [grey][server_shop]"
+    },
+    "SHOP.gui.click.message": {
+        "de-DE": "<click:open_url:'https://[server_shop]'><hover:show_text:'[era_purple][server_shop]'><br>[grey]      <b>[era_purple]SHOP LINK</color></b> (klicke hier)      <br>           <u>[server_shop]</color><br> </hover></click>",
+        "en-US": "<click:open_url:'https://[server_shop]'><hover:show_text:'[era_purple][server_shop]'><br>[grey]      <b>[era_purple]SHOP LINK</color></b> (click here)      <br>           <u>[server_shop]</color><br> </hover></click>"
+    }
+}
