@@ -1,0 +1,10 @@
+{
+    "BROADCAST.charity": {
+        "de-DE": "[grey]Wusstest du schon das diese [pink]BetterAttack Season</color> eine [mint_green_dark]Charity-Season</color> ist? All unser eingenommenes [yellow]Geld</color> wird an eine [pink]Charity Organisation</color> [orange]gespendet!</color></color>",
+        "en-US": "[grey]Did you know that this [pink]BetterAttack Season</color> is a [mint_green_dark]Charity Season</color>? All of our earned [yellow]money</color> will be [orange]donated</color> to a [pink]charity organization</color>!</color>"
+    },
+    "BROADCAST.question": {
+        "de-DE": "[grey]Du hast eine [darker_red]Frage</color> oder [darker_red]weißt nicht weiter?</color> Dann öffne gerne ein [blue]Ticket</color> auf unserem [blurple]Discord Server!</color> ([blurple]/discord</color>)</color>",
+        "en-US": "[grey]Do you have a [darker_red]question</color> or [darker_red]don’t know what to do?</color> Then feel free to open a [blue]ticket</color> on our [blurple]Discord server!</color> ([blurple]/discord</color>)</color>"
+    }
+}
