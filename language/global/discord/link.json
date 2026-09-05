@@ -1,30 +1,26 @@
 {
     "DISCORD.link.success": {
-        "de-DE": "[grey]Dein Minecraft Account ist jetzt mit dem Discord Account [era_purple][discord-name]</color> verlinkt!</color>",
-        "en-US": "[grey]Your Minecraft account is now linked to the Discord account [era_purple][discord-name]!</color></color>"
-    },
-    "DISCORD.link.error": {
-        "de-DE": "[grey]Beim Verlinken ist ein [red]Fehler</color> aufgetreten. Bitte kontaktiere unser [era_purple]Supportteam!</color> (/discord)</color>",
-        "en-US": "[grey]An [red]error</color> occurred while linking. Please contact our [era_purple]support team!</color> (/discord)</color>"
+        "de-DE": "[grey]Dein [era_purple]Minecraft Account</color> ist jetzt mit dem Discord Account [blurple][discord-name]</color> [green]verlinkt</color>!</color>",
+        "en-US": "[grey]Your [era_purple]Minecraft Account</color> is now [green]linked</color> to the Discord account [blurple][discord-name]!</color></color>"
     },
     "DISCORD.link.already": {
-        "de-DE": "[grey]Dein Minecraft Account ist bereits mit einem [era_purple]Discord Account</color> verlinkt!</color>",
-        "en-US": "[grey]Your Minecraft account is already linked to a [era_purple]Discord account!</color></color>"
+        "de-DE": "[grey]Dein [era_purple]Minecraft Account</color> ist [darker_red]bereits</color> mit dem Discord Account [blurple][discord-name]</color> verlinkt!</color>",
+        "en-US": "[grey]Your [era_purple]Minecraft Account</color> is [darker_red]already</color> linked to the Discord account [blurple][discord-name]</color></color>"
     },
     "DISCORD.unlink": {
-        "de-DE": "[grey]Dein Minecraft Account ist jetzt nicht mehr mit deinem [era_purple]Discord Account</color> verlinkt!</color>",
-        "en-US": "[grey]Your Minecraft account is no longer linked to your [era_purple]Discord account!</color></color>"
+        "de-DE": "[grey]Dein [era_purple]Minecraft Account</color> ist jetzt nicht mehr mit deinem [era_purple]Discord Account</color> verlinkt!</color>",
+        "en-US": "[grey]Your [era_purple]Minecraft Account</color> is no longer linked to your [era_purple]Discord account!</color></color>"
     },
     "DISCORD.link": {
-        "de-DE": "[grey]Verlinke deinen [era_purple]Minecraft Account</color> mit deinem [era_purple]Discord Account.</color> Dazu musst du auf Discord den Befehl [era_purple]<hover:show_text:'[era_purple]Klicke zum kopieren</color>'><click:copy_to_clipboard:'[code]'>/link [code]</click></hover></color> eingeben.</color>",
-        "en-US": "[grey]Link your [era_purple]Minecraft account</color> with your [era_purple]Discord account.</color> To do this, you need to enter the command [era_purple]<hover:show_text:'[era_purple]Klicke zum kopieren</color>'><click:copy_to_clipboard:'[code]'>/link [code]</click></hover></color> on Discord.</color>"
+        "de-DE": "[grey]Verlinke deinen [era_purple]Minecraft Account</color> mit deinem [blurple]Discord Account.</color> Dazu musst du auf Discord den Befehl [era_purple]<hover:show_text:'[era_purple]Klicke zum kopieren</color>'><click:copy_to_clipboard:'[code]'>/link [code]</click></hover></color> eingeben.</color>",
+        "en-US": "[grey]Link your [era_purple]Minecraft Account</color> with your [blurple]Discord account.</color> To do this, you need to enter the command [era_purple]<hover:show_text:'[era_purple]Klicke zum kopieren</color>'><click:copy_to_clipboard:'[code]'>/link [code]</click></hover></color> on Discord.</color>"
     },
     "DISCORD.link.already.linked": {
-        "de-DE": "[grey]Dein Minecraft Account ist bereits mit deinem Discord Account verlinkt!</color>",
-        "en-US": "[grey]Your Minecraft account is already linked to your Discord account!</color>"
+        "de-DE": "[grey]Dein [era_purple]Minecraft Account</color> ist [darker_red]bereits</color> mit deinem [blurple]Discord Account</color> verlinkt!</color>",
+        "en-US": "[grey]Your [era_purple]Minecraft Account</color> is [darker_red]already</color> linked to your [blurple]Discord account</color>!</color>"
     },
     "DISCORD.unlink.not.linked": {
-        "de-DE": "[grey]Dein Minecraft Account ist nicht mit einem [era_purple]Discord Account</color> verlinkt!</color>",
-        "en-US": "[grey]Your Minecraft account is not linked to a [era_purple]Discord account!</color></color>"
+        "de-DE": "[grey]Dein [era_purple]Minecraft Account</color> ist [darker_red]nicht</color> mit einem [blurple]Discord Account</color> verlinkt!</color>",
+        "en-US": "[grey]Your [era_purple]Minecraft Account</color> is [darker_red]not</color> linked to a [blurple]Discord account!</color></color>"
     }
 }
