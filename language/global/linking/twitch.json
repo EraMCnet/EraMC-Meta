@@ -1,0 +1,18 @@
+{
+    "LINKING.success": {
+        "de-DE": "[grey]Dein [blue]Minecraft Account</color> ist jetzt mit dem Twitch Account <color:#9146FF>[twitch-name]</color> [green]verlinkt</color>!</color>",
+        "en-US": "[grey]Your [blue]Minecraft Account</color> is now [green]successfully linked</color> to the Twitch account <color:#9146FF>[twitch-name]</color>!</color>"
+    },
+    "LINKING.failure": {
+        "de-DE": "[grey]Dein [blue]Minecraft Account</color> [red]konnte nicht</color> mit deinem <color:#9146FF>Twitch Account</color> [blue]verlinkt werden</color>! (Grund: [darker_red][error]</color>)</color>",
+        "en-US": "[grey]Your [blue]Minecraft Account</color> [red]could not</color> be [blue]linked</color> to your <color:#9146FF>Twitch account</color>! (Reason: [darker_red][error]</color>)</color>"
+    },
+    "LINKING.already_linked": {
+        "de-DE": "[grey]Dein [blue]Minecraft Account</color> ist bereits mit dem Twitch Account <color:#9146FF>[twitch-name]</color> [green]verlinkt</color>!</color>",
+        "en-US": "[grey]Your [blue]Minecraft Account</color> is already [green]linked</color> to the Twitch account <color:#9146FF>[twitch-name]</color>!</color>"
+    },
+    "LINKING.not_linked": {
+        "de-DE": "[grey]Dein [blue]Minecraft Account</color> ist [red]nicht[/color] mit einem Twitch Account [blue]verlinkt[/color]!",
+        "en-US": "[grey]Your [blue]Minecraft Account</color> is [red]not[/color] [blue]linked[/color] to a Twitch account!"
+    }
+}
