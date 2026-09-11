@@ -20,7 +20,7 @@
         "en-US": "[grey]Your [blue]Minecraft Account</color> is now [red]unlinked</color> from the Twitch account <color:#9146FF>[twitch-name]</color>!</color>"
     },
     "LINKING.url": {
-        "de-DE": "[grey]Bitte <hover:show_text:'[era_purple]Klicke hier, um den Link in deinem Browser zu öffnen!'><click:open_url:'[oauth_url]'>[blue]klicke hier</color></click></hover>, um deinen [blue]Minecraft Account</color> mit deinem <color:#9146FF>Twitch Account</color> zu [green]verlinken</color>! [darker_red]<b>BITTE TEILE DIESEN LINK NICHT MIT ANDEREN!</b></color></color>",
-        "en-US": "[grey]Please <hover:show_text:'[era_purple]Click here to open the link in your browser!'><click:open_url:'[oauth_url]'>[blue]click here</color></click></hover> to [green]link</color> your [blue]Minecraft Account</color> to your <color:#9146FF>Twitch account</color>! [darker_red]<b>PLEASE DON'T SHARE THIS LINK WITH OTHERS!</b></color></color>"
+        "de-DE": "[grey]Bitte <hover:show_text:'[era_purple]Klicke hier, um den Link in deinem Browser zu öffnen!</color>'><click:open_url:'[oauth_url]'>[blue]klicke hier</color></click></hover>, um deinen [blue]Minecraft Account</color> mit deinem <color:#9146FF>Twitch Account</color> zu [green]verlinken</color>! [darker_red]<b>BITTE TEILE DIESEN LINK NICHT MIT ANDEREN!</b></color></color>",
+        "en-US": "[grey]Please <hover:show_text:'[era_purple]Click here to open the link in your browser!</color>'><click:open_url:'[oauth_url]'>[blue]click here</color></click></hover> to [green]link</color> your [blue]Minecraft Account</color> to your <color:#9146FF>Twitch account</color>! [darker_red]<b>PLEASE DON'T SHARE THIS LINK WITH OTHERS!</b></color></color>"
     }
 }
