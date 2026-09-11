@@ -8,7 +8,7 @@
         "en-US": "<click:open_url:'https://[server_shop]'><hover:show_text:'[era_purple][server_shop]'><br>[grey]      <b>[era_purple]SHOP LINK</color></b> (click here)      <br>           <u>[server_shop]</color><br> </hover></click>"
     },
     "RANK.bought": {
-        "en-US": "[grey][era_purple][player]</color> just bought the <white>[rank]</white> Rank in our [pink]Store</color>! We [red]thank</color> them for their [green]support</color> [red][HEART]</color>!</color>",
-        "de-DE" : "[grey][era_purple][player]</color> hat gerade den <white>[rank]</white> Rang in unserem [pink]Shop</color> gekauft! Vielen [red]Dank</color> für die [green]Unterstützung</color> [red][HEART]</color>!</color>"
+        "en-US": "[grey][era_purple][player]</color> just bought the <white>[rank]</white> Rank in our [pink]Store</color>! We [ping]thank</color> them for their [green]support</color> [ping][HEART]</color>!</color>",
+        "de-DE" : "[grey][era_purple][player]</color> hat gerade den <white>[rank]</white> Rang in unserem [pink]Shop</color> gekauft! Vielen [ping]Dank</color> für die [green]Unterstützung</color> [ping][HEART]</color>!</color>"
     }
 }
