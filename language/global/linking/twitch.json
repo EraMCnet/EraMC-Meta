@@ -15,7 +15,7 @@
         "de-DE": "[grey]Dein [blue]Minecraft Account</color> ist [red]nicht</color> mit einem Twitch Account [blue]verlinkt</color>!",
         "en-US": "[grey]Your [blue]Minecraft Account</color> is [red]not</color> [blue]linked</color> to a Twitch account!"
     },
-    "LINKING.unlink": {
+    "LINKING.unlinked": {
         "de-DE": "[grey]Dein [blue]Minecraft Account</color> ist jetzt [red]nicht mehr</color> mit dem Twitch Account <color:#9146FF>[twitch-name]</color> [green]verlinkt</color>!",
         "en-US": "[grey]Your [blue]Minecraft Account</color> is now [red]unlinked</color> from the Twitch account <color:#9146FF>[twitch-name]</color>!</color>"
     },
