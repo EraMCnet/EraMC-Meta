@@ -12,7 +12,11 @@
         "en-US": "[grey]Your [blue]Minecraft Account</color> is already [green]linked</color> to the Twitch account <color:#9146FF>[twitch-name]</color>!</color>"
     },
     "LINKING.not_linked": {
-        "de-DE": "[grey]Dein [blue]Minecraft Account</color> ist [red]nicht[/color] mit einem Twitch Account [blue]verlinkt[/color]!",
-        "en-US": "[grey]Your [blue]Minecraft Account</color> is [red]not[/color] [blue]linked[/color] to a Twitch account!"
+        "de-DE": "[grey]Dein [blue]Minecraft Account</color> ist [red]nicht</color> mit einem Twitch Account [blue]verlinkt</color>!",
+        "en-US": "[grey]Your [blue]Minecraft Account</color> is [red]not</color> [blue]linked</color> to a Twitch account!"
+    },
+    "LINKING.url": {
+        "de-DE": "[grey]Bitte <click:open_url:'[oauth_url]'><hover:show_text:'[era_purple]Klicke hier, um den Link in deinem Browser zu öffnen!</color>'>[blue]klicke hier</color></hover></click>, um deinen [blue]Minecraft Account</color> mit deinem <color:#9146FF>Twitch Account</color> zu [green]verlinken</color>! [darker_red]<b>BITTE TEILE DIESEN LINK NICHT MIT ANDEREN!</b></color></color>",
+        "en-US": "[grey]Please <click:open_url:'[oauth_url]'><hover:show_text:'[era_purple]Click here to open the link in your browser!</color>'>[blue]click here</color></hover></click> to [green]link</color> your [blue]Minecraft Account</color> to your <color:#9146FF>Twitch account</color>! [darker_red]<b>PLEASE DON'T SHARE THIS LINK WITH OTHERS!</b></color></color>"
     }
 }
