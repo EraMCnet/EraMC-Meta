@@ -9,6 +9,6 @@
     },
     "RANK.bought": {
         "en-US": "[grey][era_purple][player]</color> just bought the [gold_gradient][rank]</gradient> Rank in our [pink]Store</color>! We [pink]thank</color> them for their [green]support</color> [pink][HEART]</color>!</color>",
-        "de-DE" : "[grey][era_purple][player]</color> hat gerade den  [gold_gradient][rank]</gradient> Rang in unserem [pink]Shop</color> gekauft! Vielen [pink]Dank</color> für die [green]Unterstützung</color> [pink][HEART]</color>!</color>"
+        "de-DE": "[grey][era_purple][player]</color> hat gerade den  [gold_gradient][rank]</gradient> Rang in unserem [pink]Shop</color> gekauft! Vielen [pink]Dank</color> für die [green]Unterstützung</color> [pink][HEART]</color>!</color>"
     }
 }
