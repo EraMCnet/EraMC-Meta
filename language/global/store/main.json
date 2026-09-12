@@ -4,8 +4,8 @@
         "en-US": "<br><!i>[grey]Click here to get the [yellow]link.</color><br><br><!i>[yellow][ROUNDDOT]</color> [grey][server_shop]"
     },
     "SHOP.gui.click.message": {
-        "de-DE": "<click:open_url:'https://[server_shop]'><hover:show_text:'[yellow][server_shop]'><br>[grey]      <b>[gold_gradient]SHOP LINK</gradient></b> (klicke hier)      <br>           <u>[server_shop]</color><br> </hover></click>",
-        "en-US": "<click:open_url:'https://[server_shop]'><hover:show_text:'[yellow][server_shop]'><br>[grey]      <b>[gold_gradient]SHOP LINK</gradient></b> (click here)      <br>           <u>[server_shop]</color><br> </hover></click>"
+        "de-DE": "<click:open_url:'https://[server_shop]'><hover:show_text:'[yellow][server_shop]'><br>[grey]      <b>[gold_gradient]SHOP LINK</gradient></b> (klicke hier)      <br>      <u>[server_shop]</color><br> </hover></click>",
+        "en-US": "<click:open_url:'https://[server_shop]'><hover:show_text:'[yellow][server_shop]'><br>[grey]      <b>[gold_gradient]SHOP LINK</gradient></b> (click here)      <br>       <u>[server_shop]</color><br> </hover></click>"
     },
     "RANK.bought": {
         "en-US": "[grey][era_purple][player]</color> just bought the [gold_gradient][rank]</gradient> Rank in our [pink]Store</color>! We [pink]thank</color> them for their [green]support</color> [pink][HEART]</color>!</color>",
