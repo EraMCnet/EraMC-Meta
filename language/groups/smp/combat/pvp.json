@@ -1,0 +1,10 @@
+{
+    "PVP.on": {
+        "de-DE": "[grey]Du hast [darker_red]PvP</color> jetzt [green]aktiviert</color>! Das heißt das [blue]andere Spieler</color> dich jetzt [red]angreifen</color> können!</color>",
+        "en-US": "[grey]You have [darker_red]PvP</color> now [green]enabled</color>! This means that [blue]other players</color> can now [red]attack</color> you!</color>"
+    },
+    "PVP.off": {
+        "de-DE": "[grey]Du hast [darker_red]PvP</color> jetzt [red]deaktiviert</color>! Das heißt das [blue]andere Spieler</color> dich jetzt [green]nicht mehr angreifen</color> können!</color>",
+        "en-US": "[grey]You have [darker_red]PvP</color> now [red]disabled</color>! This means that [blue]other players</color> can now [green]no longer attack</color> you!</color>"
+    }
+}
