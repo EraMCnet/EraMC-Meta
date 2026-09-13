@@ -87,6 +87,10 @@
         "de-DE": "An",
         "en-US": "On"
     },
+    "GENERAL.off": {
+        "de-DE": "Aus",
+        "en-US": "Off"
+    },
     "GENERAL.aquired": {
         "de-DE": "Erhalten",
         "en-US": "Acquired"
