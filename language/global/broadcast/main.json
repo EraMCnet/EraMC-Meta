@@ -4,7 +4,7 @@
         "en-US": "[grey]Have you joined our [blurple]Discord server</color> yet? If not, you should [mint_green_dark]definitely do so</color> to not miss out on any [green]news</color>, [pink]giveaways</color>, [orange]polls</color> and more! ([blurple]/discord</color>)</color>"
     },
     "BROADCAST.store": {
-        "de-DE": "[grey]Wenn du den Server [green]unterstützen</color> möchtest, besuche doch gerne unseren [purple]Store</color> und sichere dir [purple_gradient]exklusive Vorteile</gradient> indem du dir einen [pink]Rang</color> oder [blue]Crate Keys</color> [yellow]kaufst</color>! ([pink]/store</color>)</color>",
-        "en-US": "[grey]If you want to [green]support</color> the server, feel free to visit our [purple]store</color> and get [purple_gradient]exclusive perks</gradient> by purchasing a [pink]rank</color> or [blue]crate keys</color>! ([pink]/store</color>)</color>"
+        "de-DE": "[grey]Wenn du den Server [green]unterstützen</color> möchtest, besuche doch gerne unseren [purple]Store</color> und sichere dir [purple_gradient]exklusive Vorteile</gradient> indem du dir einen [pink]Rang</color> oder [blue_gradient]Crate Keys</gradient> [yellow]kaufst</color>! ([pink]/store</color>)</color>",
+        "en-US": "[grey]If you want to [green]support</color> the server, feel free to visit our [purple]store</color> and get [purple_gradient]exclusive perks</gradient> by purchasing a [pink]rank</color> or [blue_gradient]crate keys</gradient>! ([pink]/store</color>)</color>"
     }
 }
