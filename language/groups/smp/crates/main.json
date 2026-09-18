@@ -114,5 +114,9 @@
     "CRATE.keyall.timer.receive": {
         "de-DE": "<click:run_command:'/spawn'><hover:show_text:'[era_purple]/spawn'><br>[grey]                         <b>[era_purple]KEYALL</color></b>      <br>           [era_purple]/<u>ꜱᴘᴀᴡɴ</color> ᴜᴍ ᴅᴇɴ ᴋᴇʏ ᴇɪɴᴢᴜʟöꜱᴇɴ</color><br></hover></click>",
         "en-US": "<click:run_command:'/spawn'><hover:show_text:'[era_purple]/spawn'><br>[grey]                         <b>[era_purple]KEYALL</color></b>      <br>              [era_purple]/<u>ꜱᴘᴀᴡɴ</color> ᴛᴏ ʀᴇᴅᴇᴇᴍ ᴛʜᴇ ᴋᴇʏ</color><br></hover></click>"
+    },
+    "CRATE.editor.open-editor": {
+        "de-DE": "<br><!i>[grey][mint_green_dark][ARROW]</color> Klicke hier, um diese [mint_green_dark]Crate</color> zu [mint_green_dark]bearbeiten</color></color><br>",
+        "en-US": "<br><!i>[grey][mint_green_dark][ARROW]</color> Click here to [mint_green_dark]edit</color> this [mint_green_dark]Crate</color></color><br>"
     }
 }
