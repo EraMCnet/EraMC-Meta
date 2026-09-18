@@ -35,7 +35,7 @@
         "de-DE": "<br><!i>[grey][mint_green_dark][ARROW]</color> Klicke hier, um ein neue [mint_green_dark]Items</color> zu [green]hinzuzufügen</color>!</color>",
         "en-US": "<br><!i>[grey][mint_green_dark][ARROW]</color> Click here to [green]add</color> new [mint_green_dark]items</color>!"
     },
-    "CRATE.editor.item.add.name": {
+    "CRATE.editor.items.add.name": {
         "de-DE": "<!i>[mint_green_dark]Neue Items",
         "en-US": "<!i>[mint_green_dark]New Items"
     }
