@@ -24,8 +24,8 @@
         "en-US": "<!i>[mint_green_dark]Items"
     },
     "CRATE.editor.items.lore": {
-        "de-DE": "<br><!i>[grey][mint_green_dark][ARROW]</color> Klicke hier, um [mint_green_dark]Items</color> zu [yellow]bearbeiten</color>!</color>",
-        "en-US": "<br><!i>[grey][mint_green_dark][ARROW]</color> Click here to [yellow]edit</color> [mint_green_dark]items</color>!"
+        "de-DE": "<br><!i>[grey][mint_green_dark][ARROW]</color> Klicke hier, um die [mint_green_dark]Crate-Items</color> zu [yellow]bearbeiten</color>!</color><br>",
+        "en-US": "<br><!i>[grey][mint_green_dark][ARROW]</color> Click here to [yellow]edit</color> the [mint_green_dark]crate items</color>!<br>"
     },
     "CRATE.editor.items.item.lore": {
         "de-DE": "<br><!i>[grey][mint_green_dark][DOT]</color> ID: [mint_green_light][id]</color></color><br><!i>[grey][mint_green_dark][DOT]</color> Limit: [mint_green_light][pulled]</color> / [yellow][max_pulls]</color></color><br><br><!i>[grey][mint_green_dark][ARROW]</color> Klicke, um dieses [mint_green_dark]Item</color> zu [yellow]bearbeiten</color>!</color><br><!i>[grey][mint_green_dark][ARROW]</color> Nutze [red]SHIFT + LINKS KLICK</color> um dieses [mint_green_dark]Item</color> zu [darker_red]löschen</color>!</color>",
