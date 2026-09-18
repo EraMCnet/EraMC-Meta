@@ -1,0 +1,18 @@
+{
+    "CRATE.editor.open-editor": {
+        "de-DE": "<br><!i>[grey][mint_green_dark][ARROW]</color> Klicke hier, um diese [mint_green_dark]Crate</color> zu [mint_green_dark]bearbeiten</color></color><br>",
+        "en-US": "<br><!i>[grey][mint_green_dark][ARROW]</color> Click here to [mint_green_dark]edit</color> this [mint_green_dark]Crate</color></color><br>"
+    },
+    "CRATE.editor.type.name": {
+        "de-DE": "Crate-Typ",
+        "en-US": "Crate Type"
+    },
+    "CRATE.editor.type.lore.selection": {
+        "de-DE": "<br><!i>[grey][mint_green_dark][ARROW]</color> Ändere welchen [mint_green_dark]Typ</color> diese [orange]Crate</color> haben soll.</color><br><br><!i>[mint_green_dark]> Item Auswahl (Spieler können sich das Item aussuchen welches sie bekommen wollen)</color><br><!i>[grey]  Chancen basiert (jedes Item hat eine festgelegte Chance)</color>",
+        "en-US": "<br><!i>[grey][mint_green_dark][ARROW]</color> Change which [mint_green_dark]type</color> this [orange]Crate</color> should have.</color><br><br><!i>[mint_green_dark]> Item Selection (Players can choose the item they want to receive)</color><br><!i>[grey]  Chance-based (Each item has a set chance)</color>"
+    },
+    "CRATE.editor.type.lore.chance-based": {
+        "de-DE": "<br><!i>[grey][mint_green_dark][ARROW]</color> Ändere welchen [mint_green_dark]Typ</color> diese [orange]Crate</color> haben soll.</color><br><br><!i>[grey]  Item Auswahl (Spieler können sich das Item aussuchen welches sie bekommen wollen)</color><br><!i>[mint_green_dark]> Chancen basiert (jedes Item hat eine festgelegte Chance)</color>",
+        "en-US": "<br><!i>[grey][mint_green_dark][ARROW]</color> Change which [mint_green_dark]type</color> this [orange]Crate</color> should have.</color><br><br><!i>[grey]  Item Selection (Players can choose the item they want to receive)</color><br><!i>[mint_green_dark]> Chance-based (Each item has a set chance)</color>"
+    }
+}

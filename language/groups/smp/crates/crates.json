@@ -1,38 +1,6 @@
 {
-    "emerald": {
-        "de-DE": "Emerald Crate",
-        "en-US": "Emerald Crate"
-    },
-    "gold": {
-        "de-DE": "Gold Crate",
-        "en-US": "Gold Crate"
-    },
-    "cherry": {
-        "de-DE": "Cherry Crate",
-        "en-US": "Cherry Crate"
-    },
-    "amethyst": {
-        "de-DE": "Amethyst Crate",
-        "en-US": "Amethyst Crate"
-    },
     "GUI.lore.chance": {
         "de-DE": "<br><br><!i>[era_purple][ARROW]</color> [grey]Chance:</color> [era_purple][chance]%",
         "en-US": "<br><br><!i>[era_purple][ARROW]</color> [grey]Chance:</color> [era_purple][chance]%"
-    },
-    "GUI.page.navigate.lore": {
-        "de-DE": "<i:false><br><i:false>[era_purple][ROUNDDOT][grey] Klicke, zum navigieren<br><i:false>",
-        "en-US": "<i:false><br><i:false>[era_purple][ROUNDDOT][grey] Click to navigate<br><i:false>"
-    },
-    "GUI.page.previous": {
-        "de-DE": "<i:false>[era_purple]ᴠᴏʀʜᴇʀɪɢᴇ ꜱᴇɪᴛᴇ",
-        "en-US": "<i:false>[era_purple]ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ"
-    },
-    "GUI.page.next": {
-        "de-DE": "<i:false>[era_purple]ɴäᴄʜꜱᴛᴇ ꜱᴇɪᴛᴇ",
-        "en-US": "<i:false>[era_purple]ɴᴇxᴛ ᴘᴀɢᴇ"
-    },
-    "GUI.close": {
-        "de-DE": "<i:false>[red]ꜱᴄʜʟɪᴇꜱꜱᴇɴ",
-        "en-US": "<i:false>[red]ᴄʟᴏꜱᴇ"
     }
 }
