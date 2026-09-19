@@ -79,6 +79,10 @@
         "de-DE": "[grey]Der Block [era_purple][location]</color> ist jetzt kein [era_purple]Crate-Block</color> mehr!</color>",
         "en-US": "[grey]The block [era_purple][location]</color> is no longer a [era_purple]crate block!</color></color>"
     },
+    "CRATE.command.block.removeall": {
+        "de-DE": "[grey]Alle [era_purple]Crate-Blöcke</color> der [era_purple]Crate</color> [mint_green_dark][crate]</color> wurden [green]erfolgreich</color> entfernt!</color>",
+        "en-US": "[grey]All [era_purple]crate blocks</color> of the [era_purple]crate</color> [mint_green_dark][crate]</color> have been [green]successfully</color> removed!</color>"
+    },
     "CRATE.command.block.remove.error.notfound": {
         "de-DE": "[grey]Der Block [era_purple][location]</color> ist kein [era_purple]Crate-Block!</color></color>",
         "en-US": "[grey]The block [era_purple][location]</color> is not a [era_purple]crate block!</color></color>"
