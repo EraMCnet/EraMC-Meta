@@ -49,11 +49,19 @@
     },
     "CRATE.command.key.give.self": {
         "de-DE": "[grey]Du hast [era_purple][amount]x</color> [grey][key]</color> erhalten!</color>",
-        "en-US": "[grey]You have received [era_purple][amount]x</color> [grey][key</reset>!</color></color>"
+        "en-US": "[grey]You have received [era_purple][amount]x</color> [grey][key</reset>!</color>"
     },
     "CRATE.command.key.give.other": {
         "de-DE": "[grey]Du hast [era_purple][player] [era_purple][amount]x</color> [grey][key]</color> gegeben.</color>",
         "en-US": "[grey]You have given [era_purple][player] [era_purple][amount]x</color> [grey][key]</color>.</color></color>"
+    },
+    "CRATE.command.key.remove.self": {
+        "de-DE": "[grey]Du hast dir [era_purple][amount]x</color> [grey][key]</color> entfernt!</color>",
+        "en-US": "[grey]You have removed [era_purple][amount]x</color> [grey][key]</color> from yourself!</color>"
+    },
+    "CRATE.command.key.remove.other": {
+        "de-DE": "[grey]Du hast [era_purple][player] [era_purple][amount]x</color> [grey][key]</color> entfernt.</color>",
+        "en-US": "[grey]You have removed [era_purple][amount]x</color> [grey][key]</color> from [era_purple][player]</color>.</color>"
     },
     "CRATE.command.item.add": {
         "de-DE": "[grey]Du hast das [era_purple]Item</color> mit der ID [era_purple][id]</color> [green]erfolgreich</color> zur [era_purple]Crate</color> mit der ID [era_purple][id]</color> hinzugefügt!</color>",
