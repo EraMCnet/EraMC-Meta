@@ -16,7 +16,7 @@
         "en-US": "<br><br><!i>[mint_green_dark][ARROW]</color> [grey]Pickrate:</color> [mint_green_light][pickrate]</color>"
     },
     "GUI.lore.pick": {
-        "de-DE": "<br><br><!i>[mint_green_dark][ARROW]</color> [grey]Pick:</color> [mint_green_light][pick]</color>",
-        "en-US": "<br><br><!i>[mint_green_dark][ARROW]</color> [grey]Pick:</color> [mint_green_light][pick]</color>"
+        "de-DE": "<br><br><!i>[mint_green_dark][DOT]</color> [grey]Pickrate:</color> [mint_green_light][pickrate]</color><br><!i>[mint_green_dark][ARROW]</color> [grey]Klicke, um dieses [mint_green_dark]Item</color> zu [green]bekommen</color>.</color>",
+        "en-US": "<br><br><!i>[mint_green_dark][DOT]</color> [grey]Pickrate:</color> [mint_green_light][pickrate]</color><br><!i>[mint_green_dark][ARROW]</color> [grey]Click to [green]receive</color> this [mint_green_dark]item</color>.</color>"
     }
 }
