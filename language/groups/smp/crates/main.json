@@ -41,7 +41,7 @@
     },
     "CRATE.command.keyall": {
         "de-DE": "[grey]Du hast [era_purple][amount]x</color> [grey][key]</color> [green]erfolgreich</color> an alle Spieler verteilt!</color>",
-        "en-US": "[grey]You have given the [era_purple]Key</color> with the ID [era_purple][id]</color> [green]successfully</color> to all players!</color>"
+        "en-US": "[grey]You have [era_purple][amount]x</color> [grey][key]</color> [green]successfully</color> distributed to all players!</color>"
     },
     "CRATE.command.keyall.receive": {
         "de-DE": "[grey]Du hast [era_purple][amount]x</color> [grey][key]</color> von [era_purple][player]</color> erhalten!</color>",
