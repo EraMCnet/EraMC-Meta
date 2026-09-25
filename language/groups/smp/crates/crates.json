@@ -15,8 +15,12 @@
         "de-DE": "<br><br><!i>[mint_green_dark][ARROW]</color> [grey]Pickrate:</color> [mint_green_light][pickrate]</color>",
         "en-US": "<br><br><!i>[mint_green_dark][ARROW]</color> [grey]Pickrate:</color> [mint_green_light][pickrate]</color>"
     },
+    "GUI.lore.pickrate.limit": {
+        "de-DE": "<br><br><!i>[mint_green_dark][ROUNDDOT]</color> [grey]Pickrate:</color> [mint_green_light][pickrate]</color><br><!i>[mint_green_dark][ROUNDDOT]</color> [grey]Limit: [mint_green_light][pulled]</color> / [yellow][max_pulls]</color></color><br><!i>[mint_green_dark][ARROW]</color> [grey]Klicke, um dieses [mint_green_dark]Item</color> zu [green]bekommen</color>.</color>",
+        "en-US": "<br><br><!i>[mint_green_dark][ROUNDDOT]</color> [grey]Pickrate:</color> [mint_green_light][pickrate]</color><br><!i>[mint_green_dark][ROUNDDOT]</color> [grey]Limit: [mint_green_light][pulled]</color> / [yellow][max_pulls]</color></color><br><!i>[mint_green_dark][ARROW]</color> [grey]Klicke, um dieses [mint_green_dark]Item</color> zu [green]bekommen</color>.</color>"
+    },
     "GUI.lore.pick": {
-        "de-DE": "<br><br><!i>[mint_green_dark][DOT]</color> [grey]Pickrate:</color> [mint_green_light][pickrate]</color><br><!i>[mint_green_dark][ARROW]</color> [grey]Klicke, um dieses [mint_green_dark]Item</color> zu [green]bekommen</color>.</color>",
-        "en-US": "<br><br><!i>[mint_green_dark][DOT]</color> [grey]Pickrate:</color> [mint_green_light][pickrate]</color><br><!i>[mint_green_dark][ARROW]</color> [grey]Click to [green]receive</color> this [mint_green_dark]item</color>.</color>"
+        "de-DE": "<br><br><!i>[mint_green_dark][ROUNDDOT]</color> [grey]Pickrate:</color> [mint_green_light][pickrate]</color><br><!i>[mint_green_dark][ARROW]</color> [grey]Klicke, um dieses [mint_green_dark]Item</color> zu [green]bekommen</color>.</color>",
+        "en-US": "<br><br><!i>[mint_green_dark][ROUNDDOT]</color> [grey]Pickrate:</color> [mint_green_light][pickrate]</color><br><!i>[mint_green_dark][ARROW]</color> [grey]Click to [green]receive</color> this [mint_green_dark]item</color>.</color>"
     }
 }
