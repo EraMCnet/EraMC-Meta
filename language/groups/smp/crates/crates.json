@@ -4,12 +4,12 @@
         "en-US": "<br><br><!i>[mint_green_dark][ARROW]</color> [grey]Chance:</color> [mint_green_dark][chance]"
     },
     "GUI.lore.chance.limit": {
-        "de-DE": "<br><br><!i>[mint_green_dark][ARROW]</color> [grey]Chance:</color> [mint_green_dark][chance]<br><!i>[mint_green_dark][ARROW]</color> [grey]Limit:</color> [mint_green_light][pulled]</color> / [yellow][max_pulls]</color>",
-        "en-US": "<br><br><!i>[mint_green_dark][ARROW]</color> [grey]Chance:</color> [mint_green_dark][chance]<br><!i>[mint_green_dark][ARROW]</color> [grey]Limit:</color> [mint_green_light][pulled]</color> / [yellow][max_pulls]</color>"
+        "de-DE": "<br><br><!i>[mint_green_dark][ARROW]</color> [grey]Chance:</color> [mint_green_dark][chance]<br><!i>[mint_green_dark][ARROW]</color> [grey]Limit: [mint_green_light][pulled]</color> / [yellow][max_pulls]</color></color>",
+        "en-US": "<br><br><!i>[mint_green_dark][ARROW]</color> [grey]Chance:</color> [mint_green_dark][chance]<br><!i>[mint_green_dark][ARROW]</color> [grey]Limit: [mint_green_light][pulled]</color> / [yellow][max_pulls]</color></color>"
     },
     "GUI.lore.limit": {
-        "de-DE": "<br><br><!i>[mint_green_dark][ARROW]</color> [grey]Limit:</color> [mint_green_light][pulled]</color> / [yellow][max_pulls]</color><br><!i>[mint_green_dark][ARROW]</color> [grey]Pickrate:</color> [mint_green_light][pickrate]</color>",
-        "en-US": "<br><br><!i>[mint_green_dark][ARROW]</color> [grey]Limit:</color> [mint_green_light][pulled]</color> / [yellow][max_pulls]</color><br><!i>[mint_green_dark][ARROW]</color> [grey]Pickrate:</color> [mint_green_light][pickrate]</color>"
+        "de-DE": "<br><br><!i>[mint_green_dark][ARROW]</color> [grey]Limit: [mint_green_light][pulled]</color> / [yellow][max_pulls]</color></color><br><!i>[mint_green_dark][ARROW]</color> [grey]Pickrate:</color> [mint_green_light][pickrate]</color>",
+        "en-US": "<br><br><!i>[mint_green_dark][ARROW]</color> [grey]Limit: [mint_green_light][pulled]</color> / [yellow][max_pulls]</color></color><br><!i>[mint_green_dark][ARROW]</color> [grey]Pickrate:</color> [mint_green_light][pickrate]</color>"
     },
     "GUI.lore.pickrate": {
         "de-DE": "<br><br><!i>[mint_green_dark][ARROW]</color> [grey]Pickrate:</color> [mint_green_light][pickrate]</color>",
