@@ -27,6 +27,14 @@
         "de-DE": "[grey]Dieses [mint_green_dark]Item</color> konnte [red]nicht gefunden</color> werden!</color>",
         "en-US": "[grey]This [mint_green_dark]item</color> could [red]not be found</color>!"
     },
+    "CRATE.editor.item.chance.error.invalid": {
+        "de-DE": "[grey]Die [mint_green_dark]Chance</color> muss eine [red]gültige Zahl</color> sein!</color>",
+        "en-US": "[grey]The [mint_green_dark]chance</color> must be a [red]valid number</color>!"
+    },
+    "CREATE.editor.item.limit.error.invalid": {
+        "de-DE": "[grey]Das [mint_green_dark]Limit</color> muss eine [red]gültige Zahl</color> sein!",
+        "en-US": "[grey]The [mint_green_dark]limit</color> must be a [red]valid number</color>!"
+    },
     "CRATE.editor.item.chance.name": {
         "de-DE": "<!i>[mint_green_dark]Chance",
         "en-US": "<!i>[mint_green_dark]Chance"
