@@ -49,7 +49,7 @@
     },
     "CRATE.command.key.give.self": {
         "de-DE": "[grey]Du hast [era_purple][amount]x</color> [grey][key]</color> erhalten!</color>",
-        "en-US": "[grey]You have received [era_purple][amount]x</color> [grey][key</reset>!</color>"
+        "en-US": "[grey]You have received [era_purple][amount]x</color> [grey][key]</color>!</color>"
     },
     "CRATE.command.key.give.other": {
         "de-DE": "[grey]Du hast [era_purple][player] [era_purple][amount]x</color> [grey][key]</color> gegeben.</color>",
