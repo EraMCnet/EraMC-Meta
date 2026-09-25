@@ -23,6 +23,10 @@
         "de-DE": "<!i>[mint_green_dark]Items",
         "en-US": "<!i>[mint_green_dark]Items"
     },
+    "CRATE.editor.items.item.error.notfound": {
+        "de-DE": "[grey]Dieses [mint_green_dark]Item</color> konnte [red]nicht gefunden</color> werden!</color>",
+        "en-US": "[grey]This [mint_green_dark]item</color> could [red]not be found</color>!"
+    },
     "CRATE.editor.item.chance.name": {
         "de-DE": "<!i>[mint_green_dark]Chance",
         "en-US": "<!i>[mint_green_dark]Chance"
