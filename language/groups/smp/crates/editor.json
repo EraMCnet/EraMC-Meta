@@ -23,6 +23,22 @@
         "de-DE": "<!i>[mint_green_dark]Items",
         "en-US": "<!i>[mint_green_dark]Items"
     },
+    "CRATE.editor.item.chance.name": {
+        "de-DE": "<!i>[mint_green_dark]Chance",
+        "en-US": "<!i>[mint_green_dark]Chance"
+    },
+    "CRATE.editor.item.limit.name": {
+        "de-DE": "<!i>[mint_green_dark]Limit",
+        "en-US": "<!i>[mint_green_dark]Limit"
+    },
+    "CRATE.editor.item.chance.lore": {
+        "de-DE": "<br><!i>[grey][mint_green_dark][ARROW]</color> Klicke hier, um die [mint_green_dark]Chance</color> dieses [orange]Items</color> zu [yellow]bearbeiten</color>!</color><br>",
+        "en-US": "<br><!i>[grey][mint_green_dark][ARROW]</color> Click here to [yellow]edit</color> the [mint_green_dark]chance</color> of this [orange]item</color>!<br>"
+    },
+    "CRATE.editor.item.limit.lore": {
+        "de-DE": "<br><!i>[grey][mint_green_dark][ARROW]</color> Klicke hier, um das [mint_green_dark]Limit</color> dieses [orange]Items</color> zu [yellow]bearbeiten</color>!</color><br>",
+        "en-US": "<br><!i>[grey][mint_green_dark][ARROW]</color> Click here to [yellow]edit</color> the [mint_green_dark]limit</color> of this [orange]item</color>!<br>"
+    },
     "CRATE.editor.items.lore": {
         "de-DE": "<br><!i>[grey][mint_green_dark][ARROW]</color> Klicke hier, um die [mint_green_dark]Crate-Items</color> zu [yellow]bearbeiten</color>!</color><br>",
         "en-US": "<br><!i>[grey][mint_green_dark][ARROW]</color> Click here to [yellow]edit</color> the [mint_green_dark]crate items</color>!<br>"
