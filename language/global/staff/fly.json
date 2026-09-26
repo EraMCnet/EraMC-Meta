@@ -1,0 +1,10 @@
+{
+    "FLY.enabled": {
+        "de-DE": "[grey]Dein [blue]Flugmodus</color> ist jetzt [green]aktiviert</color>!</color>",
+        "en-US": "[grey]Your [blue]flight mode</color> is now [green]enabled</color>!</color>"
+    },
+    "FLY.disabled": {
+        "de-DE": "[grey]Dein [blue]Flugmodus</color> ist jetzt [red]deaktiviert</color>!</color>",
+        "en-US": "[grey]Your [blue]flight mode</color> is now [red]disabled</color>!</color>"
+    }
+}
