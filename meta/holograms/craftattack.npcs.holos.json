@@ -1,0 +1,90 @@
+{
+    "holo.npc.discord.spawn": {
+        "de-DE": "<b>[blurple]DISCORD SERVER</color></b><br>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ öꜰꜰɴᴇɴ</color>",
+        "en-US": "<b>[blurple]DISCORD SERVER</color></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ</color>",
+        "location": {
+            "x": 76.500,
+            "y": 217,
+            "z": -93.500,
+            "world": "world"
+        },
+        "yaw": "",
+        "pitch": "",
+        "alignment": "center",
+        "background": "TRANSPARENT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "vertical",
+        "scale-x": "1.0",
+        "scale-y": "1.0",
+        "scale-z": "1.0"
+    },
+    "holo.npc.store.spawn": {
+        "de-DE": "<b>[gold_gradient]BETTERATTACK STORE</gradient></b><br>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ öꜰꜰɴᴇɴ</color>",
+        "en-US": "<b>[gold_gradient]BETTERATTACK STORE</gradient></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ</color>",
+        "location": {
+            "x": 70.500,
+            "y": 217,
+            "z": -93.500,
+            "world": "world"
+        },
+        "yaw": "",
+        "pitch": "",
+        "alignment": "center",
+        "background": "TRANSPARENT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "vertical",
+        "scale-x": "1.0",
+        "scale-y": "1.0",
+        "scale-z": "1.0"
+    },
+    "holo.npc.media.spawn": {
+        "de-DE": "<b>[purple_gradient]MEDIA INFO</gradient></b><br>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ öꜰꜰɴᴇɴ</color>",
+        "en-US": "<b>[purple_gradient]MEDIA INFO</gradient></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ</color>",
+        "location": {
+            "x": 78.500,
+            "y": 217,
+            "z": -95.500,
+            "world": "world"
+        },
+        "yaw": "",
+        "pitch": "",
+        "alignment": "center",
+        "background": "TRANSPARENT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "vertical",
+        "scale-x": "1.0",
+        "scale-y": "1.0",
+        "scale-z": "1.0"
+    },
+    "holo.npc.language.spawn": {
+        "de-DE": "<b>[green_gradient]SPRACHAUSWAHL</gradient></b><br>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ öꜰꜰɴᴇɴ</color>",
+        "en-US": "<b>[green_gradient]LANGUAGE SELECT</gradient></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ</color>",
+        "location": {
+            "x": 68.500,
+            "y": 217,
+            "z": -95.500,
+            "world": "world"
+        },
+        "yaw": "",
+        "pitch": "",
+        "alignment": "center",
+        "background": "TRANSPARENT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "vertical",
+        "scale-x": "1.0",
+        "scale-y": "1.0",
+        "scale-z": "1.0"
+    }
+}
