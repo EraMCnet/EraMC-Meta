@@ -1,0 +1,112 @@
+{
+    "holo.leaderboard.deaths.spawn": {
+        "de-DE": "[darker_red]ᴛᴏᴘ ᴛᴏᴅᴇ</color><br>[darker_red]#1</color> <dark_grey>|</dark_grey> <white>[player-1]</white> [grey]-</color> [darker_red][entry-1]</color><br>[darker_red]#2</color> <dark_grey>|</dark_grey> <white>[player-2]</white> [grey]-</color> [darker_red][entry-2]</color><br>[darker_red]#3</color> <dark_grey>|</dark_grey> <white>[player-3]</white> [grey]-</color> [darker_red][entry-3]</color><br>[darker_red]#4</color> <dark_grey>|</dark_grey> <white>[player-4]</white> [grey]-</color> [darker_red][entry-4]</color><br>[darker_red]#5</color> <dark_grey>|</dark_grey> <white>[player-5]</white> [grey]-</color> [darker_red][entry-5]</color><br>[darker_red]#6</color> <dark_grey>|</dark_grey> <white>[player-6]</white> [grey]-</color> [darker_red][entry-6]</color><br>[darker_red]#7</color> <dark_grey>|</dark_grey> <white>[player-7]</white> [grey]-</color> [darker_red][entry-7]</color><br>[darker_red]#8</color> <dark_grey>|</dark_grey> <white>[player-8]</white> [grey]-</color> [darker_red][entry-8]</color><br>[darker_red]#9</color> <dark_grey>|</dark_grey> <white>[player-9]</white> [grey]-</color> [darker_red][entry-9]</color><br>[darker_red]#10</color> <dark_grey>|</dark_grey> <white>[player-10]</white> [grey]-</color> [darker_red][entry-10]</color><br><dark_grey>-</dark_grey><br>[darker_red]#%dynamic_smp_leaderboard_deaths_self_pos%</color> <dark_grey>|</dark_grey> <white>%dynamic_smp_leaderboard_deaths_self_name%</white> [grey]-</color> [darker_red]%dynamic_smp_leaderboard_deaths_self_entry%</color>",
+        "en-US": "[darker_red]ᴛᴏᴘ ᴅᴇᴀᴛʜѕ</color><br>[darker_red]#1</color> <dark_grey>|</dark_grey> <white>[player-1]</white> [grey]-</color> [darker_red][entry-1]</color><br>[darker_red]#2</color> <dark_grey>|</dark_grey> <white>[player-2]</white> [grey]-</color> [darker_red][entry-2]</color><br>[darker_red]#3</color> <dark_grey>|</dark_grey> <white>[player-3]</white> [grey]-</color> [darker_red][entry-3]</color><br>[darker_red]#4</color> <dark_grey>|</dark_grey> <white>[player-4]</white> [grey]-</color> [darker_red][entry-4]</color><br>[darker_red]#5</color> <dark_grey>|</dark_grey> <white>[player-5]</white> [grey]-</color> [darker_red][entry-5]</color><br>[darker_red]#6</color> <dark_grey>|</dark_grey> <white>[player-6]</white> [grey]-</color> [darker_red][entry-6]</color><br>[darker_red]#7</color> <dark_grey>|</dark_grey> <white>[player-7]</white> [grey]-</color> [darker_red][entry-7]</color><br>[darker_red]#8</color> <dark_grey>|</dark_grey> <white>[player-8]</white> [grey]-</color> [darker_red][entry-8]</color><br>[darker_red]#9</color> <dark_grey>|</dark_grey> <white>[player-9]</white> [grey]-</color> [darker_red][entry-9]</color><br>[darker_red]#10</color> <dark_grey>|</dark_grey> <white>[player-10]</white> [grey]-</color> [darker_red][entry-10]</color><br><dark_grey>-</dark_grey><br>[darker_red]#%dynamic_smp_leaderboard_deaths_self_pos%</color> <dark_grey>|</dark_grey> <white>%dynamic_smp_leaderboard_deaths_self_name%</white> [grey]-</color> [darker_red]%dynamic_smp_leaderboard_deaths_self_entry%</color>",
+        "location": {
+            "x": 63.5,
+            "y": 214.0,
+            "z": -121.5,
+            "world": "world"
+        },
+        "yaw": "-0.0",
+        "pitch": "0.0",
+        "alignment": "center",
+        "background": "DEFAULT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "fixed",
+        "scale-x": "1.0",
+        "scale-y": "1.0",
+        "scale-z": "1.0"
+    },
+    "holo.leaderboard.kills.spawn": {
+        "de-DE": "[red]ᴛᴏᴘ ᴋɪʟʟꜱ</color><br>[red]#1</color> <dark_grey>|</dark_grey> <white>[player-1]</white> [grey]-</color> [red][entry-1]</color><br>[red]#2</color> <dark_grey>|</dark_grey> <white>[player-2]</white> [grey]-</color> [red][entry-2]</color><br>[red]#3</color> <dark_grey>|</dark_grey> <white>[player-3]</white> [grey]-</color> [red][entry-3]</color><br>[red]#4</color> <dark_grey>|</dark_grey> <white>[player-4]</white> [grey]-</color> [red][entry-4]</color><br>[red]#5</color> <dark_grey>|</dark_grey> <white>[player-5]</white> [grey]-</color> [red][entry-5]</color><br>[red]#6</color> <dark_grey>|</dark_grey> <white>[player-6]</white> [grey]-</color> [red][entry-6]</color><br>[red]#7</color> <dark_grey>|</dark_grey> <white>[player-7]</white> [grey]-</color> [red][entry-7]</color><br>[red]#8</color> <dark_grey>|</dark_grey> <white>[player-8]</white> [grey]-</color> [red][entry-8]</color><br>[red]#9</color> <dark_grey>|</dark_grey> <white>[player-9]</white> [grey]-</color> [red][entry-9]</color><br>[red]#10</color> <dark_grey>|</dark_grey> <white>[player-10]</white> [grey]-</color> [red][entry-10]</color><br><dark_grey>-</dark_grey><br>[red]#%dynamic_smp_leaderboard_kills_self_pos%</color> <dark_grey>|</dark_grey> <white>%dynamic_smp_leaderboard_kills_self_name%</white> [grey]-</color> [red]%dynamic_smp_leaderboard_kills_self_entry%</color>",
+        "en-US": "[red]ᴛᴏᴘ ᴋɪʟʟꜱ</color><br>[red]#1</color> <dark_grey>|</dark_grey> <white>[player-1]</white> [grey]-</color> [red][entry-1]</color><br>[red]#2</color> <dark_grey>|</dark_grey> <white>[player-2]</white> [grey]-</color> [red][entry-2]</color><br>[red]#3</color> <dark_grey>|</dark_grey> <white>[player-3]</white> [grey]-</color> [red][entry-3]</color><br>[red]#4</color> <dark_grey>|</dark_grey> <white>[player-4]</white> [grey]-</color> [red][entry-4]</color><br>[red]#5</color> <dark_grey>|</dark_grey> <white>[player-5]</white> [grey]-</color> [red][entry-5]</color><br>[red]#6</color> <dark_grey>|</dark_grey> <white>[player-6]</white> [grey]-</color> [red][entry-6]</color><br>[red]#7</color> <dark_grey>|</dark_grey> <white>[player-7]</white> [grey]-</color> [red][entry-7]</color><br>[red]#8</color> <dark_grey>|</dark_grey> <white>[player-8]</white> [grey]-</color> [red][entry-8]</color><br>[red]#9</color> <dark_grey>|</dark_grey> <white>[player-9]</white> [grey]-</color> [red][entry-9]</color><br>[red]#10</color> <dark_grey>|</dark_grey> <white>[player-10]</white> [grey]-</color> [red][entry-10]</color><br><dark_grey>-</dark_grey><br>[red]#%dynamic_smp_leaderboard_kills_self_pos%</color> <dark_grey>|</dark_grey> <white>%dynamic_smp_leaderboard_kills_self_name%</white> [grey]-</color> [red]%dynamic_smp_leaderboard_kills_self_entry%</color>",
+        "location": {
+            "x": 68.500,
+            "y": 214.0,
+            "z": -121.500,
+            "world": "world"
+        },
+        "yaw": "-0.0",
+        "pitch": "0",
+        "alignment": "center",
+        "background": "DEFAULT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "fixed",
+        "scale-x": "1.0",
+        "scale-y": "1.0",
+        "scale-z": "1.0"
+    },
+    "holo.leaderboard.playtime.spawn": {
+        "de-DE": "[mint_green_dark]ᴛᴏᴘ ꜱᴘɪᴇʟᴢᴇɪᴛ</color><br>[mint_green_dark]#1</color> <dark_grey>|</dark_grey> <white>[player-1]</white> [grey]-</color> [mint_green_dark][entry-1]</color><br>[mint_green_dark]#2</color> <dark_grey>|</dark_grey> <white>[player-2]</white> [grey]-</color> [mint_green_dark][entry-2]</color><br>[mint_green_dark]#3</color> <dark_grey>|</dark_grey> <white>[player-3]</white> [grey]-</color> [mint_green_dark][entry-3]</color><br>[mint_green_dark]#4</color> <dark_grey>|</dark_grey> <white>[player-4]</white> [grey]-</color> [mint_green_dark][entry-4]</color><br>[mint_green_dark]#5</color> <dark_grey>|</dark_grey> <white>[player-5]</white> [grey]-</color> [mint_green_dark][entry-5]</color><br>[mint_green_dark]#6</color> <dark_grey>|</dark_grey> <white>[player-6]</white> [grey]-</color> [mint_green_dark][entry-6]</color><br>[mint_green_dark]#7</color> <dark_grey>|</dark_grey> <white>[player-7]</white> [grey]-</color> [mint_green_dark][entry-7]</color><br>[mint_green_dark]#8</color> <dark_grey>|</dark_grey> <white>[player-8]</white> [grey]-</color> [mint_green_dark][entry-8]</color><br>[mint_green_dark]#9</color> <dark_grey>|</dark_grey> <white>[player-9]</white> [grey]-</color> [mint_green_dark][entry-9]</color><br>[mint_green_dark]#10</color> <dark_grey>|</dark_grey> <white>[player-10]</white> [grey]-</color> [mint_green_dark][entry-10]</color><br><dark_grey>-</dark_grey><br>[mint_green_dark]#%dynamic_smp_leaderboard_playtime_self_pos%</color> <dark_grey>|</dark_grey> <white>%dynamic_smp_leaderboard_playtime_self_name%</white> [grey]-</color> [mint_green_dark]%dynamic_smp_leaderboard_playtime_self_entry%</color>",
+        "en-US": "[mint_green_dark]ᴛᴏᴘ ᴘʟᴀʏᴛɪᴍᴇ</color><br>[mint_green_dark]#1</color> <dark_grey>|</dark_grey> <white>[player-1]</white> [grey]-</color> [mint_green_dark][entry-1]</color><br>[mint_green_dark]#2</color> <dark_grey>|</dark_grey> <white>[player-2]</white> [grey]-</color> [mint_green_dark][entry-2]</color><br>[mint_green_dark]#3</color> <dark_grey>|</dark_grey> <white>[player-3]</white> [grey]-</color> [mint_green_dark][entry-3]</color><br>[mint_green_dark]#4</color> <dark_grey>|</dark_grey> <white>[player-4]</white> [grey]-</color> [mint_green_dark][entry-4]</color><br>[mint_green_dark]#5</color> <dark_grey>|</dark_grey> <white>[player-5]</white> [grey]-</color> [mint_green_dark][entry-5]</color><br>[mint_green_dark]#6</color> <dark_grey>|</dark_grey> <white>[player-6]</white> [grey]-</color> [mint_green_dark][entry-6]</color><br>[mint_green_dark]#7</color> <dark_grey>|</dark_grey> <white>[player-7]</white> [grey]-</color> [mint_green_dark][entry-7]</color><br>[mint_green_dark]#8</color> <dark_grey>|</dark_grey> <white>[player-8]</white> [grey]-</color> [mint_green_dark][entry-8]</color><br>[mint_green_dark]#9</color> <dark_grey>|</dark_grey> <white>[player-9]</white> [grey]-</color> [mint_green_dark][entry-9]</color><br>[mint_green_dark]#10</color> <dark_grey>|</dark_grey> <white>[player-10]</white> [grey]-</color> [mint_green_dark][entry-10]</color><br><dark_grey>-</dark_grey><br>[mint_green_dark]#%dynamic_smp_leaderboard_playtime_self_pos%</color> <dark_grey>|</dark_grey> <white>%dynamic_smp_leaderboard_playtime_self_name%</white> [grey]-</color> [mint_green_dark]%dynamic_smp_leaderboard_playtime_self_entry%</color>",
+        "location": {
+            "x": 73.500,
+            "y": 214.0,
+            "z": -121.500,
+            "world": "world"
+        },
+        "yaw": "-0.0",
+        "pitch": "0.0",
+        "alignment": "center",
+        "background": "DEFAULT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "fixed",
+        "scale-x": "1.0",
+        "scale-y": "1.0",
+        "scale-z": "1.0"
+    },
+    "holo.leaderboard.blocks-mined.spawn": {
+        "de-DE": "[green]ᴛᴏᴘ ᴀʙɢᴇʙᴀᴜᴛᴇ ʙʟöᴄᴋᴇ</color><br>[green]#1</color> <dark_grey>|</dark_grey> <white>[player-1]</white> [grey]-</color> [green][entry-1]</color><br>[green]#2</color> <dark_grey>|</dark_grey> <white>[player-2]</white> [grey]-</color> [green][entry-2]</color><br>[green]#3</color> <dark_grey>|</dark_grey> <white>[player-3]</white> [grey]-</color> [green][entry-3]</color><br>[green]#4</color> <dark_grey>|</dark_grey> <white>[player-4]</white> [grey]-</color> [green][entry-4]</color><br>[green]#5</color> <dark_grey>|</dark_grey> <white>[player-5]</white> [grey]-</color> [green][entry-5]</color><br>[green]#6</color> <dark_grey>|</dark_grey> <white>[player-6]</white> [grey]-</color> [green][entry-6]</color><br>[green]#7</color> <dark_grey>|</dark_grey> <white>[player-7]</white> [grey]-</color> [green][entry-7]</color><br>[green]#8</color> <dark_grey>|</dark_grey> <white>[player-8]</white> [grey]-</color> [green][entry-8]</color><br>[green]#9</color> <dark_grey>|</dark_grey> <white>[player-9]</white> [grey]-</color> [green][entry-9]</color><br>[green]#10</color> <dark_grey>|</dark_grey> <white>[player-10]</white> [grey]-</color> [green][entry-10]</color><br><dark_grey>-</dark_grey><br>[green]#%dynamic_smp_leaderboard_blocks-mined_self_pos%</color> <dark_grey>|</dark_grey> <white>%dynamic_smp_leaderboard_blocks-mined_self_name%</white> [grey]-</color> [green]%dynamic_smp_leaderboard_blocks-mined_self_entry%</color>",
+        "en-US": "[green]ᴛᴏᴘ ᴍɪɴᴇᴅ ʙʟᴏᴄᴋѕ</color><br>[green]#1</color> <dark_grey>|</dark_grey> <white>[player-1]</white> [grey]-</color> [green][entry-1]</color><br>[green]#2</color> <dark_grey>|</dark_grey> <white>[player-2]</white> [grey]-</color> [green][entry-2]</color><br>[green]#3</color> <dark_grey>|</dark_grey> <white>[player-3]</white> [grey]-</color> [green][entry-3]</color><br>[green]#4</color> <dark_grey>|</dark_grey> <white>[player-4]</white> [grey]-</color> [green][entry-4]</color><br>[green]#5</color> <dark_grey>|</dark_grey> <white>[player-5]</white> [grey]-</color> [green][entry-5]</color><br>[green]#6</color> <dark_grey>|</dark_grey> <white>[player-6]</white> [grey]-</color> [green][entry-6]</color><br>[green]#7</color> <dark_grey>|</dark_grey> <white>[player-7]</white> [grey]-</color> [green][entry-7]</color><br>[green]#8</color> <dark_grey>|</dark_grey> <white>[player-8]</white> [grey]-</color> [green][entry-8]</color><br>[green]#9</color> <dark_grey>|</dark_grey> <white>[player-9]</white> [grey]-</color> [green][entry-9]</color><br>[green]#10</color> <dark_grey>|</dark_grey> <white>[player-10]</white> [grey]-</color> [green][entry-10]</color><br><dark_grey>-</dark_grey><br>[green]#%dynamic_smp_leaderboard_blocks-mined_self_pos%</color> <dark_grey>|</dark_grey> <white>%dynamic_smp_leaderboard_blocks-mined_self_name%</white> [grey]-</color> [green]%dynamic_smp_leaderboard_blocks-mined_self_entry%</color>",
+        "location": {
+            "x": 78.500,
+            "y": 214.0,
+            "z": -121.500,
+            "world": "world"
+        },
+        "yaw": "-0.0",
+        "pitch": "0.0",
+        "alignment": "center",
+        "background": "DEFAULT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "fixed",
+        "scale-x": "1.0",
+        "scale-y": "1.0",
+        "scale-z": "1.0"
+    },
+    "holo.leaderboard.blocks-placed.spawn": {
+        "de-DE": "[orange]ᴛᴏᴘ ᴘʟᴀᴛᴢɪᴇʀᴛᴇ ʙʟöᴄᴋᴇ</color><br>[orange]#1</color> <dark_grey>|</dark_grey> <white>[player-1]</white> [grey]-</color> [orange][entry-1]</color><br>[orange]#2</color> <dark_grey>|</dark_grey> <white>[player-2]</white> [grey]-</color> [orange][entry-2]</color><br>[orange]#3</color> <dark_grey>|</dark_grey> <white>[player-3]</white> [grey]-</color> [orange][entry-3]</color><br>[orange]#4</color> <dark_grey>|</dark_grey> <white>[player-4]</white> [grey]-</color> [orange][entry-4]</color><br>[orange]#5</color> <dark_grey>|</dark_grey> <white>[player-5]</white> [grey]-</color> [orange][entry-5]</color><br>[orange]#6</color> <dark_grey>|</dark_grey> <white>[player-6]</white> [grey]-</color> [orange][entry-6]</color><br>[orange]#7</color> <dark_grey>|</dark_grey> <white>[player-7]</white> [grey]-</color> [orange][entry-7]</color><br>[orange]#8</color> <dark_grey>|</dark_grey> <white>[player-8]</white> [grey]-</color> [orange][entry-8]</color><br>[orange]#9</color> <dark_grey>|</dark_grey> <white>[player-9]</white> [grey]-</color> [orange][entry-9]</color><br>[orange]#10</color> <dark_grey>|</dark_grey> <white>[player-10]</white> [grey]-</color> [orange][entry-10]</color><br><dark_grey>-</dark_grey><br>[orange]#%dynamic_smp_leaderboard_blocks-placed_self_pos%</color> <dark_grey>|</dark_grey> <white>%dynamic_smp_leaderboard_blocks-placed_self_name%</white> [grey]-</color> [orange]%dynamic_smp_leaderboard_blocks-placed_self_entry%</color>",
+        "en-US": "[orange]ᴛᴏᴘ ᴘʟᴀᴄᴇᴅ ʙʟᴏᴄᴋѕ</color><br>[orange]#1</color> <dark_grey>|</dark_grey> <white>[player-1]</white> [grey]-</color> [orange][entry-1]</color><br>[orange]#2</color> <dark_grey>|</dark_grey> <white>[player-2]</white> [grey]-</color> [orange][entry-2]</color><br>[orange]#3</color> <dark_grey>|</dark_grey> <white>[player-3]</white> [grey]-</color> [orange][entry-3]</color><br>[orange]#4</color> <dark_grey>|</dark_grey> <white>[player-4]</white> [grey]-</color> [orange][entry-4]</color><br>[orange]#5</color> <dark_grey>|</dark_grey> <white>[player-5]</white> [grey]-</color> [orange][entry-5]</color><br>[orange]#6</color> <dark_grey>|</dark_grey> <white>[player-6]</white> [grey]-</color> [orange][entry-6]</color><br>[orange]#7</color> <dark_grey>|</dark_grey> <white>[player-7]</white> [grey]-</color> [orange][entry-7]</color><br>[orange]#8</color> <dark_grey>|</dark_grey> <white>[player-8]</white> [grey]-</color> [orange][entry-8]</color><br>[orange]#9</color> <dark_grey>|</dark_grey> <white>[player-9]</white> [grey]-</color> [orange][entry-9]</color><br>[orange]#10</color> <dark_grey>|</dark_grey> <white>[player-10]</white> [grey]-</color> [orange][entry-10]</color><br><dark_grey>-</dark_grey><br>[orange]#%dynamic_smp_leaderboard_blocks-placed_self_pos%</color> <dark_grey>|</dark_grey> <white>%dynamic_smp_leaderboard_blocks-placed_self_name%</white> [grey]-</color> [orange]%dynamic_smp_leaderboard_blocks-placed_self_entry%</color>",
+        "location": {
+            "x": 83.500,
+            "y": 214.0,
+            "z": -121.500,
+            "world": "world"
+        },
+        "yaw": "-0.0",
+        "pitch": "0.0",
+        "alignment": "center",
+        "background": "DEFAULT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "fixed",
+        "scale-x": "1.0",
+        "scale-y": "1.0",
+        "scale-z": "1.0"
+    }
+}
