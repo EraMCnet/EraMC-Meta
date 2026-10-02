@@ -7,6 +7,14 @@
         "de-DE": "[grey][era_purple][player]</color> ist aktuell [red]offline!</color></color>",
         "en-US": "[grey][era_purple][player]</color> is currently [red]offline!</color></color>"
     },
+    "ERROR.cooldown.command": {
+        "de-DE": "[grey]Du musst noch [red][time]</color> warten, bevor du diesen [era_purple]Command</color> erneut verwenden kannst!</color>",
+        "en-US": "[grey]You have to wait [red][time]</color> before you can use this [era_purple]command</color> again!</color>"
+    },
+    "ERROR.cooldown.action": {
+        "de-DE": "[grey]Du musst noch [red][time]</color> warten, bevor du diese [era_purple]Aktion</color> erneut ausführen kannst!</color>",
+        "en-US": "[grey]You have to wait [red][time]</color> before you can perform this [era_purple]action</color> again!</color>"
+    },
     "ERROR.server.notfound": {
         "de-DE": "[grey]Der Server [era_purple][server]</color> existiert [red]nicht!</color></color>",
         "en-US": "[grey]The server [era_purple][server]</color> does [red]not</color> exist!</color>"
