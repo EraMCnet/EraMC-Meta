@@ -74,8 +74,8 @@
             "z": -729.500,
             "world": "world"
         },
-        "yaw": "",
-        "pitch": "",
+        "yaw": 45.0,
+        "pitch": 0.0,
         "alignment": "center",
         "background": "TRANSPARENT",
         "line_width": "",
