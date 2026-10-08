@@ -16,7 +16,7 @@
         "see_through": "",
         "shadow": "true",
         "text_opacity": "255",
-        "billboard": "fixed",
+        "billboard": "center",
         "scale-x": "1.0",
         "scale-y": "1.0",
         "scale-z": "1.0"
@@ -26,7 +26,7 @@
         "en-US": "[red]ᴛᴏᴘ ᴋɪʟʟꜱ</color><br>[red]#1</color> <dark_grey>|</dark_grey> <white>[player-1]</white> [grey]-</color> [red][entry-1]</color><br>[red]#2</color> <dark_grey>|</dark_grey> <white>[player-2]</white> [grey]-</color> [red][entry-2]</color><br>[red]#3</color> <dark_grey>|</dark_grey> <white>[player-3]</white> [grey]-</color> [red][entry-3]</color><br>[red]#4</color> <dark_grey>|</dark_grey> <white>[player-4]</white> [grey]-</color> [red][entry-4]</color><br>[red]#5</color> <dark_grey>|</dark_grey> <white>[player-5]</white> [grey]-</color> [red][entry-5]</color><br>[red]#6</color> <dark_grey>|</dark_grey> <white>[player-6]</white> [grey]-</color> [red][entry-6]</color><br>[red]#7</color> <dark_grey>|</dark_grey> <white>[player-7]</white> [grey]-</color> [red][entry-7]</color><br>[red]#8</color> <dark_grey>|</dark_grey> <white>[player-8]</white> [grey]-</color> [red][entry-8]</color><br>[red]#9</color> <dark_grey>|</dark_grey> <white>[player-9]</white> [grey]-</color> [red][entry-9]</color><br>[red]#10</color> <dark_grey>|</dark_grey> <white>[player-10]</white> [grey]-</color> [red][entry-10]</color><br><dark_grey>-</dark_grey><br>[red]#%dynamic_ca_leaderboard_kills_self_pos%</color> <dark_grey>|</dark_grey> <white>%dynamic_ca_leaderboard_kills_self_name%</white> [grey]-</color> [red]%dynamic_ca_leaderboard_kills_self_entry%</color>",
         "location": {
             "x": 126.500,
-            "y": 222.3,
+            "y": 222.1,
             "z": -709.500,
             "world": "world"
         },
@@ -38,7 +38,7 @@
         "see_through": "",
         "shadow": "true",
         "text_opacity": "255",
-        "billboard": "fixed",
+        "billboard": "center",
         "scale-x": "1.0",
         "scale-y": "1.0",
         "scale-z": "1.0"
@@ -60,7 +60,7 @@
         "see_through": "",
         "shadow": "true",
         "text_opacity": "255",
-        "billboard": "fixed",
+        "billboard": "center",
         "scale-x": "1.0",
         "scale-y": "1.0",
         "scale-z": "1.0"
@@ -82,7 +82,7 @@
         "see_through": "",
         "shadow": "true",
         "text_opacity": "255",
-        "billboard": "fixed",
+        "billboard": "center",
         "scale-x": "1.0",
         "scale-y": "1.0",
         "scale-z": "1.0"
@@ -104,7 +104,7 @@
         "see_through": "",
         "shadow": "true",
         "text_opacity": "255",
-        "billboard": "fixed",
+        "billboard": "center",
         "scale-x": "1.0",
         "scale-y": "1.0",
         "scale-z": "1.0"
