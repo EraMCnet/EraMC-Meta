@@ -69,9 +69,9 @@
         "de-DE": "<b>[green_gradient]SPRACHAUSWAHL</gradient></b><br>[grey]ᴋʟɪᴄᴋᴇ ᴢᴜᴍ öꜰꜰɴᴇɴ</color>",
         "en-US": "<b>[green_gradient]LANGUAGE SELECT</gradient></b><br>[grey]ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ</color>",
         "location": {
-            "x": 157.500,
+            "x": 151.500,
             "y": 224,
-            "z": -729.500,
+            "z": -724.500,
             "world": "world"
         },
         "yaw": 45.0,
