@@ -16,7 +16,7 @@
         "see_through": "",
         "shadow": "true",
         "text_opacity": "255",
-        "billboard": "center",
+        "billboard": "vertical",
         "scale-x": "1.0",
         "scale-y": "1.0",
         "scale-z": "1.0"
@@ -38,7 +38,7 @@
         "see_through": "",
         "shadow": "true",
         "text_opacity": "255",
-        "billboard": "center",
+        "billboard": "vertical",
         "scale-x": "1.0",
         "scale-y": "1.0",
         "scale-z": "1.0"
@@ -60,7 +60,7 @@
         "see_through": "",
         "shadow": "true",
         "text_opacity": "255",
-        "billboard": "center",
+        "billboard": "vertical",
         "scale-x": "1.0",
         "scale-y": "1.0",
         "scale-z": "1.0"
@@ -82,7 +82,7 @@
         "see_through": "",
         "shadow": "true",
         "text_opacity": "255",
-        "billboard": "center",
+        "billboard": "vertical",
         "scale-x": "1.0",
         "scale-y": "1.0",
         "scale-z": "1.0"
@@ -104,7 +104,7 @@
         "see_through": "",
         "shadow": "true",
         "text_opacity": "255",
-        "billboard": "center",
+        "billboard": "vertical",
         "scale-x": "1.0",
         "scale-y": "1.0",
         "scale-z": "1.0"
