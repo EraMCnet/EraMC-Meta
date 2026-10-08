@@ -8,7 +8,7 @@
             "z": -706.5,
             "world": "world"
         },
-        "yaw": "135.5",
+        "yaw": "-135.5",
         "pitch": "0.0",
         "alignment": "fixed",
         "background": "DEFAULT",
@@ -30,7 +30,7 @@
             "z": -709.500,
             "world": "world"
         },
-        "yaw": "135.5",
+        "yaw": "-135.5",
         "pitch": "0.0",
         "alignment": "fixed",
         "background": "DEFAULT",
@@ -52,7 +52,7 @@
             "z": -712.500,
             "world": "world"
         },
-        "yaw": "135.5",
+        "yaw": "-135.5",
         "pitch": "0.0",
         "alignment": "fixed",
         "background": "DEFAULT",
@@ -74,7 +74,7 @@
             "z": -715.500,
             "world": "world"
         },
-        "yaw": "135.5",
+        "yaw": "-135.5",
         "pitch": "0.0",
         "alignment": "fixed",
         "background": "DEFAULT",
@@ -96,7 +96,7 @@
             "z": -718.500,
             "world": "world"
         },
-        "yaw": "135.5",
+        "yaw": "-135.5",
         "pitch": "0.0",
         "alignment": "fixed",
         "background": "DEFAULT",
