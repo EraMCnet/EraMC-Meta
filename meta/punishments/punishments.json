@@ -530,6 +530,50 @@
             }
         ]
     },
+    "HOMOPHOBIC_CONTENT": {
+        "de-DE": "Homophobe Inhalte",
+        "en-US": "Homophobic Content",
+        "permission": "[server_name].punish.offend.homophobic_content",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "1w",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "1mo",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "permanent",
+                "type": "ban"
+            }
+        ]
+    },
+    "TRANSPHOBIC_CONTENT": {
+        "de-DE": "Transphobe Inhalte",
+        "en-US": "Transphobic Content",
+        "permission": "[server_name].punish.offend.transphobic_content",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "1w",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "1mo",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "permanent",
+                "type": "ban"
+            }
+        ]
+    },
     "COMBAT_EVADING": {
         "de-DE": "Combat-Evading",
         "en-US": "Combat Evading",
