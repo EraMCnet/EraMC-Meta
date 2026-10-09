@@ -43,6 +43,18 @@
         "de-DE": "[grey]Du [red]hast</color> keine [red]Berechtigung</color> um [era_purple]benutzerdefinierte</color> Zeiträume zu verwenden!</color>",
         "en-US": "[grey]You [red]don't</color> have [red]permission</color> to use [era_purple]custom</color> durations!</color>"
     },
+    "ERROR.chat.disabled": {
+        "de-DE": "[grey]Der [era_purple]Chat</color> ist [red]derzeit deaktiviert</color>! Bitte versuche es später erneut.</color>",
+        "en-US": "[grey]The [era_purple]chat</color> is [red]currently disabled</color>! Please try again later.</color>"
+    },
+    "INFO.chat.disabled": {
+        "de-DE": "[grey]Der [era_purple]Chat</color> wurde von [era_purple][player]</color> [red]deaktiviert!</color></color>",
+        "en-US": "[grey]The [era_purple]chat</color> was [red]disabled</color> by [era_purple][player]</color>!</color>"
+    },
+    "INFO.chat.enabled-again": {
+        "de-DE": "[grey]Der [era_purple]Chat</color> wurde von [era_purple][player]</color> [green]wieder aktiviert!</color></color>",
+        "en-US": "[grey]The [era_purple]chat</color> was [green]enabled again</color> by [era_purple][player]</color>!</color>"
+    },
     "ERROR.command.offend.perms.custom-reason": {
         "de-DE": "[grey]Du [red]hast</color> keine [red]Berechtigung</color> um [era_purple]benutzerdefinierte</color> Gründe zu verwenden!</color>",
         "en-US": "[grey]You [red]don't</color> have [red]permission</color> to use [era_purple]custom</color> reasons!</color>"
