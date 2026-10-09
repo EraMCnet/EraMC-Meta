@@ -199,6 +199,10 @@
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, ob du die [blue]Anzahl an ausstehenden Freundesanfragen</color> beim [green]betreten des Servers</color> sehen möchtest.</color><br><br><!i>[grey][blue][ARROW]</color> Klicke um diese [blue]Einstellung</color> zu [red]deaktivieren</color>!</color>",
         "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set whether you want to see the [blue]number of pending friend requests</color> when [green]joining the server</color>.<br><br><!i>[grey][blue][ARROW]</color> Click to [red]disable</color> this [blue]setting</color>!</color>"
     },
+    "friend_requests_pending_count.lore.false": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, ob du die [blue]Anzahl an ausstehenden Freundesanfragen</color> beim [green]betreten des Servers</color> sehen möchtest.</color><br><br><!i>[grey][blue][ARROW]</color> Klicke um diese [blue]Einstellung</color> zu [green]aktivieren</color>!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set whether you want to see the [blue]number of pending friend requests</color> when [green]joining the server</color>.<br><br><!i>[grey][blue][ARROW]</color> Click to [green]enable</color> this [blue]setting</color>!</color>"
+    },
     "clan_invites.lore.true": {
         "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, ob du [blue]Clan-Einladungen</color> erhalten möchtest.</color><br><br><!i>[grey][blue][ARROW]</color> Klicke um diese [blue]Einstellung</color> zu [red]deaktivieren</color>!</color>",
         "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set whether you want to receive [blue]clan invites</color>.<br><br><!i>[grey][blue][ARROW]</color> Click to [red]disable</color> this [blue]setting</color>!</color>"
