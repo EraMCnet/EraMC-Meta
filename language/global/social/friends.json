@@ -1,7 +1,7 @@
 {
     "GENERAL.friend.request.receive": {
-        "de-DE": "[grey]Du hast eine [era_purple]Freundschaftsanfrage</color> von [era_purple][player]</color> erhalten!<br>                         [green]<b><click:run_command:'/friend accept [player]'><b>[ANNEHMEN]</b></click></b></color> - [red]<b><click:run_command:'/friend deny [player]'><b>[ABLEHNEN]</b></click></b></color></color>",
-        "en-US": "[grey]You have received a [era_purple]friend request</color> from [era_purple][player]!</color><br>                         [green]<b><click:run_command:'/friend accept [player]'><b>[ACCEPT]</b></click></b></color> - [red]<b><click:run_command:'/friend deny [player]'><b>[DENY]</b></click></b></color></color>"
+        "de-DE": "[grey]Du hast eine [era_purple]Freundschaftsanfrage</color> von [era_purple][player]</color> erhalten!<br>                         [green]<b><click:run_command:'/friend accept [player]'><b>[ANNEHMEN]</b></click></b></color> - [red]<b><click:run_command:'/friend decline [player]'><b>[ABLEHNEN]</b></click></b></color></color>",
+        "en-US": "[grey]You have received a [era_purple]friend request</color> from [era_purple][player]!</color><br>                         [green]<b><click:run_command:'/friend accept [player]'><b>[ACCEPT]</b></click></b></color> - [red]<b><click:run_command:'/friend decline [player]'><b>[DENY]</b></click></b></color></color>"
     },
     "GENERAL.friend.request.send": {
         "de-DE": "[grey]Du hast eine [era_purple]Freundschaftsanfrage</color> an [era_purple][player]</color> gesendet!</color>",
