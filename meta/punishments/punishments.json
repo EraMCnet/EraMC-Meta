@@ -599,6 +599,18 @@
             }
         ]
     },
+    "ANTI_SEMITIC_CONTENT": {
+        "de-DE": "Antisemitische Inhalte",
+        "en-US": "Antisemitic Content",
+        "permission": "[server_name].punish.offend.anti_semitic_content",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "permanent",
+                "type": "ban"
+            }
+        ]
+    },
     "CLAIM_TRESPASSING": {
         "de-DE": "Claim Hausverbot Missachtung",
         "en-US": "Claim Trespassing",
