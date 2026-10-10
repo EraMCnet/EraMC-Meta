@@ -582,18 +582,18 @@
             {
 
                 "weight": 1,
-                "duration": "2d",
+                "duration": "2h",
                 "type": "ban"
             },
             {
                 "weight": 2,
-                "duration": "4d",
+                "duration": "12h",
                 "type": "ban"
             },
             {
 
                 "weight": 3,
-                "duration": "14d",
+                "duration": "1d",
                 "type": "ban"
 
             }
