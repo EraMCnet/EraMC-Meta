@@ -598,5 +598,37 @@
 
             }
         ]
+    },
+    "CLAIM_TRESPASSING": {
+        "de-DE": "Claim Hausverbot Missachtung",
+        "en-US": "Claim Trespassing",
+        "permission": "[server_name].punish.offend.claim_trespassing",
+        "durations": [
+            {
+
+                "weight": 1,
+                "duration": "2h",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "12h",
+                "type": "ban"
+            },
+            {
+
+                "weight": 3,
+                "duration": "1d",
+                "type": "ban"
+
+            },
+            {
+
+                "weight": 4,
+                "duration": "7d",
+                "type": "ban"
+
+            }
+        ]
     }
 }
