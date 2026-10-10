@@ -642,5 +642,42 @@
 
             }
         ]
+    },
+    "DISCRIMINATORY_LANGUAGE": {
+        "de-DE": "Diskriminierende Sprachweise",
+        "en-US": "Discriminatory Language",
+        "permission": "[server_name].punish.offend.discriminatory_language",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "12h",
+                "type": "mute"
+            },
+            {
+                "weight": 2,
+                "duration": "1d",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "3d",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "1w",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "1mo",
+                "type": "ban"
+            },
+            {
+                "weight": 6,
+                "duration": "permanent",
+                "type": "ban"
+            }
+        ]
     }
 }
