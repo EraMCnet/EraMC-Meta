@@ -307,7 +307,7 @@
         "de-DE": "Werbung",
         "en-US": "Advertising",
         "permission": "[server_name].punish.offend.advertising",
-        "duration": [
+        "durations": [
             {
                 "weight": 1,
                 "duration": "1d",
