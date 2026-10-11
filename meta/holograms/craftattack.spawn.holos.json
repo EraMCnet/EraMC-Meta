@@ -1,0 +1,46 @@
+{
+    "holo.spawn.crates": {
+        "de-DE": "<b>[eramc_gradient]CRATES</gradient></b>",
+        "en-US": "<b>[eramc_gradient]CRATES</gradient></b>",
+        "location": {
+            "x": 157.500,
+            "y": 221,
+            "z": -755.500,
+            "world": "world"
+        },
+        "yaw": 0.0,
+        "pitch": 0.0,
+        "alignment": "center",
+        "background": "TRANSPARENT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "vertical",
+        "scale-x": "1.0",
+        "scale-y": "1.0",
+        "scale-z": "1.0"
+    },
+    "holo.spawn.crate.legendary": {
+        "de-DE": "<b>[gold_gradient]LEGENDARY CRATE</gradient></b>",
+        "en-US": "<b>[gold_gradient]LEGENDARY CRATE</gradient></b>",
+        "location": {
+            "x": 157.500,
+            "y": 221,
+            "z": -755.500,
+            "world": "world"
+        },
+        "yaw": -45.0,
+        "pitch": 0.0,
+        "alignment": "center",
+        "background": "TRANSPARENT",
+        "line_width": "",
+        "see_through": "",
+        "shadow": "true",
+        "text_opacity": "255",
+        "billboard": "vertical",
+        "scale-x": "1.0",
+        "scale-y": "1.0",
+        "scale-z": "1.0"
+    }
+}
