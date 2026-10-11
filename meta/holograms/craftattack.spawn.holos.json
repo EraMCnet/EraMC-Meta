@@ -4,8 +4,8 @@
         "en-US": "<b>[eramc_gradient]CRATES</gradient></b>",
         "location": {
             "x": 157.500,
-            "y": 222,
-            "z": -755.500,
+            "y": 225,
+            "z": -754.500,
             "world": "world"
         },
         "yaw": 0.0,
@@ -26,7 +26,7 @@
         "en-US": "<b>[gold_gradient]LEGENDARY CRATE</gradient></b>",
         "location": {
             "x": 150.500,
-            "y": 219,
+            "y": 218.3,
             "z": -768.500,
             "world": "world"
         },
@@ -39,8 +39,8 @@
         "shadow": "true",
         "text_opacity": "255",
         "billboard": "vertical",
-        "scale-x": "2.0",
-        "scale-y": "2.0",
-        "scale-z": "2.0"
+        "scale-x": "1.5",
+        "scale-y": "1.5",
+        "scale-z": "1.5"
     }
 }
