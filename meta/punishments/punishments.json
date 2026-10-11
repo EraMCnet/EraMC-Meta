@@ -504,6 +504,33 @@
             }
         ]
     },
+    "SCAMMING": {
+        "de-DE": "Scamming",
+        "en-US": "Scamming",
+        "permission": "[server_name].punish.offend.scamming",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "1d",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "1w",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "1mo",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "permanent",
+                "type": "ban"
+            }
+        ]
+    },
     "POLITICAL_CONTENT": {
         "de-DE": "Politische Inhalte",
         "en-US": "Political Content",
