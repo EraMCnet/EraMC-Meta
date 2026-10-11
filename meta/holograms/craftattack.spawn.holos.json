@@ -22,8 +22,8 @@
         "scale-z": "4.0"
     },
     "holo.spawn.crate.legendary": {
-        "de-DE": "<b>[gold_gradient]LEGENDARY CRATE</gradient></b>",
-        "en-US": "<b>[gold_gradient]LEGENDARY CRATE</gradient></b>",
+        "de-DE": "<b>[gold_gradient]LEGENDARY CRATE</gradient></b><br>[grey]ʟɪɴᴋѕᴋʟɪᴄᴋ ᴢᴜᴍ öꜰꜰɴᴇɴ",
+        "en-US": "<b>[gold_gradient]LEGENDARY CRATE</gradient></b><br>[grey]ʟᴇꜰᴛᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ",
         "location": {
             "x": 150.500,
             "y": 218.3,
