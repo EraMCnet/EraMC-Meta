@@ -1,0 +1,10 @@
+{
+    "ITEM.lore": {
+        "de-DE": "<!i>[grey]Baut [yellow]9 Blöcke</color> in einem [yellow]3x3 Bereich</color> auf einem Mal ab.</color><br><br><!i>[grey][yellow][ROUNDDOT]</color> Haltbarkeit: [yellow][durability] Blöcke</color><br>",
+        "en-US": "<!i>[grey]Mines [yellow]9 blocks</color> in a [yellow]3x3 area</color> at once.</color><br><br><!i>[grey][yellow][ROUNDDOT]</color> Durability: [yellow][durability] blocks</color><br>"
+    },
+    "ITEM.name": {
+        "de-DE": "<!i>[gold_gradient]Bagger</gradient>",
+        "en-US": "<!i>[gold_gradient]Bulldozer</gradient>"
+    }
+}
