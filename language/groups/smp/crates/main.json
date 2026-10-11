@@ -47,6 +47,14 @@
         "de-DE": "[grey]Du hast [era_purple][amount]x</color> [grey][key]</color> von [era_purple][player]</color> erhalten!</color>",
         "en-US": "[grey]You have received [era_purple][amount]x</color> [grey][key]</color> from [era_purple][player]!</color></color>"
     },
+    "CRATE.command.rename": {
+        "de-DE": "[grey]Du hast die [era_purple]Crate</color> mit der ID [era_purple][id]</color> [green]erfolgreich</color> in [era_purple][name]</color> umbenannt!</color>",
+        "en-US": "[grey]You have renamed the [era_purple]Crate</color> with the ID [era_purple][id]</color> [green]successfully</color> to [era_purple][name]</color>!</color>"
+    },
+    "CRATE.command.resetitemstats": {
+        "de-DE": "[grey]Du hast die [era_purple]Item-Stats</color> der [era_purple]Crate</color> mit der ID [era_purple][id]</color> [green]erfolgreich</color> zurückgesetzt!</color>",
+        "en-US": "[grey]You have reset the [era_purple]Item Stats</color> of the [era_purple]Crate</color> with the ID [era_purple][id]</color> [green]successfully!</color></color>"
+    },
     "CRATE.command.key.give.self": {
         "de-DE": "[grey]Du hast [era_purple][amount]x</color> [grey][key]</color> erhalten!</color>",
         "en-US": "[grey]You have received [era_purple][amount]x</color> [grey][key]</color>!</color>"
