@@ -506,6 +506,7 @@
     },
     "POLITICAL_CONTENT": {
         "de-DE": "Politische Inhalte",
+        "en-US": "Political Content",
         "permission": "[server_name].punish.offend.political_content",
         "durations": [
             {
