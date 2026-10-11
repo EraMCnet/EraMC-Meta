@@ -66,5 +66,13 @@
     "CRATE.editor.items.add.name": {
         "de-DE": "<!i>[mint_green_dark]Neue Items",
         "en-US": "<!i>[mint_green_dark]New Items"
+    },
+    "CRATE.editor.items.resort.name": {
+        "de-DE": "<!i>[mint_green_dark]Items neu sortieren",
+        "en-US": "<!i>[mint_green_dark]Resort Items"
+    },
+    "CRATE.editor.items.resort.lore": {
+        "de-DE": "<br><!i>[grey][mint_green_dark][ARROW]</color> Klicke hier, um die [yellow]Sortierung</color> der [mint_green_dark]Items</color> dieser [orange]Crate</color> zu [green]ändern</color>!</color>",
+        "en-US": "<br><!i>[grey][mint_green_dark][ARROW]</color> Click here to [green]change</color> the [yellow]sorting</color> of the [mint_green_dark]items</color> of this [orange]crate</color>!"
     }
 }
