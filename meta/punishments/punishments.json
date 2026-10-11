@@ -504,6 +504,33 @@
             }
         ]
     },
+    "SOUNDBOARD": {
+        "de-DE": "Soundboard",
+        "en-US": "Soundboard",
+        "permission": "[server_name].punish.offend.soundboard",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "1d",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "1w",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "1mo",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "permanent",
+                "type": "ban"
+            }
+        ]
+    },
     "SCAMMING": {
         "de-DE": "Scamming",
         "en-US": "Scamming",
