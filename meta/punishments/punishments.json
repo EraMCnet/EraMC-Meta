@@ -611,6 +611,31 @@
             }
         ]
     },
+    "FREECAM_ABUSE": {
+        "de-DE": "Freecam-Abuse",
+        "en-US": "Freecam Abuse",
+        "permission": "[server_name].punish.offend.freecam_abuse",
+        "durations": [
+            {
+
+                "weight": 1,
+                "duration": "1d",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "3d",
+                "type": "ban"
+            },
+            {
+
+                "weight": 3,
+                "duration": "7d",
+                "type": "ban"
+
+            }
+        ]
+    },
     "CLAIM_TRESPASSING": {
         "de-DE": "Claim Hausverbot Missachtung",
         "en-US": "Claim Trespassing",
