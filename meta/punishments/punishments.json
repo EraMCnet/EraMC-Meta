@@ -531,6 +531,38 @@
             }
         ]
     },
+    "SLANDER": {
+        "de-DE": "Verleumdung",
+        "en-US": "Slander",
+        "permission": "[server_name].punish.offend.slander",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "1d",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "3d",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "1w",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "1mo",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "permanent",
+                "type": "ban"
+            }
+        ]
+    },
     "SCAMMING": {
         "de-DE": "Scamming",
         "en-US": "Scamming",
