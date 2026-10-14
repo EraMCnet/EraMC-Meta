@@ -1,0 +1,18 @@
+{
+    "WARP.gui.item": {
+        "de-DE": "<!i>[orange]/ᴡᴀʀᴘ [name_smallcaps]</color><br><!i>[grey][orange][ARROW]</color> Position: [orange][x], [y], [z], [world]</color></color><br><br><!i>[orange]ᴄʟɪᴄᴋ ᴛᴏ ᴛᴇʟᴇᴘᴏʀᴛ</color>",
+        "en-US": "<!i>[orange]/ᴡᴀʀᴘ [name_smallcaps]</color><br><!i>[grey][orange][ARROW]</color> Location: [orange][x], [y], [z], [world]</color></color><br><br><!i>[orange]ᴄʟɪᴄᴋ ᴛᴏ ᴛᴇʟᴇᴘᴏʀᴛ</color>"
+    },
+    "WARP.not.exists": {
+        "de-DE": "[grey]Dieser [orange]Warp-Punkt</color> existiert [darker_red]nicht</color>.</color>",
+        "en-US": "[grey]This [orange]warp point</color> does [darker_red]not</color> exist.</color>"
+    },
+    "WARP.create": {
+        "de-DE": "[grey]Du hast den [orange]Warp-Punkt</color> [orange][name]</color> [green]erfolgreich</color> erstellt.</color>",
+        "en-US": "[grey]You have [green]successfully</color> created the [orange]warp point</color> [orange][name]</color>.</color>"
+    },
+    "WARP.delete": {
+        "de-DE": "[grey]Du hast den [orange]Warp-Punkt</color> [orange][name]</color> [green]erfolgreich</color> gelöscht.</color>",
+        "en-US": "[grey]You have [green]successfully</color> deleted the [orange]warp point</color> [orange][name]</color>.</color>"
+    }
+}
