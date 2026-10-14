@@ -7,6 +7,10 @@
         "de-DE": "[grey]Dieser [orange]Warp-Punkt</color> existiert [darker_red]nicht</color>.</color>",
         "en-US": "[grey]This [orange]warp point</color> does [darker_red]not</color> exist.</color>"
     },
+    "WARP.exists": {
+        "de-DE": "[grey]Dieser [orange]Warp-Punkt</color> [darker_red]existiert bereits</color>.</color>",
+        "en-US": "[grey]This [orange]warp point</color> [darker_red]already exists</color>.</color>"
+    },
     "WARP.create": {
         "de-DE": "[grey]Du hast den [orange]Warp-Punkt</color> [orange][name]</color> [green]erfolgreich</color> erstellt.</color>",
         "en-US": "[grey]You have [green]successfully</color> created the [orange]warp point</color> [orange][name]</color>.</color>"
