@@ -7,6 +7,10 @@
         "de-DE": "[grey]Du kannst [pink][player]</color> nicht [gem_purple]heiraten</color>, da dieser Spieler bereits mit [darker_red]jemand anderem</color> [pink]verheiratet</color> ist!</color>",
         "en-US": "[grey]You cannot [gem_purple]marry</color> [pink][player]</color> because this player is [darker_red]already [pink]married</color> to [darker_red]someone else</color>!"
     },
+    "SUCCESS.marry.broadcast": {
+        "de-DE": "<br>[grey][gold_gradient]Herzlichen Glückwunsch</gradient> an [pink][player]</color> und [pink][partner]</color> [green]zur Hochzeit</color>!</color><br>",
+        "en-US": "<br>[grey][gold_gradient]Congratulations</gradient> to [pink][player]</color> and [pink][partner]</color> on their [green]wedding</color>!</color><br>"
+    },
     "SUCCESS.marry.request": {
         "de-DE": "[grey]Du hast [pink][player]</color> [green]erfolgreich</color> eine [gem_purple]Anfrage</color> zum [pink]Heiraten</color> geschickt!</color>",
         "en-US": "[grey]You have [green]successfully</color> sent a [gem_purple]marriage request</color> to [pink][player]</color>!"
