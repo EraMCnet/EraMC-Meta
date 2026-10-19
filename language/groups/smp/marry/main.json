@@ -16,7 +16,7 @@
         "en-US": "[grey]You have [green]successfully</color> sent a [gem_purple]marriage request</color> to [pink][player]</color>!"
     },
     "SUCCESS.marry.request.receive": {
-        "de-DE": "[grey]Du hast eine [gem_purple]Anfrage</color> zum [pink]Heiraten</color> von [pink][player]</color> erhalten!</color>[grey]Du hast eine [era_purple]Freundschaftsanfrage</color> von [era_purple][player]</color> erhalten!<br>                                      [green]<b><click:run_command:'/marry accept [player]'><b>[ANNEHMEN]</b></click></b></color> - [red]<b><click:run_command:'/marry deny [player]'><b>[ABLEHNEN]</b></click></b></color></color>",
+        "de-DE": "[grey]Du hast eine [gem_purple]Anfrage</color> zum [pink]Heiraten</color> von [pink][player]</color> erhalten!</color><br>                [green]<b><click:run_command:'/marry accept [player]'><b>[ANNEHMEN]</b></click></b></color> - [red]<b><click:run_command:'/marry deny [player]'><b>[ABLEHNEN]</b></click></b></color>",
         "en-US": "[grey]You have received a [gem_purple]marriage request</color> from [pink][player]</color>!<br>               [green]<b><click:run_command:'/marry accept [player]'><b>[ACCEPT]</b></click></b></color> - [red]<b><click:run_command:'/marry deny [player]'><b>[DENY]</b></click></b></color>"
     },
     "SUCCESS.marry.force": {
