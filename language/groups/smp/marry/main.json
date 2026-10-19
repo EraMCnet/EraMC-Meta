@@ -1,0 +1,10 @@
+{
+    "ERROR.already.married": {
+        "de-DE": "[grey]Du kannst [pink][player]</color> nicht [gem_purple]heiraten</color>, da du [darker_red]bereits</color> mit [darker_red][partner]</color> [pink]verheiratet</color> bist!</color>",
+        "en-US": "[grey]You cannot [gem_purple]marry</color> [pink][player]</color> because you are [darker_red]already [pink]married</color> to [darker_red][partner]</color>!"
+    },
+    "ERROR.already.married.other": {
+        "de-DE": "[grey]Du kannst [pink][player]</color> nicht [gem_purple]heiraten</color>, da dieser Spieler bereits mit [darker_red]jemand anderem</color> [pink]verheiratet</color> ist!</color>",
+        "en-US": "[grey]You cannot [gem_purple]marry</color> [pink][player]</color> because this player is [darker_red]already [pink]married</color> to [darker_red]someone else</color>!"
+    }
+}
