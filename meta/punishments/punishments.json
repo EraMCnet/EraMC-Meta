@@ -458,6 +458,28 @@
             }
         ]
     },
+    "SEXISM": {
+        "de-DE": "Sexismus",
+        "en-US": "Sexism",
+        "permission": "[server_name].punish.offend.sexism",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "1mo",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "6mo",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "permanent",
+                "type": "ban"
+            }
+        ]
+    },
     "THREATS": {
         "de-DE": "Bedrohungen",
         "en-US": "Threats",
