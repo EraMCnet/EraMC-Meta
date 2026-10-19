@@ -43,6 +43,18 @@
         "de-DE": "Farmer Perk",
         "en-US": "Farmer Perk"
     },
+    "show_claim_titles.name": {
+        "de-DE": "Claim-Titel anzeigen",
+        "en-US": "Show claim titles"
+    },
+    "show_claim_titles.lore.true": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, ob du [blue]Claim-Titel</color> sehen möchtest.</color><br><br><!i>[grey][blue][ARROW]</color> Klicke um diese [blue]Einstellung</color> zu [red]deaktivieren</color>!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set whether you want to see [blue]claim titles</color>.<br><br><!i>[grey][blue][ARROW]</color> Click to [red]disable</color> this [blue]setting</color>!</color>"
+    },
+    "show_claim_titles.lore.false": {
+        "de-DE": "<br><!i>[grey][blue][ROUNDDOT]</color> Stelle ein, ob du [blue]Claim-Titel</color> sehen möchtest.</color><br><br><!i>[grey][blue][ARROW]</color> Klicke um diese [blue]Einstellung</color> zu [green]aktivieren</color>!</color>",
+        "en-US": "<br><!i>[grey][blue][ROUNDDOT]</color> Set whether you want to see [blue]claim titles</color>.<br><br><!i>[grey][blue][ARROW]</color> Click to [green]enable</color> this [blue]setting</color>!</color>"
+    },
     "perk_smelter.name": {
         "de-DE": "Smelter Perk",
         "en-US": "Smelter Perk"

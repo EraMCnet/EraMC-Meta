@@ -6,5 +6,53 @@
     "ERROR.already.married.other": {
         "de-DE": "[grey]Du kannst [pink][player]</color> nicht [gem_purple]heiraten</color>, da dieser Spieler bereits mit [darker_red]jemand anderem</color> [pink]verheiratet</color> ist!</color>",
         "en-US": "[grey]You cannot [gem_purple]marry</color> [pink][player]</color> because this player is [darker_red]already [pink]married</color> to [darker_red]someone else</color>!"
+    },
+    "SUCCESS.marry.request": {
+        "de-DE": "[grey]Du hast [pink][player]</color> [green]erfolgreich</color> eine [gem_purple]Anfrage</color> zum [pink]Heiraten</color> geschickt!</color>",
+        "en-US": "[grey]You have [green]successfully</color> sent a [gem_purple]marriage request</color> to [pink][player]</color>!"
+    },
+    "SUCCESS.marry.request.receive": {
+        "de-DE": "[grey]Du hast eine [gem_purple]Anfrage</color> zum [pink]Heiraten</color> von [pink][player]</color> erhalten!</color>[grey]Du hast eine [era_purple]Freundschaftsanfrage</color> von [era_purple][player]</color> erhalten!<br>                                      [green]<b><click:run_command:'/marry accept [player]'><b>[ANNEHMEN]</b></click></b></color> - [red]<b><click:run_command:'/marry deny [player]'><b>[ABLEHNEN]</b></click></b></color></color>",
+        "en-US": "[grey]You have received a [gem_purple]marriage request</color> from [pink][player]</color>!<br>               [green]<b><click:run_command:'/marry accept [player]'><b>[ACCEPT]</b></click></b></color> - [red]<b><click:run_command:'/marry deny [player]'><b>[DENY]</b></click></b></color>"
+    },
+    "SUCCESS.marry.force": {
+        "de-DE": "[grey]Du hast [pink][player]</color> [green]erfolgreich</color> mit [gem_purple][partner]</color> [gem_purple]zwangsverheiratet</color>!",
+        "en-US": "[grey]You have [green]successfully</color> [gem_purple]forced</color> [pink][player]</color> to [gem_purple]marry</color> [gem_purple][partner]</color>!"
+    },
+    "SUCCESS.marry.accept": {
+        "de-DE": "[grey]Du hast [pink][player]</color> [green]erfolgreich</color> [gem_purple]geheiratet</color>!</color>",
+        "en-US": "[grey]You have [green]successfully</color> [gem_purple]married</color> [pink][player]</color>!"
+    },
+    "SUCCESS.marry.deny": {
+        "de-DE": "[grey]Du hast die [gem_purple]Anfrage</color> zum [pink]Heiraten</color> von [pink][player]</color> [red]erfolgreich</color> [gem_purple]abgelehnt</color>!</color>",
+        "en-US": "[grey]You have [red]successfully</color> [gem_purple]denied</color> the [gem_purple]marriage request</color> from [pink][player]</color>!"
+    },
+    "SUCCESS.marry.accept.other": {
+        "de-DE": "[grey]Du [green]bist jetzt</color> mit [pink][player]</color> [gem_purple]verheiratet</color>!</color>",
+        "en-US": "[grey]You [green]are now</color> [gem_purple]married</color> to [pink][player]</color>!"
+    },
+    "SUCCESS.marry.deny.other": {
+        "de-DE": "[grey]Deine [gem_purple]Anfrage</color> zum [pink]Heiraten</color> wurde von [pink][player]</color> [darker_red]abgelehnt</color>!</color>",
+        "en-US": "[grey]Your [gem_purple]marriage request</color> has been [darker_red]denied</color> by [pink][player]</color>!"
+    },
+    "SUCCESS.marry.divorce": {
+        "de-DE": "[grey]Du hast [pink][player]</color> [green]erfolgreich</color> [gem_purple]geschieden</color>!</color>",
+        "en-US": "[grey]You have [green]successfully</color> [gem_purple]divorced</color> [pink][player]</color>!"
+    },
+    "SUCCESS.marry.divorce.admin": {
+        "de-DE": "[grey]Du hast [pink][player]</color> von [gem_purple][partner]</color> [gem_purple]geschieden</color>!</color>",
+        "en-US": "[grey]You have [green]successfully</color> [gem_purple]divorced</color> [pink][player]</color> from [gem_purple][partner]</color>!"
+    },
+    "SUCCESS.marry.divorce.other": {
+        "de-DE": "[grey]Du [green]bist jetzt</color> [gem_purple]geschieden</color> von [pink][player]</color>!</color>",
+        "en-US": "[grey]You [green]are now</color> [gem_purple]divorced</color> from [pink][player]</color>!"
+    },
+    "SUCCESS.marry.sethome": {
+        "de-DE": "[grey]Du hast [green]erfolgreich</color> einen [gem_purple]gemeinsamen Home-Standort</color> [green]gesetzt</color>! ([orange][location]</color>)</color>",
+        "en-US": "[grey]You have [green]successfully</color> set a [gem_purple]shared home location</color>! ([orange][location]</color>)</color>"
+    },
+    "SUCCESS.marry.unsethome": {
+        "de-DE": "[grey]Du hast den [gem_purple]gemeinsamen Home-Standort</color> [green]erfolgreich</color> [darker_red]entfernt</color>!</color>",
+        "en-US": "[grey]You have [green]successfully</color> [darker_red]removed</color> the [gem_purple]shared home location</color>!"
     }
 }

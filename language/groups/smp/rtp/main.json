@@ -145,7 +145,7 @@
     },
     "RTP.queue.not.in.queue": {
         "de-DE": "[grey]Du bist aktuell [red]nicht</color> in der Warteschlange!</color>",
-        "en-US": "[grey]You are currently [red]not</color< in the queue!</color>"
+        "en-US": "[grey]You are currently [red]not</color> in the queue!</color>"
     },
     "RTP.queue.not.in.queue.other": {
         "de-DE": "[grey][red][player]</color> ist aktuell [red]nicht</color> in der Warteschlange!</color>",
