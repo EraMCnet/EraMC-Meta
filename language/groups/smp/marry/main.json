@@ -15,6 +15,10 @@
         "de-DE": "[grey][pink][player]</color> hat dir [darker_red]keine</color> [gem_purple]Anfrage</color> zum [pink]Heiraten</color> geschickt!</color>",
         "en-US": "[grey][pink][player]</color> has [darker_red]not sent</color> you a [gem_purple]marriage request</color>!"
     },
+    "ERROR.not.married": {
+        "de-DE": "[grey]Du bist [darker_red]nicht</color> mit [pink][player]</color> [gem_purple]verheiratet</color>!",
+        "en-US": "[grey]You are [darker_red]not [pink]married</color> to [pink][player]</color>!"
+    },
     "ERROR.already.married.other": {
         "de-DE": "[grey]Du kannst [pink][player]</color> nicht [gem_purple]heiraten</color>, da dieser Spieler bereits mit [darker_red]jemand anderem</color> [pink]verheiratet</color> ist!</color>",
         "en-US": "[grey]You cannot [gem_purple]marry</color> [pink][player]</color> because this player is [darker_red]already [pink]married</color> to [darker_red]someone else</color>!"
