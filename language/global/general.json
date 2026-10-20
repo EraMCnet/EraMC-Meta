@@ -15,6 +15,10 @@
         "de-DE": "[grey]Du musst noch [red][time]</color> warten, bevor du diese [era_purple]Aktion</color> erneut ausführen kannst!</color>",
         "en-US": "[grey]You have to wait [red][time]</color> before you can perform this [era_purple]action</color> again!</color>"
     },
+    "ERROR.cooldown.action.other": {
+        "de-DE": "[grey][era_purple][player]</color> muss noch [red][time]</color> warten, bevor dieser Spieler diese [era_purple]Aktion</color> erneut ausführen kann!</color>",
+        "en-US": "[grey][era_purple][player]</color> has to wait [red][time]</color> before this player can perform this [era_purple]action</color> again!</color>"
+    },
     "ERROR.server.notfound": {
         "de-DE": "[grey]Der Server [era_purple][server]</color> existiert [red]nicht!</color></color>",
         "en-US": "[grey]The server [era_purple][server]</color> does [red]not</color> exist!</color>"
