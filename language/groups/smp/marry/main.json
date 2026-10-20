@@ -67,6 +67,10 @@
         "de-DE": "[grey]Du hast [pink][player]</color> von [gem_purple][partner]</color> [gem_purple]geschieden</color>!</color>",
         "en-US": "[grey]You have [green]successfully</color> [gem_purple]divorced</color> [pink][player]</color> from [gem_purple][partner]</color>!"
     },
+    "ERROR.partner.offline": {
+        "de-DE": "[grey]Dein [pink]Partner</color> ist aktuell [darker_red]offline</color>!</color>",
+        "en-US": "[grey]Your [pink]partner</color> is currently [darker_red]offline</color>!</color>"
+    },
     "SUCCESS.marry.divorce.other": {
         "de-DE": "[grey]Du [green]bist jetzt</color> [gem_purple]geschieden</color> von [pink][player]</color>!</color>",
         "en-US": "[grey]You [green]are now</color> [gem_purple]divorced</color> from [pink][player]</color>!"
