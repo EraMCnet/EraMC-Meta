@@ -90,5 +90,9 @@
     "SUCCESS.marry.unsethome": {
         "de-DE": "[grey]Du hast den [gem_purple]gemeinsamen Home-Standort</color> [green]erfolgreich</color> [darker_red]entfernt</color>!</color>",
         "en-US": "[grey]You have [green]successfully</color> [darker_red]removed</color> the [gem_purple]shared home location</color>!"
+    },
+    "GUI.item.lore": {
+        "de-DE": "<br><!i>[grey][pink][ROUNDDOT]</color> Verheiratet seit: [pink][time]</color></color><br>",
+        "en-US": "<br><!i>[grey][pink][ROUNDDOT]</color> Married since: [pink][time]</color></color><br>"
     }
 }
