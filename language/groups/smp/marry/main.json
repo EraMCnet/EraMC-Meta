@@ -60,8 +60,8 @@
         "en-US": "[grey]Your [gem_purple]marriage request</color> has been [darker_red]denied</color> by [pink][player]</color>!"
     },
     "SUCCESS.marry.divorce": {
-        "de-DE": "[grey]Du hast [pink][player]</color> [green]erfolgreich</color> [gem_purple]geschieden</color>!</color>",
-        "en-US": "[grey]You have [green]successfully</color> [gem_purple]divorced</color> [pink][player]</color>!"
+        "de-DE": "<br><white>[prefix]</white> [grey]Du hast [pink][player]</color> [green]erfolgreich</color> [gem_purple]geschieden</color>!</color><br>",
+        "en-US": "<br><white>[prefix]</white> [grey]You have [green]successfully</color> [gem_purple]divorced</color> [pink][player]</color>!<br>"
     },
     "SUCCESS.marry.divorce.admin": {
         "de-DE": "[grey]Du hast [pink][player]</color> von [gem_purple][partner]</color> [gem_purple]geschieden</color>!</color>",
