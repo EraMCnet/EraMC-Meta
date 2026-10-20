@@ -92,7 +92,7 @@
         "en-US": "[grey]You have [green]successfully</color> [darker_red]removed</color> the [gem_purple]shared home location</color>!"
     },
     "GUI.item.lore": {
-        "de-DE": "<br><!i>[grey][pink][ROUNDDOT]</color> Verheiratet seit: [pink][time]</color></color><br>",
-        "en-US": "<br><!i>[grey][pink][ROUNDDOT]</color> Married since: [pink][time]</color></color><br>"
+        "de-DE": "<br><!i>[grey][pink][ROUNDDOT]</color> Verheiratet seit: [pink][date]</color></color><br>",
+        "en-US": "<br><!i>[grey][pink][ROUNDDOT]</color> Married since: [pink][date]</color></color><br>"
     }
 }
