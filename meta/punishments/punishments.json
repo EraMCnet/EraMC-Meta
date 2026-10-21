@@ -447,22 +447,10 @@
             }
         ]
     },
-    "CONSPIRACY": {
-        "de-DE": "Verschwörungstheorien",
-        "en-US": "Conspiracy Theories",
-        "permission": "[server_name].punish.offend.conspiracy",
-        "durations": [
-            {
-                "weight": 1,
-                "duration": "permanent",
-                "type": "ban"
-            }
-        ]
-    },
-    "SEXISM": {
-        "de-DE": "Sexismus",
-        "en-US": "Sexism",
-        "permission": "[server_name].punish.offend.sexism",
+    "TRAPPING": {
+        "de-DE": "Belästigung",
+        "en-US": "Harassment",
+        "permission": "[server_name].punish.offend.harassment",
         "durations": [
             {
                 "weight": 1,
@@ -477,6 +465,40 @@
             {
                 "weight": 3,
                 "duration": "permanent",
+                "type": "ban"
+            }
+        ]
+    },
+    "CONSPIRACY": {
+        "de-DE": "Verschwörungstheorien",
+        "en-US": "Conspiracy Theories",
+        "permission": "[server_name].punish.offend.conspiracy",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "permanent",
+                "type": "ban"
+            }
+        ]
+    },
+    "SEXISM": {
+        "de-DE": "Trapping",
+        "en-US": "Trapping",
+        "permission": "[server_name].punish.offend.trapping",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "1d",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "7d",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "1mo",
                 "type": "ban"
             }
         ]
