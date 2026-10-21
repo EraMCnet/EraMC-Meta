@@ -39,6 +39,10 @@
         "de-DE": "[grey]Du hast den [blue]Claim</color> [yellow][claim_name]</color> [green]erfolgreich</color> umbenannt!</color>",
         "en-US": "[grey]You have [green]successfully</color> renamed the [blue]claim</color> [yellow][claim_name]</color>!"
     },
+    "CLAIM.setname.blacklist": {
+        "de-DE": "[grey]Dein [blue]Claim Name</color> enthält ein [red]Verbotenes Wort!</color> Wenn du denkst, dass das ein [red]Fehler</color> ist, kontaktiere unseren Support ([era_purple]/discord</color>).</color>",
+        "en-US": "[grey]Your [blue]claim name</color> contains a [red]blacklisted word!</color> If you think this is a [red]mistake</color>, please contact our support ([era_purple]/discord</color>).</color>"
+    },
     "CLAIM.create.error.not_claimable": {
         "de-DE": "[grey]Dieser [blue]Chunk</color> kann [darker_red]nicht</color> [blue]beansprucht</color> werden!",
         "en-US": "[grey]This [blue]chunk</color> cannot be [darker_red]claimed</color>!"

@@ -108,8 +108,8 @@
         "en-US": "[grey]The clan tag [red]can't contain</color> unicode characters!</color>"
     },
     "CLAN.command.create.error.name.blacklisted": {
-        "de-DE": "[grey]Dein Clan Name enthält ein [red]Verbotenes Wort!</color> Wenn du denkst, dass das ein [red]Fehler</color> ist, kontaktiere unseren Support ([era_purple]/discord</color>).</color>",
-        "en-US": "[grey]Your clan name contains a [red]blacklisted word!</color> If you think this is a [red]mistake</color>, please contact our support ([era_purple]/discord</color>).</color>"
+        "de-DE": "[grey]Dein [era_purple]Clan Name</color> enthält ein [red]Verbotenes Wort!</color> Wenn du denkst, dass das ein [red]Fehler</color> ist, kontaktiere unseren Support ([era_purple]/discord</color>).</color>",
+        "en-US": "[grey]Your [era_purple]clan name</color> contains a [red]blacklisted word!</color> If you think this is a [red]mistake</color>, please contact our support ([era_purple]/discord</color>).</color>"
     },
     "CLAN.command.create.error.tagline.blacklisted": {
         "de-DE": "[grey]Deine Clan Tagline enthält ein [red]Verbotenes Wort!</color> Wenn du denkst, dass das ein [red]Fehler</color> ist, kontaktiere unseren Support ([era_purple]/discord</color>).</color>",
