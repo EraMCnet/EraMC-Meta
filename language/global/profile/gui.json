@@ -195,6 +195,14 @@
         "de-DE": "<!i>[blue]Link bearbeiten</color>",
         "en-US": "<!i>[blue]Edit link</color>"
     },
+    "SOCIALS.social.twitch.link.lore": {
+        "de-DE": "<br><!i>[grey][blue][ARROW]</color> [blue]Rechtsklicke</color> hier, um deinen <color:#9146FF>Twitch Account</color> zu [green]verlinken</color><br>",
+        "en-US": "<br><!i>[grey][blue][ARROW]</color> [blue]Right-click</color> here to [green]link</color> your <color:#9146FF>Twitch account</color><br>"
+    },
+    "SOCIALS.social.twitch.unlink.lore": {
+        "de-DE": "<!i>[grey][blue][ROUNDDOT]</color> Link: [blue][link]</color><br><grey>(klicken zum kopieren)</grey><br><br><!i>[grey][blue][ARROW]</color> [blue]Rechtsklicke</color> hier, um deinen <color:#9146FF>Twitch Account</color> zu [darker_red]entlinken</color>",
+        "en-US": "<!i>[grey][blue][ROUNDDOT]</color> Link: [blue][link]</color><br><grey>(click to copy)</grey><br><br><!i>[grey][blue][ARROW]</color> [blue]Right-click</color> here to [darker_red]unlink</color> your <color:#9146FF>Twitch account</color>"
+    },
     "ACHIEVEMENTS.achievement.percentage": {
         "de-DE": "<!i>[grey][blue][ROUNDDOT]</color> [mint_green_dark][percentage]%</color> der Spieler haben diese [gold_gradient]Errungenschaft!</gradient></color>",
         "en-US": "<!i>[grey][blue][ROUNDDOT]</color> [mint_green_dark][percentage]%</color> of players have this [gold_gradient]achievement!</gradient></color>"
