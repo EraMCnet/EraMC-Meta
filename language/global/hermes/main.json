@@ -1,0 +1,16 @@
+{
+  "Hermes.queue.joined": {"en-US": "[green]You joined the queue.</color>", "de-DE": "[green]Du bist der Warteschlange beigetreten.</color>"},
+  "Hermes.queue.left": {"en-US": "[yellow]You left the queue.</color>", "de-DE": "[yellow]Du hast die Warteschlange verlassen.</color>"},
+  "Hermes.match.found": {"en-US": "[green]Match found!</color>", "de-DE": "[green]Ein Match wurde gefunden!</color>"},
+  "Hermes.player.transferring": {"en-US": "<gray>Connecting to your round…</gray>", "de-DE": "<gray>Du wirst zu deiner Runde verbunden…</gray>"},
+  "Hermes.round.started": {"en-US": "[green]The round has started.</color>", "de-DE": "[green]Die Runde hat begonnen.</color>"},
+  "Hermes.round.ended": {"en-US": "<gray>The round has ended.</gray>", "de-DE": "<gray>Die Runde ist beendet.</gray>"},
+  "Hermes.party.too_large": {"en-US": "[darker_red]Your party is too large for this queue.</color>", "de-DE": "[darker_red]Deine Party ist für diese Warteschlange zu groß.</color>"},
+  "Hermes.party.rating_spread": {"en-US": "[darker_red]Your party's ratings are too far apart.</color>", "de-DE": "[darker_red]Die Ratings deiner Party liegen zu weit auseinander.</color>"},
+  "Hermes.party.leader_required": {"en-US": "[darker_red]Only the party leader can join a queue.</color>", "de-DE": "[darker_red]Nur der Party-Leader kann einer Warteschlange beitreten.</color>"},
+  "Hermes.matchmaking.unavailable": {"en-US": "[darker_red]Matchmaking is currently unavailable.</color>", "de-DE": "[darker_red]Matchmaking ist gerade nicht verfügbar.</color>"},
+  "Hermes.round.start_failed": {"en-US": "[darker_red]The round could not be started.</color>", "de-DE": "[darker_red]Die Runde konnte nicht gestartet werden.</color>"},
+  "Hermes.player.busy": {"en-US": "[darker_red]A player is already queued or in a match.</color>", "de-DE": "[darker_red]Ein Spieler ist bereits in einer Warteschlange oder einem Match.</color>"},
+  "Hermes.admin.response": {"en-US": "<gray>[value]</gray>", "de-DE": "<gray>[value]</gray>"},
+  "Hermes.admin.error": {"en-US": "[darker_red]The request failed. See the server log.</color>", "de-DE": "[darker_red]Die Anfrage ist fehlgeschlagen. Details stehen im Serverlog.</color>"}
+}
