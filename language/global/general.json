@@ -260,8 +260,8 @@
         "en-US": "[amount] second"
     },
     "DATE.relative.second": {
-        "de-DE": "[amount] Sekunden",
-        "en-US": "[amount] seconds"
+        "de-DE": "[amount] Sekunde",
+        "en-US": "[amount] second"
     },
     "DATE.relative.seconds": {
         "de-DE": "[amount] Sekunden",
@@ -458,5 +458,17 @@
     "MONEY.receive": {
         "de-DE": "[grey]Du hast [green][amount]</color> [era_purple][currency]</color> erhalten!</color>",
         "en-US": "[grey]You have received [green][amount]</color> [era_purple][currency]</color>!</color>"
+    },
+    "DATE.relative.millisecond": {
+        "de-DE": "[amount] Millisekunde",
+        "en-US": "[amount] millisecond"
+    },
+    "DATE.relative.milliseconds": {
+        "de-DE": "[amount] Millisekunden",
+        "en-US": "[amount] milliseconds"
+    },
+    "DATE.relative.permanent": {
+        "de-DE": "Permanent",
+        "en-US": "Permanent"
     }
 }
