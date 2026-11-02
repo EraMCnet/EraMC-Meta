@@ -525,6 +525,18 @@
             }
         ]
     },
+    "TERRORISM": {
+        "de-DE": "Terrorismus",
+        "en-US": "Terrorism",
+        "permission": "[server_name].punish.offend.terrorism",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "permanent",
+                "type": "ban"
+            }
+        ]
+    },
     "THREATS": {
         "de-DE": "Bedrohungen",
         "en-US": "Threats",
