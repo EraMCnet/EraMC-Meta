@@ -33,6 +33,6 @@
     },
     "CLAN.discovery.gui.clan.item.lore": {
         "de-DE": "<br><!i>[grey][mint_green_dark][ARROW]</color> Clan Owner: [mint_green_dark][clan_owner]</color><br><!i>[grey][mint_green_dark][ARROW]</color> Clan Tag: [mint_green_dark][clan_tag]</color><br><!i>[grey][mint_green_dark][ARROW]</color> Verifiziert: [clan_verified]<br><br>[grey]<!i>[mint_green_dark][ROUNDDOT]</color> Klicke, um mehr über diesen Clan zu erfahren.<br>",
-        "en-US": "<br><!i>[grey][mint_green_dark][ARROW]</color> Clan Owner: [mint_green_dark][clan_owner]</color><br><!i>[grey][mint_green_dark][ARROW]</color> Clan Tag: [mint_green_dark][clan_tag]</color><br><!i>[grey][mint_green_dark][ARROW]</color> Verified: [clan_verified]<br><br>[grey]<!i>[mint_green_dark][ROUNDDOT]</color> Click to learn more about this clanS.<br>"
+        "en-US": "<br><!i>[grey][mint_green_dark][ARROW]</color> Clan Owner: [mint_green_dark][clan_owner]</color><br><!i>[grey][mint_green_dark][ARROW]</color> Clan Tag: [mint_green_dark][clan_tag]</color><br><!i>[grey][mint_green_dark][ARROW]</color> Verified: [clan_verified]<br><br>[grey]<!i>[mint_green_dark][ROUNDDOT]</color> Click to learn more about this clan.<br>"
     }
 }
