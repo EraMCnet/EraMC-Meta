@@ -413,6 +413,32 @@
             }
         ]
     },
+    "SPAM_KILLING": {
+        "de-DE": "Spam-Killing",
+        "en-US": "Spam Killing",
+        "permission": "[server_name].punish.offend.spam_killing",
+        "durations": [
+            {
+                "weight": 1,
+                "type": "kick"
+            },
+            {
+                "weight": 2,
+                "duration": "12h",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "1d",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "1w",
+                "type": "ban"
+            }
+        ]
+    },
     "BOT_ACCOUNT": {
         "de-DE": "Bot-Account",
         "en-US": "Bot Account",
