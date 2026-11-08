@@ -102,5 +102,53 @@
     "Hermes.admin.rating.values": {
         "de-DE": "[grey]Rating: [blue]<value></color> · Abweichung: <deviation></color>",
         "en-US": "[grey]Rating: [blue]<value></color> · Deviation: <deviation></color>"
+    },
+    "Hermes.admin.gui.host.name": {
+        "de-DE": "[blue]<target></color> [grey]· <id></color>",
+        "en-US": "[blue]<target></color> [grey]· <id></color>"
+    },
+    "Hermes.admin.gui.host.lore": {
+        "de-DE": "[grey]Status: <status></color><br>[grey]Runden: [blue]<rounds></color></color><br>[grey]Spieler: [blue]<players></color></color><br>[blue]Linksklick</color> [grey]für Runden</color><br>[blue]Rechtsklick</color> [grey]für die vollständige UUID</color>",
+        "en-US": "[grey]Status: <status></color><br>[grey]Rounds: [blue]<rounds></color></color><br>[grey]Players: [blue]<players></color></color><br>[blue]Left-click</color> [grey]to view rounds</color><br>[blue]Right-click</color> [grey]for the full UUID</color>"
+    },
+    "Hermes.admin.gui.host.copy": {
+        "de-DE": "[grey]Klicke auf [blue]<id></color>, um die vollständige Planet-UUID zu kopieren.</color>",
+        "en-US": "[grey]Click [blue]<id></color> to copy the full planet UUID.</color>"
+    },
+    "Hermes.admin.gui.host.rounds": {
+        "de-DE": "[blue]Runden · <id></color>",
+        "en-US": "[blue]Rounds · <id></color>"
+    },
+    "Hermes.admin.gui.name": {
+        "de-DE": "[blue]<name></color>",
+        "en-US": "[blue]<name></color>"
+    },
+    "Hermes.admin.gui.queue.lore": {
+        "de-DE": "[grey]Queue: [blue]<id></color></color><br>[grey]Spieler: [blue]<players></color></color><br>[grey]Anmeldungen: <entries></color><br>[grey]Typische Wartezeit: <wait></color><br>[grey]Längste aktuelle Wartezeit: <oldest></color>",
+        "en-US": "[grey]Queue: [blue]<id></color></color><br>[grey]Players: [blue]<players></color></color><br>[grey]Entries: <entries></color><br>[grey]Typical wait: <wait></color><br>[grey]Longest current wait: <oldest></color>"
+    },
+    "Hermes.admin.gui.inspect.lore": {
+        "de-DE": "[grey]Welt: <world></color><br>[grey]Queue: <queue></color><br>[grey]Format: <layout></color>",
+        "en-US": "[grey]World: <world></color><br>[grey]Queue: <queue></color><br>[grey]Format: <layout></color>"
+    },
+    "Hermes.admin.gui.team.lore": {
+        "de-DE": "[grey]Spieler: <players></color><br>[grey]Punkte: <score></color><br>[grey]Platz: <placement></color>",
+        "en-US": "[grey]Players: <players></color><br>[grey]Score: <score></color><br>[grey]Place: <placement></color>"
+    },
+    "Hermes.admin.gui.teams.empty": {
+        "de-DE": "[grey]Keine Teams vorhanden.</color>",
+        "en-US": "[grey]No teams available.</color>"
+    },
+    "Hermes.admin.gui.refresh": {
+        "de-DE": "[blue]Aktualisieren</color>",
+        "en-US": "[blue]Refresh</color>"
+    },
+    "Hermes.admin.gui.round.lore": {
+        "de-DE": "[grey]Runde: [blue]<id></color></color><br>[grey]Host: <host></color><br>[grey]Status: <status></color><br>[grey]Spieler: <players></color>",
+        "en-US": "[grey]Round: [blue]<id></color></color><br>[grey]Host: <host></color><br>[grey]Status: <status></color><br>[grey]Players: <players></color>"
+    },
+    "Hermes.admin.gui.round.open": {
+        "de-DE": "[blue]Linksklick</color> [grey]für Details</color>",
+        "en-US": "[blue]Left-click</color> [grey]for details</color>"
     }
 }
