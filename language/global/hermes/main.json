@@ -1,16 +1,58 @@
 {
-  "Hermes.queue.joined": {"en-US": "[green]You joined the queue.</color>", "de-DE": "[green]Du bist der Warteschlange beigetreten.</color>"},
-  "Hermes.queue.left": {"en-US": "[yellow]You left the queue.</color>", "de-DE": "[yellow]Du hast die Warteschlange verlassen.</color>"},
-  "Hermes.match.found": {"en-US": "[green]Match found!</color>", "de-DE": "[green]Ein Match wurde gefunden!</color>"},
-  "Hermes.player.transferring": {"en-US": "<gray>Connecting to your round…</gray>", "de-DE": "<gray>Du wirst zu deiner Runde verbunden…</gray>"},
-  "Hermes.round.started": {"en-US": "[green]The round has started.</color>", "de-DE": "[green]Die Runde hat begonnen.</color>"},
-  "Hermes.round.ended": {"en-US": "<gray>The round has ended.</gray>", "de-DE": "<gray>Die Runde ist beendet.</gray>"},
-  "Hermes.party.too_large": {"en-US": "[darker_red]Your party is too large for this queue.</color>", "de-DE": "[darker_red]Deine Party ist für diese Warteschlange zu groß.</color>"},
-  "Hermes.party.rating_spread": {"en-US": "[darker_red]Your party's ratings are too far apart.</color>", "de-DE": "[darker_red]Die Ratings deiner Party liegen zu weit auseinander.</color>"},
-  "Hermes.party.leader_required": {"en-US": "[darker_red]Only the party leader can join a queue.</color>", "de-DE": "[darker_red]Nur der Party-Leader kann einer Warteschlange beitreten.</color>"},
-  "Hermes.matchmaking.unavailable": {"en-US": "[darker_red]Matchmaking is currently unavailable.</color>", "de-DE": "[darker_red]Matchmaking ist gerade nicht verfügbar.</color>"},
-  "Hermes.round.start_failed": {"en-US": "[darker_red]The round could not be started.</color>", "de-DE": "[darker_red]Die Runde konnte nicht gestartet werden.</color>"},
-  "Hermes.player.busy": {"en-US": "[darker_red]A player is already queued or in a match.</color>", "de-DE": "[darker_red]Ein Spieler ist bereits in einer Warteschlange oder einem Match.</color>"},
-  "Hermes.admin.response": {"en-US": "<gray>[value]</gray>", "de-DE": "<gray>[value]</gray>"},
-  "Hermes.admin.error": {"en-US": "[darker_red]The request failed. See the server log.</color>", "de-DE": "[darker_red]Die Anfrage ist fehlgeschlagen. Details stehen im Serverlog.</color>"}
+    "Hermes.queue.joined": {
+        "de-DE": "[grey]Du bist der [blue]Warteschlange</color> [green]beigetreten</color>.</color>",
+        "en-US": "[grey]You [green]joined</color> the [blue]queue</color>.</color>"
+    },
+    "Hermes.queue.left": {
+        "de-DE": "[grey]Du hast die [blue]Warteschlange</color> [red]verlassen</color>.</color>",
+        "en-US": "[grey]You [red]left</color> the [blue]queue</color>.</color>"
+    },
+    "Hermes.match.found": {
+        "de-DE": "[grey]Ein [blue]Match</color> wurde [green]gefunden</color>!</color>",
+        "en-US": "[grey][blue]Match</color> [green]found</color>!</color>"
+    },
+    "Hermes.player.transferring": {
+        "de-DE": "[grey]Du wirst zu deiner [blue]Runde</color> [orange]verbunden</color>…</color>",
+        "en-US": "[grey][orange]Connecting</color> to your [blue]round</color>…</color>"
+    },
+    "Hermes.round.started": {
+        "de-DE": "[grey]Die [blue]Runde</color> hat [green]begonnen</color>.</color>",
+        "en-US": "[grey]The [blue]round</color> has [green]started</color>.</color>"
+    },
+    "Hermes.round.ended": {
+        "de-DE": "[grey]Die [blue]Runde</color> ist [yellow]beendet</color>.</color>",
+        "en-US": "[grey]The [blue]round</color> has [yellow]ended</color>.</color>"
+    },
+    "Hermes.party.too_large": {
+        "de-DE": "[grey]Deine [blue]Party</color> ist für diese Warteschlange [red]zu groß</color>.</color>",
+        "en-US": "[grey]Your [blue]party</color> is [red]too large</color> for this queue.</color>"
+    },
+    "Hermes.party.rating_spread": {
+        "de-DE": "[grey]Die [blue]Ratings deiner Party</color> liegen [red]zu weit auseinander</color>.</color>",
+        "en-US": "[grey]Your [blue]party's ratings</color> are [red]too far apart</color>.</color>"
+    },
+    "Hermes.party.leader_required": {
+        "de-DE": "[grey][red]Nur</color> der [blue]Party-Leader</color> kann einer Warteschlange beitreten.</color>",
+        "en-US": "[grey][red]Only</color> the [blue]party leader</color> can join a queue.</color>"
+    },
+    "Hermes.matchmaking.unavailable": {
+        "de-DE": "[grey]Die [blue]Spielsuche</color> ist gerade [red]nicht verfügbar</color>.</color>",
+        "en-US": "[grey][blue]Matchmaking</color> is currently [red]unavailable</color>.</color>"
+    },
+    "Hermes.round.start_failed": {
+        "de-DE": "[grey]Die [blue]Runde</color> konnte [red]nicht gestartet werden</color>.</color>",
+        "en-US": "[grey]The [blue]round</color> [red]could not be started</color>.</color>"
+    },
+    "Hermes.player.busy": {
+        "de-DE": "[grey]Ein Spieler ist [red]bereits</color> in einer [blue]Warteschlange oder einem Match</color>.</color>",
+        "en-US": "[grey]A player is [red]already</color> [blue]queued or in a match</color>.</color>"
+    },
+    "Hermes.admin.response": {
+        "de-DE": "[blue][value]</color>",
+        "en-US": "[blue][value]</color>"
+    },
+    "Hermes.admin.error": {
+        "de-DE": "[grey]Die [blue]Hermes-Anfrage</color> ist [red]fehlgeschlagen</color>. Details stehen im Serverlog.</color>",
+        "en-US": "[grey]The [blue]Hermes request</color> [red]failed</color>. See the server log.</color>"
+    }
 }

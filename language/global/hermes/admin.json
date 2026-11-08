@@ -1,0 +1,106 @@
+{
+    "Hermes.admin.rounds.title": {
+        "de-DE": "[blue]<bold>Aktive Runden</bold></color>",
+        "en-US": "[blue]<bold>Active rounds</bold></color>"
+    },
+    "Hermes.admin.rounds.empty": {
+        "de-DE": "[grey]Keine aktiven Runden.</color>",
+        "en-US": "[grey]No active rounds.</color>"
+    },
+    "Hermes.admin.rounds.row": {
+        "de-DE": "[grey][blue]●</color> [blue]<mode></color> · <status> · Spieler: <players><br>      Runde: [blue]<id></color></color>",
+        "en-US": "[grey][blue]●</color> [blue]<mode></color> · <status> · Players: <players><br>      Round: [blue]<id></color></color>"
+    },
+    "Hermes.admin.rounds.purge": {
+        "de-DE": "[grey]Runde [blue]<id></color> wurde [green]gelöscht</color>.</color>",
+        "en-US": "[grey]Round [blue]<id></color> was [green]purged</color>.</color>"
+    },
+    "Hermes.admin.hosts.title": {
+        "de-DE": "[blue]<bold>Hermes-Hosts</bold></color>",
+        "en-US": "[blue]<bold>Hermes hosts</bold></color>"
+    },
+    "Hermes.admin.hosts.empty": {
+        "de-DE": "[grey]Keine Hosts verfügbar.</color>",
+        "en-US": "[grey]No hosts available.</color>"
+    },
+    "Hermes.admin.hosts.row": {
+        "de-DE": "[grey][blue]●</color> [blue]<id></color> · <status><br>      Ziel: <target> · Runden: <rounds> · Spieler: <players></color>",
+        "en-US": "[grey][blue]●</color> [blue]<id></color> · <status><br>      Target: <target> · Rounds: <rounds> · Players: <players></color>"
+    },
+    "Hermes.admin.hosts.drain": {
+        "de-DE": "[grey]Host [blue]<id></color> nimmt [yellow]keine neuen Runden</color> an.</color>",
+        "en-US": "[grey]Host [blue]<id></color> is [yellow]draining</color>.</color>"
+    },
+    "Hermes.admin.queues.title": {
+        "de-DE": "[blue]<bold>Warteschlangen im Netzwerk</bold></color>",
+        "en-US": "[blue]<bold>Network queues</bold></color>"
+    },
+    "Hermes.admin.queues.empty": {
+        "de-DE": "[grey]Keine Warteschlangen verfügbar.</color>",
+        "en-US": "[grey]No queues available.</color>"
+    },
+    "Hermes.admin.queues.row": {
+        "de-DE": "[grey][blue]●</color> [blue]<name></color> · <id><br>      Spieler: [blue]<players></color> · Anmeldungen: <entries> · Typische Wartezeit: <wait> · Längste aktuelle Wartezeit: <oldest></color>",
+        "en-US": "[grey][blue]●</color> [blue]<name></color> · <id><br>      Players: [blue]<players></color> · Entries: <entries> · Typical wait: <wait> · Longest current wait: <oldest></color>"
+    },
+    "Hermes.admin.inspect.title": {
+        "de-DE": "[blue]<bold>Rundendetails</bold></color>",
+        "en-US": "[blue]<bold>Round details</bold></color>"
+    },
+    "Hermes.admin.inspect.details": {
+        "de-DE": "[grey]Host: [blue]<host></color> · Welt: <world> · Queue: <queue> · Format: <layout></color>",
+        "en-US": "[grey]Host: [blue]<host></color> · World: <world> · Queue: <queue> · Format: <layout></color>"
+    },
+    "Hermes.admin.inspect.team": {
+        "de-DE": "[grey][blue]●</color> [blue]<name></color> · Spieler: <players> · Punkte: <score> · Platz: <placement></color>",
+        "en-US": "[grey][blue]●</color> [blue]<name></color> · Players: <players> · Score: <score> · Place: <placement></color>"
+    },
+    "Hermes.admin.inspect.reason": {
+        "de-DE": "[grey]Grund: [orange]<reason></color></color>",
+        "en-US": "[grey]Reason: [orange]<reason></color></color>"
+    },
+    "Hermes.admin.inspect.missing": {
+        "de-DE": "[grey]Runde [blue]<id></color> wurde [red]nicht gefunden</color>.</color>",
+        "en-US": "[grey]Round [blue]<id></color> was [red]not found</color>.</color>"
+    },
+    "Hermes.admin.operation.title": {
+        "de-DE": "[blue]<bold>Vorgangsstatus</bold></color>",
+        "en-US": "[blue]<bold>Operation status</bold></color>"
+    },
+    "Hermes.admin.operation.submitted": {
+        "de-DE": "[blue]<bold>Vorgang eingereicht</bold></color>",
+        "en-US": "[blue]<bold>Operation submitted</bold></color>"
+    },
+    "Hermes.admin.operation.row": {
+        "de-DE": "[grey][blue]●</color> [blue]<kind></color> · <status><br>      Vorgang: [blue]<id></color></color>",
+        "en-US": "[grey][blue]●</color> [blue]<kind></color> · <status><br>      Operation: [blue]<id></color></color>"
+    },
+    "Hermes.admin.operation.round": {
+        "de-DE": "[grey]Runde: [blue]<id></color></color>",
+        "en-US": "[grey]Round: [blue]<id></color></color>"
+    },
+    "Hermes.admin.operation.error": {
+        "de-DE": "[grey]Fehler: [red]<reason></color></color>",
+        "en-US": "[grey]Error: [red]<reason></color></color>"
+    },
+    "Hermes.admin.operation.missing": {
+        "de-DE": "[grey]Vorgang [blue]<id></color> wurde [red]nicht gefunden</color>.</color>",
+        "en-US": "[grey]Operation [blue]<id></color> was [red]not found</color>.</color>"
+    },
+    "Hermes.admin.lookup.title": {
+        "de-DE": "[blue]<bold>Suche</bold></color>",
+        "en-US": "[blue]<bold>Lookup</bold></color>"
+    },
+    "Hermes.admin.rating.title": {
+        "de-DE": "[blue]<bold>Spieler-Rating</bold></color>",
+        "en-US": "[blue]<bold>Player rating</bold></color>"
+    },
+    "Hermes.admin.rating.player": {
+        "de-DE": "[grey]Spieler: [blue]<player></color> · Pool: <pool></color>",
+        "en-US": "[grey]Player: [blue]<player></color> · Pool: <pool></color>"
+    },
+    "Hermes.admin.rating.values": {
+        "de-DE": "[grey]Rating: [blue]<value></color> · Abweichung: <deviation></color>",
+        "en-US": "[grey]Rating: [blue]<value></color> · Deviation: <deviation></color>"
+    }
+}

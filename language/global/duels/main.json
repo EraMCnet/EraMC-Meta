@@ -1,0 +1,34 @@
+{
+    "Duels.mode": {
+        "de-DE": "Duelle",
+        "en-US": "Duels"
+    },
+    "Duels.1v1.unranked": {
+        "de-DE": "Duelle 1v1",
+        "en-US": "Duels 1v1"
+    },
+    "Duels.1v1.ranked": {
+        "de-DE": "Ranglisten-Duelle 1v1",
+        "en-US": "Competitive Duels 1v1"
+    },
+    "Duels.2v2.unranked": {
+        "de-DE": "Duelle 2v2",
+        "en-US": "Duels 2v2"
+    },
+    "Duels.2v2.ranked": {
+        "de-DE": "Ranglisten-Duelle 2v2",
+        "en-US": "Competitive Duels 2v2"
+    },
+    "Duels.clan:3v3.unranked": {
+        "de-DE": "Clan-Duelle 3v3",
+        "en-US": "Clan Duels 3v3"
+    },
+    "Duels.clan:3v3.ranked": {
+        "de-DE": "Clan-Ranglisten-Duelle 3v3",
+        "en-US": "Competitive Clan Duels 3v3"
+    },
+    "Duels.example.timer": {
+        "de-DE": "[grey]Restzeit: [blue][time]</color></color>",
+        "en-US": "[grey]Time left: [blue][time]</color></color>"
+    }
+}
